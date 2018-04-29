@@ -1,0 +1,1129 @@
+[
+	{
+		"japanese": [
+			"カウボーイビバップ"
+		],
+		"english": [
+			"Cowboy Bebop"
+		],
+		"id": 1,
+		"type": "TV",
+		"title": "Cowboy Bebop"
+	},
+	{
+		"id": 2,
+		"error": "not-found"
+	},
+	{
+		"id": 3,
+		"error": "not-found"
+	},
+	{
+		"id": 4,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"カウボーイビバップ天国の扉"
+		],
+		"synonyms": [
+			"Cowboy Bebop: Knockin' on Heaven's Door"
+		],
+		"english": [
+			"Cowboy Bebop: The Movie"
+		],
+		"id": 5,
+		"type": "Movie",
+		"title": "Cowboy Bebop: Tengoku no Tobira"
+	},
+	{
+		"japanese": [
+			"トライガン"
+		],
+		"english": [
+			"Trigun"
+		],
+		"id": 6,
+		"type": "TV",
+		"title": "Trigun"
+	},
+	{
+		"japanese": [
+			"Witch Hunter ROBIN"
+		],
+		"synonyms": [
+			"WHR"
+		],
+		"english": [
+			"Witch Hunter Robin"
+		],
+		"id": 7,
+		"type": "TV",
+		"title": "Witch Hunter Robin"
+	},
+	{
+		"japanese": [
+			"冒険王ビィト"
+		],
+		"synonyms": [
+			"Adventure King Beet",
+			"Bouken Ou Beet"
+		],
+		"english": [
+			"Beet the Vandel Buster"
+		],
+		"id": 8,
+		"type": "TV",
+		"title": "Beet the Vandel Buster"
+	},
+	{
+		"id": 9,
+		"error": "not-found"
+	},
+	{
+		"id": 10,
+		"error": "not-found"
+	},
+	{
+		"id": 11,
+		"error": "not-found"
+	},
+	{
+		"id": 12,
+		"error": "not-found"
+	},
+	{
+		"id": 13,
+		"error": "not-found"
+	},
+	{
+		"id": 14,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"アイシールド21"
+		],
+		"synonyms": [
+			"Eyeshield21"
+		],
+		"id": 15,
+		"type": "TV",
+		"title": "Eyeshield 21"
+	},
+	{
+		"japanese": [
+			"ハチミツとクローバー"
+		],
+		"synonyms": [
+			"HachiKuro",
+			"Honey & Clover"
+		],
+		"english": [
+			"Honey and Clover"
+		],
+		"id": 16,
+		"type": "TV",
+		"title": "Hachimitsu to Clover"
+	},
+	{
+		"japanese": [
+			"ハングリーハート Wild Striker"
+		],
+		"id": 17,
+		"type": "TV",
+		"title": "Hungry Heart: Wild Striker"
+	},
+	{
+		"japanese": [
+			"頭文字〈イニシャル〉D FOURTH STAGE"
+		],
+		"synonyms": [
+			"Initial D 4th Stage"
+		],
+		"id": 18,
+		"type": "TV",
+		"title": "Initial D Fourth Stage"
+	},
+	{
+		"japanese": [
+			"モンスター"
+		],
+		"english": [
+			"Monster"
+		],
+		"id": 19,
+		"type": "TV",
+		"title": "Monster"
+	},
+	{
+		"japanese": [
+			"ナルト"
+		],
+		"synonyms": [
+			"NARUTO"
+		],
+		"english": [
+			"Naruto"
+		],
+		"id": 20,
+		"type": "TV",
+		"title": "Naruto"
+	},
+	{
+		"japanese": [
+			"ONE PIECE"
+		],
+		"synonyms": [
+			"OP"
+		],
+		"english": [
+			"One Piece"
+		],
+		"id": 21,
+		"type": "TV",
+		"title": "One Piece"
+	},
+	{
+		"japanese": [
+			"テニスの王子様"
+		],
+		"english": [
+			"The Prince of Tennis"
+		],
+		"id": 22,
+		"type": "TV",
+		"title": "Tennis no Ouji-sama"
+	},
+	{
+		"japanese": [
+			"リングにかけろ１"
+		],
+		"synonyms": [
+			"Put it all in the Ring"
+		],
+		"id": 23,
+		"type": "TV",
+		"title": "Ring ni Kakero 1"
+	},
+	{
+		"japanese": [
+			"スクールランブル"
+		],
+		"english": [
+			"School Rumble"
+		],
+		"id": 24,
+		"type": "TV",
+		"title": "School Rumble"
+	},
+	{
+		"japanese": [
+			"砂ぼうず"
+		],
+		"synonyms": [
+			"Sunabozu"
+		],
+		"english": [
+			"Desert Punk"
+		],
+		"id": 25,
+		"type": "TV",
+		"title": "Sunabouzu"
+	},
+	{
+		"japanese": [
+			"TEXHNOLYZE"
+		],
+		"synonyms": [
+			"Technolyze"
+		],
+		"english": [
+			"Texhnolyze"
+		],
+		"id": 26,
+		"type": "TV",
+		"title": "Texhnolyze"
+	},
+	{
+		"japanese": [
+			"トリニティ・ブラッド"
+		],
+		"english": [
+			"Trinity Blood"
+		],
+		"id": 27,
+		"type": "TV",
+		"title": "Trinity Blood"
+	},
+	{
+		"japanese": [
+			"焼きたて!! ジャぱん"
+		],
+		"synonyms": [
+			"Freshly Baked!! Ja-pan!"
+		],
+		"english": [
+			"Yakitate!! Japan"
+		],
+		"id": 28,
+		"type": "TV",
+		"title": "Yakitate!! Japan"
+	},
+	{
+		"japanese": [
+			"ジパング"
+		],
+		"id": 29,
+		"type": "TV",
+		"title": "Zipang"
+	},
+	{
+		"japanese": [
+			"新世紀エヴァンゲリオン"
+		],
+		"synonyms": [
+			"Shinseiki Evangelion"
+		],
+		"english": [
+			"Neon Genesis Evangelion"
+		],
+		"id": 30,
+		"type": "TV",
+		"title": "Neon Genesis Evangelion"
+	},
+	{
+		"japanese": [
+			"\u0090新世紀エヴァンゲリオン劇場版 シト新生"
+		],
+		"synonyms": [
+			"Shinseiki Evangelion Gekijouban: Shi to Shinsei",
+			"Neon Genesis Evangelion - Death and Rebirth"
+		],
+		"english": [
+			"Neon Genesis Evangelion: Death & Rebirth"
+		],
+		"id": 31,
+		"type": "Movie",
+		"title": "Neon Genesis Evangelion: Death & Rebirth"
+	},
+	{
+		"japanese": [
+			"新世紀エヴァンゲリオン劇場版 THE END OF EVANGELION"
+		],
+		"synonyms": [
+			"Shinseiki Evangelion Gekijouban: The End of Evangelion"
+		],
+		"english": [
+			"Neon Genesis Evangelion: The End of Evangelion"
+		],
+		"id": 32,
+		"type": "Movie",
+		"title": "Neon Genesis Evangelion: The End of Evangelion"
+	},
+	{
+		"japanese": [
+			"剣風伝奇ベルセルク"
+		],
+		"synonyms": [
+			"Berserk: The Chronicles of Wind Blades",
+			"Sword-Wind Chronicle Berserk"
+		],
+		"english": [
+			"Berserk"
+		],
+		"id": 33,
+		"type": "TV",
+		"title": "Kenpuu Denki Berserk"
+	},
+	{
+		"id": 34,
+		"error": "not-found"
+	},
+	{
+		"id": 35,
+		"error": "not-found"
+	},
+	{
+		"id": 36,
+		"error": "not-found"
+	},
+	{
+		"id": 37,
+		"error": "not-found"
+	},
+	{
+		"id": 38,
+		"error": "not-found"
+	},
+	{
+		"id": 39,
+		"error": "not-found"
+	},
+	{
+		"id": 40,
+		"error": "not-found"
+	},
+	{
+		"id": 41,
+		"error": "not-found"
+	},
+	{
+		"id": 42,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"GHOST IN THE SHELL（攻殻機動隊）"
+		],
+		"synonyms": [
+			"Koukaku Kidoutai"
+		],
+		"english": [
+			"Ghost in the Shell"
+		],
+		"id": 43,
+		"type": "Movie",
+		"title": "Ghost in the Shell"
+	},
+	{
+		"japanese": [
+			"るろうに剣心\u2015明治剣客浪漫譚\u2015追憶編"
+		],
+		"synonyms": [
+			"Rurouni Kenshin: Tsuiokuhen",
+			"Rurouni Kenshin: Reminiscence"
+		],
+		"english": [
+			"Samurai X: Trust and Betrayal"
+		],
+		"id": 44,
+		"type": "OVA",
+		"title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen"
+	},
+	{
+		"japanese": [
+			"るろうに剣心 -明治剣客浪漫譚-"
+		],
+		"synonyms": [
+			"Samurai X"
+		],
+		"english": [
+			"Rurouni Kenshin"
+		],
+		"id": 45,
+		"type": "TV",
+		"title": "Rurouni Kenshin: Meiji Kenkaku Romantan"
+	},
+	{
+		"japanese": [
+			"るろうに剣心 -明治剣客浪漫譚- 維新志士への鎮魂歌"
+		],
+		"synonyms": [
+			"Rurouni Kenshin: Ishinshishi e no Requiem",
+			"Kenshin - Samurai X",
+			"Rurouni Kenshin Movie",
+			"Rurouni Kenshin - Requiem for the Restoration Royalists",
+			"Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Requiem"
+		],
+		"english": [
+			"Samurai X: The Motion Picture"
+		],
+		"id": 46,
+		"type": "Movie",
+		"title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Chinkonka"
+	},
+	{
+		"japanese": [
+			"AKIRA（アキラ）"
+		],
+		"english": [
+			"AKIRA"
+		],
+		"id": 47,
+		"type": "Movie",
+		"title": "Akira"
+	},
+	{
+		"japanese": [
+			".hack//SIGN"
+		],
+		"english": [
+			".hack//Sign"
+		],
+		"id": 48,
+		"type": "TV",
+		"title": ".hack//Sign"
+	},
+	{
+		"japanese": [
+			"ああっ女神さまっ"
+		],
+		"synonyms": [
+			"Ah! My Goddess (OVA)"
+		],
+		"english": [
+			"Oh! My Goddess"
+		],
+		"id": 49,
+		"type": "OVA",
+		"title": "Aa! Megami-sama!"
+	},
+	{
+		"japanese": [
+			"ああっ女神さまっ"
+		],
+		"synonyms": [
+			"Ah! My Goddess! (TV)"
+		],
+		"english": [
+			"Ah! My Goddess"
+		],
+		"id": 50,
+		"type": "TV",
+		"title": "Aa! Megami-sama! (TV)"
+	},
+	{
+		"japanese": [
+			"天使禁猟区"
+		],
+		"english": [
+			"Angel Sanctuary"
+		],
+		"id": 51,
+		"type": "OVA",
+		"title": "Tenshi Kinryouku"
+	},
+	{
+		"japanese": [
+			"機動天使エンジェリックレイヤー"
+		],
+		"english": [
+			"Battle Doll Angelic Layer"
+		],
+		"id": 52,
+		"type": "TV",
+		"title": "Kidou Tenshi Angelic Layer"
+	},
+	{
+		"japanese": [
+			"藍より青し"
+		],
+		"synonyms": [
+			"Bluer Than Indigo"
+		],
+		"english": [
+			"Ai Yori Aoshi"
+		],
+		"id": 53,
+		"type": "TV",
+		"title": "Ai Yori Aoshi"
+	},
+	{
+		"japanese": [
+			"アップルシード"
+		],
+		"synonyms": [
+			"Appleseed (2004)"
+		],
+		"id": 54,
+		"type": "Movie",
+		"title": "Appleseed (Movie)"
+	},
+	{
+		"japanese": [
+			"アークザラッド"
+		],
+		"synonyms": [
+			"Arc"
+		],
+		"id": 55,
+		"type": "TV",
+		"title": "Arc the Lad"
+	},
+	{
+		"japanese": [
+			"アヴェンジャー"
+		],
+		"id": 56,
+		"type": "TV",
+		"title": "Avenger"
+	},
+	{
+		"japanese": [
+			"ベック"
+		],
+		"synonyms": [
+			"BECK"
+		],
+		"english": [
+			"Beck: Mongolian Chop Squad"
+		],
+		"id": 57,
+		"type": "TV",
+		"title": "Beck"
+	},
+	{
+		"japanese": [
+			"BLUE GENDER"
+		],
+		"english": [
+			"Blue Gender"
+		],
+		"id": 58,
+		"type": "TV",
+		"title": "Blue Gender"
+	},
+	{
+		"japanese": [
+			"ちょびっツ"
+		],
+		"english": [
+			"Chobits"
+		],
+		"id": 59,
+		"type": "TV",
+		"title": "Chobits"
+	},
+	{
+		"japanese": [
+			"クロノクルセイド"
+		],
+		"synonyms": [
+			"Chrno Crusade: Mary Magdalene"
+		],
+		"english": [
+			"Chrono Crusade"
+		],
+		"id": 60,
+		"type": "TV",
+		"title": "Chrno Crusade"
+	},
+	{
+		"japanese": [
+			"Ｄ・Ｎ・ＡＮＧＥＬ"
+		],
+		"synonyms": [
+			"DN Angel",
+			"DNAngel"
+		],
+		"english": [
+			"D.N.Angel"
+		],
+		"id": 61,
+		"type": "TV",
+		"title": "D.N.Angel"
+	},
+	{
+		"japanese": [
+			"D.C.～ダ・カーポ～"
+		],
+		"english": [
+			"D.C.~Da Capo~"
+		],
+		"id": 62,
+		"type": "TV",
+		"title": "D.C.: Da Capo"
+	},
+	{
+		"japanese": [
+			"ディアーズ"
+		],
+		"english": [
+			"DearS"
+		],
+		"id": 63,
+		"type": "TV",
+		"title": "DearS"
+	},
+	{
+		"japanese": [
+			"ローゼンメイデン"
+		],
+		"english": [
+			"Rozen Maiden"
+		],
+		"id": 64,
+		"type": "TV",
+		"title": "Rozen Maiden"
+	},
+	{
+		"japanese": [
+			"ローゼンメイデン ~ トロイメント"
+		],
+		"synonyms": [
+			"Rozen Maiden 2"
+		],
+		"english": [
+			"Rozen Maiden: Träumend"
+		],
+		"id": 65,
+		"type": "TV",
+		"title": "Rozen Maiden: Träumend"
+	},
+	{
+		"japanese": [
+			"あずまんが大王 THE ANIMATION"
+		],
+		"synonyms": [
+			"Azumanga Daiou"
+		],
+		"english": [
+			"Azumanga Daioh: The Animation"
+		],
+		"id": 66,
+		"type": "TV",
+		"title": "Azumanga Daioh"
+	},
+	{
+		"japanese": [
+			"バジリスク 甲賀忍法帖"
+		],
+		"synonyms": [
+			"Basilisk: Koga Nimpo Cho"
+		],
+		"english": [
+			"Basilisk"
+		],
+		"id": 67,
+		"type": "TV",
+		"title": "Basilisk: Kouga Ninpou Chou"
+	},
+	{
+		"japanese": [
+			"ブラックキャット"
+		],
+		"english": [
+			"Black Cat"
+		],
+		"id": 68,
+		"type": "TV",
+		"title": "Black Cat"
+	},
+	{
+		"japanese": [
+			"CLUSTER EDGE（クラスターエッジ）"
+		],
+		"id": 69,
+		"type": "TV",
+		"title": "Cluster Edge"
+	},
+	{
+		"id": 70,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"フルメタル・パニック！"
+		],
+		"synonyms": [
+			"FMP",
+			"Fullmetal Panic!"
+		],
+		"english": [
+			"Full Metal Panic!"
+		],
+		"id": 71,
+		"type": "TV",
+		"title": "Full Metal Panic!"
+	},
+	{
+		"japanese": [
+			"フルメタル・パニック? ふもっふ"
+		],
+		"synonyms": [
+			"Full Metal Panic Fumoffu",
+			"Fullmetal Panic? Fumoffu"
+		],
+		"english": [
+			"Full Metal Panic? Fumoffu"
+		],
+		"id": 72,
+		"type": "TV",
+		"title": "Full Metal Panic? Fumoffu"
+	},
+	{
+		"japanese": [
+			"フルメタル パニック！The Second Raid"
+		],
+		"synonyms": [
+			"Full Metal Panic! TSR"
+		],
+		"english": [
+			"Full Metal Panic! The Second Raid"
+		],
+		"id": 73,
+		"type": "TV",
+		"title": "Full Metal Panic! The Second Raid"
+	},
+	{
+		"japanese": [
+			"学園アリス"
+		],
+		"synonyms": [
+			"Campus Alice",
+			"Alice Academy"
+		],
+		"english": [
+			"Gakuen Alice"
+		],
+		"id": 74,
+		"type": "TV",
+		"title": "Gakuen Alice"
+	},
+	{
+		"japanese": [
+			"蒼穹のファフナーDead Aggressor"
+		],
+		"synonyms": [
+			"Fafner in the Azure: Dead Aggressor"
+		],
+		"english": [
+			"Fafner of the Blue Sky"
+		],
+		"id": 75,
+		"type": "TV",
+		"title": "Soukyuu no Fafner: Dead Aggressor"
+	},
+	{
+		"japanese": [
+			"魔法少女リリカルなのは"
+		],
+		"synonyms": [
+			"Mahou Shoujo Lyrical Nanoha"
+		],
+		"english": [
+			"Magical Girl Lyrical Nanoha"
+		],
+		"id": 76,
+		"type": "TV",
+		"title": "Mahou Shoujo Lyrical Nanoha"
+	},
+	{
+		"japanese": [
+			"魔法少女リリカルなのは エース"
+		],
+		"synonyms": [
+			"Mahou Shoujo Lyrical Nanoha A's"
+		],
+		"english": [
+			"Magical Girl Lyrical Nanoha A's"
+		],
+		"id": 77,
+		"type": "TV",
+		"title": "Mahou Shoujo Lyrical Nanoha A's"
+	},
+	{
+		"id": 78,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"SHUFFLE! (シャッフル!)"
+		],
+		"english": [
+			"Shuffle!"
+		],
+		"id": 79,
+		"type": "TV",
+		"title": "Shuffle!"
+	},
+	{
+		"japanese": [
+			"機動戦士ガンダム"
+		],
+		"synonyms": [
+			"First Gundam",
+			"Mobile Suit Gundam: 0079",
+			"MSG",
+			"Kidou Senshi Gundam"
+		],
+		"english": [
+			"Mobile Suit Gundam"
+		],
+		"id": 80,
+		"type": "TV",
+		"title": "Mobile Suit Gundam"
+	},
+	{
+		"japanese": [
+			"機動戦士ガンダム 第08MS小隊"
+		],
+		"synonyms": [
+			"Kidou Senshi Gundam: Dai 08 MS Shotai",
+			"Kidou Senshi Gundam: Dai 08 MS Shoutai"
+		],
+		"english": [
+			"Mobile Suit Gundam: The 08th MS Team"
+		],
+		"id": 81,
+		"type": "OVA",
+		"title": "Mobile Suit Gundam: The 08th MS Team"
+	},
+	{
+		"japanese": [
+			"機動戦士ガンダム 0080 ポケットの中の戦争"
+		],
+		"synonyms": [
+			"Kidou Senshi Gundam 0080- Pocket no Naka no Sensou"
+		],
+		"english": [
+			"Mobile Suit Gundam 0080: War in the Pocket"
+		],
+		"id": 82,
+		"type": "OVA",
+		"title": "Mobile Suit Gundam 0080: War in the Pocket"
+	},
+	{
+		"japanese": [
+			"機動戦士ガンダム 第08MS小隊 ミラーズ・リポート"
+		],
+		"synonyms": [
+			"Kidou Senshi Gundam: Dai 08 MS Shotai - Miller's Report"
+		],
+		"id": 83,
+		"type": "Movie",
+		"title": "Mobile Suit Gundam: The 08th MS Team - Miller's Report"
+	},
+	{
+		"japanese": [
+			"機動戦士ガンダム0083 STARDUST MEMORY"
+		],
+		"synonyms": [
+			"Kidou Senshi Gundam 0083: Stardust Memory",
+			"Gundam 0083"
+		],
+		"english": [
+			"Mobile Suit Gundam 0083: Stardust Memory"
+		],
+		"id": 84,
+		"type": "OVA",
+		"title": "Mobile Suit Gundam 0083: Stardust Memory"
+	},
+	{
+		"japanese": [
+			"機動戦士Ζガンダム"
+		],
+		"synonyms": [
+			"Kidou Senshi Zeta Gundam",
+			"Mobile Suit Z Gundam"
+		],
+		"english": [
+			"Mobile Suit Zeta Gundam"
+		],
+		"id": 85,
+		"type": "TV",
+		"title": "Mobile Suit Zeta Gundam"
+	},
+	{
+		"japanese": [
+			"機動戦士ガンダムZZ"
+		],
+		"synonyms": [
+			"Kidou Senshi Gundam ZZ",
+			"Mobile Gundam Double Zeta"
+		],
+		"english": [
+			"Mobile Suit Gundam ZZ"
+		],
+		"id": 86,
+		"type": "TV",
+		"title": "Mobile Suit Gundam ZZ"
+	},
+	{
+		"japanese": [
+			"機動戦士ガンダム 逆襲のシャア"
+		],
+		"synonyms": [
+			"Kidou Senshi Gundam: Gyakushuu no Char"
+		],
+		"english": [
+			"Mobile Suit Gundam: Char's Counterattack"
+		],
+		"id": 87,
+		"type": "Movie",
+		"title": "Mobile Suit Gundam: Char's Counterattack"
+	},
+	{
+		"japanese": [
+			"機動戦士ガンダムＦ91"
+		],
+		"synonyms": [
+			"Kidou Senshi Gundam F91"
+		],
+		"english": [
+			"Mobile Suit Gundam F91"
+		],
+		"id": 88,
+		"type": "Movie",
+		"title": "Mobile Suit Gundam F91"
+	},
+	{
+		"japanese": [
+			"機動戦士Vガンダム"
+		],
+		"synonyms": [
+			"Kidou Senshi Victory Gundam"
+		],
+		"english": [
+			"Mobile Suit V Gundam"
+		],
+		"id": 89,
+		"type": "TV",
+		"title": "Mobile Suit Victory Gundam"
+	},
+	{
+		"japanese": [
+			"新機動戦記ガンダムW"
+		],
+		"synonyms": [
+			"New Mobile Report Gundam Wing",
+			"Shin Kidou Senki Gundam Wing"
+		],
+		"english": [
+			"Mobile Suit Gundam Wing"
+		],
+		"id": 90,
+		"type": "TV",
+		"title": "Mobile Suit Gundam Wing"
+	},
+	{
+		"japanese": [
+			"新機動戦記ガンダムW エンドレス・ワルツ"
+		],
+		"synonyms": [
+			"Shin Kidou Senki Gundam Wing Endless Waltz",
+			"Gundam Wing Endless Waltz OVA"
+		],
+		"english": [
+			"Mobile Suit Gundam Wing: Endless Waltz"
+		],
+		"id": 91,
+		"type": "OVA",
+		"title": "Mobile Suit Gundam Wing: Endless Waltz"
+	},
+	{
+		"japanese": [
+			"機動新世紀ガンダムX"
+		],
+		"synonyms": [
+			"After War Gundam X",
+			"Mobile New Century Gundam X"
+		],
+		"english": [
+			"After War Gundam X"
+		],
+		"id": 92,
+		"type": "TV",
+		"title": "Kidou Shin Seiki Gundam X"
+	},
+	{
+		"japanese": [
+			"機動戦士ガンダムSEED"
+		],
+		"synonyms": [
+			"Kidou Senshi Gundam SEED"
+		],
+		"english": [
+			"Mobile Suit Gundam SEED"
+		],
+		"id": 93,
+		"type": "TV",
+		"title": "Mobile Suit Gundam SEED"
+	},
+	{
+		"japanese": [
+			"機動戦士ガンダムSEED DESTINY"
+		],
+		"synonyms": [
+			"Kidou Senshi Gundam SEED DESTINY"
+		],
+		"id": 94,
+		"type": "TV",
+		"title": "Mobile Suit Gundam SEED Destiny"
+	},
+	{
+		"japanese": [
+			"∀ガンダム"
+		],
+		"synonyms": [
+			"Mobile Suit Gundam Turn A"
+		],
+		"english": [
+			"∀ Gundam"
+		],
+		"id": 95,
+		"type": "TV",
+		"title": "Turn A Gundam"
+	},
+	{
+		"japanese": [
+			"機動武闘伝Gガンダム"
+		],
+		"synonyms": [
+			"Mobile Fighter G-Gundam",
+			"Kidou Butouden G Gundam"
+		],
+		"english": [
+			"Mobile Fighter G Gundam"
+		],
+		"id": 96,
+		"type": "TV",
+		"title": "Mobile Fighter G Gundam"
+	},
+	{
+		"japanese": [
+			"LAST EXILE（ラストエグザイル）"
+		],
+		"english": [
+			"Last Exile"
+		],
+		"id": 97,
+		"type": "TV",
+		"title": "Last Exile"
+	},
+	{
+		"japanese": [
+			"舞-HiME"
+		],
+		"synonyms": [
+			"My Princess"
+		],
+		"english": [
+			"My-Hime"
+		],
+		"id": 98,
+		"type": "TV",
+		"title": "Mai-HiME"
+	},
+	{
+		"japanese": [
+			"舞-乙HiME"
+		],
+		"synonyms": [
+			"Mai Oto-Hime",
+			"Mai-OtoHiME",
+			"Dancing Maiden"
+		],
+		"english": [
+			"My-Otome"
+		],
+		"id": 99,
+		"type": "TV",
+		"title": "Mai-Otome"
+	},
+	{
+		"japanese": [
+			"新白雪姫伝説プリーティア"
+		],
+		"synonyms": [
+			"Shin Shirayuki-hime Densetsu Pretear"
+		],
+		"english": [
+			"Prétear: The New Legend of Snow White"
+		],
+		"id": 100,
+		"type": "TV",
+		"title": "Shin Shirayuki-hime Densetsu Prétear"
+	}
+]
