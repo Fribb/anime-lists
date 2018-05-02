@@ -1,0 +1,6739 @@
+[
+	{
+		"id": 7001,
+		"error": "not-found"
+	},
+	{
+		"id": 7002,
+		"error": "not-found"
+	},
+	{
+		"id": 7003,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"新 カリメロ"
+		],
+		"english": [
+			"Calimero (1992)"
+		],
+		"id": 7004,
+		"type": "TV",
+		"title": "Shin Calimero"
+	},
+	{
+		"id": 7005,
+		"error": "not-found"
+	},
+	{
+		"id": 7006,
+		"error": "not-found"
+	},
+	{
+		"id": 7007,
+		"error": "not-found"
+	},
+	{
+		"id": 7008,
+		"error": "not-found"
+	},
+	{
+		"id": 7009,
+		"error": "not-found"
+	},
+	{
+		"id": 7010,
+		"error": "not-found"
+	},
+	{
+		"id": 7011,
+		"error": "not-found"
+	},
+	{
+		"id": 7012,
+		"error": "not-found"
+	},
+	{
+		"id": 7013,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"手塚治虫のブッダ－赤い砂漠よ！美しく－"
+		],
+		"synonyms": [
+			"Osamu Tezuka's Buddha Movie 1: The Red Desert! It's Beautiful",
+			"Buddha: The Great Departure"
+		],
+		"english": [
+			"BUDDHA"
+		],
+		"id": 7014,
+		"type": "Movie",
+		"title": "Tezuka Osamu no Buddha: Akai Sabaku yo! Utsukushiku"
+	},
+	{
+		"id": 7015,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"戦場のヴァルキュリアヴァル劇場"
+		],
+		"synonyms": [
+			"Valkyria Chronicles Specials",
+			"Senjou No Valkyria: Gallian Chronicles Specials"
+		],
+		"english": [
+			"Valkyria Chronicles: Theater"
+		],
+		"id": 7016,
+		"type": "Special",
+		"title": "Senjou no Valkyria: SenVal Theater"
+	},
+	{
+		"japanese": [
+			"うらおん!"
+		],
+		"synonyms": [
+			"K-On! Specials",
+			"Uraon!",
+			"Keion Specials"
+		],
+		"english": [
+			"K-On!: Ura-On!"
+		],
+		"id": 7017,
+		"type": "Special",
+		"title": "K-On!: Ura-On!"
+	},
+	{
+		"id": 7018,
+		"error": "not-found"
+	},
+	{
+		"id": 7019,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"ファッション"
+		],
+		"id": 7020,
+		"type": "Movie",
+		"title": "Fashion"
+	},
+	{
+		"japanese": [
+			"二匹のサンマ"
+		],
+		"synonyms": [
+			"Two Pikes",
+			"Two Fishes"
+		],
+		"id": 7021,
+		"type": "Movie",
+		"title": "Ni-hiki no Sanma"
+	},
+	{
+		"japanese": [
+			"G線上の悲劇"
+		],
+		"synonyms": [
+			"G String",
+			"Tragedy on the G Line"
+		],
+		"id": 7022,
+		"type": "Movie",
+		"title": "G-senjou no Higeki"
+	},
+	{
+		"id": 7023,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"部屋"
+		],
+		"synonyms": [
+			"The Room"
+		],
+		"id": 7024,
+		"type": "Movie",
+		"title": "Heya"
+	},
+	{
+		"japanese": [
+			"寄生虫の一夜"
+		],
+		"synonyms": [
+			"The Midnight Parasites"
+		],
+		"id": 7025,
+		"type": "Movie",
+		"title": "Kiseichuu no Ichiya"
+	},
+	{
+		"japanese": [
+			"窓"
+		],
+		"synonyms": [
+			"The Window"
+		],
+		"id": 7026,
+		"type": "Movie",
+		"title": "Mado"
+	},
+	{
+		"japanese": [
+			"漫画"
+		],
+		"id": 7027,
+		"type": "Movie",
+		"title": "Manga"
+	},
+	{
+		"japanese": [
+			"ポップ"
+		],
+		"id": 7028,
+		"type": "Movie",
+		"title": "Pop"
+	},
+	{
+		"japanese": [
+			"隣の野郎"
+		],
+		"synonyms": [
+			"The Guy Next Door",
+			"L'homme prochaine porte"
+		],
+		"english": [
+			"The Man Next Door"
+		],
+		"id": 7029,
+		"type": "Movie",
+		"title": "Tonari no Yarou"
+	},
+	{
+		"japanese": [
+			"ケメ子のLOVE"
+		],
+		"synonyms": [
+			"Love of Kemeko"
+		],
+		"id": 7030,
+		"type": "Movie",
+		"title": "Kemeko no Love"
+	},
+	{
+		"japanese": [
+			"殺人狂時代"
+		],
+		"english": [
+			"Au Fou!"
+		],
+		"id": 7031,
+		"type": "Movie",
+		"title": "Satsujinkyou Jidai"
+	},
+	{
+		"japanese": [
+			"切手の幻想"
+		],
+		"synonyms": [
+			"Stamp Fantasia",
+			"Stamp Fantasy",
+			"Fantasia of Stamps"
+		],
+		"id": 7032,
+		"type": "Movie",
+		"title": "Kitte no Gensou"
+	},
+	{
+		"id": 7033,
+		"error": "not-found"
+	},
+	{
+		"id": 7034,
+		"error": "not-found"
+	},
+	{
+		"id": 7035,
+		"error": "not-found"
+	},
+	{
+		"id": 7036,
+		"error": "not-found"
+	},
+	{
+		"id": 7037,
+		"error": "not-found"
+	},
+	{
+		"id": 7038,
+		"error": "not-found"
+	},
+	{
+		"id": 7039,
+		"error": "not-found"
+	},
+	{
+		"id": 7040,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"瀬戸の花嫁 OVA Extras"
+		],
+		"synonyms": [
+			"Seto no Hanayome OVA Omakes"
+		],
+		"english": [
+			"Seto no Hanayome OVA Extras"
+		],
+		"id": 7041,
+		"type": "Special",
+		"title": "Seto no Hanayome OVA Specials"
+	},
+	{
+		"id": 7042,
+		"error": "not-found"
+	},
+	{
+		"id": 7043,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"懺さよなら絶望先生 番外地"
+		],
+		"synonyms": [
+			"Zan Sayonara Zetsubou Sensei OVA",
+			"Zan Sayonara Zetsubou Sensei No Man's Land",
+			"ZSZSB"
+		],
+		"id": 7044,
+		"type": "OVA",
+		"title": "Zan Sayonara Zetsubou Sensei Bangaichi"
+	},
+	{
+		"japanese": [
+			"映画 ドラえもん のび太の太陽王伝説"
+		],
+		"synonyms": [
+			"Doraemon: Nobita and the Legend of the Sun King"
+		],
+		"english": [
+			"Doraemon the Movie: Nobita's the Legend of the Sun King"
+		],
+		"id": 7045,
+		"type": "Movie",
+		"title": "Doraemon Movie 21: Nobita no Taiyou Ou Densetsu"
+	},
+	{
+		"id": 7046,
+		"error": "not-found"
+	},
+	{
+		"id": 7047,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"クラッシュギアNitro"
+		],
+		"id": 7048,
+		"type": "TV",
+		"title": "Crush Gear Nitro"
+	},
+	{
+		"id": 7049,
+		"error": "not-found"
+	},
+	{
+		"id": 7050,
+		"error": "not-found"
+	},
+	{
+		"id": 7051,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"神州魑魅変"
+		],
+		"id": 7052,
+		"type": "OVA",
+		"title": "Shinshuu Sudama-hen"
+	},
+	{
+		"japanese": [
+			"フォルト!!"
+		],
+		"id": 7053,
+		"type": "OVA",
+		"title": "Fault!!"
+	},
+	{
+		"japanese": [
+			"会長はメイド様!"
+		],
+		"synonyms": [
+			"Class President is a Maid!"
+		],
+		"english": [
+			"Maid Sama!"
+		],
+		"id": 7054,
+		"type": "TV",
+		"title": "Kaichou wa Maid-sama!"
+	},
+	{
+		"id": 7055,
+		"error": "not-found"
+	},
+	{
+		"id": 7056,
+		"error": "not-found"
+	},
+	{
+		"id": 7057,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"裏切りは僕の名前を知っている"
+		],
+		"synonyms": [
+			"Uraboku"
+		],
+		"english": [
+			"The Betrayal Knows My Name"
+		],
+		"id": 7058,
+		"type": "TV",
+		"title": "Uragiri wa Boku no Namae wo Shitteiru"
+	},
+	{
+		"japanese": [
+			"ブラック★ロックシューター"
+		],
+		"synonyms": [
+			"BRS OVA"
+		],
+		"id": 7059,
+		"type": "OVA",
+		"title": "Black★Rock Shooter (OVA)"
+	},
+	{
+		"japanese": [
+			"リング　オブ　ガンダム"
+		],
+		"english": [
+			"Ring of Gundam"
+		],
+		"id": 7060,
+		"type": "Special",
+		"title": "Ring of Gundam"
+	},
+	{
+		"id": 7061,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"ひだまりスケッチ×☆☆☆"
+		],
+		"synonyms": [
+			"Hidamari Sketch x Hoshi Mittsu"
+		],
+		"id": 7062,
+		"type": "TV",
+		"title": "Hidamari Sketch x ☆☆☆"
+	},
+	{
+		"id": 7063,
+		"error": "not-found"
+	},
+	{
+		"id": 7064,
+		"error": "not-found"
+	},
+	{
+		"id": 7065,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"まほろまてぃっく ただいま◇おかえり"
+		],
+		"synonyms": [
+			"Mahoromatic: Tadaima◇Okaeri"
+		],
+		"english": [
+			"Mahoromatic: I'm Home!"
+		],
+		"id": 7066,
+		"type": "Special",
+		"title": "Mahoromatic: I'm Home!"
+	},
+	{
+		"id": 7067,
+		"error": "not-found"
+	},
+	{
+		"id": 7068,
+		"error": "not-found"
+	},
+	{
+		"id": 7069,
+		"error": "not-found"
+	},
+	{
+		"id": 7070,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"證城寺の狸囃子"
+		],
+		"synonyms": [
+			"Shojoji no Tanuki-bayashi"
+		],
+		"english": [
+			"Belly Drum Dance at Shojoji Temple"
+		],
+		"id": 7071,
+		"type": "Movie",
+		"title": "Shoujouji no Tanuki-bayashi"
+	},
+	{
+		"id": 7072,
+		"error": "not-found"
+	},
+	{
+		"id": 7073,
+		"error": "not-found"
+	},
+	{
+		"id": 7074,
+		"error": "not-found"
+	},
+	{
+		"id": 7075,
+		"error": "not-found"
+	},
+	{
+		"id": 7076,
+		"error": "not-found"
+	},
+	{
+		"id": 7077,
+		"error": "not-found"
+	},
+	{
+		"id": 7078,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"おおかみかくし"
+		],
+		"synonyms": [
+			"Wolfed Away"
+		],
+		"english": [
+			"Okamikakushi: Masque of the Wolf"
+		],
+		"id": 7079,
+		"type": "TV",
+		"title": "Ookamikakushi"
+	},
+	{
+		"id": 7080,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"ダンボール戦機"
+		],
+		"synonyms": [
+			"Danbooru Senki",
+			"Cardboard War Chronicles"
+		],
+		"english": [
+			"LBX: Little Battlers eXperience"
+		],
+		"id": 7081,
+		"type": "TV",
+		"title": "Danball Senki"
+	},
+	{
+		"japanese": [
+			"しゅごキャラ！パーティー！"
+		],
+		"synonyms": [
+			"Shugo Chara!!! Dokki Doki",
+			"Shugo Chara! Third",
+			"Shugo Chara! Pucchi Puchi"
+		],
+		"id": 7082,
+		"type": "TV",
+		"title": "Shugo Chara! Party!"
+	},
+	{
+		"japanese": [
+			"伯爵と妖精"
+		],
+		"synonyms": [
+			"Earl and Fairy DVD Extra"
+		],
+		"id": 7083,
+		"type": "Special",
+		"title": "Hakushaku to Yousei Specials"
+	},
+	{
+		"id": 7084,
+		"error": "not-found"
+	},
+	{
+		"id": 7085,
+		"error": "not-found"
+	},
+	{
+		"id": 7086,
+		"error": "not-found"
+	},
+	{
+		"id": 7087,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"いちばんうしろの大魔王"
+		],
+		"synonyms": [
+			"Ichiban Ushiro no Dai Mao"
+		],
+		"english": [
+			"Demon King Daimao"
+		],
+		"id": 7088,
+		"type": "TV",
+		"title": "Ichiban Ushiro no Daimaou"
+	},
+	{
+		"id": 7089,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"魔動王グランゾート 最後のマジカル大戦"
+		],
+		"synonyms": [
+			"Madouou Grandzort OVA",
+			"Madou Ou Granzort: SnMT",
+			"Madouou Grandzort: Saigo no Magical Taisen"
+		],
+		"id": 7090,
+		"type": "OVA",
+		"title": "Madou King Granzort: Saigo no Magical Taisen"
+	},
+	{
+		"id": 7091,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"少女ファイト 野良犬たちのおでかけ"
+		],
+		"synonyms": [
+			"Girls Fight",
+			"Shoujo Fight: Nora Inu-tachi no Odekake"
+		],
+		"id": 7092,
+		"type": "OVA",
+		"title": "Shoujo Fight: Norainu-tachi no Odekake"
+	},
+	{
+		"id": 7093,
+		"error": "not-found"
+	},
+	{
+		"id": 7094,
+		"error": "not-found"
+	},
+	{
+		"id": 7095,
+		"error": "not-found"
+	},
+	{
+		"id": 7096,
+		"error": "not-found"
+	},
+	{
+		"id": 7097,
+		"error": "not-found"
+	},
+	{
+		"id": 7098,
+		"error": "not-found"
+	},
+	{
+		"id": 7099,
+		"error": "not-found"
+	},
+	{
+		"id": 7100,
+		"error": "not-found"
+	},
+	{
+		"id": 7101,
+		"error": "not-found"
+	},
+	{
+		"id": 7102,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"ミラクル☆トレイン〜大江戸線へようこそ〜"
+		],
+		"synonyms": [
+			"Miracle☆Train: Ooedo-sen e Youkoso"
+		],
+		"english": [
+			"Miracle Train: Welcome to the Oedo Line"
+		],
+		"id": 7103,
+		"type": "TV",
+		"title": "Miracle☆Train: Oedo-sen e Youkoso"
+	},
+	{
+		"id": 7104,
+		"error": "not-found"
+	},
+	{
+		"id": 7105,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"黄金戦士ゴールド・ライタン"
+		],
+		"synonyms": [
+			"Golden Warrior Gold Lightan"
+		],
+		"english": [
+			"Golden Warrior: The Gold Lightan"
+		],
+		"id": 7106,
+		"type": "TV",
+		"title": "Ougon Senshi Gold Lightan"
+	},
+	{
+		"id": 7107,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"屍姫ぷちっと"
+		],
+		"synonyms": [
+			"Shikabane Hime: Chibi Special",
+			"Shikabane Hime: Kuro Omake"
+		],
+		"id": 7108,
+		"type": "Special",
+		"title": "Shikabane Hime: Puchitto"
+	},
+	{
+		"japanese": [
+			"仰天人間バトシーラー"
+		],
+		"synonyms": [
+			"Gyoten Ningen Batsealer",
+			"Gyoten Ningen Batseelor",
+			"Gyouten Ningen Batseelor",
+			"Gyoten Ningen Batoshiiraa"
+		],
+		"english": [
+			"Captain Fatz and the Seamorphs"
+		],
+		"id": 7109,
+		"type": "TV",
+		"title": "Gyouten Ningen Batsealer"
+	},
+	{
+		"japanese": [
+			"少年メイドクーロ君 ~天使の歌~"
+		],
+		"synonyms": [
+			"Shounen Maid Curo-kun: Tenshi no Uta",
+			"Shounen Maid Kuro-kun",
+			"Anime Syonen Meido Curo-kun: Tenshi no Uta"
+		],
+		"id": 7110,
+		"type": "OVA",
+		"title": "Shounen Maid Kuuro-kun: Tenshi no Uta"
+	},
+	{
+		"id": 7111,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"銀河鉄道の夜 -Fantasy Railroad in the Stars-"
+		],
+		"synonyms": [
+			"The Celestial Railroad"
+		],
+		"id": 7112,
+		"type": "Movie",
+		"title": "Ginga Tetsudou no Yoru: Fantasy Railroad in the Stars"
+	},
+	{
+		"japanese": [
+			"30th GUNDAM PERFECT MISSION"
+		],
+		"id": 7113,
+		"type": "OVA",
+		"title": "30th Gundam Perfect Mission"
+	},
+	{
+		"id": 7114,
+		"error": "not-found"
+	},
+	{
+		"id": 7115,
+		"error": "not-found"
+	},
+	{
+		"id": 7116,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"ピカドン"
+		],
+		"synonyms": [
+			"Pica-don",
+			"Picadon",
+			"Pikadon",
+			"Pika-don"
+		],
+		"id": 7117,
+		"type": "Movie",
+		"title": "Pika Don"
+	},
+	{
+		"id": 7118,
+		"error": "not-found"
+	},
+	{
+		"id": 7119,
+		"error": "not-found"
+	},
+	{
+		"id": 7120,
+		"error": "not-found"
+	},
+	{
+		"id": 7121,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"大ヤマト零号"
+		],
+		"synonyms": [
+			"Big Yamato"
+		],
+		"english": [
+			"Great Yamato No. 0"
+		],
+		"id": 7122,
+		"type": "OVA",
+		"title": "Dai Yamato Zero-gou"
+	},
+	{
+		"id": 7123,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"魔動王グランゾート 冒険編"
+		],
+		"synonyms": [
+			"Madouou Grandzort OVA 2",
+			"Madouou Grandzort: Bouken Hen"
+		],
+		"id": 7124,
+		"type": "OVA",
+		"title": "Madou King Granzort: Bouken-hen"
+	},
+	{
+		"id": 7125,
+		"error": "not-found"
+	},
+	{
+		"id": 7126,
+		"error": "not-found"
+	},
+	{
+		"id": 7127,
+		"error": "not-found"
+	},
+	{
+		"id": 7128,
+		"error": "not-found"
+	},
+	{
+		"id": 7129,
+		"error": "not-found"
+	},
+	{
+		"id": 7130,
+		"error": "not-found"
+	},
+	{
+		"id": 7131,
+		"error": "not-found"
+	},
+	{
+		"id": 7132,
+		"error": "not-found"
+	},
+	{
+		"id": 7133,
+		"error": "not-found"
+	},
+	{
+		"id": 7134,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"魔法先生ネギま! ANIME FINAL"
+		],
+		"synonyms": [
+			"Gekijouban Negima",
+			"Negima the Movie"
+		],
+		"id": 7135,
+		"type": "Movie",
+		"title": "Mahou Sensei Negima! Anime Final"
+	},
+	{
+		"id": 7136,
+		"error": "not-found"
+	},
+	{
+		"id": 7137,
+		"error": "not-found"
+	},
+	{
+		"id": 7138,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"ガデュリン"
+		],
+		"id": 7139,
+		"type": "OVA",
+		"title": "Gdleen"
+	},
+	{
+		"id": 7140,
+		"error": "not-found"
+	},
+	{
+		"id": 7141,
+		"error": "not-found"
+	},
+	{
+		"id": 7142,
+		"error": "not-found"
+	},
+	{
+		"id": 7143,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"宇宙戦艦ヤマト 復活篇"
+		],
+		"synonyms": [
+			"Space Battleship Yamato: Rebirth Chapter",
+			"Space Battleship Yamato Resurrection",
+			"Space Battleship Yamato: Revival"
+		],
+		"id": 7144,
+		"type": "Movie",
+		"title": "Uchuu Senkan Yamato: Fukkatsu-hen"
+	},
+	{
+		"id": 7145,
+		"error": "not-found"
+	},
+	{
+		"id": 7146,
+		"error": "not-found"
+	},
+	{
+		"id": 7147,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"れでぃ×ばと!"
+		],
+		"synonyms": [
+			"Ladies vs. Butlers!",
+			"Redei x Bato"
+		],
+		"english": [
+			"Ladies versus Butlers!"
+		],
+		"id": 7148,
+		"type": "TV",
+		"title": "Ladies versus Butlers!"
+	},
+	{
+		"id": 7149,
+		"error": "not-found"
+	},
+	{
+		"id": 7150,
+		"error": "not-found"
+	},
+	{
+		"id": 7151,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"あにゃまる探偵 キルミンずぅ"
+		],
+		"synonyms": [
+			"Anymal Tantei Kiruminzoo",
+			"Animal Tantei Kiruminzoo",
+			"Animal Detectives Kiruminzoo",
+			"Anyamaru Tantei Kiruminzoo",
+			"Anyamaru Tantei Kiruminzuu"
+		],
+		"id": 7152,
+		"type": "TV",
+		"title": "Anyamal Tantei Kiruminzoo"
+	},
+	{
+		"id": 7153,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"SMノススメ"
+		],
+		"synonyms": [
+			"SM no Susume"
+		],
+		"id": 7154,
+		"type": "OVA",
+		"title": "SM no Susume"
+	},
+	{
+		"japanese": [
+			"ビートショット!!"
+		],
+		"english": [
+			"Watch Me Sink My Putz"
+		],
+		"id": 7155,
+		"type": "OVA",
+		"title": "Beat Shot!!"
+	},
+	{
+		"japanese": [
+			"アレイの鏡 ~ Way to the Virgin Space"
+		],
+		"english": [
+			"Arei's Mirror ~ Way to the Virgin Space"
+		],
+		"id": 7156,
+		"type": "Movie",
+		"title": "Arei no Kagami: Way to the Virgin Space"
+	},
+	{
+		"japanese": [
+			"Ｄｒ．スランプ アラレちゃん んちゃ！ペンギン村より愛をこめて"
+		],
+		"synonyms": [
+			"Dr. Slump and Arale-chan: N-cha! Love Comes From Penguin Village"
+		],
+		"english": [
+			"Dr. Slump and Arale-chan: N-cha! From Penguin Village with Love"
+		],
+		"id": 7157,
+		"type": "Movie",
+		"title": "Dr. Slump Movie 07: Arale-chan N-cha! Penguin Mura yori Ai wo Komete"
+	},
+	{
+		"japanese": [
+			"Ｄｒ．スランプ んちゃ!!わくわくハートの夏休み"
+		],
+		"synonyms": [
+			"Dr. Slump and Arale-chan: N-cha!! Trembling Heart of the Summer"
+		],
+		"english": [
+			"Dr. Slump and Arale-chan: N-cha!! Excited Heart of Summer Vacation"
+		],
+		"id": 7158,
+		"type": "Movie",
+		"title": "Dr. Slump Movie 09: Arale-chan N-cha!! Wakuwaku Hot no Natsuyasumi"
+	},
+	{
+		"id": 7159,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"よろしくメカドック"
+		],
+		"synonyms": [
+			"Yoroshiku Mecha Doc"
+		],
+		"english": [
+			"What's Up Mechadoc"
+		],
+		"id": 7160,
+		"type": "TV",
+		"title": "Yoroshiku Mechadock"
+	},
+	{
+		"id": 7161,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"やる気まんまん"
+		],
+		"id": 7162,
+		"type": "OVA",
+		"title": "Yaruki Manman"
+	},
+	{
+		"id": 7163,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"キャットマン"
+		],
+		"id": 7164,
+		"type": "Special",
+		"title": "Catman Specials"
+	},
+	{
+		"id": 7165,
+		"error": "not-found"
+	},
+	{
+		"id": 7166,
+		"error": "not-found"
+	},
+	{
+		"id": 7167,
+		"error": "not-found"
+	},
+	{
+		"id": 7168,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"いばら姫またはねむり姫"
+		],
+		"synonyms": [
+			"Sleeping Beauty",
+			"Šípková Růženka aneb Spící krasavice"
+		],
+		"english": [
+			"Briar-Rose or The Sleeping Beauty"
+		],
+		"id": 7169,
+		"type": "Movie",
+		"title": "Ibara-Hime matawa Nemuri-Hime"
+	},
+	{
+		"japanese": [
+			"火宅"
+		],
+		"english": [
+			"House of Flames"
+		],
+		"id": 7170,
+		"type": "Movie",
+		"title": "Kataku"
+	},
+	{
+		"japanese": [
+			"鬼"
+		],
+		"synonyms": [
+			"The Demon"
+		],
+		"id": 7171,
+		"type": "Movie",
+		"title": "Oni"
+	},
+	{
+		"id": 7172,
+		"error": "not-found"
+	},
+	{
+		"id": 7173,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"うさるさん"
+		],
+		"id": 7174,
+		"type": "Special",
+		"title": "Usaru-san"
+	},
+	{
+		"japanese": [
+			"秘密結社 鷹の爪 カウントダウン"
+		],
+		"synonyms": [
+			"Eagle Talon 2",
+			"The Frogman Show"
+		],
+		"id": 7175,
+		"type": "TV",
+		"title": "Himitsukessha Taka no Tsume Countdown"
+	},
+	{
+		"japanese": [
+			"チェブラーシカ あれれ？"
+		],
+		"id": 7176,
+		"type": "TV",
+		"title": "Cheburashka Arere?"
+	},
+	{
+		"japanese": [
+			"ご姉弟物語"
+		],
+		"id": 7177,
+		"type": "TV",
+		"title": "Gokyoudai Monogatari"
+	},
+	{
+		"japanese": [
+			"Tony's ヒロインシリーズ 彼女は花嫁候補生? シンデレラ・コレクション"
+		],
+		"synonyms": [
+			"Candidate For Bride"
+		],
+		"id": 7178,
+		"type": "OVA",
+		"title": "Tony's Heroine Series: Kanojo wa Hanayome Kouhosei? Cinderella Collection"
+	},
+	{
+		"japanese": [
+			"魔界天使ジブリール3"
+		],
+		"synonyms": [
+			"Jiburiru: The Devil Angel 3"
+		],
+		"id": 7179,
+		"type": "OVA",
+		"title": "Makai Tenshi Djibril 3"
+	},
+	{
+		"id": 7180,
+		"error": "not-found"
+	},
+	{
+		"id": 7181,
+		"error": "not-found"
+	},
+	{
+		"id": 7182,
+		"error": "not-found"
+	},
+	{
+		"id": 7183,
+		"error": "not-found"
+	},
+	{
+		"id": 7184,
+		"error": "not-found"
+	},
+	{
+		"id": 7185,
+		"error": "not-found"
+	},
+	{
+		"id": 7186,
+		"error": "not-found"
+	},
+	{
+		"id": 7187,
+		"error": "not-found"
+	},
+	{
+		"id": 7188,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"炬燵猫"
+		],
+		"english": [
+			"Table Cat"
+		],
+		"id": 7189,
+		"type": "TV",
+		"title": "Kotatsu Neko"
+	},
+	{
+		"id": 7190,
+		"error": "not-found"
+	},
+	{
+		"id": 7191,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"超時空ロマネスク　サミー　ＭＩＳＳＩＮＧ・９９"
+		],
+		"english": [
+			"Superdimensional Romanesque Samy: Missing 99"
+		],
+		"id": 7192,
+		"type": "OVA",
+		"title": "Choujikuu Romanesque Samy: Missing 99"
+	},
+	{
+		"japanese": [
+			"青い文学シリーズ"
+		],
+		"synonyms": [
+			"Blue Literature"
+		],
+		"id": 7193,
+		"type": "TV",
+		"title": "Aoi Bungaku Series"
+	},
+	{
+		"id": 7194,
+		"error": "not-found"
+	},
+	{
+		"id": 7195,
+		"error": "not-found"
+	},
+	{
+		"id": 7196,
+		"error": "not-found"
+	},
+	{
+		"id": 7197,
+		"error": "not-found"
+	},
+	{
+		"id": 7198,
+		"error": "not-found"
+	},
+	{
+		"id": 7199,
+		"error": "not-found"
+	},
+	{
+		"id": 7200,
+		"error": "not-found"
+	},
+	{
+		"id": 7201,
+		"error": "not-found"
+	},
+	{
+		"id": 7202,
+		"error": "not-found"
+	},
+	{
+		"id": 7203,
+		"error": "not-found"
+	},
+	{
+		"id": 7204,
+		"error": "not-found"
+	},
+	{
+		"id": 7205,
+		"error": "not-found"
+	},
+	{
+		"id": 7206,
+		"error": "not-found"
+	},
+	{
+		"id": 7207,
+		"error": "not-found"
+	},
+	{
+		"id": 7208,
+		"error": "not-found"
+	},
+	{
+		"id": 7209,
+		"error": "not-found"
+	},
+	{
+		"id": 7210,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"ローズオニール キューピー"
+		],
+		"id": 7211,
+		"type": "TV",
+		"title": "Rose O'Neill Kewpie"
+	},
+	{
+		"id": 7212,
+		"error": "not-found"
+	},
+	{
+		"id": 7213,
+		"error": "not-found"
+	},
+	{
+		"id": 7214,
+		"error": "not-found"
+	},
+	{
+		"id": 7215,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"世界童話アニメ全集"
+		],
+		"synonyms": [
+			"Sekai Dowa Anime Zenshu"
+		],
+		"english": [
+			"My Favorite Fairy Tales"
+		],
+		"id": 7216,
+		"type": "OVA",
+		"title": "Sekai Douwa Anime Zenshuu"
+	},
+	{
+		"id": 7217,
+		"error": "not-found"
+	},
+	{
+		"id": 7218,
+		"error": "not-found"
+	},
+	{
+		"id": 7219,
+		"error": "not-found"
+	},
+	{
+		"id": 7220,
+		"error": "not-found"
+	},
+	{
+		"id": 7221,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"劇場版 マクロスＦ 恋離飛翼 ～サヨナラノツバサ～"
+		],
+		"synonyms": [
+			"Macross Frontier the Movie 2",
+			"Gekijouban Macross F: Sayonara no Tsubasa",
+			"Macross Frontier: The Wings of Goodbye",
+			"Macross Frontier: The Wings of Farewell"
+		],
+		"id": 7222,
+		"type": "Movie",
+		"title": "Macross F Movie 2: Sayonara no Tsubasa"
+	},
+	{
+		"id": 7223,
+		"error": "not-found"
+	},
+	{
+		"id": 7224,
+		"error": "not-found"
+	},
+	{
+		"id": 7225,
+		"error": "not-found"
+	},
+	{
+		"id": 7226,
+		"error": "not-found"
+	},
+	{
+		"id": 7227,
+		"error": "not-found"
+	},
+	{
+		"id": 7228,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"ブラック・ジャック(インターネット版)"
+		],
+		"synonyms": [
+			"Black Jack: Internet-han"
+		],
+		"id": 7229,
+		"type": "ONA",
+		"title": "Black Jack ONA"
+	},
+	{
+		"japanese": [
+			"星に願いを COLD BODY + WARM HEART"
+		],
+		"id": 7230,
+		"type": "ONA",
+		"title": "Hoshi ni Negai wo: Cold Body + Warm Heart"
+	},
+	{
+		"id": 7231,
+		"error": "not-found"
+	},
+	{
+		"id": 7232,
+		"error": "not-found"
+	},
+	{
+		"id": 7233,
+		"error": "not-found"
+	},
+	{
+		"id": 7234,
+		"error": "not-found"
+	},
+	{
+		"id": 7235,
+		"error": "not-found"
+	},
+	{
+		"id": 7236,
+		"error": "not-found"
+	},
+	{
+		"id": 7237,
+		"error": "not-found"
+	},
+	{
+		"id": 7238,
+		"error": "not-found"
+	},
+	{
+		"id": 7239,
+		"error": "not-found"
+	},
+	{
+		"id": 7240,
+		"error": "not-found"
+	},
+	{
+		"id": 7241,
+		"error": "not-found"
+	},
+	{
+		"id": 7242,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"水棲"
+		],
+		"english": [
+			"Aquatic"
+		],
+		"id": 7243,
+		"type": "Movie",
+		"title": "Suisei"
+	},
+	{
+		"japanese": [
+			"ひゃっかずかん"
+		],
+		"english": [
+			"Japanese-English Pictionary"
+		],
+		"id": 7244,
+		"type": "Movie",
+		"title": "Hyakka Zukan"
+	},
+	{
+		"japanese": [
+			"アニメ世界の童話 / メルヘン王国"
+		],
+		"synonyms": [
+			"Anime Sekai no Douwa Series",
+			"Merhen Okoku",
+			"Meruhen Ookoku",
+			"Animated Children's Stories of the World"
+		],
+		"english": [
+			"The World's Most Famous Tales"
+		],
+		"id": 7245,
+		"type": "TV",
+		"title": "Sekai Meisaku Douwa: Wow! Maerchen Oukoku"
+	},
+	{
+		"id": 7246,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"ネイキッドウルブズ"
+		],
+		"synonyms": [
+			"Hadaka no Ookami"
+		],
+		"id": 7247,
+		"type": "TV",
+		"title": "Naked Wolves"
+	},
+	{
+		"japanese": [
+			"トップをねらえ！ GunBuster"
+		],
+		"english": [
+			"Gunbuster Renewal EX"
+		],
+		"id": 7248,
+		"type": "Special",
+		"title": "Top wo Nerae! Gunbuster Specials"
+	},
+	{
+		"id": 7249,
+		"error": "not-found"
+	},
+	{
+		"id": 7250,
+		"error": "not-found"
+	},
+	{
+		"id": 7251,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"グリックの冒険"
+		],
+		"english": [
+			"The Enchanted Journey"
+		],
+		"id": 7252,
+		"type": "Movie",
+		"title": "Grick no Bouken"
+	},
+	{
+		"id": 7253,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"遙かなる時空の中で3 終わりなき運命"
+		],
+		"synonyms": [
+			"In a Distant Time 3: Neverending Destiny",
+			"Haruka Naru Toki no Naka de 3: Owarinaki Unmei"
+		],
+		"id": 7254,
+		"type": "Special",
+		"title": "Harukanaru Toki no Naka de 3: Owarinaki Unmei"
+	},
+	{
+		"japanese": [
+			"花折り"
+		],
+		"synonyms": [
+			"Hana-ori"
+		],
+		"english": [
+			"The Breaking of Branches is Forbidden"
+		],
+		"id": 7255,
+		"type": "Movie",
+		"title": "Hanaori"
+	},
+	{
+		"id": 7256,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"詩人の生涯"
+		],
+		"synonyms": [
+			"Shijin no Shogai",
+			"The Life of a Poet"
+		],
+		"english": [
+			"A Poet's Life"
+		],
+		"id": 7257,
+		"type": "Movie",
+		"title": "Shijin no Shougai"
+	},
+	{
+		"japanese": [
+			"旅"
+		],
+		"synonyms": [
+			"Travel",
+			"The Trip"
+		],
+		"id": 7258,
+		"type": "Movie",
+		"title": "Tabi"
+	},
+	{
+		"japanese": [
+			"犬儒戯画"
+		],
+		"synonyms": [
+			"Farce anthropo-cynique"
+		],
+		"english": [
+			"Anthropo-Cynical Farce"
+		],
+		"id": 7259,
+		"type": "Movie",
+		"title": "Kenju Giga"
+	},
+	{
+		"id": 7260,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"豆しば"
+		],
+		"id": 7261,
+		"type": "Special",
+		"title": "Mameshiba"
+	},
+	{
+		"japanese": [
+			"かぎろひ～勺景～"
+		],
+		"id": 7262,
+		"type": "OVA",
+		"title": "Kagirohi: Shaku Kei"
+	},
+	{
+		"id": 7263,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"陰陽師 妖かしの女神～淫乱呪縛～"
+		],
+		"synonyms": [
+			"Onmyouji: Youen Emaki",
+			"Onmyouji Youkashi no Megami: Inran Jubaku"
+		],
+		"id": 7264,
+		"type": "OVA",
+		"title": "Onmyouji Ayakashi no Megami: Inran Jubaku"
+	},
+	{
+		"japanese": [
+			"殻ノ少女"
+		],
+		"id": 7265,
+		"type": "OVA",
+		"title": "Kara no Shoujo"
+	},
+	{
+		"japanese": [
+			"びんかんアスリート"
+		],
+		"id": 7266,
+		"type": "OVA",
+		"title": "Binkan Athlete"
+	},
+	{
+		"id": 7267,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"Diabolus～鬼哭～"
+		],
+		"id": 7268,
+		"type": "OVA",
+		"title": "Diabolus: Kikoku"
+	},
+	{
+		"id": 7269,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"機動戦士ガンダム00 スペシャルエディション"
+		],
+		"synonyms": [
+			"Kidou Senshi Gundam 00 Special Edition",
+			"Mobile Suit Gundam 00 Special Edition I: Celestial Being",
+			"Mobile Suit Gundam 00 Special Edition II: End of World",
+			"Mobile Suit Gundam 00 Special Edition III: Return of World"
+		],
+		"english": [
+			"Mobile Suit Gundam 00 Special Edition"
+		],
+		"id": 7270,
+		"type": "OVA",
+		"title": "Mobile Suit Gundam 00 Special Edition"
+	},
+	{
+		"id": 7271,
+		"error": "not-found"
+	},
+	{
+		"id": 7272,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"二度と目覚めぬ子守唄"
+		],
+		"synonyms": [
+			"Nidoto Mezamenu Komori Uta",
+			"Lullaby to the Big Sleep",
+			"Lullaby Not Awake Two Times"
+		],
+		"english": [
+			"The Death Lullaby"
+		],
+		"id": 7273,
+		"type": "Movie",
+		"title": "Nido to Mezamenu Komori Uta"
+	},
+	{
+		"id": 7274,
+		"error": "not-found"
+	},
+	{
+		"id": 7275,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"夏蟲 THE ANIMATION"
+		],
+		"id": 7276,
+		"type": "OVA",
+		"title": "Natsumushi The Animation"
+	},
+	{
+		"id": 7277,
+		"error": "not-found"
+	},
+	{
+		"id": 7278,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"トゥー"
+		],
+		"synonyms": [
+			"2001 Ya Monogatari",
+			"Tooo",
+			"To - A Space Fantasy",
+			"T.O. 2001 Nights",
+			"Elliptical Orbit",
+			"Symbiotic Planet"
+		],
+		"id": 7279,
+		"type": "OVA",
+		"title": "TO"
+	},
+	{
+		"id": 7280,
+		"error": "not-found"
+	},
+	{
+		"id": 7281,
+		"error": "not-found"
+	},
+	{
+		"id": 7282,
+		"error": "not-found"
+	},
+	{
+		"id": 7283,
+		"error": "not-found"
+	},
+	{
+		"id": 7284,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"銀河鉄道999 ダイヤモンドリングの彼方へ"
+		],
+		"synonyms": [
+			"Ginga Tetsudo 999: Diamond Ring no Kanata e"
+		],
+		"english": [
+			"Galaxy Express 999: Beyond the Diamond Ring"
+		],
+		"id": 7285,
+		"type": "Movie",
+		"title": "Ginga Tetsudou 999: Diamond Ring no Kanata e"
+	},
+	{
+		"id": 7286,
+		"error": "not-found"
+	},
+	{
+		"id": 7287,
+		"error": "not-found"
+	},
+	{
+		"id": 7288,
+		"error": "not-found"
+	},
+	{
+		"id": 7289,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"サイボーグ００９ 怪獣戦争"
+		],
+		"synonyms": [
+			"Cyborg 009 Kaishuu Sensou"
+		],
+		"english": [
+			"Cyborg 009 and the Monster Wars"
+		],
+		"id": 7290,
+		"type": "Movie",
+		"title": "Cyborg 009: Kaijuu Sensou"
+	},
+	{
+		"id": 7291,
+		"error": "not-found"
+	},
+	{
+		"id": 7292,
+		"error": "not-found"
+	},
+	{
+		"id": 7293,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"リカちゃん　ふしぎな魔法のリング"
+		],
+		"synonyms": [
+			"Licca-chan: FMR",
+			"Licca-chan and Her Amazing Magic Ring"
+		],
+		"english": [
+			"Licca: Mysterious Magical Ring"
+		],
+		"id": 7294,
+		"type": "OVA",
+		"title": "Licca-chan Fushigi na Mahou no Ring"
+	},
+	{
+		"japanese": [
+			"恋つぼみ"
+		],
+		"synonyms": [
+			"Minna no Uta"
+		],
+		"id": 7295,
+		"type": "Music",
+		"title": "Koi Tsubomi"
+	},
+	{
+		"japanese": [
+			"道"
+		],
+		"synonyms": [
+			"Minna no Uta: Michi"
+		],
+		"id": 7296,
+		"type": "Music",
+		"title": "Michi (Music)"
+	},
+	{
+		"id": 7297,
+		"error": "not-found"
+	},
+	{
+		"id": 7298,
+		"error": "not-found"
+	},
+	{
+		"id": 7299,
+		"error": "not-found"
+	},
+	{
+		"id": 7300,
+		"error": "not-found"
+	},
+	{
+		"id": 7301,
+		"error": "not-found"
+	},
+	{
+		"id": 7302,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"名探偵コナン ブラック ヒストリー 黒の組織と対決の歴史"
+		],
+		"synonyms": [
+			"Meitantei Conan: Kuro no Soshiki to Taiketsu no Rekishi",
+			"Episode 490.1",
+			"Case Closed: Black History"
+		],
+		"id": 7303,
+		"type": "Special",
+		"title": "Detective Conan: Black History"
+	},
+	{
+		"japanese": [
+			"名探偵コナン 銀翼のタイムトラベル"
+		],
+		"synonyms": [
+			"Detective Conan Movie 08: Promo Special",
+			"Detective Conan Movie 08: Magician of the Silver Sky Recap",
+			"Detective Conan Movie 08: Magician of the Silver Sky Special",
+			"Detective Conan Movie 08 Pre-Release Special",
+			"Meitantei Conan: Ginyoku no Time Travel"
+		],
+		"id": 7304,
+		"type": "Special",
+		"title": "Detective Conan Movie 08: Time Travel of the Silver Sky"
+	},
+	{
+		"japanese": [
+			"名探偵コナン　探偵たちの鎮魂歌[レクイエム]"
+		],
+		"synonyms": [
+			"Meitantei Conan: Tantei-tachi no Requiem Recap Special",
+			"The Private Eyes' Requiem Special",
+			"Detective Conan Movie 10: Requiem of the Detectives Recap"
+		],
+		"id": 7305,
+		"type": "Special",
+		"title": "Detective Conan Movie 10: Promo Special"
+	},
+	{
+		"id": 7306,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"ゲゲゲの鬼太郎"
+		],
+		"synonyms": [
+			"Spooky Kitaro"
+		],
+		"id": 7307,
+		"type": "TV",
+		"title": "Gegege no Kitarou (1985)"
+	},
+	{
+		"japanese": [
+			"未来少年コナン (1979)"
+		],
+		"synonyms": [
+			"Mirai Shounen Conan (1979)",
+			"The Boy in Future (1979)"
+		],
+		"english": [
+			"Future Boy Conan Movie"
+		],
+		"id": 7308,
+		"type": "Movie",
+		"title": "Mirai Shounen Conan (Movie)"
+	},
+	{
+		"id": 7309,
+		"error": "not-found"
+	},
+	{
+		"id": 7310,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"涼宮ハルヒの消失"
+		],
+		"synonyms": [
+			"The Vanishment of Haruhi Suzumiya",
+			"Suzumiya Haruhi no Syoshitsu",
+			"Haruhi Movie"
+		],
+		"english": [
+			"The Disappearance of Haruhi Suzumiya"
+		],
+		"id": 7311,
+		"type": "Movie",
+		"title": "Suzumiya Haruhi no Shoushitsu"
+	},
+	{
+		"id": 7312,
+		"error": "not-found"
+	},
+	{
+		"id": 7313,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"よなよなペンギン"
+		],
+		"id": 7314,
+		"type": "Movie",
+		"title": "Yona Yona Penguin"
+	},
+	{
+		"id": 7315,
+		"error": "not-found"
+	},
+	{
+		"id": 7316,
+		"error": "not-found"
+	},
+	{
+		"id": 7317,
+		"error": "not-found"
+	},
+	{
+		"id": 7318,
+		"error": "not-found"
+	},
+	{
+		"id": 7319,
+		"error": "not-found"
+	},
+	{
+		"id": 7320,
+		"error": "not-found"
+	},
+	{
+		"id": 7321,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"ニードレス"
+		],
+		"synonyms": [
+			"Needless+"
+		],
+		"id": 7322,
+		"type": "Special",
+		"title": "Needless Specials"
+	},
+	{
+		"id": 7323,
+		"error": "not-found"
+	},
+	{
+		"id": 7324,
+		"error": "not-found"
+	},
+	{
+		"id": 7325,
+		"error": "not-found"
+	},
+	{
+		"id": 7326,
+		"error": "not-found"
+	},
+	{
+		"id": 7327,
+		"error": "not-found"
+	},
+	{
+		"id": 7328,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"とっとこハム太郎 ハムハムランド大冒険"
+		],
+		"synonyms": [
+			"Hamtaro the Movie",
+			"Hamutarou"
+		],
+		"english": [
+			"Hamtaro Movie 1: Ham Ham Land Big Adventure"
+		],
+		"id": 7329,
+		"type": "Movie",
+		"title": "Tottoko Hamtarou Movie 1: Ham-Ham Land Daibouken"
+	},
+	{
+		"japanese": [
+			"とっとこハム太郎 ハムハムハムージャ！幻のプリンセス"
+		],
+		"synonyms": [
+			"Tottoko Hamutarou: Hamu Hamu Hamuuja! Maboroshi no Princess"
+		],
+		"id": 7330,
+		"type": "Movie",
+		"title": "Tottoko Hamtarou Movie 2: Ham-Ham Hamuuja! Maboroshi no Princess"
+	},
+	{
+		"id": 7331,
+		"error": "not-found"
+	},
+	{
+		"id": 7332,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"恋する天使アンジェリーク ～かがやきの明日～ OVA"
+		],
+		"synonyms": [
+			"Koi Suru Tenshi Angelique",
+			"Koi Suru Tenshi Angelique: Kagayaki no Ashita OVA"
+		],
+		"english": [
+			"Loving Angel Angelique: Radiant Tomorrow Special"
+		],
+		"id": 7333,
+		"type": "Special",
+		"title": "Koisuru Tenshi Angelique: Kagayaki no Ashita Special"
+	},
+	{
+		"japanese": [
+			"爆丸バトルブローラーズ Gundalian Invaders"
+		],
+		"english": [
+			"Bakugan: Gundalian Invaders"
+		],
+		"id": 7334,
+		"type": "TV",
+		"title": "Bakugan Battle Brawlers: Gundalian Invaders"
+	},
+	{
+		"id": 7335,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"サイボーグ００９・超銀河伝説"
+		],
+		"synonyms": [
+			"Defenders of The Vortex"
+		],
+		"english": [
+			"Cyborg 009: Legend of the Super Galaxy"
+		],
+		"id": 7336,
+		"type": "Movie",
+		"title": "Cyborg 009: Chou Ginga Densetsu"
+	},
+	{
+		"japanese": [
+			"銀幕ヘタリア Axis Powers Paint it",
+			"White (白くぬれ！)"
+		],
+		"synonyms": [
+			"Ginmaku Hetalia: Axis Powers - Paint it",
+			"White (Shiroku Nure!)"
+		],
+		"english": [
+			"Hetalia Axis Powers: Paint it",
+			"White!"
+		],
+		"id": 7337,
+		"type": "Movie",
+		"title": "Hetalia Axis Powers Movie: Paint it, White"
+	},
+	{
+		"japanese": [
+			"Darker than BLACK -黒の契約者 外伝"
+		],
+		"synonyms": [
+			"Darker than Black: Ryuusei no Gemini Specials",
+			"Darker than BLACK 2 OVA",
+			"DTB",
+			"Darker than Black: Ryuusei no Gemini Episode 12"
+		],
+		"id": 7338,
+		"type": "Special",
+		"title": "Darker than Black: Kuro no Keiyakusha Gaiden"
+	},
+	{
+		"id": 7339,
+		"error": "not-found"
+	},
+	{
+		"id": 7340,
+		"error": "not-found"
+	},
+	{
+		"id": 7341,
+		"error": "not-found"
+	},
+	{
+		"id": 7342,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"妖美マゾアニメーション"
+		],
+		"english": [
+			"Youbi Masochist Animation"
+		],
+		"id": 7343,
+		"type": "OVA",
+		"title": "Youbi Masochist Animation"
+	},
+	{
+		"id": 7344,
+		"error": "not-found"
+	},
+	{
+		"id": 7345,
+		"error": "not-found"
+	},
+	{
+		"id": 7346,
+		"error": "not-found"
+	},
+	{
+		"id": 7347,
+		"error": "not-found"
+	},
+	{
+		"id": 7348,
+		"error": "not-found"
+	},
+	{
+		"id": 7349,
+		"error": "not-found"
+	},
+	{
+		"id": 7350,
+		"error": "not-found"
+	},
+	{
+		"id": 7351,
+		"error": "not-found"
+	},
+	{
+		"id": 7352,
+		"error": "not-found"
+	},
+	{
+		"id": 7353,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"力と女の世の中"
+		],
+		"synonyms": [
+			"Chikara to Onna no Yononaka",
+			"Within the World of Power and Women",
+			"The World of Power and Women"
+		],
+		"id": 7354,
+		"type": "Movie",
+		"title": "Chikara to Onna no Yo no Naka"
+	},
+	{
+		"id": 7355,
+		"error": "not-found"
+	},
+	{
+		"id": 7356,
+		"error": "not-found"
+	},
+	{
+		"id": 7357,
+		"error": "not-found"
+	},
+	{
+		"id": 7358,
+		"error": "not-found"
+	},
+	{
+		"id": 7359,
+		"error": "not-found"
+	},
+	{
+		"id": 7360,
+		"error": "not-found"
+	},
+	{
+		"id": 7361,
+		"error": "not-found"
+	},
+	{
+		"id": 7362,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"北斗の拳 LEGEND of HEROES"
+		],
+		"synonyms": [
+			"Fist of The North Star: Legend of Heroes (CGI)"
+		],
+		"id": 7363,
+		"type": "Special",
+		"title": "Hokuto no Ken: Legend of Heroes"
+	},
+	{
+		"japanese": [
+			"ドラゴンクエスト　ダイの大冒険　ぶちやぶれ！！新生６大将軍"
+		],
+		"synonyms": [
+			"Dragon Quest: Dai no Daibouken Buchiya Gare!! Shinsei 6 Daishougun"
+		],
+		"english": [
+			"Dragon Quest Great Adventure of Dai! Destroy!! The Reborn 6 Commanders"
+		],
+		"id": 7364,
+		"type": "Movie",
+		"title": "Dragon Quest: Dai no Daibouken Buchiyabure!! Shinsei 6 Daishougun"
+	},
+	{
+		"id": 7365,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"ぼくの地球を守って～亜梨子から、輪くんへ～"
+		],
+		"english": [
+			"Please Save My Earth Movie: From Alice to Rin-kun"
+		],
+		"id": 7366,
+		"type": "Movie",
+		"title": "Boku no Chikyuu wo Mamotte: Alice kara, Rin-kun e"
+	},
+	{
+		"japanese": [
+			"ナルト サ・クロスローズ"
+		],
+		"synonyms": [
+			"Naruto's 10th Anniversary"
+		],
+		"id": 7367,
+		"type": "Special",
+		"title": "Naruto: The Cross Roads"
+	},
+	{
+		"id": 7368,
+		"error": "not-found"
+	},
+	{
+		"id": 7369,
+		"error": "not-found"
+	},
+	{
+		"id": 7370,
+		"error": "not-found"
+	},
+	{
+		"id": 7371,
+		"error": "not-found"
+	},
+	{
+		"id": 7372,
+		"error": "not-found"
+	},
+	{
+		"id": 7373,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"100%"
+		],
+		"english": [
+			"A Hundred Percents"
+		],
+		"id": 7374,
+		"type": "OVA",
+		"title": "100%"
+	},
+	{
+		"japanese": [
+			"灼眼のシャナたん"
+		],
+		"synonyms": [
+			"Shakugan no Shana-tan G",
+			"Shakugan no Shana-tan Dos",
+			"Shakugan no Shana-tan Tri",
+			"Shakugan no Shana-tan Frontier"
+		],
+		"id": 7375,
+		"type": "Special",
+		"title": "Shakugan no Shana S Specials"
+	},
+	{
+		"japanese": [
+			"くるみ割り人形"
+		],
+		"english": [
+			"Nutcracker Fantasy"
+		],
+		"id": 7376,
+		"type": "Movie",
+		"title": "Kurumiwari Ningyou"
+	},
+	{
+		"japanese": [
+			"冬のソナタ"
+		],
+		"synonyms": [
+			"Fuyu no Sonata Episode 0",
+			"Winter Ballad Episode 0",
+			"Winter Love Story Episode 0"
+		],
+		"id": 7377,
+		"type": "Special",
+		"title": "Winter Sonata Episode 0"
+	},
+	{
+		"id": 7378,
+		"error": "not-found"
+	},
+	{
+		"id": 7379,
+		"error": "not-found"
+	},
+	{
+		"id": 7380,
+		"error": "not-found"
+	},
+	{
+		"id": 7381,
+		"error": "not-found"
+	},
+	{
+		"id": 7382,
+		"error": "not-found"
+	},
+	{
+		"id": 7383,
+		"error": "not-found"
+	},
+	{
+		"id": 7384,
+		"error": "not-found"
+	},
+	{
+		"id": 7385,
+		"error": "not-found"
+	},
+	{
+		"id": 7386,
+		"error": "not-found"
+	},
+	{
+		"id": 7387,
+		"error": "not-found"
+	},
+	{
+		"id": 7388,
+		"error": "not-found"
+	},
+	{
+		"id": 7389,
+		"error": "not-found"
+	},
+	{
+		"id": 7390,
+		"error": "not-found"
+	},
+	{
+		"id": 7391,
+		"error": "not-found"
+	},
+	{
+		"id": 7392,
+		"error": "not-found"
+	},
+	{
+		"id": 7393,
+		"error": "not-found"
+	},
+	{
+		"id": 7394,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"카드왕 믹스마스터"
+		],
+		"synonyms": [
+			"Card Ou Mix Master"
+		],
+		"english": [
+			"Mix Master: King of Cards"
+		],
+		"id": 7395,
+		"type": "TV",
+		"title": "Card Wang: Mix Master"
+	},
+	{
+		"japanese": [
+			"SHUFFLE! (シャッフル!) Prologue"
+		],
+		"id": 7396,
+		"type": "OVA",
+		"title": "Shuffle! Prologue"
+	},
+	{
+		"id": 7397,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"世界名作童話"
+		],
+		"english": [
+			"World Famous Fairy Tale Series"
+		],
+		"id": 7398,
+		"type": "OVA",
+		"title": "Sekai Meisaku Douwa"
+	},
+	{
+		"id": 7399,
+		"error": "not-found"
+	},
+	{
+		"id": 7400,
+		"error": "not-found"
+	},
+	{
+		"id": 7401,
+		"error": "not-found"
+	},
+	{
+		"id": 7402,
+		"error": "not-found"
+	},
+	{
+		"id": 7403,
+		"error": "not-found"
+	},
+	{
+		"id": 7404,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"ジャンケンマン"
+		],
+		"id": 7405,
+		"type": "TV",
+		"title": "Jankenman"
+	},
+	{
+		"id": 7406,
+		"error": "not-found"
+	},
+	{
+		"id": 7407,
+		"error": "not-found"
+	},
+	{
+		"id": 7408,
+		"error": "not-found"
+	},
+	{
+		"id": 7409,
+		"error": "not-found"
+	},
+	{
+		"id": 7410,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"彼女×彼女×彼女～三姉妹とのドキドキ共同生活～"
+		],
+		"english": [
+			"Kanojo x Kanojo x Kanojo"
+		],
+		"id": 7411,
+		"type": "OVA",
+		"title": "Kanojo x Kanojo x Kanojo: Sanshimai to no DokiDoki Kyoudou Seikatsu"
+	},
+	{
+		"id": 7412,
+		"error": "not-found"
+	},
+	{
+		"id": 7413,
+		"error": "not-found"
+	},
+	{
+		"id": 7414,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"向ヶ丘千里はただ見つめていたのだった"
+		],
+		"synonyms": [
+			"Mukougaoka Chisato Was Only Gazing"
+		],
+		"id": 7415,
+		"type": "Music",
+		"title": "Mukougaoka Chisato wa Tada Mitsumeteita no Datta"
+	},
+	{
+		"japanese": [
+			"Socket"
+		],
+		"id": 7416,
+		"type": "OVA",
+		"title": "Socket"
+	},
+	{
+		"id": 7417,
+		"error": "not-found"
+	},
+	{
+		"id": 7418,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"レスラー軍団＜銀河編＞ 聖戦士ロビンＪｒ．"
+		],
+		"synonyms": [
+			"Wrestler Corps Commander Holy Warrior Robin Jr.",
+			"Wrestler Gundan Ginga-hen",
+			"Holy Warrior Robin Jr.",
+			"Gundan Seisenshi Robin Jr"
+		],
+		"id": 7419,
+		"type": "TV",
+		"title": "Wrestler Gundan Seisenshi Robin Jr."
+	},
+	{
+		"japanese": [
+			"별별 이야기 -차별에 대한 유쾌한 풍자-"
+		],
+		"synonyms": [
+			"If You Were Me: Anima Vision (2005)"
+		],
+		"id": 7420,
+		"type": "Movie",
+		"title": "Byulbyul Iyagi"
+	},
+	{
+		"id": 7421,
+		"error": "not-found"
+	},
+	{
+		"id": 7422,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"rien村物語 #1 「トイレにいっときやー」"
+		],
+		"synonyms": [
+			"The Tales of Rien Village #1: Nature is calling!"
+		],
+		"id": 7423,
+		"type": "ONA",
+		"title": "The Tales of Rien Village #1: \"Toilet ni Ittokiya\""
+	},
+	{
+		"id": 7424,
+		"error": "not-found"
+	},
+	{
+		"id": 7425,
+		"error": "not-found"
+	},
+	{
+		"id": 7426,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"月面兎兵器ミーナ"
+		],
+		"synonyms": [
+			"Getsumen To Heiki Mina DVD Episodes",
+			"Getsumen To Heiki Miina EX",
+			"Getsumen To Heiki Mina OVA"
+		],
+		"id": 7427,
+		"type": "Special",
+		"title": "Getsumen To Heiki Mina Specials"
+	},
+	{
+		"id": 7428,
+		"error": "not-found"
+	},
+	{
+		"id": 7429,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"金色のガッシュベル！！00F～黄金のチチをもつ男～"
+		],
+		"synonyms": [
+			"Konjiki no Gash Bell!!: 00F - The Man With the Golden Tits",
+			"Zatch Bell!: 00F - The Man With the Golden Tits"
+		],
+		"id": 7430,
+		"type": "OVA",
+		"title": "Konjiki no Gash Bell!!: Ougon no Chichi wo Motsu Otoko"
+	},
+	{
+		"id": 7431,
+		"error": "not-found"
+	},
+	{
+		"id": 7432,
+		"error": "not-found"
+	},
+	{
+		"id": 7433,
+		"error": "not-found"
+	},
+	{
+		"id": 7434,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"ドラゴンクエスト ダイの大冒険"
+		],
+		"synonyms": [
+			"Dragon Quest Dai no Daiboken"
+		],
+		"english": [
+			"Dragon Quest: Great Adventure of Dai"
+		],
+		"id": 7435,
+		"type": "Movie",
+		"title": "Dragon Quest: Dai no Daibouken (1991)"
+	},
+	{
+		"japanese": [
+			"ドラゴンクエスト　ダイの大冒険　起ち・がれ！！アバンの使徒"
+		],
+		"synonyms": [
+			"Dragon Quest: Dai no Daiboken Tachiagare! Aban no Shito",
+			"Stand up!! Disciples of Avan"
+		],
+		"english": [
+			"Dragon Quest Great Adventure of Dai! Disciple of Aban."
+		],
+		"id": 7436,
+		"type": "Movie",
+		"title": "Dragon Quest: Dai no Daibouken Tachiagare!! Aban no Shito"
+	},
+	{
+		"id": 7437,
+		"error": "not-found"
+	},
+	{
+		"id": 7438,
+		"error": "not-found"
+	},
+	{
+		"id": 7439,
+		"error": "not-found"
+	},
+	{
+		"id": 7440,
+		"error": "not-found"
+	},
+	{
+		"id": 7441,
+		"error": "not-found"
+	},
+	{
+		"id": 7442,
+		"error": "not-found"
+	},
+	{
+		"id": 7443,
+		"error": "not-found"
+	},
+	{
+		"id": 7444,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"カロとピヨブプト-おうち"
+		],
+		"english": [
+			"Karo & Piyobupt: A House"
+		],
+		"id": 7445,
+		"type": "Movie",
+		"title": "Karo to Piyobupt: Ouchi"
+	},
+	{
+		"japanese": [
+			"カロとピヨブプト　サンドイッチ"
+		],
+		"english": [
+			"Karo & Piyobupt: The Sandwiches"
+		],
+		"id": 7446,
+		"type": "Movie",
+		"title": "Karo to Piyobupt: Sandwich"
+	},
+	{
+		"id": 7447,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"パ ク シ"
+		],
+		"synonyms": [
+			"Pakushi"
+		],
+		"id": 7448,
+		"type": "TV",
+		"title": "Pacusi"
+	},
+	{
+		"japanese": [
+			"パクシのうた"
+		],
+		"synonyms": [
+			"Pakushi no Uta",
+			"Pacusi Song"
+		],
+		"id": 7449,
+		"type": "Special",
+		"title": "Pacusi no Uta"
+	},
+	{
+		"japanese": [
+			"キップリングJr."
+		],
+		"id": 7450,
+		"type": "Movie",
+		"title": "Kipling Jr."
+	},
+	{
+		"japanese": [
+			"キッズキャッスル"
+		],
+		"english": [
+			"Kid's Castle"
+		],
+		"id": 7451,
+		"type": "Movie",
+		"title": "Kid's Castle"
+	},
+	{
+		"japanese": [
+			"ミニモニ。やるのだぴょん"
+		],
+		"id": 7452,
+		"type": "TV",
+		"title": "Mini Moni Yaru no da Pyon!"
+	},
+	{
+		"japanese": [
+			"AIKa ZERO"
+		],
+		"id": 7453,
+		"type": "Special",
+		"title": "AIKa Zero Picture Drama"
+	},
+	{
+		"id": 7454,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"狂った教頭 断罪の学園"
+		],
+		"id": 7455,
+		"type": "OVA",
+		"title": "Kurutta Kyoutou: Danzai no Gakuen"
+	},
+	{
+		"japanese": [
+			"DISCIPLINE 零"
+		],
+		"synonyms": [
+			"Discipline Rei"
+		],
+		"id": 7456,
+		"type": "OVA",
+		"title": "Discipline Zero"
+	},
+	{
+		"id": 7457,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"私の知らない妻（メス）の貌"
+		],
+		"id": 7458,
+		"type": "OVA",
+		"title": "Watashi no Shiranai Mesu no Kao"
+	},
+	{
+		"japanese": [
+			"Inter College Animation Festival (2004) (インターカレッジ・アニメーション・フェスティバル)"
+		],
+		"synonyms": [
+			"Apple Colored Water",
+			"Dragonfly's Dream",
+			"Ash Time",
+			"The Hunter's Forest",
+			"Deep Breath",
+			"Yuubinyasan",
+			"Utakata No Hibi",
+			"Street of Millimeter"
+		],
+		"id": 7459,
+		"type": "OVA",
+		"title": "The Collected Animations of ICAF (2001-2006)"
+	},
+	{
+		"id": 7460,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"こまねこ のクリスマス　\u2015迷子になったプレゼント\u2015"
+		],
+		"english": [
+			"A Komaneko Christmas: The Lost Present"
+		],
+		"id": 7461,
+		"type": "Movie",
+		"title": "Komaneko no Christmas: Maigo ni Natta Present"
+	},
+	{
+		"id": 7462,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"ヴァイス・サヴァイヴR"
+		],
+		"synonyms": [
+			"Weiss Survive R"
+		],
+		"id": 7463,
+		"type": "TV",
+		"title": "Weiß Survive R"
+	},
+	{
+		"id": 7464,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"イヴの時間"
+		],
+		"synonyms": [
+			"Eve's Time",
+			"Eve no Jikan 1st Season Complete Edition",
+			"Gekijouban Eve no Jikan"
+		],
+		"english": [
+			"Time of Eve"
+		],
+		"id": 7465,
+		"type": "Movie",
+		"title": "Eve no Jikan (Movie)"
+	},
+	{
+		"japanese": [
+			"走れ！"
+		],
+		"english": [
+			"RUN!"
+		],
+		"id": 7466,
+		"type": "ONA",
+		"title": "Hashire!"
+	},
+	{
+		"id": 7467,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"プリンセスラバー!"
+		],
+		"id": 7468,
+		"type": "Special",
+		"title": "Princess Lover! Picture Drama"
+	},
+	{
+		"id": 7469,
+		"error": "not-found"
+	},
+	{
+		"id": 7470,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"名探偵コナン 水平線上の陰謀"
+		],
+		"synonyms": [
+			"Detective Conan Movie 09: Strategy Above the Depths Recap",
+			"Meitantei Conan: Suihei Senjou no Strategy Recap",
+			"Detective Conan Movie 09: Strategy Above the Depths Special"
+		],
+		"id": 7471,
+		"type": "Special",
+		"title": "Detective Conan Movie 09: Promo Special"
+	},
+	{
+		"japanese": [
+			"劇場版 銀魂 新訳紅桜篇"
+		],
+		"synonyms": [
+			"Gintama: Benizakura Arc - A New Retelling",
+			"Gintama Movie: Crimson Sakura Chapter New Edition",
+			"Gintama: Shin-yaku Benizakura-hen"
+		],
+		"english": [
+			"Gintama: The Movie"
+		],
+		"id": 7472,
+		"type": "Movie",
+		"title": "Gintama Movie 1: Shinyaku Benizakura-hen"
+	},
+	{
+		"japanese": [
+			"蓮如とその母"
+		],
+		"synonyms": [
+			"A Priest and His Mother"
+		],
+		"english": [
+			"Rennyo and His Mother"
+		],
+		"id": 7473,
+		"type": "Movie",
+		"title": "Rennyo to Sono Haha"
+	},
+	{
+		"japanese": [
+			"おねがい☆ティーチャー まりえ",
+			"愛の劇場"
+		],
+		"synonyms": [
+			"Onegai Teacher Specials",
+			"Onegai Teacher: Marie Love Theater"
+		],
+		"english": [
+			"Please Teacher: Marie Love Theater"
+		],
+		"id": 7474,
+		"type": "Special",
+		"title": "Onegai☆Teacher: Marie, Ai no Gekijou"
+	},
+	{
+		"japanese": [
+			"あの子に1000％"
+		],
+		"synonyms": [
+			"Anoko ni 1000%",
+			"1000% For That Girl"
+		],
+		"english": [
+			"That Girl is 1000%"
+		],
+		"id": 7475,
+		"type": "OVA",
+		"title": "Ano Ko ni 1000%"
+	},
+	{
+		"id": 7476,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"不射之射"
+		],
+		"synonyms": [
+			"To Shoot Without Shooting",
+			"Archer without a Bow",
+			"Bu She Zhi She"
+		],
+		"english": [
+			"To Shoot Without Shooting"
+		],
+		"id": 7477,
+		"type": "Movie",
+		"title": "Fusha no Sha"
+	},
+	{
+		"id": 7478,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"空手バカ一代"
+		],
+		"synonyms": [
+			"Ichidai the Karate Fool",
+			"The Fanatical Karate Generation"
+		],
+		"english": [
+			"Karate Master"
+		],
+		"id": 7479,
+		"type": "TV",
+		"title": "Karate Baka Ichidai"
+	},
+	{
+		"id": 7480,
+		"error": "not-found"
+	},
+	{
+		"id": 7481,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"夢から、さめない"
+		],
+		"id": 7482,
+		"type": "OVA",
+		"title": "Yume kara, Samenai"
+	},
+	{
+		"id": 7483,
+		"error": "not-found"
+	},
+	{
+		"id": 7484,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"浦島太郎"
+		],
+		"id": 7485,
+		"type": "Movie",
+		"title": "Urashima Tarou"
+	},
+	{
+		"id": 7486,
+		"error": "not-found"
+	},
+	{
+		"id": 7487,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"カロとピヨブプト-あめのひ"
+		],
+		"synonyms": [
+			"Rainy Day",
+			"Rainy Days"
+		],
+		"english": [
+			"Karo & Piyobupt: Imagination"
+		],
+		"id": 7488,
+		"type": "Movie",
+		"title": "Karo to Piyobupt: Ame no Hi"
+	},
+	{
+		"id": 7489,
+		"error": "not-found"
+	},
+	{
+		"id": 7490,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"ドラゴンクエスト列伝 ロトの紋章"
+		],
+		"english": [
+			"Dragon Quest - Emblem of Roto"
+		],
+		"id": 7491,
+		"type": "Movie",
+		"title": "Dragon Quest Retsuden: Roto no Monshou"
+	},
+	{
+		"id": 7492,
+		"error": "not-found"
+	},
+	{
+		"id": 7493,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"兎と亀"
+		],
+		"synonyms": [
+			"The Hare and The Tortoise",
+			"The Tortoise and the Hare"
+		],
+		"id": 7494,
+		"type": "Movie",
+		"title": "Usagi to Kame"
+	},
+	{
+		"japanese": [
+			"ノンキナトウサン竜宮参り"
+		],
+		"synonyms": [
+			"Dreamy Urashima"
+		],
+		"id": 7495,
+		"type": "Movie",
+		"title": "Nonki na Tou-san Ryuuguu Mairi"
+	},
+	{
+		"japanese": [
+			"西遊記孫悟空物語"
+		],
+		"synonyms": [
+			"Saiyuki",
+			"Journey to the West: Songoku's Story"
+		],
+		"id": 7496,
+		"type": "Movie",
+		"title": "Saiyuuki: Son Gokuu Monogatari"
+	},
+	{
+		"japanese": [
+			"みかん船"
+		],
+		"synonyms": [
+			"Mikansen",
+			"Mikanbun"
+		],
+		"english": [
+			"A Ship of Oranges"
+		],
+		"id": 7497,
+		"type": "Movie",
+		"title": "Mikan-bune"
+	},
+	{
+		"japanese": [
+			"動物オリムピック大會"
+		],
+		"synonyms": [
+			"Animal Olympic Games"
+		],
+		"english": [
+			"The Animal Olympics"
+		],
+		"id": 7498,
+		"type": "Movie",
+		"title": "Doubutsu Olympic Taikai"
+	},
+	{
+		"id": 7499,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"マー坊の少年航空兵"
+		],
+		"id": 7500,
+		"type": "Movie",
+		"title": "Maabou no Shounen Koukuu Tsuwamono"
+	},
+	{
+		"japanese": [
+			"キンタロー体育日記"
+		],
+		"synonyms": [
+			"Kintaro's Physical Education Diary"
+		],
+		"id": 7501,
+		"type": "Movie",
+		"title": "Kintarou Taiiku Nikki"
+	},
+	{
+		"id": 7502,
+		"error": "not-found"
+	},
+	{
+		"id": 7503,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"볼로기 이야기"
+		],
+		"english": [
+			"Bologee Story"
+		],
+		"id": 7504,
+		"type": "ONA",
+		"title": "Bollogi Iyagi"
+	},
+	{
+		"japanese": [
+			"ニャッキ！"
+		],
+		"id": 7505,
+		"type": "TV",
+		"title": "Knyacki!"
+	},
+	{
+		"id": 7506,
+		"error": "not-found"
+	},
+	{
+		"id": 7507,
+		"error": "not-found"
+	},
+	{
+		"id": 7508,
+		"error": "not-found"
+	},
+	{
+		"id": 7509,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"死者の書"
+		],
+		"synonyms": [
+			"The Book of a Dead Person",
+			"A Book of a Dead Person"
+		],
+		"english": [
+			"The Book of the Dead"
+		],
+		"id": 7510,
+		"type": "Movie",
+		"title": "Shisha no Sho"
+	},
+	{
+		"japanese": [
+			"WORKU (ウォルク)"
+		],
+		"synonyms": [
+			"Worku: From Behind",
+			"Stranger In Paradigm"
+		],
+		"id": 7511,
+		"type": "ONA",
+		"title": "Worku"
+	},
+	{
+		"japanese": [
+			"dambo"
+		],
+		"id": 7512,
+		"type": "Music",
+		"title": "Dambo"
+	},
+	{
+		"id": 7513,
+		"error": "not-found"
+	},
+	{
+		"id": 7514,
+		"error": "not-found"
+	},
+	{
+		"id": 7515,
+		"error": "not-found"
+	},
+	{
+		"id": 7516,
+		"error": "not-found"
+	},
+	{
+		"id": 7517,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"ぼくはくま"
+		],
+		"synonyms": [
+			"Minna no Uta: Boku wa Kuma",
+			"I am Bear",
+			"I'm a Bear"
+		],
+		"id": 7518,
+		"type": "Music",
+		"title": "Boku wa Kuma"
+	},
+	{
+		"id": 7519,
+		"error": "not-found"
+	},
+	{
+		"id": 7520,
+		"error": "not-found"
+	},
+	{
+		"id": 7521,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"太極千字文"
+		],
+		"english": [
+			"Tai Chi Chasers"
+		],
+		"id": 7522,
+		"type": "TV",
+		"title": "Taichi Senjimon"
+	},
+	{
+		"japanese": [
+			"フクちゃん部隊出撃の歌"
+		],
+		"synonyms": [
+			"Fuku-chan's Submarine"
+		],
+		"id": 7523,
+		"type": "Movie",
+		"title": "Fuku-chan no Sensuikan"
+	},
+	{
+		"japanese": [
+			"魔法のペン"
+		],
+		"synonyms": [
+			"The Magic Pen"
+		],
+		"id": 7524,
+		"type": "Movie",
+		"title": "Mahou no Pen"
+	},
+	{
+		"japanese": [
+			"キックオフ２００２"
+		],
+		"english": [
+			"Kick Off (2002)"
+		],
+		"id": 7525,
+		"type": "TV",
+		"title": "Kick Off 2002"
+	},
+	{
+		"japanese": [
+			"王様のしっぽ"
+		],
+		"english": [
+			"The King's Tail"
+		],
+		"id": 7526,
+		"type": "Movie",
+		"title": "Ousama no Shippo"
+	},
+	{
+		"japanese": [
+			"ポン助の腕くらべ"
+		],
+		"id": 7527,
+		"type": "Movie",
+		"title": "Ponsuke no Udekurabe"
+	},
+	{
+		"japanese": [
+			"くじら"
+		],
+		"synonyms": [
+			"The Whale (1952)"
+		],
+		"id": 7528,
+		"type": "Movie",
+		"title": "Kujira (1952)"
+	},
+	{
+		"japanese": [
+			"森の音楽会"
+		],
+		"synonyms": [
+			"The Forest Concert"
+		],
+		"id": 7529,
+		"type": "Movie",
+		"title": "Mori no Ongakukai"
+	},
+	{
+		"japanese": [
+			"花と蝶"
+		],
+		"synonyms": [
+			"The Flower and the Butterfly"
+		],
+		"id": 7530,
+		"type": "Movie",
+		"title": "Hana to Chou"
+	},
+	{
+		"japanese": [
+			"おんぶおばけ"
+		],
+		"synonyms": [
+			"Piggyback Ghost"
+		],
+		"id": 7531,
+		"type": "Movie",
+		"title": "Onbu Obake"
+	},
+	{
+		"japanese": [
+			"黒いきこりと白いきこり"
+		],
+		"english": [
+			"The Black Woodcutter and the White Woodcutter"
+		],
+		"id": 7532,
+		"type": "Movie",
+		"title": "Kuroi Kikori to Shiroi Kikori"
+	},
+	{
+		"id": 7533,
+		"error": "not-found"
+	},
+	{
+		"id": 7534,
+		"error": "not-found"
+	},
+	{
+		"id": 7535,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"装甲騎兵ボトムズ ペールゼン・ファイルズ"
+		],
+		"synonyms": [
+			"Soukou Kihei Votoms: Pailsen Files - Gekijouban",
+			"Armored Trooper Votoms: Pailsen Files the Movie"
+		],
+		"id": 7536,
+		"type": "Movie",
+		"title": "Soukou Kihei Votoms: Pailsen Files the Movie"
+	},
+	{
+		"id": 7537,
+		"error": "not-found"
+	},
+	{
+		"id": 7538,
+		"error": "not-found"
+	},
+	{
+		"id": 7539,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"鉄のラインバレル"
+		],
+		"synonyms": [
+			"Kurogane no Linebarrels OVA"
+		],
+		"english": [
+			"Linebarrels of Iron"
+		],
+		"id": 7540,
+		"type": "Special",
+		"title": "Kurogane no Linebarrels Specials"
+	},
+	{
+		"id": 7541,
+		"error": "not-found"
+	},
+	{
+		"id": 7542,
+		"error": "not-found"
+	},
+	{
+		"id": 7543,
+		"error": "not-found"
+	},
+	{
+		"id": 7544,
+		"error": "not-found"
+	},
+	{
+		"id": 7545,
+		"error": "not-found"
+	},
+	{
+		"id": 7546,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"こま撮りえいが こまねこ"
+		],
+		"synonyms": [
+			"Komaneko: the Stop-motion Movie"
+		],
+		"english": [
+			"Komaneko: the Curious Cat"
+		],
+		"id": 7547,
+		"type": "Movie",
+		"title": "Komadori Eiga: Komaneko"
+	},
+	{
+		"id": 7548,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"クイズマジックアカデミー ～オリジナルアニメーション2～"
+		],
+		"synonyms": [
+			"QMA"
+		],
+		"id": 7549,
+		"type": "OVA",
+		"title": "Quiz Magic Academy: The Original Animation 2"
+	},
+	{
+		"japanese": [
+			"ピカチュウたんけんクラブ"
+		],
+		"synonyms": [
+			"Pocket Monsters: Pikachu Tanken Kurabu"
+		],
+		"english": [
+			"Pikachu's Exploration Club"
+		],
+		"id": 7550,
+		"type": "Special",
+		"title": "Pokemon: Pikachu Tanken Club"
+	},
+	{
+		"japanese": [
+			"ゴワッパー5ゴーダム"
+		],
+		"synonyms": [
+			"Go Wapper 5 Go Dam",
+			"Gowappa 5 Godam"
+		],
+		"english": [
+			"Goliath the Super Fighter"
+		],
+		"id": 7551,
+		"type": "TV",
+		"title": "Gowapper 5 Gordam"
+	},
+	{
+		"id": 7552,
+		"error": "not-found"
+	},
+	{
+		"id": 7553,
+		"error": "not-found"
+	},
+	{
+		"id": 7554,
+		"error": "not-found"
+	},
+	{
+		"id": 7555,
+		"error": "not-found"
+	},
+	{
+		"id": 7556,
+		"error": "not-found"
+	},
+	{
+		"id": 7557,
+		"error": "not-found"
+	},
+	{
+		"id": 7558,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"Fate/stay night"
+		],
+		"synonyms": [
+			"Fate/stay night Recap",
+			"Fate/stay night OVA"
+		],
+		"id": 7559,
+		"type": "OVA",
+		"title": "Fate/stay night TV Reproduction"
+	},
+	{
+		"id": 7560,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"怪盗レーニャ"
+		],
+		"synonyms": [
+			"Kaito Reina",
+			"Phantom Thief Reinya"
+		],
+		"id": 7561,
+		"type": "TV",
+		"title": "Kaitou Reinya"
+	},
+	{
+		"id": 7562,
+		"error": "not-found"
+	},
+	{
+		"id": 7563,
+		"error": "not-found"
+	},
+	{
+		"id": 7564,
+		"error": "not-found"
+	},
+	{
+		"id": 7565,
+		"error": "not-found"
+	},
+	{
+		"id": 7566,
+		"error": "not-found"
+	},
+	{
+		"id": 7567,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"うみねこのなく頃に"
+		],
+		"synonyms": [
+			"Uraneko",
+			"When They Cry 3 Specials"
+		],
+		"english": [
+			"When the Seagulls Cry Specials"
+		],
+		"id": 7568,
+		"type": "Special",
+		"title": "Umineko no Naku Koro ni Specials"
+	},
+	{
+		"japanese": [
+			"アイドルA"
+		],
+		"synonyms": [
+			"Idol Ace Teaser",
+			"Idol A"
+		],
+		"english": [
+			"Idol Ace"
+		],
+		"id": 7569,
+		"type": "ONA",
+		"title": "Idol Ace"
+	},
+	{
+		"id": 7570,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"北へ。 ～Diamond Dust Drops～ Special"
+		],
+		"synonyms": [
+			"Kita e: Diamond Dust Drops OVA"
+		],
+		"english": [
+			"Diamond Daydreams Special"
+		],
+		"id": 7571,
+		"type": "Special",
+		"title": "Kita e.: Diamond Dust Drops Special"
+	},
+	{
+		"id": 7572,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"爆乳BOMB"
+		],
+		"synonyms": [
+			"Exploding Tits BOMB"
+		],
+		"id": 7573,
+		"type": "OVA",
+		"title": "Bakunyuu Bomb"
+	},
+	{
+		"id": 7574,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"Ｏｈ！ファミリー"
+		],
+		"id": 7575,
+		"type": "TV",
+		"title": "Oh! Family"
+	},
+	{
+		"id": 7576,
+		"error": "not-found"
+	},
+	{
+		"id": 7577,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"ご近所物語 (1996)"
+		],
+		"synonyms": [
+			"Gokinjyo Monogatari (1996)"
+		],
+		"english": [
+			"Neighborhood Story The Movie"
+		],
+		"id": 7578,
+		"type": "Movie",
+		"title": "Gokinjo Monogatari the Movie"
+	},
+	{
+		"japanese": [
+			"HAPPY☆LESSON ホカホカ★カンナと二人きり"
+		],
+		"synonyms": [
+			"Happy☆Lesson Episode 11.5 Nice and Warm! All Alone with Kanna",
+			"Happy Lesson: Hoka Hoka Kanna to Futari Kiri"
+		],
+		"id": 7579,
+		"type": "Special",
+		"title": "Happy☆Lesson: Hoka Hoka★Kanna to Futari Kiri"
+	},
+	{
+		"japanese": [
+			"一騎当千 Xtreme Xecutor"
+		],
+		"synonyms": [
+			"Ikkitousen XX",
+			"Ikki Tousen Extreme Executor"
+		],
+		"id": 7580,
+		"type": "TV",
+		"title": "Ikkitousen: Xtreme Xecutor"
+	},
+	{
+		"japanese": [
+			"乙女恥曝遊戯"
+		],
+		"id": 7581,
+		"type": "OVA",
+		"title": "Otome Chibaku Yuugi"
+	},
+	{
+		"japanese": [
+			"麗辱の館"
+		],
+		"english": [
+			"House of 5 Lusts"
+		],
+		"id": 7582,
+		"type": "OVA",
+		"title": "Reijoku no Yakata"
+	},
+	{
+		"japanese": [
+			"ワルキューレ調教・ザーメンタンクの戦乙女10人姉妹"
+		],
+		"id": 7583,
+		"type": "OVA",
+		"title": "Valkyrie Choukyou Semen Tank no Ikusa Otome 10-nin Shimai"
+	},
+	{
+		"id": 7584,
+		"error": "not-found"
+	},
+	{
+		"id": 7585,
+		"error": "not-found"
+	},
+	{
+		"id": 7586,
+		"error": "not-found"
+	},
+	{
+		"id": 7587,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"さらい屋 五葉"
+		],
+		"synonyms": [
+			"Sarai-ya Goyou"
+		],
+		"english": [
+			"House of Five Leaves"
+		],
+		"id": 7588,
+		"type": "TV",
+		"title": "Saraiya Goyou"
+	},
+	{
+		"id": 7589,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"迷い猫オーバーラン!"
+		],
+		"synonyms": [
+			"Stray Cats Overrun!"
+		],
+		"id": 7590,
+		"type": "TV",
+		"title": "Mayoi Neko Overrun!"
+	},
+	{
+		"japanese": [
+			"殿といっしょ"
+		],
+		"id": 7591,
+		"type": "OVA",
+		"title": "Tono to Issho"
+	},
+	{
+		"japanese": [
+			"ぬらりひょんの孫"
+		],
+		"synonyms": [
+			"The Grandson of Nurarihyon",
+			"Grandchild of Nurarihyon"
+		],
+		"english": [
+			"Nura: Rise of the Yokai Clan"
+		],
+		"id": 7592,
+		"type": "TV",
+		"title": "Nurarihyon no Mago"
+	},
+	{
+		"japanese": [
+			"キスシス"
+		],
+		"synonyms": [
+			"Kiss x Sis (2010)",
+			"Kissxsis"
+		],
+		"id": 7593,
+		"type": "TV",
+		"title": "Kiss x Sis (TV)"
+	},
+	{
+		"id": 7594,
+		"error": "not-found"
+	},
+	{
+		"id": 7595,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"這いよる!ニャルアニ"
+		],
+		"synonyms": [
+			"Haiyore! Nyaruko-san",
+			"Haiyoru! Nyarl-ani"
+		],
+		"english": [
+			"Haiyoru! Nyaruani"
+		],
+		"id": 7596,
+		"type": "OVA",
+		"title": "Haiyoru! Nyaruani"
+	},
+	{
+		"japanese": [
+			"ぼく、オタリーマン。"
+		],
+		"id": 7597,
+		"type": "OVA",
+		"title": "Boku, Otaryman."
+	},
+	{
+		"japanese": [
+			"ルー=ガルー 忌避すべき狼"
+		],
+		"synonyms": [
+			"Loups-Garous",
+			"Loups=Garous Kihi Subeki Ookami"
+		],
+		"id": 7598,
+		"type": "Movie",
+		"title": "Loups=Garous"
+	},
+	{
+		"id": 7599,
+		"error": "not-found"
+	},
+	{
+		"id": 7600,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"魔神英雄伝ワタル　終わりなき時の物語"
+		],
+		"synonyms": [
+			"Mashin Eiyuuden Wataru: The Never-Ending Tale of Time"
+		],
+		"id": 7601,
+		"type": "OVA",
+		"title": "Mashin Eiyuuden Wataru: Owarinaki Toki no Monogatari"
+	},
+	{
+		"id": 7602,
+		"error": "not-found"
+	},
+	{
+		"id": 7603,
+		"error": "not-found"
+	},
+	{
+		"id": 7604,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"パラソルヘンべえ"
+		],
+		"synonyms": [
+			"Henbe",
+			"Parasol Henbee"
+		],
+		"id": 7605,
+		"type": "TV",
+		"title": "Parasol Henbei"
+	},
+	{
+		"id": 7606,
+		"error": "not-found"
+	},
+	{
+		"id": 7607,
+		"error": "not-found"
+	},
+	{
+		"id": 7608,
+		"error": "not-found"
+	},
+	{
+		"id": 7609,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"安寿と厨子王丸"
+		],
+		"synonyms": [
+			"Anju to Zushiou Maru",
+			"Anju and Zushiomaru",
+			"The Littlest Warrior",
+			"The Orphan Brother"
+		],
+		"id": 7610,
+		"type": "Movie",
+		"title": "Anju to Zushioumaru"
+	},
+	{
+		"japanese": [
+			"いっしょにエッチ"
+		],
+		"synonyms": [
+			"Isshoni Ecchi"
+		],
+		"id": 7611,
+		"type": "OVA",
+		"title": "Issho ni Ecchi"
+	},
+	{
+		"japanese": [
+			"義母散華"
+		],
+		"english": [
+			"Step MILF"
+		],
+		"id": 7612,
+		"type": "OVA",
+		"title": "Haha Sange"
+	},
+	{
+		"id": 7613,
+		"error": "not-found"
+	},
+	{
+		"id": 7614,
+		"error": "not-found"
+	},
+	{
+		"id": 7615,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"俺の路"
+		],
+		"synonyms": [
+			"Scarlet Road",
+			"White Road",
+			"Indigo Road",
+			"Lemon Road",
+			"no Michi"
+		],
+		"id": 7616,
+		"type": "Movie",
+		"title": "Michi"
+	},
+	{
+		"japanese": [
+			"atelier petros上空劇場 ～洗濯島の洗濯鳥～"
+		],
+		"english": [
+			"Atelier Petros the Theater in the Sky: The Wash Bird of the Wash Island"
+		],
+		"id": 7617,
+		"type": "ONA",
+		"title": "Atelier Petros Joukuu Gekijou: Sentaku Shima no Sentaku Tori"
+	},
+	{
+		"id": 7618,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"ゲゲゲの鬼太郎"
+		],
+		"english": [
+			"Spooky Kitaro"
+		],
+		"id": 7619,
+		"type": "TV",
+		"title": "Gegege no Kitarou (1996)"
+	},
+	{
+		"id": 7620,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"注文の多い料理店"
+		],
+		"synonyms": [
+			"The Restaurant of Many Orders",
+			"A Well-Ordered Restaurant"
+		],
+		"id": 7621,
+		"type": "Movie",
+		"title": "Chuumon no Ooi Ryouriten"
+	},
+	{
+		"id": 7622,
+		"error": "not-found"
+	},
+	{
+		"id": 7623,
+		"error": "not-found"
+	},
+	{
+		"id": 7624,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"妖精ディック"
+		],
+		"synonyms": [
+			"Hobberdy Dick",
+			"Yosei Dikku"
+		],
+		"english": [
+			"Fairy Dick"
+		],
+		"id": 7625,
+		"type": "TV",
+		"title": "Yousei Dick"
+	},
+	{
+		"japanese": [
+			"海のトリトン (1979)"
+		],
+		"synonyms": [
+			"Umi no Triton (Movie)"
+		],
+		"english": [
+			"Triton of the Sea (1979)"
+		],
+		"id": 7626,
+		"type": "Movie",
+		"title": "Umi no Triton (1979)"
+	},
+	{
+		"japanese": [
+			"みつどもえ"
+		],
+		"synonyms": [
+			"Three Way Struggle"
+		],
+		"english": [
+			"Mitsudomoe"
+		],
+		"id": 7627,
+		"type": "TV",
+		"title": "Mitsudomoe"
+	},
+	{
+		"id": 7628,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"아라리쇼"
+		],
+		"synonyms": [
+			"Arari Syo",
+			"Surviving in Korea",
+			"Arirang",
+			"Homey Korean"
+		],
+		"english": [
+			"The Arari Show"
+		],
+		"id": 7629,
+		"type": "TV",
+		"title": "The Arari Show"
+	},
+	{
+		"id": 7630,
+		"error": "not-found"
+	},
+	{
+		"id": 7631,
+		"error": "not-found"
+	},
+	{
+		"id": 7632,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"蟻の生活"
+		],
+		"synonyms": [
+			"The Life Of Ants"
+		],
+		"id": 7633,
+		"type": "Movie",
+		"title": "Ari no Seikatsu"
+	},
+	{
+		"id": 7634,
+		"error": "not-found"
+	},
+	{
+		"id": 7635,
+		"error": "not-found"
+	},
+	{
+		"id": 7636,
+		"error": "not-found"
+	},
+	{
+		"id": 7637,
+		"error": "not-found"
+	},
+	{
+		"id": 7638,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"少年サンタの大冒険！"
+		],
+		"synonyms": [
+			"Shonen Santa no Daiboken",
+			"The Great Adventures of Young Santa",
+			"The Adventures of Young Santa Claus"
+		],
+		"id": 7639,
+		"type": "TV",
+		"title": "Shounen Santa no Daibouken!"
+	},
+	{
+		"id": 7640,
+		"error": "not-found"
+	},
+	{
+		"id": 7641,
+		"error": "not-found"
+	},
+	{
+		"id": 7642,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"どーもくん"
+		],
+		"id": 7643,
+		"type": "TV",
+		"title": "Domo-kun"
+	},
+	{
+		"id": 7644,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"ハートキャッチプリキュア!"
+		],
+		"synonyms": [
+			"Heartcatch Pretty Cure!"
+		],
+		"id": 7645,
+		"type": "TV",
+		"title": "Heartcatch Precure!"
+	},
+	{
+		"japanese": [
+			"やわらかめ♥"
+		],
+		"id": 7646,
+		"type": "ONA",
+		"title": "Yawarakame♥"
+	},
+	{
+		"japanese": [
+			"荒川アンダー ザ ブリッジ"
+		],
+		"english": [
+			"Arakawa Under the Bridge"
+		],
+		"id": 7647,
+		"type": "TV",
+		"title": "Arakawa Under the Bridge"
+	},
+	{
+		"id": 7648,
+		"error": "not-found"
+	},
+	{
+		"id": 7649,
+		"error": "not-found"
+	},
+	{
+		"id": 7650,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"人間失格 ディレクターズカット版"
+		],
+		"synonyms": [
+			"Aoi Bungaku Movie",
+			"No Longer Human Movie Recap"
+		],
+		"id": 7651,
+		"type": "Movie",
+		"title": "Ningen Shikkaku: Director's Cut-ban"
+	},
+	{
+		"id": 7652,
+		"error": "not-found"
+	},
+	{
+		"id": 7653,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"東京マグニチュード8.0"
+		],
+		"synonyms": [
+			"Tokyo Magnitude 8.0 Special"
+		],
+		"id": 7654,
+		"type": "Special",
+		"title": "Tokyo Magnitude 8.0 Recap"
+	},
+	{
+		"japanese": [
+			"メジャー 第6シリーズ"
+		],
+		"synonyms": [
+			"Major 6th Season"
+		],
+		"id": 7655,
+		"type": "TV",
+		"title": "Major S6"
+	},
+	{
+		"id": 7656,
+		"error": "not-found"
+	},
+	{
+		"id": 7657,
+		"error": "not-found"
+	},
+	{
+		"id": 7658,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"愛すべき未来へ"
+		],
+		"synonyms": [
+			"Dear the Lovable Future"
+		],
+		"id": 7659,
+		"type": "Music",
+		"title": "Aisubeki Mirai e"
+	},
+	{
+		"id": 7660,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"ジャイアントキリング"
+		],
+		"english": [
+			"Giant Killing"
+		],
+		"id": 7661,
+		"type": "TV",
+		"title": "Giant Killing"
+	},
+	{
+		"japanese": [
+			"心霊探偵 八雲"
+		],
+		"synonyms": [
+			"Shinrei Tantei Yakumo"
+		],
+		"english": [
+			"Psychic Detective Yakumo"
+		],
+		"id": 7662,
+		"type": "TV",
+		"title": "Shinrei Tantei Yakumo"
+	},
+	{
+		"id": 7663,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"ニルスのふしぎな旅"
+		],
+		"synonyms": [
+			"Nils no Fushigi na Tabi",
+			"Nirusu no Fushigi na Tabi",
+			"The Wonderful Adventures of Nils: The Film",
+			"Wonderful Adventures of Nils (Movie)"
+		],
+		"english": [
+			"The Wonderful Adventures of Nils Movie"
+		],
+		"id": 7664,
+		"type": "Movie",
+		"title": "Nils no Fushigi na Tabi (Movie)"
+	},
+	{
+		"id": 7665,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"Dr.スランプ アラレちゃん ハロー！不思議島"
+		],
+		"synonyms": [
+			"Dr. Slump & Arale-chan Hello! Strange Island"
+		],
+		"english": [
+			"Dr. Slump and Arale-chan: Hello! Wonder Island"
+		],
+		"id": 7666,
+		"type": "Movie",
+		"title": "Dr. Slump Movie 01: Arale-chan Hello! Fushigi Shima"
+	},
+	{
+		"japanese": [
+			"Dr.スランプ アラレちゃん ほよよ!世界一周大レース"
+		],
+		"synonyms": [
+			"Dr. Slump and Arale-chan: The Great Round-the-World Race"
+		],
+		"english": [
+			"Dr. Slump and Arale-chan: Hoyoyo",
+			"Great Round-the-World Race"
+		],
+		"id": 7667,
+		"type": "Movie",
+		"title": "Dr. Slump Movie 03: Arale-chan Hoyoyo! Sekai Isshuu Dai Race"
+	},
+	{
+		"japanese": [
+			"好きです鈴木くん!!"
+		],
+		"synonyms": [
+			"I Love You",
+			"Suzuki-kun!!",
+			"I Like You",
+			"Suzuki-kun!!"
+		],
+		"id": 7668,
+		"type": "OVA",
+		"title": "Suki Desu Suzuki-kun!!"
+	},
+	{
+		"japanese": [
+			"\u201c文学少女\u201d今日のおやつ 〜はつ恋〜"
+		],
+		"synonyms": [
+			"Bungaku Shoujo OVA",
+			"Book Girl OVA",
+			"Literature Girl OVA"
+		],
+		"id": 7669,
+		"type": "OVA",
+		"title": "\"Bungaku Shoujo\" Kyou no Oyatsu: Hatsukoi"
+	},
+	{
+		"id": 7670,
+		"error": "not-found"
+	},
+	{
+		"id": 7671,
+		"error": "not-found"
+	},
+	{
+		"id": 7672,
+		"error": "not-found"
+	},
+	{
+		"id": 7673,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"バクマン。"
+		],
+		"synonyms": [
+			"Bakuman Season 1"
+		],
+		"english": [
+			"Bakuman."
+		],
+		"id": 7674,
+		"type": "TV",
+		"title": "Bakuman."
+	},
+	{
+		"id": 7675,
+		"error": "not-found"
+	},
+	{
+		"id": 7676,
+		"error": "not-found"
+	},
+	{
+		"id": 7677,
+		"error": "not-found"
+	},
+	{
+		"id": 7678,
+		"error": "not-found"
+	},
+	{
+		"id": 7679,
+		"error": "not-found"
+	},
+	{
+		"id": 7680,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"恐竜惑星"
+		],
+		"synonyms": [
+			"Kyoryu Wakusei",
+			"Dino-Planet"
+		],
+		"english": [
+			"Dinosaur Planet"
+		],
+		"id": 7681,
+		"type": "TV",
+		"title": "Kyouryuu Wakusei"
+	},
+	{
+		"id": 7682,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"睡蓮の人"
+		],
+		"synonyms": [
+			"Water Lily Person"
+		],
+		"english": [
+			"Nostalgia"
+		],
+		"id": 7683,
+		"type": "Movie",
+		"title": "Suiren no Hito"
+	},
+	{
+		"id": 7684,
+		"error": "not-found"
+	},
+	{
+		"id": 7685,
+		"error": "not-found"
+	},
+	{
+		"id": 7686,
+		"error": "not-found"
+	},
+	{
+		"id": 7687,
+		"error": "not-found"
+	},
+	{
+		"id": 7688,
+		"error": "not-found"
+	},
+	{
+		"id": 7689,
+		"error": "not-found"
+	},
+	{
+		"id": 7690,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"ときめきメモリアル4 ORIGINAL ANIMATION -始まりのファインダー"
+		],
+		"synonyms": [
+			"Tokimeki Memorial 4 Original Animation -Hajimari ni Fainda-"
+		],
+		"id": 7691,
+		"type": "OVA",
+		"title": "Tokimeki Memorial 4 OVA"
+	},
+	{
+		"id": 7692,
+		"error": "not-found"
+	},
+	{
+		"id": 7693,
+		"error": "not-found"
+	},
+	{
+		"id": 7694,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"ポケットモンスター ダイヤモンド&パール 幻影の覇者 ゾロアーク"
+		],
+		"synonyms": [
+			"Gekijouban Pocket Monsters Diamond and Pearl: Phantom Ruler Zoroark",
+			"Pokemon Movie 13"
+		],
+		"english": [
+			"Pokemon: Zoroark: Master of Illusions"
+		],
+		"id": 7695,
+		"type": "Movie",
+		"title": "Pokemon Diamond & Pearl: Genei no Hasha Zoroark"
+	},
+	{
+		"japanese": [
+			"三国志 第一部 英雄たちの夜明け"
+		],
+		"synonyms": [
+			"Sangokushi [1] Eiyuutachi no Yoake"
+		],
+		"id": 7696,
+		"type": "Movie",
+		"title": "Sangokushi Daiichibu Eiyuu-tachi no Yoake"
+	},
+	{
+		"japanese": [
+			"三国志 第二部 長江燃ゆ"
+		],
+		"synonyms": [
+			"Sangokushi [2] Choukou Moyu!"
+		],
+		"english": [
+			"Great Conquest: Romance of Three Kingdoms"
+		],
+		"id": 7697,
+		"type": "Movie",
+		"title": "Sangokushi Dainibu Choukou Moyu"
+	},
+	{
+		"japanese": [
+			"三国志 第三部 遥かなる大地"
+		],
+		"synonyms": [
+			"Sangokushi [3] Harukanaru Taichi"
+		],
+		"id": 7698,
+		"type": "Movie",
+		"title": "Sangokushi Daisanbu Harukanaru Taichi"
+	},
+	{
+		"id": 7699,
+		"error": "not-found"
+	},
+	{
+		"id": 7700,
+		"error": "not-found"
+	},
+	{
+		"id": 7701,
+		"error": "not-found"
+	},
+	{
+		"id": 7702,
+		"error": "not-found"
+	},
+	{
+		"id": 7703,
+		"error": "not-found"
+	},
+	{
+		"id": 7704,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"スタ☆スカ"
+		],
+		"id": 7705,
+		"type": "ONA",
+		"title": "Starry☆Sky"
+	},
+	{
+		"id": 7706,
+		"error": "not-found"
+	},
+	{
+		"id": 7707,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"町ぐるみの罠～白濁にまみれた肢体～"
+		],
+		"id": 7708,
+		"type": "OVA",
+		"title": "Machi Gurumi no Wana: Hakudaku ni Mamireta Shitai"
+	},
+	{
+		"japanese": [
+			"ポンユタウン"
+		],
+		"synonyms": [
+			"Ponyutaun",
+			"Ponyu Town"
+		],
+		"id": 7709,
+		"type": "Special",
+		"title": "Peng You Town"
+	},
+	{
+		"id": 7710,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"借りぐらしのアリエッティ"
+		],
+		"synonyms": [
+			"Karigurashi no Arrietti",
+			"The Borrower Arrietty"
+		],
+		"english": [
+			"The Secret World of Arrietty"
+		],
+		"id": 7711,
+		"type": "Movie",
+		"title": "Karigurashi no Arrietty"
+	},
+	{
+		"japanese": [
+			"感染2 淫罪都市"
+		],
+		"id": 7712,
+		"type": "OVA",
+		"title": "Kansen 2: Inzai Toshi"
+	},
+	{
+		"japanese": [
+			"日本むかしばなし さるかに"
+		],
+		"synonyms": [
+			"Nippon Mukashibanashi: Sarukani",
+			"Monkey and Crab",
+			"The Monkey and the Crab: A Japanese Tale"
+		],
+		"id": 7713,
+		"type": "Movie",
+		"title": "Nihon Mukashibanashi: Saru Kani"
+	},
+	{
+		"id": 7714,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"Auto Mommy"
+		],
+		"english": [
+			"Auto Mommy"
+		],
+		"id": 7715,
+		"type": "Movie",
+		"title": "Auto Mommy"
+	},
+	{
+		"id": 7716,
+		"error": "not-found"
+	},
+	{
+		"id": 7717,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"電信柱エレミの恋"
+		],
+		"english": [
+			"Elemi"
+		],
+		"id": 7718,
+		"type": "Movie",
+		"title": "Denshinbashira Elemi no Koi"
+	},
+	{
+		"id": 7719,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"おおきく振りかぶって　〜夏の大会編〜"
+		],
+		"synonyms": [
+			"Oofuri",
+			"Big Windup! 2",
+			"Swing Big! 2",
+			"Ookiku Furikabutte 2",
+			"Ookiku Furikabutte The Summer Tournament Chapter"
+		],
+		"english": [
+			"Big Windup! 2"
+		],
+		"id": 7720,
+		"type": "TV",
+		"title": "Ookiku Furikabutte: Natsu no Taikai-hen"
+	},
+	{
+		"japanese": [
+			"ヤンス！ガンス！Meat or Die"
+		],
+		"synonyms": [
+			"YANS! GANS!"
+		],
+		"id": 7721,
+		"type": "ONA",
+		"title": "Meat or Die"
+	},
+	{
+		"id": 7722,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"ヒピラくん"
+		],
+		"synonyms": [
+			"Hipira: The Little Vampire"
+		],
+		"id": 7723,
+		"type": "TV",
+		"title": "Hipira-kun"
+	},
+	{
+		"japanese": [
+			"屍鬼"
+		],
+		"synonyms": [
+			"Corpse Demon"
+		],
+		"english": [
+			"Shiki"
+		],
+		"id": 7724,
+		"type": "TV",
+		"title": "Shiki"
+	},
+	{
+		"id": 7725,
+		"error": "not-found"
+	},
+	{
+		"id": 7726,
+		"error": "not-found"
+	},
+	{
+		"id": 7727,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"Hellsing: Psalm of Darkness"
+		],
+		"synonyms": [
+			"Hellsing DVD Special",
+			"Hellsing Teaser",
+			"Hellsing Episode 00"
+		],
+		"id": 7728,
+		"type": "Special",
+		"title": "Hellsing: Psalm of Darkness"
+	},
+	{
+		"japanese": [
+			"北極のムーシカ・ミーシカ"
+		],
+		"synonyms": [
+			"Hokkyoku no Mushka Mishka",
+			"Mushka and Mishka",
+			"The Polar Cubs an Adventure of the North Pole",
+			"Mooshka and Meeshka of the North Pole",
+			"Die Polarbären"
+		],
+		"english": [
+			"Adventures of the Polar Cubs"
+		],
+		"id": 7729,
+		"type": "Movie",
+		"title": "Hokkyoku no Muushika Miishika"
+	},
+	{
+		"japanese": [
+			"一緒にHしよっ"
+		],
+		"synonyms": [
+			"Isshoni H Shiyo"
+		],
+		"id": 7730,
+		"type": "OVA",
+		"title": "Issho ni H Shiyo"
+	},
+	{
+		"id": 7731,
+		"error": "not-found"
+	},
+	{
+		"id": 7732,
+		"error": "not-found"
+	},
+	{
+		"id": 7733,
+		"error": "not-found"
+	},
+	{
+		"id": 7734,
+		"error": "not-found"
+	},
+	{
+		"id": 7735,
+		"error": "not-found"
+	},
+	{
+		"id": 7736,
+		"error": "not-found"
+	},
+	{
+		"id": 7737,
+		"error": "not-found"
+	},
+	{
+		"id": 7738,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"11eyes 桃色幻夢譚 ～rö zsaszí n é jszaka"
+		],
+		"synonyms": [
+			"11eyes Episode 13",
+			"11eyes OVA",
+			"11eyes -Tsumi to Batsu to Aganai no Shoujo- Episode 13"
+		],
+		"id": 7739,
+		"type": "Special",
+		"title": "11eyes: Momoiro Genmutan"
+	},
+	{
+		"japanese": [
+			"クイーンズブレイド 玉座を継ぐ者"
+		],
+		"synonyms": [
+			"Queen's Blade 2 Specials",
+			"Queen's Blade: The Successor of the Throne Specials",
+			"Queen's Blade: Gyokuza wo Tsugumono Specials",
+			"Queen's Blade and the Evil Eye Specials"
+		],
+		"english": [
+			"Queen's Blade: Inheritor of the Throne Specials"
+		],
+		"id": 7740,
+		"type": "Special",
+		"title": "Queen's Blade: Gyokuza wo Tsugu Mono Specials"
+	},
+	{
+		"id": 7741,
+		"error": "not-found"
+	},
+	{
+		"id": 7742,
+		"error": "not-found"
+	},
+	{
+		"id": 7743,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"ファイト一発！充電ちゃん！！"
+		],
+		"id": 7744,
+		"type": "Special",
+		"title": "Fight Ippatsu! Juuden-chan!! Specials"
+	},
+	{
+		"japanese": [
+			"絶対可憐チルドレン OVA 〜愛多憎生! 奪われた未来?〜"
+		],
+		"synonyms": [
+			"Absolutely Lovely Children",
+			"Zettai Karen Children OAD",
+			"ZKC OVA"
+		],
+		"id": 7745,
+		"type": "OVA",
+		"title": "Zettai Karen Children OVA: Aitazousei! Ubawareta Mirai?"
+	},
+	{
+		"id": 7746,
+		"error": "not-found"
+	},
+	{
+		"id": 7747,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"その花びらにくちづけを　あなたと恋人つなぎ"
+		],
+		"id": 7748,
+		"type": "OVA",
+		"title": "Sono Hanabira ni Kuchizuke wo: Anata to Koibito Tsunagi"
+	},
+	{
+		"id": 7749,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"デジガールPOP! 〜STRAWBERRY＆POP MIX FLAVOR〜"
+		],
+		"id": 7750,
+		"type": "TV",
+		"title": "DigiGirl Pop!: Strawberry & Pop Mix Flavor"
+	},
+	{
+		"japanese": [
+			"ミッドナイトホラースクール"
+		],
+		"id": 7751,
+		"type": "TV",
+		"title": "Midnight Horror School"
+	},
+	{
+		"japanese": [
+			"宝莲灯"
+		],
+		"synonyms": [
+			"Precious Lotus Lamp"
+		],
+		"english": [
+			"Lotus Lantern"
+		],
+		"id": 7752,
+		"type": "Movie",
+		"title": "Bao Lian Deng"
+	},
+	{
+		"id": 7753,
+		"error": "not-found"
+	},
+	{
+		"id": 7754,
+		"error": "not-found"
+	},
+	{
+		"id": 7755,
+		"error": "not-found"
+	},
+	{
+		"id": 7756,
+		"error": "not-found"
+	},
+	{
+		"id": 7757,
+		"error": "not-found"
+	},
+	{
+		"id": 7758,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"咲-Saki- ピクチャードラマ"
+		],
+		"id": 7759,
+		"type": "Special",
+		"title": "Saki Picture Drama"
+	},
+	{
+		"id": 7760,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"増田こうすけ劇場 ギャグマンガ日和+"
+		],
+		"synonyms": [
+			"Gyagu Manga Biyori +"
+		],
+		"id": 7761,
+		"type": "TV",
+		"title": "Masuda Kousuke Gekijou Gag Manga Biyori +"
+	},
+	{
+		"japanese": [
+			"よんでますよ、アザゼルさん。"
+		],
+		"id": 7762,
+		"type": "OVA",
+		"title": "Yondemasu yo, Azazel-san."
+	},
+	{
+		"id": 7763,
+		"error": "not-found"
+	},
+	{
+		"id": 7764,
+		"error": "not-found"
+	},
+	{
+		"id": 7765,
+		"error": "not-found"
+	},
+	{
+		"id": 7766,
+		"error": "not-found"
+	},
+	{
+		"id": 7767,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"探偵オペラ ミルキィホームズ"
+		],
+		"id": 7768,
+		"type": "TV",
+		"title": "Tantei Opera Milky Holmes"
+	},
+	{
+		"japanese": [
+			"オオカミさんと七人の仲間たち"
+		],
+		"synonyms": [
+			"Ookami-san to Shichinin no Nakamatachi",
+			"Okamisan and Seven Companions"
+		],
+		"english": [
+			"Okami-San and Her Seven Companions"
+		],
+		"id": 7769,
+		"type": "TV",
+		"title": "Ookami-san to Shichinin no Nakama-tachi"
+	},
+	{
+		"japanese": [
+			"ゆとりちゃん"
+		],
+		"id": 7770,
+		"type": "ONA",
+		"title": "Yutori-chan"
+	},
+	{
+		"japanese": [
+			"小さなジャンボ"
+		],
+		"english": [
+			"Little Jumbo"
+		],
+		"id": 7771,
+		"type": "Movie",
+		"title": "Chiisana Jumbo"
+	},
+	{
+		"id": 7772,
+		"error": "not-found"
+	},
+	{
+		"id": 7773,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"真恋姫\u2020無双 ～乙女繚乱☆三国志演義～"
+		],
+		"id": 7774,
+		"type": "OVA",
+		"title": "Shin Koihime\u2020Musou OVA"
+	},
+	{
+		"japanese": [
+			"ふたつの胡桃"
+		],
+		"synonyms": [
+			"Story of War: Futatsu no Kurumi",
+			"Two Walnuts"
+		],
+		"id": 7775,
+		"type": "Special",
+		"title": "Futatsu no Kurumi"
+	},
+	{
+		"id": 7776,
+		"error": "not-found"
+	},
+	{
+		"id": 7777,
+		"error": "not-found"
+	},
+	{
+		"id": 7778,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"アンデルセン物語"
+		],
+		"synonyms": [
+			"Hans Christian Andersen Stories",
+			"Anderson Stories"
+		],
+		"id": 7779,
+		"type": "TV",
+		"title": "Andersen Monogatari (TV)"
+	},
+	{
+		"id": 7780,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"GOTHICMADE -ゴティックメード 花の詩女-"
+		],
+		"id": 7781,
+		"type": "Movie",
+		"title": "Gothicmade: Hana no Utame"
+	},
+	{
+		"japanese": [
+			"けんぷファー ピクチャードラマ"
+		],
+		"synonyms": [
+			"Kampfer Special",
+			"Kaempfer"
+		],
+		"id": 7782,
+		"type": "Special",
+		"title": "Kämpfer Picture Drama"
+	},
+	{
+		"id": 7783,
+		"error": "not-found"
+	},
+	{
+		"id": 7784,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"四畳半神話大系"
+		],
+		"synonyms": [
+			"Yojo-Han Shinwa Taikei",
+			"Yojou-Han Shinwa Taikei",
+			"Yojohan Shinwa Taikei"
+		],
+		"english": [
+			"The Tatami Galaxy"
+		],
+		"id": 7785,
+		"type": "TV",
+		"title": "Yojouhan Shinwa Taikei"
+	},
+	{
+		"japanese": [
+			"アラビアンナイト　シンドバッドの冒険"
+		],
+		"english": [
+			"Arabian Nights: Sinbad's Adventures"
+		],
+		"id": 7786,
+		"type": "Movie",
+		"title": "Arabian Nights: Sindbad no Bouken"
+	},
+	{
+		"id": 7787,
+		"error": "not-found"
+	},
+	{
+		"id": 7788,
+		"error": "not-found"
+	},
+	{
+		"id": 7789,
+		"error": "not-found"
+	},
+	{
+		"id": 7790,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"けいおん!!"
+		],
+		"synonyms": [
+			"Keion 2",
+			"K-On!! 2nd Season"
+		],
+		"english": [
+			"K-ON! Season 2"
+		],
+		"id": 7791,
+		"type": "TV",
+		"title": "K-On!!"
+	},
+	{
+		"id": 7792,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"リングにかけろ1 影道編"
+		],
+		"synonyms": [
+			"Put It All in The Ring 1 Episode: Shadow Road",
+			"Ring ni Kakero 1: Shadow",
+			"Ring ni Kakero 1: Shadow-hen"
+		],
+		"id": 7793,
+		"type": "TV",
+		"title": "Ring ni Kakero 1: Kage Dou-hen"
+	},
+	{
+		"id": 7794,
+		"error": "not-found"
+	},
+	{
+		"id": 7795,
+		"error": "not-found"
+	},
+	{
+		"id": 7796,
+		"error": "not-found"
+	},
+	{
+		"id": 7797,
+		"error": "not-found"
+	},
+	{
+		"id": 7798,
+		"error": "not-found"
+	},
+	{
+		"id": 7799,
+		"error": "not-found"
+	},
+	{
+		"id": 7800,
+		"error": "not-found"
+	},
+	{
+		"id": 7801,
+		"error": "not-found"
+	},
+	{
+		"id": 7802,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"チャレンジ1年生でかっこいい1年生にへんしん!DVD"
+		],
+		"english": [
+			"Question Fairy"
+		],
+		"id": 7803,
+		"type": "OVA",
+		"title": "Challenge Ichinensei de Kakkoii Ichinensei ni Henshin!"
+	},
+	{
+		"id": 7804,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"バカとテストと召喚獣 問題 クリスマスについて答えなさい"
+		],
+		"synonyms": [
+			"Baka to Test to Shoukanjuu: Christmas Special"
+		],
+		"english": [
+			"The Idiot",
+			"the Tests",
+			"and the Summoned Creatures: Christmas Special"
+		],
+		"id": 7805,
+		"type": "ONA",
+		"title": "Baka to Test to Shoukanjuu: Mondai - Christmas ni Tsuite Kotae Nasai"
+	},
+	{
+		"id": 7806,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"魔法少女ララベル 海が呼ぶ夏休み"
+		],
+		"synonyms": [
+			"Magical Girl Lalabel: the Sea Calls for a Summer Vacation",
+			"Mahou Shoujo Lalabel (1980)"
+		],
+		"id": 7807,
+		"type": "Movie",
+		"title": "Mahou Shoujo Lalabel: Umi ga Yobu Natsuyasumi"
+	},
+	{
+		"japanese": [
+			"ずっこけナイト　ドンデラマンチャ"
+		],
+		"synonyms": [
+			"Don Chisciotte",
+			"Don Quijote y los Cuentos De La Mancha"
+		],
+		"english": [
+			"Don Quixote"
+		],
+		"id": 7808,
+		"type": "TV",
+		"title": "Zukkoke Knight: Don De La Mancha"
+	},
+	{
+		"japanese": [
+			"３つの雲"
+		],
+		"synonyms": [
+			"Mittsu no Kumo",
+			"3tsu no Kumo",
+			"Trilogy about Clouds"
+		],
+		"english": [
+			"Trilogy about Cloud"
+		],
+		"id": 7809,
+		"type": "Movie",
+		"title": "3-tsu no Kumo"
+	},
+	{
+		"japanese": [
+			"闇を見つめる羽根"
+		],
+		"synonyms": [
+			"Feathers Gazing into the Darkness",
+			"Feathers Staring into the Darkness",
+			"Thinking and Drawing: Nihon no Shinseiki Art Animation",
+			"Thinking and Drawing: Japanese Art Animation of the New Millennium"
+		],
+		"english": [
+			"A Feather Stare at the Dark"
+		],
+		"id": 7810,
+		"type": "Movie",
+		"title": "Yami wo Mitsumeru Hane"
+	},
+	{
+		"japanese": [
+			"夜の掟"
+		],
+		"synonyms": [
+			"Rules of the Night",
+			"The Rules of Dreams"
+		],
+		"english": [
+			"A Rule Of Dreams"
+		],
+		"id": 7811,
+		"type": "Movie",
+		"title": "Yoru no Okite"
+	},
+	{
+		"id": 7812,
+		"error": "not-found"
+	},
+	{
+		"id": 7813,
+		"error": "not-found"
+	},
+	{
+		"id": 7814,
+		"error": "not-found"
+	},
+	{
+		"id": 7815,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"Dr.スランプ アラレちゃん んちゃ!ペンギン村はハレのち晴れ"
+		],
+		"synonyms": [
+			"Dr. Slump: Arale-chan - Ncha! Penguin Mura wa Hare Nochi Hare"
+		],
+		"english": [
+			"Dr. Slump and Arale-chan: N-cha! Clear Skies Over Penguin Village"
+		],
+		"id": 7816,
+		"type": "Movie",
+		"title": "Dr. Slump Movie 06: Arale-chan N-cha! Penguin Mura wa Hare Nochi Hare"
+	},
+	{
+		"japanese": [
+			"B型H系"
+		],
+		"english": [
+			"Yamada's First Time: B Gata H Kei"
+		],
+		"id": 7817,
+		"type": "TV",
+		"title": "B-gata H-kei"
+	},
+	{
+		"japanese": [
+			"妖精王"
+		],
+		"synonyms": [
+			"Youseiou"
+		],
+		"english": [
+			"Fairy King"
+		],
+		"id": 7818,
+		"type": "OVA",
+		"title": "Yousei Ou"
+	},
+	{
+		"id": 7819,
+		"error": "not-found"
+	},
+	{
+		"id": 7820,
+		"error": "not-found"
+	},
+	{
+		"id": 7821,
+		"error": "not-found"
+	},
+	{
+		"id": 7822,
+		"error": "not-found"
+	},
+	{
+		"id": 7823,
+		"error": "not-found"
+	},
+	{
+		"id": 7824,
+		"error": "not-found"
+	},
+	{
+		"id": 7825,
+		"error": "not-found"
+	},
+	{
+		"id": 7826,
+		"error": "not-found"
+	},
+	{
+		"id": 7827,
+		"error": "not-found"
+	},
+	{
+		"id": 7828,
+		"error": "not-found"
+	},
+	{
+		"id": 7829,
+		"error": "not-found"
+	},
+	{
+		"id": 7830,
+		"error": "not-found"
+	},
+	{
+		"id": 7831,
+		"error": "not-found"
+	},
+	{
+		"id": 7832,
+		"error": "not-found"
+	},
+	{
+		"id": 7833,
+		"error": "not-found"
+	},
+	{
+		"id": 7834,
+		"error": "not-found"
+	},
+	{
+		"id": 7835,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"のたり松太郎"
+		],
+		"id": 7836,
+		"type": "OVA",
+		"title": "Notari Matsutarou"
+	},
+	{
+		"id": 7837,
+		"error": "not-found"
+	},
+	{
+		"id": 7838,
+		"error": "not-found"
+	},
+	{
+		"id": 7839,
+		"error": "not-found"
+	},
+	{
+		"id": 7840,
+		"error": "not-found"
+	},
+	{
+		"id": 7841,
+		"error": "not-found"
+	},
+	{
+		"id": 7842,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"消えかけた物語たちの為に"
+		],
+		"synonyms": [
+			"Kiekaketa Monogatari-tachi no Tame ni"
+		],
+		"english": [
+			"For Almost Forgotten Stories"
+		],
+		"id": 7843,
+		"type": "Movie",
+		"title": "Kiekaketa Monogataritachi no Tame ni"
+	},
+	{
+		"japanese": [
+			"エンゼル The Place Where We Were"
+		],
+		"synonyms": [
+			"Angel: The Place Where We Were"
+		],
+		"english": [
+			"The Place Where We Were"
+		],
+		"id": 7844,
+		"type": "Movie",
+		"title": "The Place Where We Were"
+	},
+	{
+		"japanese": [
+			"シートン動物記"
+		],
+		"synonyms": [
+			"Seton's Animal Tales"
+		],
+		"english": [
+			"Seton Animal Chronicles"
+		],
+		"id": 7845,
+		"type": "TV",
+		"title": "Seton Doubutsuki"
+	},
+	{
+		"id": 7846,
+		"error": "not-found"
+	},
+	{
+		"id": 7847,
+		"error": "not-found"
+	},
+	{
+		"id": 7848,
+		"error": "not-found"
+	},
+	{
+		"id": 7849,
+		"error": "not-found"
+	},
+	{
+		"id": 7850,
+		"error": "not-found"
+	},
+	{
+		"id": 7851,
+		"error": "not-found"
+	},
+	{
+		"id": 7852,
+		"error": "not-found"
+	},
+	{
+		"id": 7853,
+		"error": "not-found"
+	},
+	{
+		"id": 7854,
+		"error": "not-found"
+	},
+	{
+		"id": 7855,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"影の子供"
+		],
+		"english": [
+			"Children of the Shadows"
+		],
+		"id": 7856,
+		"type": "Movie",
+		"title": "Kage no Kodomo"
+	},
+	{
+		"japanese": [
+			"ミニ戦国BASARA　長曾我部君と毛利君"
+		],
+		"id": 7857,
+		"type": "Special",
+		"title": "Mini Sengoku Basara: Chousokabe-kun to Mouri-kun"
+	},
+	{
+		"japanese": [
+			"そらのおとしもの プロジェクト桃源郷[ピンク]"
+		],
+		"synonyms": [
+			"Sora no Otoshimono OVA",
+			"Sora no Otoshimono Special",
+			"Lost Property of the Sky OVA",
+			"Misplaced by Heaven OVA"
+		],
+		"english": [
+			"Heaven's Lost Property OVA"
+		],
+		"id": 7858,
+		"type": "OVA",
+		"title": "Sora no Otoshimono: Project Pink"
+	},
+	{
+		"id": 7859,
+		"error": "not-found"
+	},
+	{
+		"id": 7860,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"ベルサイユのばらと女たち"
+		],
+		"synonyms": [
+			"Versailles no Bara Special",
+			"Versailles no Bara episode 41",
+			"Versailles no Bara to Onna-tachi",
+			"The Rose and Women of Versailles"
+		],
+		"english": [
+			"Lady Oscar Special"
+		],
+		"id": 7861,
+		"type": "Special",
+		"title": "Versailles no Bara to Onna-tachi"
+	},
+	{
+		"japanese": [
+			"TRANSFORMERS ROBOT MASTERS (トランスフォーマー ロボットマスターズ)"
+		],
+		"english": [
+			"Transformers: Robot Masters"
+		],
+		"id": 7862,
+		"type": "Special",
+		"title": "Transformers: Robot Masters"
+	},
+	{
+		"id": 7863,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"ＳＦロリータファンタジー「ＯＭＥ－１」"
+		],
+		"id": 7864,
+		"type": "OVA",
+		"title": "SF Lolita Fantasy Ome-1"
+	},
+	{
+		"id": 7865,
+		"error": "not-found"
+	},
+	{
+		"id": 7866,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"ゴン"
+		],
+		"id": 7867,
+		"type": "TV",
+		"title": "Gon"
+	},
+	{
+		"id": 7868,
+		"error": "not-found"
+	},
+	{
+		"id": 7869,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"バカとテストと召喚獣 映像特典"
+		],
+		"synonyms": [
+			"Baka to Test to Shoukanjuu: Private Footage (Produced by Muttsuri Company)",
+			"Mikoukai Eizou (Seisaku: Muttsuri Shoukai)",
+			"The Idiot",
+			"the Tests",
+			"and the Summoned Creatures Specials"
+		],
+		"id": 7870,
+		"type": "Special",
+		"title": "Baka to Test to Shoukanjuu Specials"
+	},
+	{
+		"id": 7871,
+		"error": "not-found"
+	},
+	{
+		"id": 7872,
+		"error": "not-found"
+	},
+	{
+		"id": 7873,
+		"error": "not-found"
+	},
+	{
+		"id": 7874,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"かのこん ～真夏の大謝肉祭～"
+		],
+		"synonyms": [
+			"Kanokon R Specials",
+			"Kanokon OVA Specials"
+		],
+		"id": 7875,
+		"type": "Special",
+		"title": "Kanokon: Manatsu no Dai Shanikusai Specials"
+	},
+	{
+		"japanese": [
+			"オズの魔法使い"
+		],
+		"synonyms": [
+			"Oz no Mahoutsukai"
+		],
+		"english": [
+			"The Wizard of Oz"
+		],
+		"id": 7876,
+		"type": "Movie",
+		"title": "Oz no Mahoutsukai"
+	},
+	{
+		"japanese": [
+			"もも子",
+			"かえるの歌がきこえるよ."
+		],
+		"english": [
+			"My Sister Momoko"
+		],
+		"id": 7877,
+		"type": "Movie",
+		"title": "Momoko, Kaeru no Uta ga Kikoeru yo."
+	},
+	{
+		"id": 7878,
+		"error": "not-found"
+	},
+	{
+		"id": 7879,
+		"error": "not-found"
+	},
+	{
+		"id": 7880,
+		"error": "not-found"
+	},
+	{
+		"id": 7881,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"ラーメン天使プリティメンマ"
+		],
+		"synonyms": [
+			"Genshiken 2 Special",
+			"Ramen Tenshi Pretty Menma Picture Drama",
+			"Ramen Angel Pretty Menma",
+			"The Two Ramen Angels - Delivery Edition"
+		],
+		"english": [
+			"Genshiken 2: Menma Special"
+		],
+		"id": 7882,
+		"type": "Special",
+		"title": "Ramen Tenshi Pretty Menma"
+	},
+	{
+		"id": 7883,
+		"error": "not-found"
+	},
+	{
+		"id": 7884,
+		"error": "not-found"
+	},
+	{
+		"id": 7885,
+		"error": "not-found"
+	},
+	{
+		"id": 7886,
+		"error": "not-found"
+	},
+	{
+		"id": 7887,
+		"error": "not-found"
+	},
+	{
+		"id": 7888,
+		"error": "not-found"
+	},
+	{
+		"id": 7889,
+		"error": "not-found"
+	},
+	{
+		"id": 7890,
+		"error": "not-found"
+	},
+	{
+		"id": 7891,
+		"error": "not-found"
+	},
+	{
+		"id": 7892,
+		"error": "not-found"
+	},
+	{
+		"id": 7893,
+		"error": "not-found"
+	},
+	{
+		"id": 7894,
+		"error": "not-found"
+	},
+	{
+		"id": 7895,
+		"error": "not-found"
+	},
+	{
+		"id": 7896,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"いっしょにすりーぴんぐ"
+		],
+		"synonyms": [
+			"Isshoni Training: Sleeping with Hinako",
+			"Isshoni Sleeping: Sleeping with Hinako"
+		],
+		"id": 7897,
+		"type": "OVA",
+		"title": "Issho ni Sleeping: Sleeping with Hinako"
+	},
+	{
+		"id": 7898,
+		"error": "not-found"
+	},
+	{
+		"id": 7899,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"슈퍼 차일드"
+		],
+		"synonyms": [
+			"Superkid,Super Kid"
+		],
+		"id": 7900,
+		"type": "Movie",
+		"title": "Super Child"
+	},
+	{
+		"id": 7901,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"荒川弘 描き下ろし4コマ劇場"
+		],
+		"synonyms": [
+			"Hagane no Renkinjutsushi: 4-Koma Theater",
+			"Hiromu Arakawa 4-Koma Theater",
+			"FMA: 4-Koma Theater"
+		],
+		"english": [
+			"Fullmetal Alchemist: Brotherhood: 4-Koma Theater"
+		],
+		"id": 7902,
+		"type": "Special",
+		"title": "Fullmetal Alchemist: Brotherhood - 4-Koma Theater"
+	},
+	{
+		"id": 7903,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"獣の奏者 エリン 総集編"
+		],
+		"synonyms": [
+			"Kemono no Soja Erin Soshuhen",
+			"The Beast Player Erin - Compilation"
+		],
+		"id": 7904,
+		"type": "TV",
+		"title": "Kemono no Souja Erin Recap"
+	},
+	{
+		"id": 7905,
+		"error": "not-found"
+	},
+	{
+		"id": 7906,
+		"error": "not-found"
+	},
+	{
+		"id": 7907,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"Love²ポリス"
+		],
+		"synonyms": [
+			"Secret Anima Series 9 Love2 Police"
+		],
+		"english": [
+			"Love2 Police"
+		],
+		"id": 7908,
+		"type": "OVA",
+		"title": "Love² Police"
+	},
+	{
+		"id": 7909,
+		"error": "not-found"
+	},
+	{
+		"id": 7910,
+		"error": "not-found"
+	},
+	{
+		"id": 7911,
+		"error": "not-found"
+	},
+	{
+		"id": 7912,
+		"error": "not-found"
+	},
+	{
+		"id": 7913,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"究極のシェフは美味しんぼパパ"
+		],
+		"id": 7914,
+		"type": "OVA",
+		"title": "Kyuukyoku no Chef wa Oishinbo Papa"
+	},
+	{
+		"japanese": [
+			"おたくの星座"
+		],
+		"synonyms": [
+			"The Sign of Otaku",
+			"An Adventure in the Otaku Galaxy"
+		],
+		"id": 7915,
+		"type": "OVA",
+		"title": "Otaku no Seiza"
+	},
+	{
+		"id": 7916,
+		"error": "not-found"
+	},
+	{
+		"id": 7917,
+		"error": "not-found"
+	},
+	{
+		"id": 7918,
+		"error": "not-found"
+	},
+	{
+		"id": 7919,
+		"error": "not-found"
+	},
+	{
+		"id": 7920,
+		"error": "not-found"
+	},
+	{
+		"id": 7921,
+		"error": "not-found"
+	},
+	{
+		"id": 7922,
+		"error": "not-found"
+	},
+	{
+		"id": 7923,
+		"error": "not-found"
+	},
+	{
+		"id": 7924,
+		"error": "not-found"
+	},
+	{
+		"id": 7925,
+		"error": "not-found"
+	},
+	{
+		"id": 7926,
+		"error": "not-found"
+	},
+	{
+		"id": 7927,
+		"error": "not-found"
+	},
+	{
+		"id": 7928,
+		"error": "not-found"
+	},
+	{
+		"id": 7929,
+		"error": "not-found"
+	},
+	{
+		"id": 7930,
+		"error": "not-found"
+	},
+	{
+		"id": 7931,
+		"error": "not-found"
+	},
+	{
+		"id": 7932,
+		"error": "not-found"
+	},
+	{
+		"id": 7933,
+		"error": "not-found"
+	},
+	{
+		"id": 7934,
+		"error": "not-found"
+	},
+	{
+		"id": 7935,
+		"error": "not-found"
+	},
+	{
+		"id": 7936,
+		"error": "not-found"
+	},
+	{
+		"id": 7937,
+		"error": "not-found"
+	},
+	{
+		"id": 7938,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"Animation!"
+		],
+		"synonyms": [
+			"Animation! Tomoyoshi Joko & Hiroco Ichinose Film Works 2009"
+		],
+		"id": 7939,
+		"type": "OVA",
+		"title": "Animation!"
+	},
+	{
+		"id": 7940,
+		"error": "not-found"
+	},
+	{
+		"id": 7941,
+		"error": "not-found"
+	},
+	{
+		"id": 7942,
+		"error": "not-found"
+	},
+	{
+		"id": 7943,
+		"error": "not-found"
+	},
+	{
+		"id": 7944,
+		"error": "not-found"
+	},
+	{
+		"id": 7945,
+		"error": "not-found"
+	},
+	{
+		"id": 7946,
+		"error": "not-found"
+	},
+	{
+		"id": 7947,
+		"error": "not-found"
+	},
+	{
+		"id": 7948,
+		"error": "not-found"
+	},
+	{
+		"id": 7949,
+		"error": "not-found"
+	},
+	{
+		"id": 7950,
+		"error": "not-found"
+	},
+	{
+		"id": 7951,
+		"error": "not-found"
+	},
+	{
+		"id": 7952,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"Defend Love"
+		],
+		"synonyms": [
+			"Namie Amuro - Defend Love"
+		],
+		"id": 7953,
+		"type": "Music",
+		"title": "Defend Love"
+	},
+	{
+		"id": 7954,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"マシュマロ通信 <タイムス>"
+		],
+		"synonyms": [
+			"Mashumaro Taimusu",
+			"The Raspberry Times"
+		],
+		"id": 7955,
+		"type": "TV",
+		"title": "The Marshmallow Times"
+	},
+	{
+		"japanese": [
+			"サイボットロボッチ"
+		],
+		"synonyms": [
+			"Saibotto Robocchi",
+			"Cybot Robotchi"
+		],
+		"english": [
+			"Robby the Rascal"
+		],
+		"id": 7956,
+		"type": "TV",
+		"title": "Cybot Robocchi"
+	},
+	{
+		"id": 7957,
+		"error": "not-found"
+	},
+	{
+		"id": 7958,
+		"error": "not-found"
+	},
+	{
+		"id": 7959,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"パチスロ貴族 銀"
+		],
+		"id": 7960,
+		"type": "TV",
+		"title": "Pachislo Kizoku Gin"
+	},
+	{
+		"id": 7961,
+		"error": "not-found"
+	},
+	{
+		"id": 7962,
+		"error": "not-found"
+	},
+	{
+		"id": 7963,
+		"error": "not-found"
+	},
+	{
+		"id": 7964,
+		"error": "not-found"
+	},
+	{
+		"id": 7965,
+		"error": "not-found"
+	},
+	{
+		"id": 7966,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"ヒロシマに一番電車が走った"
+		],
+		"id": 7967,
+		"type": "Movie",
+		"title": "Hiroshima ni Ichiban Densha ga Hashitta"
+	},
+	{
+		"id": 7968,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"RIN×SEN～白濁女教師と野郎ども～"
+		],
+		"id": 7969,
+		"type": "OVA",
+		"title": "Rin x Sen: Hakudaku Onna Kyoushi to Yaroudomo"
+	},
+	{
+		"id": 7970,
+		"error": "not-found"
+	},
+	{
+		"id": 7971,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"チーズスイートホーム チーとコッチ",
+			"出会う."
+		],
+		"synonyms": [
+			"Chii's Sweet Home",
+			"Chi's Sweet Home: Chi to Kocchi",
+			"Deau."
+		],
+		"id": 7972,
+		"type": "OVA",
+		"title": "Chi's Sweet Home OVA"
+	},
+	{
+		"id": 7973,
+		"error": "not-found"
+	},
+	{
+		"id": 7974,
+		"error": "not-found"
+	},
+	{
+		"id": 7975,
+		"error": "not-found"
+	},
+	{
+		"id": 7976,
+		"error": "not-found"
+	},
+	{
+		"id": 7977,
+		"error": "not-found"
+	},
+	{
+		"id": 7978,
+		"error": "not-found"
+	},
+	{
+		"id": 7979,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"新オバケのＱ太郎"
+		],
+		"synonyms": [
+			"Shin Obake no Q-taro",
+			"Obake no Q-taro (1971)"
+		],
+		"id": 7980,
+		"type": "TV",
+		"title": "Shin Obake no Q-tarou"
+	},
+	{
+		"japanese": [
+			"オバケのQ太郎"
+		],
+		"synonyms": [
+			"Obake no Q-taro (1985)",
+			"Shin Obake no Q-taro (1985)"
+		],
+		"id": 7981,
+		"type": "TV",
+		"title": "Obake no Q-tarou (1985)"
+	},
+	{
+		"japanese": [
+			"鉄路の彼方"
+		],
+		"synonyms": [
+			"Beyond the Train Tracks"
+		],
+		"id": 7982,
+		"type": "OVA",
+		"title": "Tetsuro no Kanata"
+	},
+	{
+		"id": 7983,
+		"error": "not-found"
+	},
+	{
+		"id": 7984,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"太陽の法 エル・カンターレへの道"
+		],
+		"synonyms": [
+			"Happy Science Movie 2",
+			"The Laws of the Sun: The Road to El Cantare"
+		],
+		"english": [
+			"The Laws of the Sun"
+		],
+		"id": 7985,
+		"type": "Movie",
+		"title": "Taiyou no Hou: El Cantare e no Michi"
+	},
+	{
+		"id": 7986,
+		"error": "not-found"
+	},
+	{
+		"id": 7987,
+		"error": "not-found"
+	},
+	{
+		"id": 7988,
+		"error": "not-found"
+	},
+	{
+		"id": 7989,
+		"error": "not-found"
+	},
+	{
+		"id": 7990,
+		"error": "not-found"
+	},
+	{
+		"id": 7991,
+		"error": "not-found"
+	},
+	{
+		"id": 7992,
+		"error": "not-found"
+	},
+	{
+		"id": 7993,
+		"error": "not-found"
+	},
+	{
+		"id": 7994,
+		"error": "not-found"
+	},
+	{
+		"id": 7995,
+		"error": "not-found"
+	},
+	{
+		"id": 7996,
+		"error": "not-found"
+	},
+	{
+		"id": 7997,
+		"error": "not-found"
+	},
+	{
+		"id": 7998,
+		"error": "not-found"
+	},
+	{
+		"id": 7999,
+		"error": "not-found"
+	},
+	{
+		"id": 8000,
+		"error": "not-found"
+	}
+]
