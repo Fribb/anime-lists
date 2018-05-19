@@ -3606,13 +3606,15 @@
 			"銀河英雄伝説外伝／千億の星、千億の光"
 		],
 		"synonyms": [
+			"Ginga Eiyuu Densetsu Gaiden: Senoku no Hoshi",
+			"Senoku no Hikari",
 			"Legend of the Galactic Heroes Gaiden: A Hundred Billion Stars",
 			"A Hundred Billion Lights",
 			"LoGH Gaiden"
 		],
 		"id": 3371,
 		"type": "OVA",
-		"title": "Ginga Eiyuu Densetsu Gaiden: Senoku no Hoshi, Senoku no Hikari"
+		"title": "Ginga Eiyuu Densetsu Gaiden"
 	},
 	{
 		"japanese": [
@@ -6632,7 +6634,7 @@
 		],
 		"id": 3665,
 		"type": "OVA",
-		"title": "Ginga Eiyuu Densetsu Gaiden: Rasen Meikyuu"
+		"title": "Ginga Eiyuu Densetsu Gaiden (1999)"
 	},
 	{
 		"id": 3666,
@@ -9795,5 +9797,162 @@
 		"id": 3982,
 		"type": "OVA",
 		"title": "Kairaku Satsujin Chousakan Kouji"
+	},
+	{
+		"japanese": [
+			"無人島物語Ｘ"
+		],
+		"english": [
+			"Desert Island Story X"
+		],
+		"id": 3983,
+		"type": "OVA",
+		"title": "Mujintou Monogatari X"
+	},
+	{
+		"id": 3984,
+		"error": "not-found"
+	},
+	{
+		"id": 3985,
+		"error": "not-found"
+	},
+	{
+		"id": 3986,
+		"error": "not-found"
+	},
+	{
+		"id": 3987,
+		"error": "not-found"
+	},
+	{
+		"id": 3988,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"砂の薔薇[デザート・ローズ] 雪の黙示録"
+		],
+		"synonyms": [
+			"Desert Rose",
+			"Desert Rose: Yuki no Mokushiroku"
+		],
+		"id": 3989,
+		"type": "OVA",
+		"title": "Suna no Bara: Yuki no Mokushiroku"
+	},
+	{
+		"japanese": [
+			"くもとちゅうりっぷ"
+		],
+		"synonyms": [
+			"Kumo to Chuurippu"
+		],
+		"english": [
+			"The Spider and the Tulip"
+		],
+		"id": 3990,
+		"type": "Movie",
+		"title": "Kumo to Tulip"
+	},
+	{
+		"japanese": [
+			"魔法少女隊アルス the Adventure"
+		],
+		"synonyms": [
+			"Mahou Shoujo-tai: Alice Adventure",
+			"Arusu Adventure",
+			"Tweeny Witches: The Adventure"
+		],
+		"english": [
+			"Tweeny Witches: Alice Adventures"
+		],
+		"id": 3991,
+		"type": "OVA",
+		"title": "Mahou Shoujo-tai Arusu the Adventure"
+	},
+	{
+		"japanese": [
+			"姫騎士リリア"
+		],
+		"synonyms": [
+			"Princess Knight Lilia"
+		],
+		"english": [
+			"Himekishi Lilia"
+		],
+		"id": 3992,
+		"type": "OVA",
+		"title": "Himekishi Lilia"
+	},
+	{
+		"id": 3993,
+		"error": "not-found"
+	},
+	{
+		"id": 3994,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"特別病棟"
+		],
+		"synonyms": [
+			"Special Hospital Ward"
+		],
+		"id": 3995,
+		"type": "OVA",
+		"title": "Tokubetsu Byoutou"
+	},
+	{
+		"id": 3996,
+		"error": "not-found"
+	},
+	{
+		"id": 3997,
+		"error": "not-found"
+	},
+	{
+		"japanese": [
+			"特務捜査官レイ & 風子"
+		],
+		"synonyms": [
+			"Tokumu Sousakan Rei and Fuko",
+			"Rei and Fuko: Special Duty Agents"
+		],
+		"english": [
+			"Rei and Fuko"
+		],
+		"id": 3998,
+		"type": "OVA",
+		"title": "Tokumu Sousakan Rei & Fuko"
+	},
+	{
+		"japanese": [
+			"奴隷メイドプリンセス"
+		],
+		"synonyms": [
+			"Slave Maid Princess"
+		],
+		"english": [
+			"Dorei Maid Princess"
+		],
+		"id": 3999,
+		"type": "OVA",
+		"title": "Dorei Maid Princess"
+	},
+	{
+		"japanese": [
+			"カナリヤは籠の中"
+		],
+		"synonyms": [
+			"Kanariya wa Kago no Naka"
+		],
+		"english": [
+			"Cage"
+		],
+		"id": 4000,
+		"type": "OVA",
+		"title": "Canary wa Kago no Naka"
 	}
 ]
