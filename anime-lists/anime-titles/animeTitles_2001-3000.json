@@ -7,7 +7,8 @@
 			"Tengen Toppa Gurren-Lagann",
 			"Making Break-Through Gurren Lagann",
 			"Heavenly Breakthrough Gurren Lagann",
-			"TTGL"
+			"TTGL",
+			"Gurren Laggan"
 		],
 		"english": [
 			"Gurren Lagann"
@@ -6900,7 +6901,7 @@
 	},
 	{
 		"japanese": [
-			"ブラックキャット"
+			"ブラックキャット 第14.5話 遠ざかる猫"
 		],
 		"synonyms": [
 			"Black Cat Episode 14.5",
@@ -6909,7 +6910,7 @@
 		],
 		"id": 2589,
 		"type": "Special",
-		"title": "Black Cat Special"
+		"title": "Black Cat: Toozakaru Neko"
 	},
 	{
 		"japanese": [
@@ -10604,11 +10605,11 @@
 		],
 		"synonyms": [
 			"Hello Spank!",
-			"Ohayou! Spank"
+			"Ohayo! Spank"
 		],
 		"id": 2912,
 		"type": "TV",
-		"title": "Ohayo! Spank"
+		"title": "Ohayou! Spank"
 	},
 	{
 		"japanese": [
@@ -11016,11 +11017,11 @@
 	},
 	{
 		"japanese": [
-			"みんなのうた「笑顔」"
+			"笑顔"
 		],
 		"synonyms": [
 			"Smile",
-			"Minna no Uta: Egao"
+			"Minna no Uta"
 		],
 		"id": 2953,
 		"type": "Music",
