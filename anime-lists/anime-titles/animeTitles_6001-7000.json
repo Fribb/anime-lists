@@ -2586,7 +2586,10 @@
 	},
 	{
 		"japanese": [
-			"屍姫 玄"
+			"屍姫 玄 それでも、人として"
+		],
+		"synonyms": [
+			"Shikabane Hime: Kuro Special"
 		],
 		"english": [
 			"Corpse Princess: Kuro - Even So",
@@ -2594,7 +2597,7 @@
 		],
 		"id": 6344,
 		"type": "Special",
-		"title": "Shikabane Hime: Kuro Special"
+		"title": "Shikabane Hime: Kuro \u2013 Soredemo, Hito to Shite"
 	},
 	{
 		"id": 6345,
@@ -7434,14 +7437,15 @@
 	},
 	{
 		"japanese": [
-			"GA 芸術科アートデザインクラス OVA"
+			"GA 芸術科アートデザインクラス 青空が描きたい"
 		],
 		"synonyms": [
+			"GA: Geijutsuka Art Design Class OVA",
 			"GA: ADC OVA"
 		],
 		"id": 6959,
 		"type": "OVA",
-		"title": "GA: Geijutsuka Art Design Class OVA"
+		"title": "GA: Geijutsuka Art Design Class: Aozora ga Kakitai"
 	},
 	{
 		"id": 6960,
