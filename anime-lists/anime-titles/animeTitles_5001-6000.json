@@ -594,14 +594,15 @@
 	},
 	{
 		"japanese": [
-			"ドラゴノーツ-ザ・レソナンス-"
+			"ドラゴノーツ-ザ・レソナンス- 孤島 -閉ざされた狂騒-"
 		],
 		"synonyms": [
-			"Dragonaut: The Resonance OVA"
+			"Dragonaut: The Resonance OVA",
+			"Dragonaut: The Resonance Special"
 		],
 		"id": 5072,
 		"type": "Special",
-		"title": "Dragonaut: The Resonance Special"
+		"title": "Dragonaut: The Resonance - Kotou - Tozasareta Kyousoo"
 	},
 	{
 		"id": 5073,
