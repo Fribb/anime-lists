@@ -392,8 +392,7 @@
 		"synonyms": [
 			"Rurouni Kenshin Episode 95: End of Wanderings",
 			"Rurouni Kenshin: Meiji Kenkaku Romantan Special",
-			"Rurou no Saihate",
-			"Hi to Ruri no Kizuna wa Shiosai no Uchi ni"
+			"Rurou no Saihate - Hi to Ruri no Kizuna wa Shiosai no Naka ni"
 		],
 		"english": [
 			"Samurai X Special"
@@ -2266,10 +2265,7 @@
 	},
 	{
 		"id": 12405,
-		"error": {
-			"code": 500,
-			"message": "Internal Server Error"
-		}
+		"error": "not-found"
 	},
 	{
 		"id": 12406,
@@ -2444,10 +2440,7 @@
 	},
 	{
 		"id": 12434,
-		"error": {
-			"code": 500,
-			"message": "Internal Server Error"
-		}
+		"error": "not-found"
 	},
 	{
 		"id": 12435,
@@ -4812,10 +4805,7 @@
 	},
 	{
 		"id": 12845,
-		"error": {
-			"code": 500,
-			"message": "Internal Server Error"
-		}
+		"error": "not-found"
 	},
 	{
 		"id": 12846,
