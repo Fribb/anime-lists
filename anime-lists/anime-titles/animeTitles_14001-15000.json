@@ -4425,10 +4425,12 @@
 	},
 	{
 		"japanese": [
-			"だから僕は、Ｈができない。 OVA"
+			"だから僕は、Ｈができない 。 見えすぎ! 水着コンテスト"
 		],
 		"synonyms": [
-			"Dakara boku wa H ga Dekinai. Episode 13"
+			"Dakara boku wa H ga Dekinai. Episode 13",
+			"Dakara Boku wa",
+			"H ga Dekinai. OVA"
 		],
 		"english": [
 			"So",
@@ -4436,7 +4438,7 @@
 		],
 		"id": 14893,
 		"type": "OVA",
-		"title": "Dakara Boku wa, H ga Dekinai. OVA"
+		"title": "Dakara Boku wa, H ga Dekinai.: Mie Sugi! Mizugi Contest"
 	},
 	{
 		"id": 14894,

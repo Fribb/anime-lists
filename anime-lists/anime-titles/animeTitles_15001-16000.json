@@ -2211,7 +2211,7 @@
 		],
 		"id": 15437,
 		"type": "OVA",
-		"title": "Kore wa Zombie Desu ka? of the Dead OVA"
+		"title": "Kore wa Zombie Desu ka? of the Dead: Hai, Minotake ni Attemasu"
 	},
 	{
 		"id": 15438,
@@ -4195,12 +4195,15 @@
 		"japanese": [
 			"ガールズ&パンツァー"
 		],
+		"synonyms": [
+			"Girls und Panzer"
+		],
 		"english": [
 			"Girls & Panzer OVAs"
 		],
 		"id": 15811,
 		"type": "Special",
-		"title": "Girls und Panzer Specials"
+		"title": "Girls & Panzer Specials"
 	},
 	{
 		"id": 15812,
