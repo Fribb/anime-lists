@@ -247,11 +247,12 @@
 		"synonyms": [
 			"Koichoco",
 			"Love",
-			"Elections & Chocolate Special"
+			"Elections & Chocolate Special",
+			"Koi to Senkyo to Chocolate Episode 13"
 		],
 		"id": 18045,
 		"type": "Special",
-		"title": "Koi to Senkyo to Chocolate Special"
+		"title": "Koi to Senkyo to Chocolate: Koi Imouto!"
 	},
 	{
 		"id": 18046,
@@ -1919,12 +1920,11 @@
 			"ガールズ＆パンツァー 不肖・秋山優花里の戦車講座"
 		],
 		"synonyms": [
-			"Girls und Panzer: Akiyama Yukari's Tank Course",
-			"Girls und Panzer: Akiyama Yukari's Tank Corner"
+			"Girls und Panzer: Akiyama Yukari's Tank Course\r\nGirls und Panzer: Akiyama Yukari's Tank Corner"
 		],
 		"id": 18343,
 		"type": "Special",
-		"title": "Girls und Panzer: Fushou - Akiyama Yukari no Sensha Kouza"
+		"title": "Girls & Panzer: Fushou Akiyama Yukari no Sensha Kouza"
 	},
 	{
 		"id": 18344,
@@ -3401,7 +3401,7 @@
 		],
 		"id": 18619,
 		"type": "OVA",
-		"title": "Girls und Panzer: Kore ga Hontou no Anzio-sen Desu!"
+		"title": "Girls & Panzer: Kore ga Hontou no Anzio-sen desu!"
 	},
 	{
 		"id": 18620,
