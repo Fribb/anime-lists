@@ -40,11 +40,20 @@
 		"error": "not-found"
 	},
 	{
+		"japanese": [
+			"Fate/kaleid liner プリズマ☆イリヤ ツヴァイ!"
+		],
+		"synonyms": [
+			"Prisma Illya 2wei!: First Bra - Illya-hen",
+			"Prisma☆Illya 2nd Season: First Bra - Illya-hen",
+			"Fate/kaleid liner Prisma☆Illya 2wei!: First Bra - Illya-hen"
+		],
+		"english": [
+			"Fate/Kaleid Liner Prisma Illya 2Wei! Shorts"
+		],
 		"id": 25011,
-		"error": {
-			"code": 500,
-			"message": "Internal Server Error"
-		}
+		"type": "Special",
+		"title": "Fate/kaleid liner Prisma☆Illya 2wei! Specials"
 	},
 	{
 		"id": 25012,
@@ -69,18 +78,23 @@
 		"error": "not-found"
 	},
 	{
+		"japanese": [
+			"劇場版 境界の彼方 I'LL BE HERE 過去篇"
+		],
+		"synonyms": [
+			"Beyond the Boundary Movie",
+			"Kyokai no Kanata Movie"
+		],
+		"english": [
+			"Beyond the Boundary: I'll Be Here - Past"
+		],
 		"id": 25015,
-		"error": {
-			"code": 500,
-			"message": "Internal Server Error"
-		}
+		"type": "Movie",
+		"title": "Kyoukai no Kanata Movie 1: I'll Be Here - Kako-hen"
 	},
 	{
 		"id": 25016,
-		"error": {
-			"code": 500,
-			"message": "Internal Server Error"
-		}
+		"error": "not-found"
 	},
 	{
 		"id": 25017,
@@ -96,17 +110,11 @@
 	},
 	{
 		"id": 25020,
-		"error": {
-			"code": 500,
-			"message": "Internal Server Error"
-		}
+		"error": "not-found"
 	},
 	{
 		"id": 25021,
-		"error": {
-			"code": 500,
-			"message": "Internal Server Error"
-		}
+		"error": "not-found"
 	},
 	{
 		"id": 25022,
@@ -1357,10 +1365,7 @@
 	},
 	{
 		"id": 25252,
-		"error": {
-			"code": 500,
-			"message": "Internal Server Error"
-		}
+		"error": "not-found"
 	},
 	{
 		"japanese": [
@@ -1432,11 +1437,17 @@
 		"error": "not-found"
 	},
 	{
+		"japanese": [
+			"メグミとタイヨウ 果汁グミ Tweet Love Story"
+		],
+		"synonyms": [
+			"Megumi to Taiyou",
+			"Meiji Candy Commercial: Megumi and Taiyou",
+			"TweetLoveStory"
+		],
 		"id": 25265,
-		"error": {
-			"code": 500,
-			"message": "Internal Server Error"
-		}
+		"type": "Special",
+		"title": "Megumi to Taiyou: Kajuu Gummi Tweet Love Story"
 	},
 	{
 		"id": 25266,
@@ -1457,17 +1468,11 @@
 	},
 	{
 		"id": 25268,
-		"error": {
-			"code": 500,
-			"message": "Internal Server Error"
-		}
+		"error": "not-found"
 	},
 	{
 		"id": 25269,
-		"error": {
-			"code": 500,
-			"message": "Internal Server Error"
-		}
+		"error": "not-found"
 	},
 	{
 		"id": 25270,
@@ -1490,10 +1495,7 @@
 	},
 	{
 		"id": 25273,
-		"error": {
-			"code": 500,
-			"message": "Internal Server Error"
-		}
+		"error": "not-found"
 	},
 	{
 		"id": 25274,
@@ -1505,17 +1507,11 @@
 	},
 	{
 		"id": 25276,
-		"error": {
-			"code": 500,
-			"message": "Internal Server Error"
-		}
+		"error": "not-found"
 	},
 	{
 		"id": 25277,
-		"error": {
-			"code": 500,
-			"message": "Internal Server Error"
-		}
+		"error": "not-found"
 	},
 	{
 		"id": 25278,
@@ -1531,17 +1527,11 @@
 	},
 	{
 		"id": 25281,
-		"error": {
-			"code": 500,
-			"message": "Internal Server Error"
-		}
+		"error": "not-found"
 	},
 	{
 		"id": 25282,
-		"error": {
-			"code": 500,
-			"message": "Internal Server Error"
-		}
+		"error": "not-found"
 	},
 	{
 		"japanese": [
@@ -1574,10 +1564,7 @@
 	},
 	{
 		"id": 25286,
-		"error": {
-			"code": 500,
-			"message": "Internal Server Error"
-		}
+		"error": "not-found"
 	},
 	{
 		"id": 25287,
@@ -1593,10 +1580,7 @@
 	},
 	{
 		"id": 25290,
-		"error": {
-			"code": 500,
-			"message": "Internal Server Error"
-		}
+		"error": "not-found"
 	},
 	{
 		"japanese": [
@@ -1608,17 +1592,22 @@
 	},
 	{
 		"id": 25292,
-		"error": {
-			"code": 500,
-			"message": "Internal Server Error"
-		}
+		"error": "not-found"
 	},
 	{
-		"id": 25293,
-		"error": {
-			"code": 500,
-			"message": "Internal Server Error"
-		}
+		"japanese": [
+			"双子の魔法使い【リコとグリ】"
+		],
+		"synonyms": [
+			"Futago no Mahoutsukai Lico and Gli",
+			"Futago no Mahoutsukai Lico & Gli"
+		],
+		"english": [
+			"The Wizard of twins LICO & GLI"
+		],
+		"id": 25293
+		"type": "ONA",
+		"title": "Futago no Mahoutsukai Lico to Gli"
 	},
 	{
 		"id": 25294,
@@ -1626,10 +1615,7 @@
 	},
 	{
 		"id": 25295,
-		"error": {
-			"code": 500,
-			"message": "Internal Server Error"
-		}
+		"error": "not-found"
 	},
 	{
 		"id": 25296,
@@ -1641,10 +1627,7 @@
 	},
 	{
 		"id": 25298,
-		"error": {
-			"code": 500,
-			"message": "Internal Server Error"
-		}
+		"error": "not-found"
 	},
 	{
 		"japanese": [
@@ -1659,22 +1642,32 @@
 		"error": "not-found"
 	},
 	{
+		"japanese": [
+			"マヤの一生"
+		],
+		"synonyms": [
+			"The Life of The Little Dog"
+		],
 		"id": 25301,
-		"error": {
-			"code": 500,
-			"message": "Internal Server Error"
-		}
+		"type": "Movie",
+		"title": "Maya no Isshou"
 	},
 	{
 		"id": 25302,
 		"error": "not-found"
 	},
 	{
+		"japanese": [
+			"ハイキュー!! リエーフ見参！"
+		],
+		"synonyms": [
+			"Haikyuu!!: Jump Festa 2014 Special",
+			"Haikyuu!! OVA",
+			"Haikyuu!! The Arrival of Haiba Lev"
+		],
 		"id": 25303,
-		"error": {
-			"code": 500,
-			"message": "Internal Server Error"
-		}
+		"type": "OVA",
+		"title": "Haikyuu!!: Lev Genzan!"
 	},
 	{
 		"id": 25304,
@@ -1783,10 +1776,7 @@
 	},
 	{
 		"id": 25326,
-		"error": {
-			"code": 500,
-			"message": "Internal Server Error"
-		}
+		"error": "not-found"
 	},
 	{
 		"id": 25327,
@@ -1914,10 +1904,7 @@
 	},
 	{
 		"id": 25353,
-		"error": {
-			"code": 500,
-			"message": "Internal Server Error"
-		}
+		"error": "not-found"
 	},
 	{
 		"id": 25354,
@@ -1925,17 +1912,11 @@
 	},
 	{
 		"id": 25355,
-		"error": {
-			"code": 500,
-			"message": "Internal Server Error"
-		}
+		"error": "not-found"
 	},
 	{
 		"id": 25356,
-		"error": {
-			"code": 500,
-			"message": "Internal Server Error"
-		}
+		"error": "not-found"
 	},
 	{
 		"id": 25357,
@@ -1955,10 +1936,7 @@
 	},
 	{
 		"id": 25361,
-		"error": {
-			"code": 500,
-			"message": "Internal Server Error"
-		}
+		"error": "not-found"
 	},
 	{
 		"id": 25362,
@@ -1980,11 +1958,20 @@
 		"error": "not-found"
 	},
 	{
+		"japanese": [
+			"鉱国のプリンセス ディアンシー"
+		],
+		"synonyms": [
+			"Diancie",
+			"Princess of the Ore Country"
+		],
+		"english": [
+			"Diancie",
+			"Princess of the Diamond Domain"
+		],
 		"id": 25365,
-		"error": {
-			"code": 500,
-			"message": "Internal Server Error"
-		}
+		"type": "Special",
+		"title": "Pokemon XY: Koukoku no Princess Diancie"
 	},
 	{
 		"id": 25366,
