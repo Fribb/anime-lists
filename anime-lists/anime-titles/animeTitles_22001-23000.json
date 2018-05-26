@@ -607,14 +607,15 @@
 	},
 	{
 		"japanese": [
-			"ウィッチクラフトワークス"
+			"ウィッチクラフトワークス 多華宮君と妹の悪巧み"
 		],
 		"synonyms": [
-			"Witchcraft Works"
+			"Witchcraft Works",
+			"Witch Craft Works OVA"
 		],
 		"id": 22117,
 		"type": "OVA",
-		"title": "Witch Craft Works OVA"
+		"title": "Witch Craft Works: Takamiya-kun to Imouto no Warudakumi"
 	},
 	{
 		"id": 22118,
@@ -4560,10 +4561,7 @@
 	},
 	{
 		"id": 22769,
-		"error": {
-			"code": 500,
-			"message": "Internal Server Error"
-		}
+		"error": "not-found"
 	},
 	{
 		"id": 22770,

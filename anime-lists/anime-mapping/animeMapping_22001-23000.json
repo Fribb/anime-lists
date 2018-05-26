@@ -4,14 +4,15 @@
 		"mal_id": 22013
 	},
 	{
+		"thetvdb_id": -1,
 		"mal_id": 22031
 	},
 	{
-		"themoviedb_id": -1,
+		"themoviedb_id": 475763,
 		"mal_id": 22035
 	},
 	{
-		"themoviedb_id": -1,
+		"themoviedb_id": 475086,
 		"mal_id": 22037
 	},
 	{
@@ -19,7 +20,7 @@
 		"mal_id": 22039
 	},
 	{
-		"thetvdb_id": -1,
+		"thetvdb_id": 114801,
 		"mal_id": 22043
 	},
 	{
@@ -30,6 +31,7 @@
 		"mal_id": 22053
 	},
 	{
+		"thetvdb_id": -1,
 		"mal_id": 22055
 	},
 	{
@@ -48,6 +50,7 @@
 		"mal_id": 22069
 	},
 	{
+		"thetvdb_id": -1,
 		"mal_id": 22071
 	},
 	{
@@ -58,11 +61,11 @@
 		"mal_id": 22093
 	},
 	{
-		"thetvdb_id": -1,
+		"thetvdb_id": 310718,
 		"mal_id": 22097
 	},
 	{
-		"thetvdb_id": -1,
+		"thetvdb_id": 280612,
 		"mal_id": 22099
 	},
 	{
@@ -89,6 +92,7 @@
 		"mal_id": 22123
 	},
 	{
+		"thetvdb_id": -1,
 		"mal_id": 22125
 	},
 	{
@@ -100,6 +104,7 @@
 		"mal_id": 22135
 	},
 	{
+		"thetvdb_id": -1,
 		"mal_id": 22137
 	},
 	{
@@ -127,7 +132,7 @@
 		"mal_id": 22163
 	},
 	{
-		"themoviedb_id": 369434,
+		"themoviedb_id": 99647,
 		"mal_id": 22165
 	},
 	{
@@ -151,7 +156,7 @@
 		"mal_id": 22175
 	},
 	{
-		"themoviedb_id": -1,
+		"themoviedb_id": 510908,
 		"mal_id": 22177
 	},
 	{
@@ -190,7 +195,7 @@
 		"mal_id": 22221
 	},
 	{
-		"thetvdb_id": -1,
+		"thetvdb_id": 281950,
 		"mal_id": 22225
 	},
 	{
@@ -198,9 +203,11 @@
 		"mal_id": 22231
 	},
 	{
+		"thetvdb_id": -1,
 		"mal_id": 22239
 	},
 	{
+		"thetvdb_id": -1,
 		"mal_id": 22241
 	},
 	{
@@ -208,7 +215,7 @@
 		"mal_id": 22247
 	},
 	{
-		"themoviedb_id": -1,
+		"themoviedb_id": 443566,
 		"mal_id": 22249
 	},
 	{
@@ -267,6 +274,7 @@
 		"mal_id": 22329
 	},
 	{
+		"thetvdb_id": -1,
 		"mal_id": 22335
 	},
 	{
@@ -278,17 +286,18 @@
 		"mal_id": 22347
 	},
 	{
-		"thetvdb_id": -1,
+		"thetvdb_id": 279527,
 		"mal_id": 22359
 	},
 	{
+		"thetvdb_id": -1,
 		"mal_id": 22361
 	},
 	{
 		"mal_id": 22377
 	},
 	{
-		"thetvdb_id": -1,
+		"thetvdb_id": 279224,
 		"mal_id": 22381
 	},
 	{
@@ -337,6 +346,7 @@
 		"mal_id": 22433
 	},
 	{
+		"thetvdb_id": -1,
 		"mal_id": 22435
 	},
 	{
@@ -448,7 +458,7 @@
 		"mal_id": 22499
 	},
 	{
-		"thetvdb_id": -1,
+		"thetvdb_id": 279225,
 		"mal_id": 22503
 	},
 	{
@@ -460,7 +470,7 @@
 		"mal_id": 22509
 	},
 	{
-		"themoviedb_id": 389337,
+		"themoviedb_id": 190239,
 		"mal_id": 22511
 	},
 	{
@@ -530,7 +540,7 @@
 		"mal_id": 22577
 	},
 	{
-		"themoviedb_id": -1,
+		"themoviedb_id": 271540,
 		"mal_id": 22583
 	},
 	{
@@ -538,6 +548,7 @@
 		"mal_id": 22585
 	},
 	{
+		"thetvdb_id": -1,
 		"mal_id": 22591
 	},
 	{
@@ -606,6 +617,7 @@
 		"mal_id": 22631
 	},
 	{
+		"thetvdb_id": -1,
 		"mal_id": 22633
 	},
 	{
@@ -655,6 +667,7 @@
 		"mal_id": 22657
 	},
 	{
+		"thetvdb_id": -1,
 		"mal_id": 22661
 	},
 	{
@@ -669,6 +682,7 @@
 		"mal_id": 22671
 	},
 	{
+		"thetvdb_id": -1,
 		"mal_id": 22673
 	},
 	{
@@ -676,14 +690,14 @@
 		"mal_id": 22675
 	},
 	{
-		"themoviedb_id": -1,
+		"themoviedb_id": 269650,
 		"mal_id": 22677
 	},
 	{
 		"mal_id": 22683
 	},
 	{
-		"thetvdb_id": -1,
+		"thetvdb_id": 279828,
 		"mal_id": 22687
 	},
 	{
@@ -695,9 +709,11 @@
 		"mal_id": 22693
 	},
 	{
+		"thetvdb_id": -1,
 		"mal_id": 22695
 	},
 	{
+		"thetvdb_id": -1,
 		"mal_id": 22699
 	},
 	{
@@ -721,6 +737,7 @@
 		"mal_id": 22735
 	},
 	{
+		"thetvdb_id": -1,
 		"mal_id": 22745
 	},
 	{
@@ -735,10 +752,11 @@
 		"mal_id": 22759
 	},
 	{
+		"thetvdb_id": -1,
 		"mal_id": 22763
 	},
 	{
-		"thetvdb_id": -1,
+		"thetvdb_id": 88031,
 		"mal_id": 22777
 	},
 	{
@@ -761,7 +779,7 @@
 		"mal_id": 22817
 	},
 	{
-		"themoviedb_id": -1,
+		"themoviedb_id": 463176,
 		"mal_id": 22819
 	},
 	{
@@ -777,13 +795,15 @@
 		"mal_id": 22831
 	},
 	{
-		"thetvdb_id": -1,
+		"thetvdb_id": 279530,
 		"mal_id": 22835
 	},
 	{
+		"thetvdb_id": 307999,
 		"mal_id": 22839
 	},
 	{
+		"thetvdb_id": -1,
 		"mal_id": 22841
 	},
 	{
@@ -802,10 +822,11 @@
 		"mal_id": 22851
 	},
 	{
+		"thetvdb_id": -1,
 		"mal_id": 22859
 	},
 	{
-		"thetvdb_id": -1,
+		"thetvdb_id": 279528,
 		"mal_id": 22865
 	},
 	{
@@ -825,13 +846,14 @@
 		"mal_id": 22901
 	},
 	{
+		"thetvdb_id": -1,
 		"mal_id": 22943
 	},
 	{
 		"mal_id": 22953
 	},
 	{
-		"thetvdb_id": -1,
+		"thetvdb_id": 279979,
 		"mal_id": 22955
 	},
 	{
@@ -843,6 +865,7 @@
 		"mal_id": 22961
 	},
 	{
+		"thetvdb_id": 168421,
 		"mal_id": 22973
 	},
 	{
@@ -865,6 +888,7 @@
 		"mal_id": 22983
 	},
 	{
+		"thetvdb_id": -1,
 		"mal_id": 22985
 	},
 	{
