@@ -2283,11 +2283,14 @@
 	},
 	{
 		"japanese": [
-			"彼女がフラグをおられたら OAD"
+			"彼女がフラグをおられたら クリスマス? そんな物が僕に通用すると思うのか?"
+		],
+		"synonyms": [
+			"Kanojo ga Flag wo Oraretara OVA"
 		],
 		"id": 24451,
 		"type": "OVA",
-		"title": "Kanojo ga Flag wo Oraretara OVA"
+		"title": "Kanojo ga Flag wo Oraretara: Christmas? Sonna Mono ga Boku ni Tsuuyou Suru to Omou no ka?"
 	},
 	{
 		"id": 24452,
@@ -3500,6 +3503,9 @@
 			"Mushi-shi Zoku Shou: Odoro no Michi",
 			"Mushishi Zoku Shou Episode 11 and 12"
 		],
+		"english": [
+			"Mushishi Path of Thorns"
+		],
 		"id": 24687,
 		"type": "Special",
 		"title": "Mushishi Zoku Shou: Odoro no Michi"
@@ -3534,9 +3540,10 @@
 	},
 	{
 		"japanese": [
-			"極黒のブリュンヒルデ"
+			"極黒のブリュンヒルデ 第11.5話 から騒ぎ"
 		],
 		"synonyms": [
+			"Gokukoku no Brynhildr Special",
 			"Gokukoku no Brynhildr Episode 11.5"
 		],
 		"english": [
@@ -3544,7 +3551,7 @@
 		],
 		"id": 24695,
 		"type": "Special",
-		"title": "Gokukoku no Brynhildr Special"
+		"title": "Gokukoku no Brynhildr: Kara Sawagi"
 	},
 	{
 		"id": 24696,
