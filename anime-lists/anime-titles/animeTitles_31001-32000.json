@@ -3573,11 +3573,15 @@
 	},
 	{
 		"japanese": [
-			"クラスルーム☆クライシス　第5.5話"
+			"クラスルーム☆クライシス 第5.5話 旅の恥は上塗り"
+		],
+		"synonyms": [
+			"Classroom☆Crisis Special",
+			"Classroom Crisis Episode 5.5"
 		],
 		"id": 31530,
 		"type": "Special",
-		"title": "Classroom☆Crisis Special"
+		"title": "Classroom☆Crisis: Tabi no Haji wa Uwanuri"
 	},
 	{
 		"id": 31531,
@@ -5234,7 +5238,7 @@
 	},
 	{
 		"japanese": [
-			"青春×機関銃 獣たちの戦場"
+			"青春×機関銃 獣たちの戦場だなっ！"
 		],
 		"synonyms": [
 			"Aoharu x Machinegun Special",
@@ -6021,15 +6025,15 @@
 	},
 	{
 		"japanese": [
-			"少女たちは荒野を目指す"
+			"少女たちは荒野を目指す 言うべきものかしら"
 		],
 		"synonyms": [
 			"The girls who aim for the wildlands OVA",
-			"Girls beyond the youth KOYA OVA"
+			"Shoujo-tachi wa Kouya wo Mezasu OVA"
 		],
 		"id": 31867,
 		"type": "OVA",
-		"title": "Shoujo-tachi wa Kouya wo Mezasu OVA"
+		"title": "Shoujo-tachi wa Kouya wo Mezasu: Iubeki Monokashira"
 	},
 	{
 		"japanese": [
@@ -6806,17 +6810,17 @@
 	},
 	{
 		"japanese": [
-			"おくさまが生徒会長！OAD"
+			"おくさまが生徒会長！ 生徒会長とお風呂遊び"
 		],
 		"synonyms": [
-			"Okusama ga Seitokaichou! OAD"
+			"Okusama ga Seitokaichou! OVA"
 		],
 		"english": [
 			"My Wife is the Student Council President OVA"
 		],
 		"id": 31980,
 		"type": "OVA",
-		"title": "Okusama ga Seitokaichou! OVA"
+		"title": "Okusama ga Seitokaichou!: Seitokaichou to Ofuro Asobi"
 	},
 	{
 		"id": 31981,

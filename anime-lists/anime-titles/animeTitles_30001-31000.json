@@ -504,10 +504,7 @@
 	},
 	{
 		"id": 30063,
-		"error": {
-			"code": 500,
-			"message": "Internal Server Error"
-		}
+		"error": "not-found"
 	},
 	{
 		"japanese": [
@@ -6198,7 +6195,7 @@
 			"Happy Science Movie 7"
 		],
 		"english": [
-			"The Laws of the Universe - Part 0"
+			"The Laws of the Universe: Part 0"
 		],
 		"id": 30850,
 		"type": "Movie",
