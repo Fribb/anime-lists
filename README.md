@@ -24,6 +24,10 @@ TheTVDB.com
 TheMovieDB.org
 ```https://www.themoviedb.org/movie/<themoviedb_id>```
 
+The Mapping list can be merged into the full list with the following command (the full file shouldn't be created in the same folder to prevent merging the files twice):
+
+```jq -s '[.[][]]|sort_by(.mal_id)' animeMapping_* > ../animeMapping_full.json```
+
 ### anime-lists/anime-titles/
 contains the available titles (japanese, synonyms, english) all IDs on myanimelist.
 
