@@ -76,6 +76,9 @@
 		"title": "Hawaiian Conu"
 	},
 	{
+		"japanese": [
+			"Re:ステージ!"
+		],
 		"id": 38009,
 		"type": "TV",
 		"title": "Re:Stage!"
@@ -160,6 +163,9 @@
 	{
 		"japanese": [
 			"誘拐アンナ"
+		],
+		"synonyms": [
+			"Kidnapper Anna"
 		],
 		"id": 38017,
 		"type": "Movie",
@@ -320,7 +326,7 @@
 		],
 		"id": 38033,
 		"type": "OVA",
-		"title": "Soikano: Gyutto Dakishimete The Animation"
+		"title": "Soikano: Gyutto Dakishimete - The Animation"
 	},
 	{
 		"japanese": [
@@ -370,6 +376,9 @@
 		"title": "Elf no Oshiego to Sensei"
 	},
 	{
+		"japanese": [
+			"巨乳J○がオジさんチ○ポとじゅぽじゅぽいやらしいセックスしてます."
+		],
 		"id": 38039,
 		"type": "OVA",
 		"title": "Kyonyuu JK ga Ojisan Chinpo to Jupo Jupo Iyarashii Sex Shitemasu."
@@ -381,10 +390,7 @@
 		"synonyms": [
 			"KonoSuba",
 			"Give Blessings to This Wonderful World!",
-			"Eiga Kono Subarashii Sekai ni Shukufuku o!"
-		],
-		"english": [
-			"KonoSuba: God's Blessing on This Wonderful World!"
+			"Eiga Kono Subarashii Sekai ni Shukufuku wo!"
 		],
 		"id": 38040,
 		"type": "Movie",
@@ -516,15 +522,8 @@
 		"title": "WiSH VOYAGE"
 	},
 	{
-		"japanese": [
-			"アイドリッシュセブン『WiSH VOYAGE IDOLiSH7』"
-		],
-		"synonyms": [
-			"IDOLiSH7: WiSH VOYAGE"
-		],
 		"id": 38053,
-		"type": "Music",
-		"title": "WiSH VOYAGE"
+		"error": "not-found"
 	},
 	{
 		"japanese": [
@@ -631,15 +630,8 @@
 		"title": "Oshiego ni Kyouhaku Sareru no ga Hanzai desu ka?"
 	},
 	{
-		"japanese": [
-			"えんどろ〜！"
-		],
-		"synonyms": [
-			"Endro~!"
-		],
 		"id": 38064,
-		"type": "TV",
-		"title": "Endro"
+		"error": "not-found"
 	},
 	{
 		"japanese": [
@@ -778,15 +770,8 @@
 		"title": "Titipo Titipo"
 	},
 	{
-		"japanese": [
-			"この世界の(さらにいくつもの)片隅に"
-		],
-		"synonyms": [
-			"In (Several More) Corners of the This World"
-		],
 		"id": 38076,
-		"type": "Movie",
-		"title": "Kono Sekai no (Sarani Ikutsumo no) Katasumi ni"
+		"error": "not-found"
 	},
 	{
 		"japanese": [
@@ -805,12 +790,8 @@
 		"title": "Hidamari no Uta"
 	},
 	{
-		"japanese": [
-			"からめるハニー"
-		],
 		"id": 38079,
-		"type": "ONA",
-		"title": "Caramel Honey"
+		"error": "not-found"
 	},
 	{
 		"japanese": [
@@ -825,14 +806,14 @@
 	},
 	{
 		"japanese": [
-			"ガールズ&パンツァー 最終章"
+			"『ガールズ＆パンツァー 最終章』第2話"
 		],
 		"synonyms": [
 			"Girls und Panzer das Finale"
 		],
 		"id": 38081,
 		"type": "Movie",
-		"title": "Girls & Panzer: Saishuushou 2"
+		"title": "Girls & Panzer: Saishuushou Part 2"
 	},
 	{
 		"japanese": [
@@ -858,76 +839,180 @@
 		"title": "Ken En Ken: Aoki Kagayaki"
 	},
 	{
+		"japanese": [
+			"Fate/Grand Order -絶対魔獣戦線バビロニア-"
+		],
 		"id": 38084,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Fate/Grand Order: Zettai Majuu Sensen Babylonia"
 	},
 	{
+		"japanese": [
+			"劇場版Fate/Grand Order -神聖円卓領域キャメロット- Wandering; Agateram"
+		],
 		"id": 38085,
-		"error": "not-found"
+		"type": "Movie",
+		"title": "Fate/Grand Order: Shinsei Entaku Ryouiki Camelot - Wandering; Agateram"
 	},
 	{
+		"japanese": [
+			"劇場版Fate/Grand Order -神聖円卓領域キャメロット- Paladin; Agateram"
+		],
 		"id": 38086,
-		"error": "not-found"
+		"type": "Movie",
+		"title": "Fate/Grand Order: Shinsei Entaku Ryouiki Camelot - Paladin; Agateram"
 	},
 	{
+		"japanese": [
+			"おそ松さん～はじまりはじまり～"
+		],
+		"synonyms": [
+			"Osomatsu-san: The Start of the Beginning"
+		],
 		"id": 38087,
-		"error": "not-found"
+		"type": "Special",
+		"title": "Osomatsu-san: Hajimaru Hajimari"
 	},
 	{
+		"japanese": [
+			"劇場版デジモンアドベンチャー"
+		],
+		"synonyms": [
+			"Gekijouban Digimon Adventure"
+		],
 		"id": 38088,
-		"error": "not-found"
+		"type": "Movie",
+		"title": "Digimon Adventure (Movie)"
 	},
 	{
+		"japanese": [
+			"おこしやす",
+			"ちとせちゃん"
+		],
 		"id": 38089,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Okoshiyasu, Chitose-chan"
 	},
 	{
+		"japanese": [
+			"女の子だけがわかる歌-Only Girls Get It"
+		],
 		"id": 38090,
-		"error": "not-found"
+		"type": "Music",
+		"title": "Onnanoko dake ga Wakaru Uta: Only Girls Get It"
 	},
 	{
+		"japanese": [
+			"八月のシンデレラナイン (TV)"
+		],
 		"id": 38091,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Hachigatsu no Cinderella Nine (TV)"
 	},
 	{
+		"japanese": [
+			"치로와 친구들"
+		],
+		"synonyms": [
+			"Chiro and Friends"
+		],
+		"english": [
+			"Chiro"
+		],
 		"id": 38092,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Chiro-wa Chingu-deul"
 	},
 	{
+		"japanese": [
+			"제트레인저"
+		],
+		"english": [
+			"Z Rangers"
+		],
 		"id": 38093,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Zet Ranger"
 	},
 	{
+		"japanese": [
+			"깨모의 모험"
+		],
+		"english": [
+			"Adventure of Kkaemo"
+		],
 		"id": 38094,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Kkaemo-ui Moheom"
 	},
 	{
+		"japanese": [
+			"発情スイッチ~堕とされた少女達~ THE ANIMATION"
+		],
 		"id": 38095,
-		"error": "not-found"
+		"type": "OVA",
+		"title": "Hatsujou Switch: Otosareta Shoujo-tachi - The Animation"
 	},
 	{
+		"japanese": [
+			"あんさんぶるガールズ！！"
+		],
 		"id": 38096,
-		"error": "not-found"
+		"type": "Music",
+		"title": "Ensemble Girls!!"
 	},
 	{
+		"japanese": [
+			"ハタチの龍馬 with クロフネくん！"
+		],
+		"synonyms": [
+			"Shinagawa Anime Sonosan"
+		],
 		"id": 38097,
-		"error": "not-found"
+		"type": "ONA",
+		"title": "Hatachi no Ryouma with Kurofune-kun!"
 	},
 	{
+		"japanese": [
+			"MIX ミックス"
+		],
 		"id": 38098,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Mix"
 	},
 	{
+		"japanese": [
+			"パッコロリン"
+		],
+		"english": [
+			"Pakkororin"
+		],
 		"id": 38099,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Pakkororin"
 	},
 	{
+		"japanese": [
+			"ホリデイラブ 〜夫婦間恋愛〜"
+		],
+		"english": [
+			"Holiday Love"
+		],
 		"id": 38100,
-		"error": "not-found"
+		"type": "ONA",
+		"title": "Holiday Love: Fuufukan Renai"
 	},
 	{
+		"japanese": [
+			"五等分の花嫁"
+		],
+		"synonyms": [
+			"Gotoubun no Hanayome",
+			"The Five Wedded Brides"
+		],
 		"id": 38101,
-		"error": "not-found"
+		"type": "TV",
+		"title": "5-toubun no Hanayome"
 	},
 	{
 		"id": 38102,
@@ -938,20 +1023,44 @@
 		"error": "not-found"
 	},
 	{
+		"japanese": [
+			"魔法少女サイト ダイジェストPV"
+		],
+		"synonyms": [
+			"Magical Girl Site Recaps",
+			"Mahou Shoujo Site Digest"
+		],
 		"id": 38104,
-		"error": "not-found"
+		"type": "Special",
+		"title": "Mahou Shoujo Site Recaps"
 	},
 	{
 		"id": 38105,
 		"error": "not-found"
 	},
 	{
+		"japanese": [
+			"ホトハシル"
+		],
+		"synonyms": [
+			"Oresama",
+			"Hot Hustle",
+			"Hotobashiru"
+		],
+		"english": [
+			"Hotohashiru"
+		],
 		"id": 38106,
-		"error": "not-found"
+		"type": "Music",
+		"title": "Hotohashiru"
 	},
 	{
+		"japanese": [
+			"魔剣の姫はエロエロです"
+		],
 		"id": 38107,
-		"error": "not-found"
+		"type": "OVA",
+		"title": "Maken no Hime wa Ero Ero desu"
 	},
 	{
 		"id": 38108,
@@ -962,24 +1071,45 @@
 		"error": "not-found"
 	},
 	{
+		"japanese": [
+			"ているず おぶ HR"
+		],
+		"synonyms": [
+			"Tales of Homeroom"
+		],
 		"id": 38110,
-		"error": "not-found"
+		"type": "ONA",
+		"title": "Tales of HR"
 	},
 	{
 		"id": 38111,
 		"error": "not-found"
 	},
 	{
+		"japanese": [
+			"TALES OF パペット"
+		],
+		"english": [
+			"Tales of Puppet"
+		],
 		"id": 38112,
-		"error": "not-found"
+		"type": "ONA",
+		"title": "Tales of Puppet"
 	},
 	{
 		"id": 38113,
 		"error": "not-found"
 	},
 	{
+		"japanese": [
+			"【新幹線変形ロボ シンカリオン】総集編『団らん!!速杉家とシンカリオン』"
+		],
+		"synonyms": [
+			"Shinkansen Henkei Robo Shinkalion: Soushuuhen - Danran!! Hayasugi-ke to Shinkalion"
+		],
 		"id": 38114,
-		"error": "not-found"
+		"type": "ONA",
+		"title": "Shinkansen Henkei Robo Shinkalion The Animation Recap"
 	},
 	{
 		"id": 38115,
@@ -990,108 +1120,339 @@
 		"error": "not-found"
 	},
 	{
+		"japanese": [
+			"猪猪侠 大闹皇宫"
+		],
+		"synonyms": [
+			"GG Bond 0"
+		],
 		"id": 38117,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Zhu Zhu Xia: Da Nao Huang Gong"
 	},
 	{
+		"japanese": [
+			"猪猪侠 魔幻猪猡纪"
+		],
+		"synonyms": [
+			"GG Bond 01"
+		],
+		"english": [
+			"GG Bond Season 1: Magic Jurassic"
+		],
 		"id": 38118,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Zhu Zhu Xia: Mo Huan Zhu Luo Ji"
 	},
 	{
+		"japanese": [
+			"猪猪侠 武侠2008"
+		],
+		"synonyms": [
+			"GG Bond 02",
+			"GG Bond II Martial Arts 2008"
+		],
+		"english": [
+			"GG Bond Season 2: Martial Arts on the Olympics"
+		],
 		"id": 38119,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Zhu Zhu Xia: Wu Xia 2008"
 	},
 	{
+		"japanese": [
+			"猪猪侠 勇闯未来城"
+		],
+		"synonyms": [
+			"GG Bond 03"
+		],
+		"english": [
+			"GG Bond Season 3: Adventure in the Future"
+		],
 		"id": 38120,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Zhu Zhu Xia: Yong Chuang Weilai Cheng"
 	},
 	{
+		"japanese": [
+			"百变猪猪侠"
+		],
+		"synonyms": [
+			"GG Bond 04"
+		],
+		"english": [
+			"GG Bond Season 4: The Transform Angel"
+		],
 		"id": 38121,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Bai Bian Zhu Zhu Xia"
 	},
 	{
+		"japanese": [
+			"猪猪侠 积木世界的童话"
+		],
+		"synonyms": [
+			"GG Bond 05"
+		],
+		"english": [
+			"GG Bond Season 5: Fairy Tales of the Brick Kingdom"
+		],
 		"id": 38122,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Zhu Zhu Xia: Jimu Shijie De Tong Hua"
 	},
 	{
+		"japanese": [
+			"猪猪侠 幸福救援队"
+		],
+		"synonyms": [
+			"GG Bond 06"
+		],
+		"english": [
+			"GG Bond Season 6: Rescue Crew Comes"
+		],
 		"id": 38123,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Zhu Zhu Xia: Xingfu Jiuyuan Dui"
 	},
 	{
+		"japanese": [
+			"猪猪侠 变身小英雄"
+		],
+		"synonyms": [
+			"GG Bond 07",
+			"Monster Heroes",
+			"Kungfu Hero"
+		],
+		"english": [
+			"GG Bond Season 7: Monster Hero"
+		],
 		"id": 38124,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Zhu Zhu Xia: Bian Shen Xiao Ying Xiong"
 	},
 	{
+		"japanese": [
+			"猪猪侠 变身战队"
+		],
+		"synonyms": [
+			"GG Bond 08"
+		],
+		"english": [
+			"GG Bond Season 8: Kung Fu Team"
+		],
 		"id": 38125,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Zhu Zhu Xia: Bian Shen Zhandu"
 	},
 	{
+		"japanese": [
+			"猪猪侠 百变联盟"
+		],
+		"synonyms": [
+			"GG Bond 09"
+		],
+		"english": [
+			"GG Bond Season 9: Shapeshifting Union"
+		],
 		"id": 38126,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Zhu Zhu Xia: Bai Bian Lian Meng"
 	},
 	{
+		"japanese": [
+			"猪猪侠 五灵守卫者"
+		],
+		"synonyms": [
+			"GG Bond 10"
+		],
+		"english": [
+			"GG Bond Season 10: The Legend of Warriors"
+		],
 		"id": 38127,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Zhu Zhu Xia: Wu Ling Shou Wei Zhe"
 	},
 	{
+		"japanese": [
+			"猪猪侠 光明守卫者"
+		],
+		"synonyms": [
+			"GG Bond 11"
+		],
+		"english": [
+			"GG Bond Season 11"
+		],
 		"id": 38128,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Zhu Zhu Xia: Guang Ming Shou Wei Zhe"
 	},
 	{
+		"japanese": [
+			"猪猪侠 梦想守卫者"
+		],
+		"synonyms": [
+			"GG Bond 12"
+		],
+		"english": [
+			"GG Bond Season 12: Dream Guardians"
+		],
 		"id": 38129,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Zhu Zhu Xia: Meng Xiang Shou Wei Zhe"
 	},
 	{
+		"japanese": [
+			"松が枝を結び"
+		],
+		"synonyms": [
+			"The Pine's Branches"
+		],
+		"english": [
+			"A Branch of a Pine Is Tied Up"
+		],
 		"id": 38130,
-		"error": "not-found"
+		"type": "Movie",
+		"title": "A Branch of a Pine Is Tied Up"
 	},
 	{
+		"japanese": [
+			"猪猪侠 超星萌宠"
+		],
+		"synonyms": [
+			"GG Bond 13",
+			"GG Bond: Super Agent G"
+		],
+		"english": [
+			"GG Bond Season 13: Agent G"
+		],
 		"id": 38131,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Zhu Zhu Xia: Chao Xing Meng Chong"
 	},
 	{
+		"japanese": [
+			"猪猪侠 囧囧危机"
+		],
+		"synonyms": [
+			"GG Bond Movie 1"
+		],
+		"english": [
+			"GG Bond & Hatching"
+		],
 		"id": 38132,
-		"error": "not-found"
+		"type": "Movie",
+		"title": "Zhu Zhu Xia: Jiong Jiong Wei Ji"
 	},
 	{
+		"japanese": [
+			"豬豬俠 勇闖巨人島"
+		],
+		"synonyms": [
+			"GG Bond Movie 2"
+		],
+		"english": [
+			"GG Bond & the Beanstalk"
+		],
 		"id": 38133,
-		"error": "not-found"
+		"type": "Movie",
+		"title": "Zhu Zhu Xia: Yong Chuang Juren Dao"
 	},
 	{
+		"japanese": [
+			"猪猪侠 英雄猪少年"
+		],
+		"synonyms": [
+			"GG Bond Movie 4"
+		],
+		"english": [
+			"GG Bond: Guarding"
+		],
 		"id": 38134,
-		"error": "not-found"
+		"type": "Movie",
+		"title": "Zhu Zhu Xia: Ying Xiong Zhu Shao Nian"
 	},
 	{
+		"japanese": [
+			"猪猪侠 番外篇 拼装特工队"
+		],
 		"id": 38135,
-		"error": "not-found"
+		"type": "ONA",
+		"title": "Zhu Zhu Xia: Fan Wai - Pin Zhuang Tegong Dui"
 	},
 	{
+		"japanese": [
+			"豬豬俠 終極決戰前夜篇"
+		],
+		"english": [
+			"GG Bond: Ultimate Battle Prequel"
+		],
 		"id": 38136,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Zhu Zhu Xia: Zhong Ji Jue Zhan - Qian Ye Pian"
 	},
 	{
+		"japanese": [
+			"猪猪侠 终极决战"
+		],
+		"synonyms": [
+			"GG Bond Movie 3"
+		],
+		"english": [
+			"GG Bond: Ultimate Battle"
+		],
 		"id": 38137,
-		"error": "not-found"
+		"type": "Movie",
+		"title": "Zhu Zhu Xia: Zhong Ji Jue Zhan"
 	},
 	{
+		"japanese": [
+			"猪猪侠 竞球小英雄"
+		],
+		"synonyms": [
+			"GG Bond 14",
+			"GG Bond Season 14"
+		],
 		"id": 38138,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Zhu Zhu Xia: Jing Qiu Xiao Yingxiong"
 	},
 	{
 		"id": 38139,
 		"error": "not-found"
 	},
 	{
+		"japanese": [
+			"猪猪侠番外 环球日记"
+		],
+		"synonyms": [
+			"GG Bond: Global Diary"
+		],
+		"english": [
+			"GG Bond: Adventure to the World"
+		],
 		"id": 38140,
-		"error": "not-found"
+		"type": "ONA",
+		"title": "Zhu Zhu Xia: Fan Wai - Zhi Huanqiu Riji"
 	},
 	{
+		"synonyms": [
+			"それでも妻を愛してる2"
+		],
 		"id": 38141,
-		"error": "not-found"
+		"type": "OVA",
+		"title": "Soredemo Tsuma wo Aishiteru 2"
 	},
 	{
+		"japanese": [
+			"CHVRCHES「Out Of My Head feat. 水曜日のカンパネラ」"
+		],
+		"synonyms": [
+			"CHVRCHES - Out Of My Head ft. WEDNESDAY CAMPANELLA"
+		],
 		"id": 38142,
-		"error": "not-found"
+		"type": "Music",
+		"title": "Out Of My Head"
 	},
 	{
 		"id": 38143,
@@ -1102,44 +1463,82 @@
 		"error": "not-found"
 	},
 	{
+		"japanese": [
+			"同居人はひざ、時々、頭のうえ"
+		],
 		"id": 38145,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Doukyonin wa Hiza, Tokidoki, Atama no Ue."
 	},
 	{
 		"id": 38146,
 		"error": "not-found"
 	},
 	{
+		"japanese": [
+			"ほしの島のにゃんこ"
+		],
+		"synonyms": [
+			"Kittens of the Island of Stars"
+		],
 		"id": 38147,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Hoshi no Shima no Nyanko"
 	},
 	{
 		"id": 38148,
 		"error": "not-found"
 	},
 	{
+		"japanese": [
+			"フルメタル・パニック！Invisible Victory インターミッション"
+		],
+		"synonyms": [
+			"Full Metal Panic! IV Intermission",
+			"Full Metal Panic! Invisible Victory Recap"
+		],
 		"id": 38149,
-		"error": "not-found"
+		"type": "Special",
+		"title": "Full Metal Panic! Invisible Victory Intermission"
 	},
 	{
+		"japanese": [
+			"なむあみだ仏っ! -蓮台 UTENA-"
+		],
+		"synonyms": [
+			"Namuamida Butsu! Rendai Utena"
+		],
 		"id": 38150,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Namu Amida Butsu!: Rendai Utena"
 	},
 	{
 		"id": 38151,
-		"error": "not-found"
+		"type": "Movie",
+		"title": "Chuunibyou demo Koi ga Shitai! Movie: Take On Me - Kotatsu DE Photo Session"
 	},
 	{
 		"id": 38152,
 		"error": "not-found"
 	},
 	{
+		"japanese": [
+			"甲竜伝説ヴィルガストプロモーションビデオ"
+		],
+		"english": [
+			"Armed Dragon Fantasy Villgust Promotional Video"
+		],
 		"id": 38153,
-		"error": "not-found"
+		"type": "Special",
+		"title": "Kouryuu Densetsu Villgust Promotional Video"
 	},
 	{
+		"english": [
+			"March comes in like a lion Specials"
+		],
 		"id": 38154,
-		"error": "not-found"
+		"type": "Special",
+		"title": "3-gatsu no Lion Specials"
 	},
 	{
 		"id": 38155,
@@ -1150,12 +1549,20 @@
 		"error": "not-found"
 	},
 	{
+		"japanese": [
+			"サークレット・プリンセス"
+		],
 		"id": 38157,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Circlet Princess"
 	},
 	{
+		"japanese": [
+			"ハグ～ンのハグハグソング"
+		],
 		"id": 38158,
-		"error": "not-found"
+		"type": "Music",
+		"title": "HuGoo.n no Hug Hug Song"
 	},
 	{
 		"id": 38159,
@@ -1166,32 +1573,69 @@
 		"error": "not-found"
 	},
 	{
+		"japanese": [
+			"歌舞伎町のやつ"
+		],
 		"id": 38161,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Kabukichou no Yatsu"
 	},
 	{
+		"japanese": [
+			"臨死!!江古田ちゃん"
+		],
+		"synonyms": [
+			"Near Death!! Ekoda-chan"
+		],
 		"id": 38162,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Rinshi!! Ekoda-chan"
 	},
 	{
+		"japanese": [
+			"嫌な顔されながらおパンツ見せてもらいたい 2"
+		],
+		"synonyms": [
+			"I Want You To Make a Disgusted Face and Show Me Your Underwear 2"
+		],
 		"id": 38163,
-		"error": "not-found"
+		"type": "ONA",
+		"title": "Iya na Kao sare nagara Opantsu Misete Moraitai 2"
 	},
 	{
+		"japanese": [
+			"キスまで",
+			"あと1秒."
+		],
+		"synonyms": [
+			"One second remaining until the kiss."
+		],
+		"english": [
+			"A Second Away From A Kiss"
+		],
 		"id": 38164,
-		"error": "not-found"
+		"type": "ONA",
+		"title": "Kiss made, Ato 1 Byou."
 	},
 	{
 		"id": 38165,
 		"error": "not-found"
 	},
 	{
+		"japanese": [
+			"マルタの冒険　シーズン3"
+		],
 		"id": 38166,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Malta no Bouken Season 3"
 	},
 	{
+		"japanese": [
+			"マルタの冒険　シーズン２"
+		],
 		"id": 38167,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Malta no Bouken Season 2"
 	},
 	{
 		"id": 38168,
@@ -1218,36 +1662,77 @@
 		"error": "not-found"
 	},
 	{
+		"japanese": [
+			"よりぬきムリョウさん Girls Selection ~学園戦記ムリョウ特別編~"
+		],
 		"id": 38174,
-		"error": "not-found"
+		"type": "Special",
+		"title": "Gakuen Senki Muryou: Yorinuki Muryou-san Girls Selection Special"
 	},
 	{
+		"japanese": [
+			"せいぜいがんばれ！魔法少女くるみ2期待"
+		],
 		"id": 38175,
-		"error": "not-found"
+		"type": "ONA",
+		"title": "Seizei Ganbare! Mahou Shoujo Kurumi 2nd Season"
 	},
 	{
+		"japanese": [
+			"実験品家族"
+		],
+		"synonyms": [
+			"Jikken-hin Kazoku 10.5"
+		],
 		"id": 38176,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Jikken-hin Kazoku Recap"
 	},
 	{
+		"japanese": [
+			"あにトレ! XX"
+		],
+		"english": [
+			"Anime de Training! XX Specials"
+		],
 		"id": 38177,
-		"error": "not-found"
+		"type": "Special",
+		"title": "Anitore! XX Specials"
 	},
 	{
 		"id": 38178,
 		"error": "not-found"
 	},
 	{
+		"japanese": [
+			"多数決ドラマ『キノの旅 the Beautiful World 「廃墟の国」-On Your Way- 』"
+		],
+		"synonyms": [
+			"Kino no Tabi: The Beautiful World - The Animated Series Picture Drama"
+		],
+		"english": [
+			"Kino's Journey -the Beautiful World- the Animated Series Picture Drama"
+		],
 		"id": 38179,
-		"error": "not-found"
+		"type": "Special",
+		"title": "Kino no Tabi: The Beautiful World - The Animated Series - Haikyo no Kuni - On Your Way"
 	},
 	{
+		"japanese": [
+			"特別編 ~第37機動整備大隊 作戦記録~"
+		],
+		"synonyms": [
+			"Heavy Object 9.5",
+			"Heavy Object Recap"
+		],
 		"id": 38180,
-		"error": "not-found"
+		"type": "Special",
+		"title": "Heavy Object: Dai 37 Kidou Seihi Daitai - Sakusen Kiroku"
 	},
 	{
 		"id": 38181,
-		"error": "not-found"
+		"type": "ONA",
+		"title": "Chainsaw Bunny"
 	},
 	{
 		"id": 38182,
@@ -1266,8 +1751,19 @@
 		"error": "not-found"
 	},
 	{
+		"japanese": [
+			"ぼくたちは勉強ができない"
+		],
+		"synonyms": [
+			"BokuBen",
+			"We Can't Study"
+		],
+		"english": [
+			"We Never Learn"
+		],
 		"id": 38186,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Bokutachi wa Benkyou ga Dekinai"
 	},
 	{
 		"id": 38187,
@@ -1275,19 +1771,38 @@
 	},
 	{
 		"id": 38188,
-		"error": "not-found"
+		"type": "TV",
+		"title": "Thunderbolt Fantasy"
 	},
 	{
+		"japanese": [
+			"Reddo Tatoru: Aru Shima no Monogatari"
+		],
+		"synonyms": [
+			"La Tortue Rouge"
+		],
+		"english": [
+			"The Red Turtle"
+		],
 		"id": 38189,
-		"error": "not-found"
+		"type": "Movie",
+		"title": "The Red Turtle"
 	},
 	{
+		"japanese": [
+			"ガールズ＆パンツァー　サウンドドラマ"
+		],
 		"id": 38190,
-		"error": "not-found"
+		"type": "ONA",
+		"title": "Girls & Panzer Sound Drama"
 	},
 	{
+		"synonyms": [
+			"unizzz..."
+		],
 		"id": 38191,
-		"error": "not-found"
+		"type": "Music",
+		"title": "Annie"
 	},
 	{
 		"id": 38192,
