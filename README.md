@@ -26,3 +26,6 @@ The Mapping list can be merged into the full list with the following command (th
 contains the available titles (japanese, synonyms, english) all IDs on myanimelist.
 
 Note: this list also contains unavailable entries!
+
+### Report wrong mapping
+Since I can't check all those entries by myself I require some help to do it. If you find a mapping that is wrong please report it [here](https://github.com/Fribb/anime-lists/issues)
