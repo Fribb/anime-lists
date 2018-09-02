@@ -1690,14 +1690,14 @@
   },
   {
     "japanese": [
-      "あにトレ! XX"
+      "あにトレ!!XX ~ひとつ屋根の下で~"
     ],
-    "english": [
+    "synonyms": [
       "Anime de Training! XX Specials"
     ],
     "id": 38177,
     "type": "Special",
-    "title": "Anitore! XX Specials"
+    "title": "Anitore! XX: Hitotsu Yane no Shita de Specials"
   },
   {
     "id": 38178,
@@ -1771,8 +1771,7 @@
   },
   {
     "id": 38188,
-    "type": "TV",
-    "title": "Thunderbolt Fantasy"
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -1991,20 +1990,49 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "ほら",
+      "耳がみえてるよ!"
+    ],
+    "synonyms": [
+      "Wei",
+      "Kanjian Maoerduo La!"
+    ],
+    "english": [
+      "Hey",
+      "Your Cat Ears Are Showing!"
+    ],
     "id": 38217,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Hora, Mimi ga Mieteru yo!"
   },
   {
     "id": 38218,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "珈琲いかがでしょう"
+    ],
+    "synonyms": [
+      "Kohi Ikaga Deshou",
+      "Would You Like Some Coffee?"
+    ],
     "id": 38219,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Coffee Ikaga Deshou"
   },
   {
+    "japanese": [
+      "择天记 第四季"
+    ],
+    "synonyms": [
+      "Way of Choices 4th Season",
+      "Fighter of the Destiny 4th Season"
+    ],
     "id": 38220,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Ze Tian Ji 4th Season"
   },
   {
     "id": 38221,
@@ -2019,16 +2047,31 @@
     "error": "not-found"
   },
   {
+    "synonyms": [
+      "과호흡"
+    ],
+    "english": [
+      "Hyperventilation"
+    ],
     "id": 38224,
-    "error": "not-found"
+    "type": "OVA",
+    "title": "Hyperventilation"
   },
   {
     "id": 38225,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "超可動ガールズ"
+    ],
+    "synonyms": [
+      "Choukadou Girls",
+      "Super-Moveable Girls"
+    ],
     "id": 38226,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Chou Kadou Girls"
   },
   {
     "id": 38227,
@@ -2059,24 +2102,49 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "映画 ONE PIECE"
+    ],
     "id": 38234,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "One Piece Movie 14"
   },
   {
+    "japanese": [
+      "イナズマイレブン オリオンの刻印"
+    ],
     "id": 38235,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Inazuma Eleven: Orion no Kokuin"
   },
   {
     "id": 38236,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "放开那个女巫"
+    ],
+    "synonyms": [
+      "rtw,放开那个女巫,"
+    ],
+    "english": [
+      "Release That Witch"
+    ],
     "id": 38237,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Release That Witch"
   },
   {
+    "japanese": [
+      "イナズマイレブン オリオンの刻印こくいん"
+    ],
+    "english": [
+      "Inazuma Eleven: The Seal of Orion"
+    ],
     "id": 38238,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Inazuma Eleven Orion no Kokuin"
   },
   {
     "id": 38239,
@@ -2087,12 +2155,20 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "その花びらにくちづけを　夏雪劇場"
+    ],
     "id": 38241,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Sono Hanabira ni Kuchizuke wo: Natsuyuki Gekijou"
   },
   {
+    "japanese": [
+      "その花びらにくちづけをちありん劇場"
+    ],
     "id": 38242,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Sono Hanabira ni Kuchizuke wo: Chia Rin Gekijou"
   },
   {
     "id": 38243,
@@ -2107,8 +2183,16 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "甜心格格 第三部"
+    ],
+    "synonyms": [
+      "Tian Xin Ge Ge Di San Bu",
+      "Ori Princess 3rd season"
+    ],
     "id": 38246,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Tian Xin Ge Ge 3rd Season"
   },
   {
     "id": 38247,
@@ -2119,24 +2203,65 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "斉木楠雄のΨ難 3"
+    ],
+    "synonyms": [
+      "Saiki Kusuo no Psi Nan 3"
+    ],
+    "english": [
+      "The Disastrous Life of Saiki K. 3"
+    ],
     "id": 38249,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Saiki Kusuo no Ψ-nan 3"
   },
   {
+    "japanese": [
+      "小绿和小蓝"
+    ],
+    "synonyms": [
+      "Xiao Lv He Xiao Lan",
+      "Green and Blue",
+      "Lil' Green and Lil' Blue"
+    ],
+    "english": [
+      "Beryl and Sapphire"
+    ],
     "id": 38250,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Xiaolv He Xiaolan"
   },
   {
+    "japanese": [
+      "その時",
+      "カノジョは."
+    ],
+    "synonyms": [
+      "She's in love"
+    ],
     "id": 38251,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Sono Toki, Kanojo wa."
   },
   {
+    "japanese": [
+      "ボクと彼女[ナース]の研修日誌 THE ANIMATION"
+    ],
     "id": 38252,
-    "error": "not-found"
+    "type": "OVA",
+    "title": "Boku to Nurse no Kenshuu Nisshi The Animation"
   },
   {
+    "japanese": [
+      "Castlevania"
+    ],
+    "english": [
+      "Castlevania"
+    ],
     "id": 38253,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Castlevania"
   },
   {
     "id": 38254,
@@ -2940,10 +3065,7 @@
   },
   {
     "id": 38454,
-    "error": {
-      "code": 500,
-      "message": "Internal Server Error"
-    }
+    "error": "not-found"
   },
   {
     "id": 38455,
