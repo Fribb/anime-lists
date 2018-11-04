@@ -608,7 +608,7 @@
   },
   {
     "japanese": [
-      "えんどろ~!"
+      "えんどろ～！"
     ],
     "synonyms": [
       "Endoro~!"
@@ -960,6 +960,9 @@
   {
     "japanese": [
       "あんさんぶるガールズ！！"
+    ],
+    "english": [
+      "Ensemble Girls!!"
     ],
     "id": 38096,
     "type": "Music",
@@ -1414,8 +1417,10 @@
       "猪猪侠 竞球小英雄"
     ],
     "synonyms": [
-      "GG Bond 14",
-      "GG Bond Season 14"
+      "GG Bond 14"
+    ],
+    "english": [
+      "GG Bond Season 14: Dodgeball Legend"
     ],
     "id": 38138,
     "type": "TV",
@@ -2312,15 +2317,8 @@
     "title": "Hanasaku Kizuna no Romantan"
   },
   {
-    "japanese": [
-      "ブラッククローバー"
-    ],
-    "english": [
-      "Black Clover"
-    ],
     "id": 38264,
-    "type": "TV",
-    "title": "Black Clover Season 2"
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -4274,7 +4272,7 @@
   },
   {
     "japanese": [
-      "ゆるキャン△"
+      "ゆるキャン△ 第2期"
     ],
     "synonyms": [
       "Yurukyan"
@@ -4284,7 +4282,7 @@
     ],
     "id": 38474,
     "type": "TV",
-    "title": "Yuru Camp△ 2"
+    "title": "Yuru Camp△ 2nd Season"
   },
   {
     "japanese": [
@@ -4811,7 +4809,7 @@
   },
   {
     "japanese": [
-      "進撃の巨人 Season 3 Part 2"
+      "進撃の巨人 Season3 Part.2"
     ],
     "english": [
       "Attack on Titan Season 3 Part 2"
@@ -4843,64 +4841,163 @@
     "title": "Chuldong! Super Wings 2"
   },
   {
+    "japanese": [
+      "ガイコツ書店員本田さん OVA"
+    ],
+    "english": [
+      "Skull-face Bookseller Honda-san OVA"
+    ],
     "id": 38527,
-    "error": "not-found"
+    "type": "OVA",
+    "title": "Gaikotsu Shotenin Honda-san OVA"
   },
   {
+    "japanese": [
+      "全职法师 第3季"
+    ],
+    "synonyms": [
+      "Quan Zhi Fa Shi 3",
+      "Full-Time Magister 3"
+    ],
     "id": 38528,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Quanzhi Fashi 3rd Season"
   },
   {
+    "japanese": [
+      "ライフル・イズ・ビューティフル"
+    ],
     "id": 38529,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Rifle Is Beautiful"
   },
   {
+    "japanese": [
+      "映画 ドラえもん のび太の月面探査記"
+    ],
+    "english": [
+      "Doraemon the Movie 2019: Chronicle of the Moon Exploration"
+    ],
     "id": 38530,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Doraemon Movie 39: Nobita no Getsumen Tansaki"
   },
   {
     "id": 38531,
     "error": "not-found"
   },
   {
+    "english": [
+      "Boy and the World"
+    ],
     "id": 38532,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "O Menino e o Mundo"
   },
   {
+    "japanese": [
+      "狐妖小红娘 竹业"
+    ],
+    "synonyms": [
+      "Little Foxspirit Matchmaker Season 7",
+      "Enmusubi no Youko-chan"
+    ],
+    "english": [
+      "Fox Spirit Matchmaker 7th Season"
+    ],
     "id": 38533,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Huyao Xiao Hongniang: Zhu Ye"
   },
   {
+    "japanese": [
+      "火力少年王3"
+    ],
+    "english": [
+      "Blazing Teens 3"
+    ],
     "id": 38534,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Huoli Shaonian Wang 3"
   },
   {
+    "japanese": [
+      "火力少年王3续集"
+    ],
+    "synonyms": [
+      "Blazing Teens 3: Sequel",
+      "Huoli Shaonian Wang 3: Di 2 Ji"
+    ],
+    "english": [
+      "Blazing Teens 4"
+    ],
     "id": 38535,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Huoli Shaonian Wang 3: Xuji"
   },
   {
+    "japanese": [
+      "一人之下 第三季"
+    ],
+    "synonyms": [
+      "Yi Ren Zhi Xia 3rd Season",
+      "Under One Person 3rd Season"
+    ],
+    "english": [
+      "The Outcast 3rd Season"
+    ],
     "id": 38536,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Hitori no Shita: The Outcast 3rd Season"
   },
   {
+    "japanese": [
+      "火力少年王之悠拳英雄"
+    ],
+    "synonyms": [
+      "Blazing Teens 7"
+    ],
     "id": 38537,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Huoli Shaonian Wang zhi You Quan Yingxiong"
   },
   {
+    "japanese": [
+      "火力少年王之传奇再现续集"
+    ],
+    "synonyms": [
+      "Blazing Teens 6"
+    ],
     "id": 38538,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Huoli Shaonian Wang zhi Chuanqi Zaixian: Xuji"
   },
   {
+    "japanese": [
+      "空ニラクガキ"
+    ],
+    "synonyms": [
+      "Jewelpet Twinkle☆ Fan Disc S"
+    ],
     "id": 38539,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Sora ni Rakugaki"
   },
   {
+    "japanese": [
+      "探偵オペラ ミルキィホームズ サイコの挨拶"
+    ],
     "id": 38540,
-    "error": "not-found"
+    "type": "Special",
+    "title": "Tantei Opera Milky Holmes: Saiko no Aisatsu"
   },
   {
+    "japanese": [
+      "リルリルフェアリル〜妖精のドア〜"
+    ],
     "id": 38541,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Rilu Rilu Fairilu ~Yousei no Door~"
   },
   {
     "id": 38542,
@@ -4911,300 +5008,768 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "エガオノダイカ"
+    ],
+    "synonyms": [
+      "The Cost of Smiles"
+    ],
     "id": 38544,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Egao no Daika"
   },
   {
+    "japanese": [
+      "ハン・ソロ／スター・ウォーズ・ストーリー"
+    ],
+    "english": [
+      "Solo: A Star Wars Story"
+    ],
     "id": 38545,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Han Solo/Star Wars Story"
   },
   {
+    "synonyms": [
+      "NGE Director's Cut",
+      "Neon Genesis Evangelion New Production Cuts"
+    ],
     "id": 38546,
-    "error": "not-found"
+    "type": "Special",
+    "title": "Neon Genesis Evangelion: Director's Cut"
   },
   {
+    "synonyms": [
+      "NGE Director's Cut",
+      "Neon Genesis Evangelion New Production Cuts"
+    ],
     "id": 38547,
-    "error": "not-found"
+    "type": "Special",
+    "title": "Neon Genesis Evangelion: Director's Cut"
   },
   {
+    "synonyms": [
+      "NGE Director's Cut",
+      "Neon Genesis Evangelion New Production Cuts"
+    ],
     "id": 38548,
-    "error": "not-found"
+    "type": "Special",
+    "title": "Neon Genesis Evangelion: Director's Cut"
   },
   {
+    "japanese": [
+      "テレビ野郎 ナナーナ"
+    ],
+    "synonyms": [
+      "Televi Yarou Nanana",
+      "TV Yarou Nana-na"
+    ],
     "id": 38549,
-    "error": "not-found"
+    "type": "TV",
+    "title": "TV Yarou Nanaana"
   },
   {
     "id": 38550,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "BEAT IN LOVE"
+    ],
+    "synonyms": [
+      "Readyyy!",
+      "La-Veritta"
+    ],
+    "english": [
+      "Beat in Love"
+    ],
     "id": 38551,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Beat in Love (2018)"
   },
   {
+    "japanese": [
+      "沢井製薬株式会社 CMs"
+    ],
+    "synonyms": [
+      "Okusuri Nomeru ka na?",
+      "Jouhouteikyou ni Tsuite",
+      "Sawai Pharmaceutical"
+    ],
     "id": 38552,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Sawai Seiyaki Kabushikigaisha CMs"
   },
   {
+    "japanese": [
+      "弱酸性ミリオンアーサー (TV)"
+    ],
     "id": 38553,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Jakusansei Million Arthur (TV)"
   },
   {
+    "japanese": [
+      "青くつづくパス"
+    ],
+    "synonyms": [
+      "Kirin"
+    ],
     "id": 38554,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Aoku Tsudzuku Pass"
   },
   {
+    "japanese": [
+      "乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…"
+    ],
+    "synonyms": [
+      "I Reincarnated into an Otome Game as a Villainess With Only Destruction Flags…",
+      "Destruction Flag Otome"
+    ],
     "id": 38555,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Otome Game no Hametsu Flag shika Nai Akuyaku Reijou ni Tensei shiteshimatta..."
   },
   {
+    "japanese": [
+      "我是江小白 第二季"
+    ],
+    "synonyms": [
+      "Wo Shi Jiang Xiao Bai Di Er Ji",
+      "I'm Joybo: Words From My Heart",
+      "我是江小白：有话对你说"
+    ],
+    "english": [
+      "I'm Joybo 2nd Season"
+    ],
     "id": 38556,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Wo Shi Jiang Xiaobai 2nd Season"
   },
   {
+    "japanese": [
+      "斩兽之刃"
+    ],
+    "english": [
+      "Blade of Vengers"
+    ],
     "id": 38557,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Zhan Shou Zhi Ren"
   },
   {
+    "japanese": [
+      "レイドバッカーズ"
+    ],
+    "synonyms": [
+      "Raidbackers"
+    ],
     "id": 38558,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Laidbackers"
   },
   {
     "id": 38559,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "シルバニアファミリー ミニストーリー 第2期"
+    ],
     "id": 38560,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Sylvanian Families: Mini Story 2nd Season"
   },
   {
+    "japanese": [
+      "パンと僕のモモちゃん"
+    ],
+    "synonyms": [
+      "Bread and My Momo"
+    ],
     "id": 38561,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Pan to Boku no Momo-chan"
   },
   {
+    "japanese": [
+      "アイドルマスター SideM 理由あってMini! OVA"
+    ],
     "id": 38562,
-    "error": "not-found"
+    "type": "OVA",
+    "title": "The iDOLM@STER SideM: Wake Atte Mini! OVA"
   },
   {
+    "japanese": [
+      "HK 変態仮面"
+    ],
     "id": 38563,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "hentai kamen"
   },
   {
     "id": 38564,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Anime Crimes Division"
   },
   {
     "id": 38565,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Laidbackers"
   },
   {
+    "english": [
+      "Highschool Dxd Hero"
+    ],
     "id": 38566,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Highschool DxD Hero"
   },
   {
+    "japanese": [
+      "いいね！イスラエル〜咲と典子の姉妹旅行〜"
+    ],
     "id": 38567,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Ii ne! Israel 〜 Saki to Noriko no shimai ryokou 〜"
   },
   {
+    "japanese": [
+      "進め!土管くん"
+    ],
+    "synonyms": [
+      "Fight Tension☆School"
+    ],
     "id": 38568,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Susume! Dokan-kun"
   },
   {
+    "japanese": [
+      "たたかえ!土管くん 激闘編"
+    ],
+    "synonyms": [
+      "Fight Tension☆School"
+    ],
     "id": 38569,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Tatakae! Dokan-kun: Gekitou-kun"
   },
   {
+    "japanese": [
+      "たたかえ!土管くん ロボリンピック編"
+    ],
+    "synonyms": [
+      "Fight Tension☆School"
+    ],
     "id": 38570,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Tatakae! Dokan-kun: Robolympic-hen"
   },
   {
+    "japanese": [
+      "とびだせ！土管くん"
+    ],
+    "synonyms": [
+      "Dejisuta Teens"
+    ],
     "id": 38571,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Tobidase! Dokan-kun"
   },
   {
+    "japanese": [
+      "アサシンズプライド"
+    ],
     "id": 38572,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Assassins Pride"
   },
   {
+    "japanese": [
+      "通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか？"
+    ],
+    "synonyms": [
+      "Do You Like Your Mom? Her Normal Attack is Two Attacks at Full Power"
+    ],
     "id": 38573,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Tsujou Kougeki ga Zentai Kougeki de 2-kai Kougeki no Okaasan wa Suki desu ka?"
   },
   {
+    "japanese": [
+      "創世記"
+    ],
+    "english": [
+      "Genesis"
+    ],
     "id": 38574,
-    "error": "not-found"
+    "type": "Special",
+    "title": "Souseiki"
   },
   {
+    "japanese": [
+      "Kigeki"
+    ],
+    "english": [
+      "Comedy"
+    ],
     "id": 38575,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Comedy"
   },
   {
+    "japanese": [
+      "ポケモンマニフェストハート"
+    ],
+    "english": [
+      "Pokémon Manifest Heart"
+    ],
     "id": 38576,
-    "error": "not-found"
+    "type": "Special",
+    "title": "Pokemonmanifesutohāto"
   },
   {
+    "japanese": [
+      "MYSTERY OF KUMAMON"
+    ],
     "id": 38577,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Mystery of Kumamon"
   },
   {
+    "japanese": [
+      "スター☆トゥインクルプリキュア"
+    ],
     "id": 38578,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Star Twinkle Precure"
   },
   {
+    "japanese": [
+      "モンキーピーク"
+    ],
     "id": 38579,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Monkey Peak"
   },
   {
     "id": 38580,
     "error": "not-found"
   },
   {
+    "synonyms": [
+      "Castlevania"
+    ],
+    "english": [
+      "Castlevania"
+    ],
     "id": 38581,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Castlevania"
   },
   {
+    "japanese": [
+      "兄に付ける薬はない!"
+    ],
+    "synonyms": [
+      "Take My Brother Away",
+      "Please!",
+      "Kuai Ba Wo Ge Dai Zou"
+    ],
+    "english": [
+      "Please Take My Brother Away"
+    ],
     "id": 38582,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Please Take My Brother Away"
   },
   {
+    "japanese": [
+      "Who do you love? feat. Gloria Kim"
+    ],
+    "synonyms": [
+      "AmPm"
+    ],
+    "english": [
+      "Who do you love? feat. Gloria Kim"
+    ],
     "id": 38583,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Who Do You Love? feat. Gloria Kim"
   },
   {
+    "english": [
+      "Re: Life"
+    ],
     "id": 38584,
-    "error": "not-found"
+    "type": "TV",
+    "title": "RE: Life"
   },
   {
+    "japanese": [
+      "魔法使いになれなかった女の子の話."
+    ],
+    "synonyms": [
+      "A Story of a Girl that was Unable to Become a Mage."
+    ],
     "id": 38585,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi."
   },
   {
     "id": 38586,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "悪魔城ドラキュラ Akumajō Dorakyura"
   },
   {
+    "japanese": [
+      "BUCK-TICK×HAL"
+    ],
+    "english": [
+      "BUCK-TICK x HAL"
+    ],
     "id": 38587,
-    "error": "not-found"
+    "type": "Music",
+    "title": "BUCK-TICK x HAL"
   },
   {
     "id": 38588,
-    "error": "not-found"
+    "type": "TV",
+    "title": "élDLIVE"
   },
   {
+    "english": [
+      "Graveyard Of The Fireflies"
+    ],
     "id": 38589,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Graveyard Of The Fireflies"
   },
   {
+    "japanese": [
+      "RWBY"
+    ],
+    "synonyms": [
+      "Ruby",
+      "rwby",
+      "red white black yellow",
+      "RWBY,"
+    ],
+    "english": [
+      "Ruby"
+    ],
     "id": 38590,
-    "error": "not-found"
+    "type": "OVA",
+    "title": "RWBY"
   },
   {
+    "japanese": [
+      "Castlevania"
+    ],
+    "synonyms": [
+      "Castlevania"
+    ],
+    "english": [
+      "Castlevania"
+    ],
     "id": 38591,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Akumajō Dracula: Castlevania"
   },
   {
+    "japanese": [
+      "ookami shoujo to koro ouji"
+    ],
+    "synonyms": [
+      "wolf girl and black prince"
+    ],
+    "english": [
+      "wolf girl and black prince"
+    ],
     "id": 38592,
-    "error": "not-found"
+    "type": "TV",
+    "title": "ookami shoujo to koro ouji"
   },
   {
+    "japanese": [
+      "西行纪"
+    ],
+    "synonyms": [
+      "Journey to the West",
+      "Westbound",
+      "Westbound Discipline"
+    ],
     "id": 38593,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Xi Xing Ji"
   },
   {
+    "japanese": [
+      "きみと",
+      "波にのれたら"
+    ],
     "id": 38594,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Kimi to, Nami ni Noretara"
   },
   {
     "id": 38595,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Castlevania"
   },
   {
+    "synonyms": [
+      "Season 2"
+    ],
     "id": 38596,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Castlevania"
   },
   {
+    "english": [
+      "RWBY volume 1"
+    ],
     "id": 38597,
-    "error": "not-found"
+    "type": "TV",
+    "title": "RWBY volume 1"
   },
   {
+    "japanese": [
+      "Castlevania"
+    ],
+    "english": [
+      "Castlevania"
+    ],
     "id": 38598,
-    "error": "not-found"
+    "type": "OVA",
+    "title": "Castlevania"
   },
   {
+    "japanese": [
+      "Castlevania S2"
+    ],
+    "english": [
+      "Castlevania S2"
+    ],
     "id": 38599,
-    "error": "not-found"
+    "type": "OVA",
+    "title": "Castlevania S2"
   },
   {
+    "japanese": [
+      "攻殻機動隊GHOST CHASER"
+    ],
+    "synonyms": [
+      "Koukaku Kidoutai: Ghost Chaster"
+    ],
+    "english": [
+      "Ghost in the Shell: Ghost Chaster"
+    ],
     "id": 38600,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Ghost in the Shell: Ghost Chaster"
   },
   {
+    "japanese": [
+      "叛逆性ミリオンアーサー TV未放送エピソード"
+    ],
+    "synonyms": [
+      "Hangyakusei Million Arthur OVA",
+      "Hangyakusei Million Arthur Episode 24"
+    ],
+    "english": [
+      "Operation Han-Gyaku-Sei Million Arthur OVA"
+    ],
     "id": 38601,
-    "error": "not-found"
+    "type": "OVA",
+    "title": "Hangyakusei Million Arthur OVA"
   },
   {
+    "japanese": [
+      "NEON GENESIS EVANGELION MUSIC DVD"
+    ],
     "id": 38602,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Neon Genesis Evangelion Music DVD"
   },
   {
+    "japanese": [
+      "#コンパス"
+    ],
     "id": 38603,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "#Compass"
   },
   {
+    "japanese": [
+      "N/A"
+    ],
+    "synonyms": [
+      "Barangay 143"
+    ],
+    "english": [
+      "N/A"
+    ],
     "id": 38604,
-    "error": "not-found"
+    "type": "TV",
+    "title": "BRGY.143"
   },
   {
+    "japanese": [
+      "Kinguobuzahiru"
+    ],
+    "synonyms": [
+      "Kinguobuzahiru",
+      "King of the Hill: Hank's Journey",
+      "Green Dust,"
+    ],
+    "english": [
+      "King of the Hill"
+    ],
     "id": 38605,
-    "error": "not-found"
+    "type": "TV",
+    "title": "King of the Hill"
   },
   {
+    "japanese": [
+      "镇魂街"
+    ],
+    "synonyms": [
+      "Requiem Street Recaps"
+    ],
+    "english": [
+      "Rakshasa Street"
+    ],
     "id": 38606,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Zhen Hun Jie Recaps"
   },
   {
     "id": 38607,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Castlevania"
   },
   {
+    "japanese": [
+      "Castlevania"
+    ],
+    "synonyms": [
+      "Castlevania"
+    ],
+    "english": [
+      "Castlevania"
+    ],
     "id": 38608,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Castlevania"
   },
   {
+    "japanese": [
+      "マルタのかみしばい"
+    ],
+    "synonyms": [
+      "Malta no Bouken: Kamishibai"
+    ],
     "id": 38609,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Malta no Kamishibai"
   },
   {
+    "japanese": [
+      "手品先輩"
+    ],
+    "english": [
+      "Magical Sempai"
+    ],
     "id": 38610,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Tejina-senpai"
   },
   {
+    "japanese": [
+      "파워배틀 와치카"
+    ],
+    "english": [
+      "Power Battle Watch Car"
+    ],
     "id": 38611,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Power Battle Watch Car"
   },
   {
+    "japanese": [
+      "파워배틀 와치카 시즌 2"
+    ],
+    "english": [
+      "Power Battle Watch Car"
+    ],
     "id": 38612,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Power Battle Watch Car Season 2"
   },
   {
+    "japanese": [
+      "파워배틀 와치카 미니카 배틀리그: 불꽃의 질주"
+    ],
+    "synonyms": [
+      "Power Battle Watch Car: Minicar Battle League - Spark of the Fire"
+    ],
+    "english": [
+      "Power Battle Watch Car: Blazing Race"
+    ],
     "id": 38613,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Power Battle Watch Car: Minicar Battle League - Bulkkoch-ui Jilju"
   },
   {
+    "japanese": [
+      "파워배틀 와치카: 와치가면의 역습"
+    ],
+    "english": [
+      "Power Battle Watchcar: The Counterattack of Watch Mask"
+    ],
     "id": 38614,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Power Battle Watch Car: Watch Gamyeon-ui Yeogseub"
   },
   {
+    "japanese": [
+      "悪魔城ドラキュラ ―キャッスルヴァニア―"
+    ],
+    "synonyms": [
+      "Devil Castle Dracula Castlevania,Akumajō Dracula: Castlevania"
+    ],
+    "english": [
+      "Castlevania"
+    ],
     "id": 38615,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Castlevania"
   },
   {
+    "japanese": [
+      "がんばれ ちびゴジラ"
+    ],
+    "synonyms": [
+      "Do Your Best",
+      "Chibi Godzilla"
+    ],
     "id": 38616,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Ganbare Chibi Gojira"
   },
   {
+    "japanese": [
+      "Lastman"
+    ],
+    "english": [
+      "Lastman"
+    ],
     "id": 38617,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Lastman"
   },
   {
     "id": 38618,
