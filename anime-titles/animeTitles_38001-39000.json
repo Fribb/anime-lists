@@ -623,7 +623,7 @@
     ],
     "id": 38063,
     "type": "ONA",
-    "title": "Oshiego ni Kyouhaku Sareru no ga Hanzai desu ka?"
+    "title": "Oshiego ni Kyouhaku Sareru no ga Hanzai Desu ka?"
   },
   {
     "id": 38064,
@@ -962,7 +962,7 @@
       "Ensemble Girls!!"
     ],
     "id": 38096,
-    "type": "Music",
+    "type": "ONA",
     "title": "Ensemble Girls!!"
   },
   {
@@ -1012,7 +1012,8 @@
     ],
     "synonyms": [
       "5-toubun no Hanayome",
-      "The Five Wedded Brides"
+      "The Five Wedded Brides",
+      "The Quintessential Quintuplets"
     ],
     "id": 38101,
     "type": "TV",
@@ -1064,7 +1065,7 @@
     ],
     "id": 38107,
     "type": "OVA",
-    "title": "Maken no Hime wa Ero Ero desu"
+    "title": "Maken no Hime wa Ero Ero Desu"
   },
   {
     "id": 38108,
@@ -1520,8 +1521,7 @@
   },
   {
     "id": 38151,
-    "type": "Movie",
-    "title": "Chuunibyou demo Koi ga Shitai! Movie: Take On Me - Kotatsu DE Photo Session"
+    "error": "not-found"
   },
   {
     "id": 38152,
@@ -1790,12 +1790,8 @@
     "error": "not-found"
   },
   {
-    "japanese": [
-      "ガールズ＆パンツァー　サウンドドラマ"
-    ],
     "id": 38190,
-    "type": "ONA",
-    "title": "Girls & Panzer Sound Drama"
+    "error": "not-found"
   },
   {
     "synonyms": [
@@ -2195,16 +2191,16 @@
   },
   {
     "japanese": [
-      "斉木楠雄のΨ難 3"
+      "斉木楠雄のΨ難 完結編"
     ],
     "synonyms": [
-      "Saiki Kusuo no Psi Nan 3"
+      "Saiki Kusuo no Psi Nan: Kanketsu-hen"
     ],
     "english": [
-      "The Disastrous Life of Saiki K. 3"
+      "The Disastrous Life of Saiki K. Final Arc"
     ],
     "id": 38249,
-    "type": "TV",
+    "type": "Special",
     "title": "Saiki Kusuo no Ψ-nan 3"
   },
   {
@@ -2273,7 +2269,7 @@
     ],
     "id": 38256,
     "type": "TV",
-    "title": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden (TV)"
+    "title": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden"
   },
   {
     "id": 38257,
@@ -2303,12 +2299,15 @@
     "japanese": [
       "ピングー in ザ・シティ"
     ],
+    "synonyms": [
+      "Pingu in the City 2nd Season"
+    ],
     "english": [
       "Pingu in the City"
     ],
     "id": 38262,
     "type": "TV",
-    "title": "Pingu in the City 2nd Season"
+    "title": "Pingu in the City (2018)"
   },
   {
     "japanese": [
@@ -2447,12 +2446,8 @@
     "title": "Houkago Saikoro Club"
   },
   {
-    "synonyms": [
-      "Beryl and Sapphire"
-    ],
     "id": 38277,
-    "type": "ONA",
-    "title": "Xiao Lu He Xiao Lan"
+    "error": "not-found"
   },
   {
     "id": 38278,
@@ -2781,12 +2776,8 @@
     "error": "not-found"
   },
   {
-    "synonyms": [
-      "Honkai Impact 3: Will of the Herrscher"
-    ],
     "id": 38317,
-    "type": "Special",
-    "title": "Honkai Impact 3rd Animation - Will of the Herrscher"
+    "error": "not-found"
   },
   {
     "synonyms": [
@@ -2958,7 +2949,7 @@
     ],
     "id": 38333,
     "type": "OVA",
-    "title": "Gochuumon wa Usagi desu ka?? OVA"
+    "title": "Gochuumon wa Usagi Desu ka?? OVA"
   },
   {
     "japanese": [
@@ -3000,7 +2991,7 @@
     ],
     "id": 38337,
     "type": "TV",
-    "title": "Gochuumon wa Usagi desu ka???"
+    "title": "Gochuumon wa Usagi Desu ka???"
   },
   {
     "japanese": [
@@ -3037,48 +3028,20 @@
     "title": "Bai Dao"
   },
   {
-    "english": [
-      "Sea Breeze"
-    ],
     "id": 38342,
-    "type": "Music",
-    "title": "Sea Breeze"
+    "error": "not-found"
   },
   {
-    "english": [
-      "Sea Breeze"
-    ],
     "id": 38343,
-    "type": "Music",
-    "title": "Sea Breeze"
+    "error": "not-found"
   },
   {
-    "japanese": [
-      "こよみヒストリー"
-    ],
-    "synonyms": [
-      "Madogatari"
-    ],
-    "english": [
-      "Koyomi History"
-    ],
     "id": 38344,
-    "type": "Special",
-    "title": "Koyomi History"
+    "error": "not-found"
   },
   {
-    "japanese": [
-      "こよみヒストリー"
-    ],
-    "synonyms": [
-      "Madogatari"
-    ],
-    "english": [
-      "Koyomi History"
-    ],
     "id": 38345,
-    "type": "Special",
-    "title": "Koyomi History"
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -3262,12 +3225,10 @@
   },
   {
     "japanese": [
-      "ノラと皇女と野良猫ハート"
+      "「ノラと皇女と野良猫ハート」ノラ副駅長就任式"
     ],
     "synonyms": [
-      "Noratoto"
-    ],
-    "english": [
+      "Noratoto",
       "Nora",
       "Princess",
       "and Stray Cat"
@@ -3289,15 +3250,8 @@
     "title": "Youkai Ningen Bem: Part II"
   },
   {
-    "japanese": [
-      "花咲ク絆ノ浪漫譚"
-    ],
-    "english": [
-      "The Sprites of Floria"
-    ],
     "id": 38369,
-    "type": "ONA",
-    "title": "Hanasaki Kuhan no Romantan"
+    "error": "not-found"
   },
   {
     "id": 38370,
@@ -3576,12 +3530,8 @@
     "title": "Din Dong Specials"
   },
   {
-    "synonyms": [
-      "七つの大罪 The Seven Deadly Sins 戒めの復活"
-    ],
     "id": 38399,
-    "type": "OVA",
-    "title": "Nanatsu no Taizai  Imashime no Fukkatsu OVA"
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -3653,9 +3603,12 @@
     "japanese": [
       "いしいひろゆき×斉藤壮馬エッセイ集「健康で文化的な最低限度の生活」コラボレーション映像"
     ],
+    "synonyms": [
+      "Ishii Hiroyuki x Saitou Souma Essay-shuu \"Kenkou de Bunkateki na Saiteigendo no Seikatsu\" Collaboration"
+    ],
     "id": 38407,
     "type": "ONA",
-    "title": "Ishii Hiroyuki x Saitou Souma Essay-shuu \"Kenkou de Bunkateki na Saiteigendo no Seikatsu\" Collaborat"
+    "title": "Ishii Hiroyuki x Saitou Souma Essay-shuu"
   },
   {
     "japanese": [
@@ -3813,6 +3766,12 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "Controller of Controller"
+    ],
+    "english": [
+      "Controller of Controller"
+    ],
     "id": 38424,
     "type": "Movie",
     "title": "Controller of Controller"
@@ -3848,15 +3807,8 @@
     "title": "Daifuku-kun @ Kin Tele"
   },
   {
-    "japanese": [
-      "メガネの魔法"
-    ],
-    "english": [
-      "The Magic of the Glasses"
-    ],
     "id": 38428,
-    "type": "ONA",
-    "title": "Megane no Mahou"
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -3948,15 +3900,8 @@
     "error": "not-found"
   },
   {
-    "japanese": [
-      "バランガイ 143"
-    ],
-    "english": [
-      "Barangay 143"
-    ],
     "id": 38439,
-    "type": "TV",
-    "title": "Barangay 143"
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -4139,12 +4084,8 @@
     "error": "not-found"
   },
   {
-    "japanese": [
-      "Barangai 143"
-    ],
     "id": 38463,
-    "type": "TV",
-    "title": "Barangai 143"
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -4155,18 +4096,8 @@
     "title": "Ashita Sekai ga Owaru toshitemo"
   },
   {
-    "japanese": [
-      "小绿和小蓝"
-    ],
-    "synonyms": [
-      "Xiaolu He Xiaolan"
-    ],
-    "english": [
-      "Beryl and Sapphire"
-    ],
     "id": 38465,
-    "type": "ONA",
-    "title": "Xiao Lu He Xiao Lan"
+    "error": "not-found"
   },
   {
     "id": 38466,
@@ -4200,12 +4131,16 @@
     "japanese": [
       "花咲ク絆ノ浪漫譚"
     ],
+    "synonyms": [
+      "Hanasaki Ku-han no Romantan",
+      "Hanasaki Kurodino Romantan"
+    ],
     "english": [
       "The Sprites of Floria"
     ],
     "id": 38469,
     "type": "ONA",
-    "title": "Hanasaki Kurodino Romantan"
+    "title": "Hanasaki Kuhan no Romantan"
   },
   {
     "japanese": [
@@ -4314,15 +4249,8 @@
     "title": "Caribadix \"Renai Revolution 21\" Cover MV"
   },
   {
-    "japanese": [
-      "遊ゆう☆戯ぎ☆王おう ALEX"
-    ],
-    "english": [
-      "Yu-Gi-Oh! Capsule Monsters"
-    ],
     "id": 38479,
-    "type": "TV",
-    "title": "Yu☆Gi☆Oh! ALEX"
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -4483,7 +4411,7 @@
     ],
     "id": 38493,
     "type": "Special",
-    "title": "Sofie Soft Tampon: Drive Ryokou-hen"
+    "title": "Sofy Soft Tampon: Drive Ryokou-hen"
   },
   {
     "id": 38494,
@@ -4850,12 +4778,8 @@
     "error": "not-found"
   },
   {
-    "english": [
-      "Boy and the World"
-    ],
     "id": 38532,
-    "type": "Movie",
-    "title": "O Menino e o Mundo"
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -4975,7 +4899,8 @@
       "エガオノダイカ"
     ],
     "synonyms": [
-      "The Cost of Smiles"
+      "The Cost of Smiles",
+      "The Price of Smiles"
     ],
     "id": 38544,
     "type": "TV",
@@ -5061,7 +4986,7 @@
     ],
     "id": 38554,
     "type": "ONA",
-    "title": "Aoku Tsudzuku Pass"
+    "title": "Aoku Tsuzuku Pass"
   },
   {
     "japanese": [
@@ -5226,11 +5151,12 @@
       "通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか？"
     ],
     "synonyms": [
-      "Do You Like Your Mom? Her Normal Attack is Two Attacks at Full Power"
+      "Do You Like Your Mom? Her Normal Attack is Two Attacks at Full Power",
+      "Okaasan online"
     ],
     "id": 38573,
     "type": "TV",
-    "title": "Tsujou Kougeki ga Zentai Kougeki de 2-kai Kougeki no Okaasan wa Suki desu ka?"
+    "title": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki Desu ka?"
   },
   {
     "japanese": [
@@ -5352,17 +5278,8 @@
     "error": "not-found"
   },
   {
-    "japanese": [
-      "西行纪"
-    ],
-    "synonyms": [
-      "Journey to the West",
-      "Westbound",
-      "Westbound Discipline"
-    ],
     "id": 38593,
-    "type": "ONA",
-    "title": "Xi Xing Ji"
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -5398,14 +5315,14 @@
       "攻殻機動隊GHOST CHASER"
     ],
     "synonyms": [
-      "Koukaku Kidoutai: Ghost Chaster"
+      "Koukaku Kidoutai: Ghost Chaser"
     ],
     "english": [
-      "Ghost in the Shell: Ghost Chaster"
+      "Ghost in the Shell: Ghost Chaser"
     ],
     "id": 38600,
     "type": "Movie",
-    "title": "Ghost in the Shell: Ghost Chaster"
+    "title": "Ghost in the Shell: Ghost Chaser"
   },
   {
     "japanese": [
@@ -5435,18 +5352,8 @@
     "title": "#Compass"
   },
   {
-    "japanese": [
-      "N/A"
-    ],
-    "synonyms": [
-      "Barangay 143"
-    ],
-    "english": [
-      "N/A"
-    ],
     "id": 38604,
-    "type": "TV",
-    "title": "BRGY.143"
+    "error": "not-found"
   },
   {
     "id": 38605,
@@ -5563,15 +5470,8 @@
     "title": "Ganbare Chibi Gojira"
   },
   {
-    "japanese": [
-      "Lastman"
-    ],
-    "english": [
-      "Lastman"
-    ],
     "id": 38617,
-    "type": "ONA",
-    "title": "Lastman"
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -5727,19 +5627,8 @@
     "title": "Honda-san x Taka no Tsume"
   },
   {
-    "japanese": [
-      "旅のロボから"
-    ],
-    "synonyms": [
-      "Nihon Animator Mihonichi: Robot on the Road",
-      "Tabi no Robo Kara"
-    ],
-    "english": [
-      "Robot on the road"
-    ],
     "id": 38633,
-    "type": "ONA",
-    "title": "Tabi no robo kara"
+    "error": "not-found"
   },
   {
     "id": 38634,
@@ -5853,13 +5742,18 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "覇穹 封神演義 スペシャル・エピソード「黄家の血」"
+    ],
     "synonyms": [
-      "Soul Hunter Special",
-      "enkai-den Houshin Engi Sepcial"
+      "Hakyuu Houshin Engi Special"
+    ],
+    "english": [
+      "Hakyu Hoshin Engi: The Blood of the Koh Family"
     ],
     "id": 38650,
     "type": "Special",
-    "title": "Hakyuu Houshin Engi Special"
+    "title": "Hakyuu Houshin Engi: Kou-ke no Chi"
   },
   {
     "id": 38651,
@@ -5982,8 +5876,8 @@
       "ウィズ"
     ],
     "id": 38667,
-    "type": "OVA",
-    "title": "W'z OVA"
+    "type": "Special",
+    "title": "W'z Special"
   },
   {
     "japanese": [
@@ -5996,6 +5890,9 @@
   {
     "japanese": [
       "ツキウタ. THE ANIMATION 2"
+    ],
+    "synonyms": [
+      "Tsukiuta. The Animation Second Season"
     ],
     "id": 38669,
     "type": "TV",
@@ -6028,11 +5925,12 @@
       "映画プリキュアミラクルユニバース"
     ],
     "synonyms": [
-      "Pretty Cure Miracle Universe"
+      "Pretty Cure Miracle Universe",
+      "Eiga Precure Miracle Universe"
     ],
     "id": 38672,
     "type": "Movie",
-    "title": "Precure Miracle Universe"
+    "title": "Precure Miracle Universe Movie"
   },
   {
     "japanese": [
@@ -6054,17 +5952,24 @@
     "title": "Higashi Asia Bunka Toshi 2019 Toshima"
   },
   {
-    "english": [
-      "Macross Delta Movie Picture Drama"
+    "japanese": [
+      "パジャマの女神達"
+    ],
+    "synonyms": [
+      "Macross Delta Movie Picture Drama",
+      "Macross Δ Movie: Gekijou no Walküre - Pajama no Megami-tachi"
     ],
     "id": 38675,
     "type": "Special",
-    "title": "Macross Δ Movie Picture Drama"
+    "title": "Macross Δ Movie: Gekijou no Walküre Picture Drama"
   },
   {
+    "japanese": [
+      "げきじょうばんでるた小劇場"
+    ],
     "id": 38676,
     "type": "Special",
-    "title": "Macross Δ Shougekijou"
+    "title": "Macross Δ Movie: Gekijou no Walküre Shougekijou"
   },
   {
     "english": [
@@ -6095,11 +6000,12 @@
       "フルーツバスケット"
     ],
     "synonyms": [
-      "Furuba"
+      "Furuba",
+      "Fruits Basket (Zenpen)"
     ],
     "id": 38680,
     "type": "TV",
-    "title": "Fruits Basket (Zenpen)"
+    "title": "Fruits Basket (2019)"
   },
   {
     "japanese": [
@@ -6157,54 +6063,60 @@
     "title": "Travelling Light feat. Frida Sundemo"
   },
   {
-    "japanese": [
-      "En en no Shobotai"
-    ],
-    "synonyms": [
-      "Blazing Firefighting Corps",
-      "En en no Shobotai,"
-    ],
-    "english": [
-      "Fire Force"
-    ],
     "id": 38687,
-    "type": "TV",
-    "title": "Fire Force"
+    "error": "not-found"
   },
   {
     "japanese": [
       "梦塔 - 雪谜城"
     ],
     "synonyms": [
-      "Dream Tower - The Puzzle of Snow City",
-      "Dream Tower - Snow Mystery City"
+      "Meng Taxue Mi Cheng",
+      "Dream Tower: The Puzzle of Snow City",
+      "Dream Tower: Snow Mystery City"
     ],
     "english": [
       "Dream Tower"
     ],
     "id": 38688,
     "type": "ONA",
-    "title": "Meng Ta - Xue Mi Cheng"
+    "title": "Meng Ta: Xue Mi Cheng"
   },
   {
+    "japanese": [
+      "观海策"
+    ],
     "id": 38689,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Guan Hai Ce"
   },
   {
+    "japanese": [
+      "四海鲸骑"
+    ],
     "id": 38690,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Si Hai Jing Qi"
   },
   {
+    "japanese": [
+      "ドクターストーン"
+    ],
     "id": 38691,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Dr. Stone"
   },
   {
     "id": 38692,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "ぷれぷれぷれあです ～クレマンティーヌ逃亡編～"
+    ],
     "id": 38693,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Overlord: Ple Ple Pleiades - Clementine Toubou-hen"
   },
   {
     "id": 38694,
@@ -6227,100 +6139,204 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "僕のヒーローアカデミア ～オールマイト:ライジング～"
+    ],
+    "english": [
+      "My Hero Academia: All Might Rising"
+    ],
     "id": 38699,
-    "error": "not-found"
+    "type": "Special",
+    "title": "Boku no Hero Academia: All Might - Rising The Animation"
   },
   {
+    "japanese": [
+      "月夜＆オパール"
+    ],
+    "english": [
+      "Moonlit Night and Opal"
+    ],
     "id": 38700,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Tsukiyo & Opal"
   },
   {
+    "japanese": [
+      "ああ／良い"
+    ],
     "id": 38701,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "aaH / Hee"
   },
   {
     "id": 38702,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "YA-NE-SEN a Go Go"
   },
   {
+    "japanese": [
+      "こうこう"
+    ],
     "id": 38703,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Koukou"
   },
   {
     "id": 38704,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "科学忍猫隊ガッチャニャン"
+    ],
+    "synonyms": [
+      "Kagaku Nineko-tai Gatchanyan"
+    ],
     "id": 38705,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Kagaku Ninya-tai Gatchanyan"
   },
   {
     "id": 38706,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "ロビハチ"
+    ],
     "id": 38707,
-    "error": "not-found"
+    "type": "TV",
+    "title": "RobiHachi"
   },
   {
+    "japanese": [
+      "我が家のリリアナさん THE ANIMATION"
+    ],
+    "synonyms": [
+      "Waga Ie no Liliana-san",
+      "Liliana-san of My House"
+    ],
     "id": 38708,
-    "error": "not-found"
+    "type": "OVA",
+    "title": "Wagaya no Liliana-san The Animation"
   },
   {
     "id": 38709,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "ゴールデンカムイ OAD"
+    ],
     "id": 38710,
-    "error": "not-found"
+    "type": "OVA",
+    "title": "Golden Kamuy 2nd Season OVA"
   },
   {
+    "japanese": [
+      "ふつうってなんだろう？"
+    ],
     "id": 38711,
-    "error": "not-found"
+    "type": "Special",
+    "title": "Futsuu tte Nandarou?"
   },
   {
+    "japanese": [
+      "A Log Day of Timbre"
+    ],
+    "english": [
+      "A Log Day of Timbre"
+    ],
     "id": 38712,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "A Log Day of Timbre"
   },
   {
     "id": 38713,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "劇場版 ガンダム Gのレコンギスタ"
+    ],
+    "synonyms": [
+      "G-Reco Movie",
+      "Gekijouban Gundam G no Reconguista"
+    ],
+    "english": [
+      "Gundam Reconguista in G Movie"
+    ],
     "id": 38714,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Gundam: G no Reconguista Movie"
   },
   {
+    "japanese": [
+      "SDガンダムワールド 三国創傑伝"
+    ],
     "id": 38715,
-    "error": "not-found"
+    "type": "TV",
+    "title": "SD Gundam World: Sangoku Souketsuden"
   },
   {
+    "japanese": [
+      "機動戦士ガンダム 閃光のハサウェイ 2"
+    ],
+    "synonyms": [
+      "Kidou Senshi Gundam: Senkou no Hathaway 2"
+    ],
     "id": 38716,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Mobile Suit Gundam: Hathaway's Flash 2"
   },
   {
+    "japanese": [
+      "機動戦士ガンダム 閃光のハサウェイ 3"
+    ],
+    "synonyms": [
+      "Kidou Senshi Gundam: Senkou no Hathaway 3"
+    ],
     "id": 38717,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Mobile Suit Gundam: Hathaway's Flash 3"
   },
   {
     "id": 38718,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "ファイトリーグ ギア・ガジェット・ジェネレーターズ"
+    ],
     "id": 38719,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Fight League: Gear Gadget Generators"
   },
   {
+    "japanese": [
+      "ルパン三世 (2019)"
+    ],
+    "synonyms": [
+      "Lupin Sansei (2019)"
+    ],
     "id": 38720,
-    "error": "not-found"
+    "type": "Special",
+    "title": "Lupin III (2019)"
   },
   {
     "id": 38721,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "影技 (1999) [邪技 ぢゃどうすぎる]"
+    ],
+    "synonyms": [
+      "Jokoshima Waza Jadou Sugiru"
+    ],
     "id": 38722,
-    "error": "not-found"
+    "type": "OVA",
+    "title": "Shadow Skill (1999)"
   },
   {
     "id": 38723,
@@ -6339,40 +6355,98 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "えーん"
+    ],
+    "english": [
+      "WAAAH"
+    ],
     "id": 38727,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Een"
   },
   {
+    "japanese": [
+      "Onami"
+    ],
+    "english": [
+      "Onami"
+    ],
     "id": 38728,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Onami"
   },
   {
+    "japanese": [
+      "刺痛我"
+    ],
+    "english": [
+      "Piercing I"
+    ],
     "id": 38729,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Piercing I"
   },
   {
     "id": 38730,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "ダイヤのA[エース] actII"
+    ],
+    "synonyms": [
+      "Ace of Diamond Act II",
+      "Daiya no Ace: Act II"
+    ],
     "id": 38731,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Diamond no Ace: Act II"
   },
   {
+    "japanese": [
+      "痴漢した女子●生とその後",
+      "むさぼり合うようなドエロ純愛"
+    ],
+    "synonyms": [
+      "The Molestation That Became Avid Hyper-Erotic Love"
+    ],
     "id": 38732,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Chikan Shita Joshi*sei to Sonogo, Musabori Au Youna Doero Junai"
   },
   {
+    "japanese": [
+      "風邪症候群"
+    ],
+    "synonyms": [
+      "Hataraku Saibou Special",
+      "Hataraku Saibou: Cold Syndrome"
+    ],
+    "english": [
+      "Cells at Work Special"
+    ],
     "id": 38733,
-    "error": "not-found"
+    "type": "Special",
+    "title": "Hataraku Saibou: Kaze Shoukougun"
   },
   {
     "id": 38734,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "セブンシーズ"
+    ],
+    "synonyms": [
+      "Seven Seeds"
+    ],
+    "english": [
+      "7 Seeds"
+    ],
     "id": 38735,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "7 Seeds"
   },
   {
     "id": 38736,
@@ -6383,36 +6457,108 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "けんさくとえんじんのクリスマス"
+    ],
+    "english": [
+      "Kensaku & Enjin's Xmas"
+    ],
     "id": 38738,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Kensaku to Enjin no Christmas"
   },
   {
+    "japanese": [
+      "機動戦士ガンダムUC ペルフェクティビリティ"
+    ],
+    "synonyms": [
+      "Kidou Senshi Gundam Unicorn Perfectibility"
+    ],
+    "english": [
+      "Mobile Suit Gundam Unicorn Perfectibility"
+    ],
     "id": 38739,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Mobile Suit Gundam UC Perfectibility"
   },
   {
+    "japanese": [
+      "白蛇：缘起"
+    ],
+    "english": [
+      "White Snake"
+    ],
     "id": 38740,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Bai She: Yuan Qi"
   },
   {
+    "japanese": [
+      "雪鹰领主"
+    ],
+    "synonyms": [
+      "Xueying Lingzhu",
+      "Lord Xue Ying",
+      "Snow Eagle Lord"
+    ],
     "id": 38741,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Xue Ying Ling Zhu"
   },
   {
+    "japanese": [
+      "大理寺日志"
+    ],
+    "synonyms": [
+      "Dalisi Rizhi",
+      "The Journal of Dali Temple"
+    ],
+    "english": [
+      "White Cat Legend"
+    ],
     "id": 38742,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Da Li Si Ri Zhi"
   },
   {
+    "japanese": [
+      "映画コラショの海底わくわく大冒険!"
+    ],
+    "synonyms": [
+      "Eiga Korasho no Kaitei Wakuwaku Daibouken!"
+    ],
     "id": 38743,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Korasho no Kaitei Wakuwaku Daibouken! Movie"
   },
   {
+    "japanese": [
+      "叛逆性ミリオンアーサー"
+    ],
+    "synonyms": [
+      "Million Arthur 3",
+      "MA3"
+    ],
+    "english": [
+      "Han-Gyaku-Sei Million Arthur"
+    ],
     "id": 38744,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Hangyakusei Million Arthur"
   },
   {
+    "japanese": [
+      "ノラと皇女と野良猫ハート (新アニメ)"
+    ],
+    "synonyms": [
+      "Noratoto 2",
+      "Nora",
+      "Princess",
+      "and Stray Cat"
+    ],
     "id": 38745,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Nora to Oujo to Noraneko Heart (Shin Anime)"
   },
   {
     "id": 38746,
@@ -6423,12 +6569,23 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "「とうきょう」- Tokyo"
+    ],
+    "english": [
+      "Tokyo"
+    ],
     "id": 38748,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "\"Tokyo\""
   },
   {
+    "japanese": [
+      "BLADE RUNNER – BLACK LOTUS"
+    ],
     "id": 38749,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Blade Runner: Black Lotus"
   },
   {
     "id": 38750,
@@ -6439,20 +6596,48 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "Rise"
+    ],
+    "synonyms": [
+      "Fact",
+      "Rise \"Steve Aoki Remix\""
+    ],
+    "english": [
+      "Rise"
+    ],
     "id": 38752,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Rise"
   },
   {
+    "japanese": [
+      "荒ぶる季節の乙女どもよ。"
+    ],
+    "synonyms": [
+      "Maidens of the Savage Season"
+    ],
     "id": 38753,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Araburu Kisetsu no Otome-domo yo."
   },
   {
     "id": 38754,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "Uchūsen Sajitariusu"
+    ],
+    "synonyms": [
+      "Spaceship Sagittarius"
+    ],
+    "english": [
+      "Spaceship Sagittarius"
+    ],
     "id": 38755,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Uchūsen Sajitariusu"
   },
   {
     "id": 38756,
