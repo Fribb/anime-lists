@@ -81,11 +81,11 @@
   },
   {
     "japanese": [
-      "Re:ステージ!"
+      "Re:ステージ! ドリームデイズ♪"
     ],
     "id": 38009,
     "type": "TV",
-    "title": "Re:Stage!"
+    "title": "Re:Stage! Dream Days♪"
   },
   {
     "japanese": [
@@ -106,19 +106,19 @@
       "Anime Tamago 2019"
     ],
     "id": 38011,
-    "type": "TV",
+    "type": "Movie",
     "title": "Hello WeGo!"
   },
   {
     "japanese": [
-      "スペースアテンダントアオイ"
+      "斗え! スペースアテンダントアオイ"
     ],
     "synonyms": [
       "Anime Tamago 2019"
     ],
     "id": 38012,
     "type": "Movie",
-    "title": "Space Attendant Aoi"
+    "title": "Toe! Space Attendant Aoi"
   },
   {
     "japanese": [
@@ -136,11 +136,12 @@
       "キャプテン・バル"
     ],
     "synonyms": [
-      "Anime Tamago 2019"
+      "Anime Tamago 2019",
+      "Captain Bar"
     ],
     "id": 38014,
     "type": "Movie",
-    "title": "Captain Bar"
+    "title": "Captain Bal"
   },
   {
     "japanese": [
@@ -454,7 +455,7 @@
   },
   {
     "japanese": [
-      "境界線上のホライゾン"
+      "境界線上のホライゾン 完全新作アニメーション「境界線上のホライゾンXXI-PV」"
     ],
     "id": 38046,
     "type": "Special",
@@ -1859,11 +1860,14 @@
   },
   {
     "japanese": [
-      "七つの大罪 戒めの復活 OVA"
+      "七つの大罪 英雄たちは燥(はしゃ)ぐ"
+    ],
+    "synonyms": [
+      "Nanatsu no Taizai: Imashime no Fukkatsu OVA"
     ],
     "id": 38198,
     "type": "OVA",
-    "title": "Nanatsu no Taizai: Imashime no Fukkatsu OVA"
+    "title": "Nanatsu no Taizai: Eiyuu-tachi wa Hashagu"
   },
   {
     "japanese": [
@@ -1897,15 +1901,8 @@
     "title": "Osomatsu-san Movie"
   },
   {
-    "japanese": [
-      "七つの大罪"
-    ],
-    "english": [
-      "The Seven Deadly Sins  OVA"
-    ],
     "id": 38202,
-    "type": "OVA",
-    "title": "Nanatsu no Taizai OVA"
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -1913,6 +1910,9 @@
     ],
     "synonyms": [
       "Idolmaster Side M: Wakeatte Mini!"
+    ],
+    "english": [
+      "THE IDOLM@STER SideM Wakeatte Mini!"
     ],
     "id": 38203,
     "type": "TV",
@@ -1938,11 +1938,16 @@
   },
   {
     "japanese": [
-      "千銃士 ミニアニメ"
+      "千銃士 ミニアニメ 現代銃の部屋"
+    ],
+    "synonyms": [
+      "The Thousand Noble Musketeers: Contemporary Gun Group",
+      "Senjuushi Specials",
+      "Senjuushi Mini Anime"
     ],
     "id": 38206,
     "type": "Special",
-    "title": "Senjuushi Mini Anime"
+    "title": "Senjuushi: Gendaijuu no Heya"
   },
   {
     "id": 38207,
@@ -2068,14 +2073,14 @@
   },
   {
     "japanese": [
-      "超可動ガール1/6"
+      "超可動ガール1/6 AMAZING STRANGER"
     ],
     "synonyms": [
       "Chou Kadou Girl 1/6"
     ],
     "id": 38226,
     "type": "TV",
-    "title": "Chou Kadou Girl ⅙"
+    "title": "Chou Kadou Girl ⅙: Amazing Stranger"
   },
   {
     "id": 38227,
@@ -2484,6 +2489,9 @@
   {
     "japanese": [
       "でびどる！"
+    ],
+    "synonyms": [
+      "Devil Idol!"
     ],
     "id": 38284,
     "type": "TV",
@@ -2922,11 +2930,11 @@
   },
   {
     "japanese": [
-      "スタンドマイヒーローズ"
+      "スタンドマイヒーローズ PIECE OF TRUTH"
     ],
     "id": 38331,
     "type": "TV",
-    "title": "Stand My Heroes"
+    "title": "Stand My Heroes: Piece of Truth"
   },
   {
     "japanese": [
@@ -2960,15 +2968,8 @@
     "error": "not-found"
   },
   {
-    "japanese": [
-      "ポプテピピック 第13話"
-    ],
-    "english": [
-      "Pop Team Epic Episode 13"
-    ],
     "id": 38336,
-    "type": "Special",
-    "title": "Poputepipikku Episode 13"
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -3329,12 +3330,8 @@
     "title": "Lei Su Deng Shandian Chong Xian 3"
   },
   {
-    "japanese": [
-      "Maegami"
-    ],
     "id": 38380,
-    "type": "ONA",
-    "title": "Bangs"
+    "error": "not-found"
   },
   {
     "id": 38381,
@@ -3736,13 +3733,18 @@
   },
   {
     "id": 38421,
-    "type": "ONA",
-    "title": "Super Dragon Ball Heroes: Universe Mission"
+    "error": "not-found"
   },
   {
+    "japanese": [
+      "ハイスコアガール EXTRA STAGE"
+    ],
+    "synonyms": [
+      "High Score Girl OVA"
+    ],
     "id": 38422,
     "type": "OVA",
-    "title": "High Score Girl OVA"
+    "title": "High Score Girl: Extra Stage"
   },
   {
     "id": 38423,
@@ -3811,7 +3813,7 @@
   },
   {
     "japanese": [
-      "PERSONA5 the Animation -Dark Sun...-"
+      "『PERSONA5 the Animation』特番アニメーション前編「Dark Sun...」"
     ],
     "id": 38431,
     "type": "Special",
@@ -3989,16 +3991,12 @@
     "error": "not-found"
   },
   {
-    "japanese": [
-      "ROAD TO YOU ～星降る丘の約束～"
-    ],
     "id": 38455,
-    "type": "ONA",
-    "title": "Road to You: Hoshi Furu Oka no Yakusoku"
+    "error": "not-found"
   },
   {
     "japanese": [
-      "関節リウマチ疾患啓発アニメ「メガネの魔法」"
+      "メガネの魔法"
     ],
     "id": 38456,
     "type": "ONA",
@@ -6208,14 +6206,14 @@
   },
   {
     "japanese": [
-      "ルパン三世 (2019)"
+      "ルパン三世 グッバイ・パートナー"
     ],
     "synonyms": [
       "Lupin Sansei (2019)"
     ],
     "id": 38720,
     "type": "Special",
-    "title": "Lupin III (2019)"
+    "title": "Lupin III: Goodbye Partner"
   },
   {
     "id": 38721,
@@ -6419,7 +6417,8 @@
       "映画コラショの海底わくわく大冒険!"
     ],
     "synonyms": [
-      "Eiga Korasho no Kaitei Wakuwaku Daibouken!"
+      "Eiga Korasho no Kaitei Wakuwaku Daibouken!",
+      "Movie: Korasho's Exciting Under-the-Sea Adventure!"
     ],
     "id": 38743,
     "type": "Movie",
@@ -7020,14 +7019,17 @@
   },
   {
     "japanese": [
+      "Christmas advent"
+    ],
+    "synonyms": [
       "Christmas advent 1209"
     ],
     "english": [
-      "Christmas advent 1209"
+      "Christmas Advent"
     ],
     "id": 38805,
     "type": "ONA",
-    "title": "Christmas advent 1209"
+    "title": "Christmas Advent 1209"
   },
   {
     "id": 38806,
@@ -7039,7 +7041,8 @@
     ],
     "synonyms": [
       "Goblin Slayer Recap",
-      "Goblin Slayer Episode 10.5"
+      "Goblin Slayer Episode 10.5",
+      "Goblin Slayer: Adventurer Sheet"
     ],
     "id": 38807,
     "type": "Special",
@@ -7050,11 +7053,12 @@
       "オーケー？オーライ！"
     ],
     "synonyms": [
-      "Irodorimidori"
+      "Irodorimidori",
+      "Ok? All Right!"
     ],
     "id": 38808,
     "type": "Music",
-    "title": "Ok? All Right!"
+    "title": "Ok? Alright!"
   },
   {
     "japanese": [
@@ -7063,9 +7067,12 @@
     "synonyms": [
       "Irodorimidori"
     ],
+    "english": [
+      "Black'n White Jammin' Cats"
+    ],
     "id": 38809,
     "type": "Music",
-    "title": "Black'n White JAMMIN' CATS"
+    "title": "Black'n White Jammin' Cats"
   },
   {
     "synonyms": [
@@ -7300,40 +7307,86 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "うまよん"
+    ],
+    "synonyms": [
+      "Uma Yon"
+    ],
     "id": 38835,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Umayon"
   },
   {
     "id": 38836,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "ぷそ煮コミ"
+    ],
+    "synonyms": [
+      "Phantasy Star Online 2 Comic"
+    ],
     "id": 38837,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Puso Ni Comi"
   },
   {
+    "english": [
+      "Tokyo Ghetto"
+    ],
     "id": 38838,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Tokyo Ghetto"
   },
   {
+    "japanese": [
+      "ラストダンス"
+    ],
     "id": 38839,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Last Dance"
   },
   {
+    "japanese": [
+      "アンビバレント"
+    ],
+    "english": [
+      "Ambivalent"
+    ],
     "id": 38840,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Ambivalent"
   },
   {
+    "english": [
+      "Sister"
+    ],
     "id": 38841,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Sister"
   },
   {
+    "english": [
+      "Outsider"
+    ],
     "id": 38842,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Outsider"
   },
   {
+    "japanese": [
+      "白猫プロジェクト"
+    ],
+    "synonyms": [
+      "White Cat Project",
+      "Rune Story",
+      "Zero Chronicle"
+    ],
     "id": 38843,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Shironeko Project"
   },
   {
     "id": 38844,
@@ -7348,48 +7401,110 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "Walls"
+    ],
+    "english": [
+      "Walls"
+    ],
     "id": 38847,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Walls"
   },
   {
+    "japanese": [
+      "空の卵"
+    ],
+    "english": [
+      "A Wind Egg"
+    ],
     "id": 38848,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Kara no Tamago"
   },
   {
+    "japanese": [
+      "かいぶつが、うまれた日。"
+    ],
     "id": 38849,
-    "error": "not-found"
+    "type": "Special",
+    "title": "Kaibutsu ga, Umareta Hi."
   },
   {
+    "japanese": [
+      "映画スター☆トゥインクルプリキュア"
+    ],
     "id": 38850,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Star☆Twinkle Precure Movie"
   },
   {
+    "japanese": [
+      "バーチャルさんはみている"
+    ],
+    "english": [
+      "Virtual-san Looking"
+    ],
     "id": 38851,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Virtual-san wa Miteiru"
   },
   {
+    "japanese": [
+      "可愛くなりたい／HoneyWorks feat.鎖那"
+    ],
+    "synonyms": [
+      "Kawaiku Naritai / HoneyWorks feat. sana"
+    ],
     "id": 38852,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Kawaiku Naritai"
   },
   {
+    "japanese": [
+      "EX-ARM"
+    ],
     "id": 38853,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Ex-Arm"
   },
   {
+    "japanese": [
+      "Magic-kyun! First Live 星ノ森サマーフェスタ2017 アンコールアニメーションムービー"
+    ],
+    "english": [
+      "Magic-kyun! First Live - Hoshino Summer Festival Summer Festa 2017 Encore Animation Movie"
+    ],
     "id": 38854,
-    "error": "not-found"
+    "type": "Special",
+    "title": "Magic-kyun! First Live - Hoshino Summer Festival Summer Festa 2017 Encore Animation"
   },
   {
+    "japanese": [
+      "夕霧"
+    ],
+    "synonyms": [
+      "Evening Fog"
+    ],
     "id": 38855,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Yuu Kiri"
   },
   {
+    "japanese": [
+      "マディウォーター"
+    ],
     "id": 38856,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Muddy Water"
   },
   {
+    "japanese": [
+      "猫のニャッホ"
+    ],
     "id": 38857,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Neko no Niagho"
   },
   {
     "id": 38858,
@@ -7400,100 +7515,260 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "BAKUMATSU ~恋愛幕末カレシ 外伝~ 第2期"
+    ],
+    "synonyms": [
+      "Renai Bakumatsu Kareshi Gaiden",
+      "Bakumatsu Second Season"
+    ],
     "id": 38860,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Bakumatsu 2nd Season"
   },
   {
+    "japanese": [
+      "般若心経"
+    ],
+    "synonyms": [
+      "Heart Sutra"
+    ],
+    "english": [
+      "Hanya Shingyo"
+    ],
     "id": 38861,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Hannyashingyou"
   },
   {
+    "japanese": [
+      "一寸法師"
+    ],
+    "synonyms": [
+      "Issun-boushi"
+    ],
+    "english": [
+      "Inch-High Samurai"
+    ],
     "id": 38862,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Issunboushi (2007)"
   },
   {
+    "japanese": [
+      "笑う蜘蛛"
+    ],
+    "english": [
+      "The Laughing Spider"
+    ],
     "id": 38863,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "The Laughing Spider"
   },
   {
+    "japanese": [
+      "「ライオン」meets「ハチクロ」"
+    ],
+    "synonyms": [
+      "March Comes in Like a Lion",
+      "\"3-gatsu no Lion\" 14-kan Eco Bag-tsuki Tokusou-ban PV"
+    ],
     "id": 38864,
-    "error": "not-found"
+    "type": "Special",
+    "title": "Lion meets HachiClo"
   },
   {
+    "japanese": [
+      "ビッチ学園が清純なはずがないっ!!? The Animation"
+    ],
     "id": 38865,
-    "error": "not-found"
+    "type": "OVA",
+    "title": "Bitch Gakuen ga Seijun na Hazu ga Nai!!? The Animation"
   },
   {
+    "japanese": [
+      "性活週間 THE ANIMATION"
+    ],
     "id": 38866,
-    "error": "not-found"
+    "type": "OVA",
+    "title": "Seikatsu Shuukan The Animation"
   },
   {
+    "japanese": [
+      "NOISE"
+    ],
+    "english": [
+      "NOISE"
+    ],
     "id": 38867,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Noise"
   },
   {
+    "japanese": [
+      "BLOW UP 2"
+    ],
+    "english": [
+      "Blow Up 2"
+    ],
     "id": 38868,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Blow Up 2"
   },
   {
+    "japanese": [
+      "4・EYES Re-Mix 2005"
+    ],
+    "english": [
+      "4-EYES Re-Mix 2005"
+    ],
     "id": 38869,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "4.Eyes Re-Mix 2005"
   },
   {
+    "japanese": [
+      "マドンナの誘惑"
+    ],
+    "english": [
+      "Madonna’s Temptation"
+    ],
     "id": 38870,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Madonna no Yuuwaku"
   },
   {
+    "japanese": [
+      "RAINBOW・SCENE"
+    ],
+    "english": [
+      "Rainbow Scene"
+    ],
     "id": 38871,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Rainbow Scene"
   },
   {
+    "japanese": [
+      "PUSSY"
+    ],
+    "english": [
+      "PUSSY"
+    ],
     "id": 38872,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Pussy"
   },
   {
+    "japanese": [
+      "SHE"
+    ],
+    "english": [
+      "SHE"
+    ],
     "id": 38873,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "She"
   },
   {
+    "japanese": [
+      "GREEN・RED"
+    ],
+    "english": [
+      "GREEN-RED"
+    ],
     "id": 38874,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Green Red"
   },
   {
+    "japanese": [
+      "JAM POT"
+    ],
+    "english": [
+      "JAM POT"
+    ],
     "id": 38875,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Jam Pot"
   },
   {
+    "japanese": [
+      "U.F.O"
+    ],
+    "english": [
+      "U.F.O"
+    ],
     "id": 38876,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "U.F.O"
   },
   {
+    "japanese": [
+      "GET BACK ON THE HILL"
+    ],
+    "english": [
+      "GET BACK ON THE HILL"
+    ],
     "id": 38877,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Get Back on the Hill"
   },
   {
+    "japanese": [
+      "SWEET TOUCH OF LOVE"
+    ],
+    "english": [
+      "SWEET TOUCH OF LOVE"
+    ],
     "id": 38878,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Sweet Touch of Love"
   },
   {
+    "japanese": [
+      "人間模様"
+    ],
+    "english": [
+      "Human Events"
+    ],
     "id": 38879,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Ningen Moyou"
   },
   {
     "id": 38880,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "ジモトがジャパン"
+    ],
+    "english": [
+      "I'm from Japan"
+    ],
     "id": 38881,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Jimoto ga Japan"
   },
   {
+    "japanese": [
+      "リョーマ!  新生劇場版テニスの王子様"
+    ],
+    "synonyms": [
+      "Ryouma! Rebirth The Prince of Tennis"
+    ],
     "id": 38882,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Ryouma! Shinsei Tennis no Ouji-sama"
   },
   {
+    "japanese": [
+      "ハイキュー!!  (新シリーズ)"
+    ],
     "id": 38883,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Haikyuu!! (Shin Series)"
   },
   {
     "id": 38884,
@@ -7504,176 +7779,416 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "Krosna"
+    ],
+    "english": [
+      "Krosna"
+    ],
     "id": 38886,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Krosna"
   },
   {
+    "japanese": [
+      "LOST"
+    ],
+    "english": [
+      "LOST"
+    ],
     "id": 38887,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Lost"
   },
   {
+    "japanese": [
+      "Deeper"
+    ],
+    "english": [
+      "Deeper"
+    ],
     "id": 38888,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Deeper"
   },
   {
+    "japanese": [
+      "この音とまれ！ 第2期"
+    ],
+    "synonyms": [
+      "Stop This Sound! 2nd Season"
+    ],
     "id": 38889,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Kono Oto Tomare! 2nd Season"
   },
   {
     "id": 38890,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "天体のメソッド (新作エピソード)"
+    ],
     "id": 38891,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Sora no Method (Shinsaku Episode)"
   },
   {
     "id": 38892,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "スクリュ"
+    ],
+    "english": [
+      "Screw"
+    ],
     "id": 38893,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Sukuryu"
   },
   {
     "id": 38894,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "『DOUBLE DECKER! ダグ＆キリル』EXTRA"
+    ],
     "id": 38895,
-    "error": "not-found"
+    "type": "Special",
+    "title": "Double Decker! Doug & Kirill: Extra"
   },
   {
+    "japanese": [
+      "SWAP"
+    ],
+    "english": [
+      "SWAP"
+    ],
     "id": 38896,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Swap"
   },
   {
+    "japanese": [
+      "Fate/kaleid liner プリズマ☆イリヤ (新作)"
+    ],
     "id": 38897,
-    "error": "not-found"
+    "type": "OVA",
+    "title": "Fate/kaleid liner Prisma☆Illya (Shinsaku)"
   },
   {
+    "japanese": [
+      "夢を見せて"
+    ],
     "id": 38898,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Yume wo Misete"
   },
   {
+    "japanese": [
+      "日清麺なしどん兵衛 × ひもてはうす"
+    ],
+    "synonyms": [
+      "○○no Nai○○Gekijou"
+    ],
     "id": 38899,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Nissin Men-nashi Donbei x Himote House"
   },
   {
     "id": 38900,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "Days of Delight"
+    ],
+    "english": [
+      "Days of Delight"
+    ],
     "id": 38901,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Days of Delight"
   },
   {
+    "japanese": [
+      "監獄実験〈プリズンラボ〉"
+    ],
+    "synonyms": [
+      "Kangoku Jikken"
+    ],
     "id": 38902,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Prison Lab"
   },
   {
+    "japanese": [
+      "ムーンライズ"
+    ],
     "id": 38903,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Moonrise"
   },
   {
     "id": 38904,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "Xmas Song"
+    ],
+    "english": [
+      "Xmas Song"
+    ],
     "id": 38905,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Xmas Song"
   },
   {
+    "japanese": [
+      "Alice In Voodooland"
+    ],
+    "english": [
+      "Alice In Voodooland"
+    ],
     "id": 38906,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Alice In Voodooland"
   },
   {
+    "japanese": [
+      "やさしいあくま"
+    ],
+    "synonyms": [
+      "Nice Demon"
+    ],
+    "english": [
+      "The Kind Devil"
+    ],
     "id": 38907,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Yasashii Akuma"
   },
   {
+    "japanese": [
+      "猫のニャッホ ～ニャ・ミゼラブル～"
+    ],
+    "synonyms": [
+      "Days of van Meowogh",
+      "Meowogh the Cat: Mes Misérables"
+    ],
     "id": 38908,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Neko no Nyagh: Nya Misérables"
   },
   {
+    "japanese": [
+      "<Infinite Dendrogram>-インフィニット・デンドログラム-"
+    ],
     "id": 38909,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Infinite Dendrogram"
   },
   {
+    "japanese": [
+      "モンキーギャングアナーキー"
+    ],
     "id": 38910,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Monkey Gang Anarchy"
   },
   {
+    "japanese": [
+      "智多多奇幻星空之旅"
+    ],
+    "synonyms": [
+      "Chi Dor Dor Starry Sky Tour"
+    ],
+    "english": [
+      "Gee Dor Dor's Space Adventure"
+    ],
     "id": 38911,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Zhi duoduo qihuan xingkong zhi lu"
   },
   {
     "id": 38912,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "HYPER SWEET POWER"
+    ],
+    "english": [
+      "HYPER SWEET POWER"
+    ],
     "id": 38913,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Hyper Sweet Power"
   },
   {
+    "japanese": [
+      "パパのマーチ"
+    ],
+    "english": [
+      "Papa's March"
+    ],
     "id": 38914,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Papa no Maachi"
   },
   {
+    "japanese": [
+      "巨蟲列島"
+    ],
+    "english": [
+      "The Island of Giant Insects"
+    ],
     "id": 38915,
-    "error": "not-found"
+    "type": "OVA",
+    "title": "Kyochuu Rettou"
   },
   {
+    "japanese": [
+      "バトルスピリッツ (2019)"
+    ],
     "id": 38916,
-    "error": "not-found"
+    "type": "Special",
+    "title": "Battle Spirits (2019)"
   },
   {
+    "japanese": [
+      "通灵妃"
+    ],
+    "synonyms": [
+      "Psychic Princess"
+    ],
     "id": 38917,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Tong Ling Fei"
   },
   {
+    "japanese": [
+      "少年歌行"
+    ],
+    "synonyms": [
+      "Shaonian Ge Xing"
+    ],
     "id": 38918,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Shao Nian Ge Xing"
   },
   {
+    "japanese": [
+      "山河社稷图"
+    ],
+    "synonyms": [
+      "Shanhe Sheji Tu"
+    ],
     "id": 38919,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Shan He She Ji Tu"
   },
   {
+    "japanese": [
+      "胡蝶綺 ~若き信長~"
+    ],
+    "synonyms": [
+      "Gorgeous Butterfly: Young Nobunaga"
+    ],
     "id": 38920,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Kochouki: Wakaki Nobunaga"
   },
   {
+    "japanese": [
+      "ツルネ ―風舞高校弓道部― 第14話"
+    ],
+    "synonyms": [
+      "Tsurune: Kazemai Koukou Kyuudoubu Special"
+    ],
     "id": 38921,
-    "error": "not-found"
+    "type": "Special",
+    "title": "Tsurune: Kazemai Koukou Kyuudoubu Episode 14"
   },
   {
+    "japanese": [
+      "キミが見た空は"
+    ],
+    "synonyms": [
+      "Readyyy!",
+      "Maten Rocket"
+    ],
     "id": 38922,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Kimi ga Mita Sora wa"
   },
   {
+    "japanese": [
+      "신비아파트 : 고스트볼의 비밀"
+    ],
+    "english": [
+      "The Haunted House: The Secret of the Ghost Ball"
+    ],
     "id": 38923,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Sinbi Apateu: Ghost Ball Bimil"
   },
   {
+    "japanese": [
+      "ネコぱら (TV)"
+    ],
+    "synonyms": [
+      "Neko Para (TV)"
+    ],
     "id": 38924,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Nekopara (TV)"
   },
   {
+    "japanese": [
+      "春のしあわせ咲く咲く劇場"
+    ],
+    "synonyms": [
+      "Kao"
+    ],
     "id": 38925,
-    "error": "not-found"
+    "type": "Special",
+    "title": "Haru no Shiawase Saku Saku Gekijou"
   },
   {
+    "japanese": [
+      "こえだちゃん"
+    ],
+    "english": [
+      "Koeda-chan"
+    ],
     "id": 38926,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Koeda-chan"
   },
   {
+    "japanese": [
+      "こえだちゃん おはなし"
+    ],
+    "english": [
+      "Koeda-chan Story"
+    ],
     "id": 38927,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Koeda-chan Ohanashi"
   },
   {
+    "japanese": [
+      "こえだちゃん CMs"
+    ],
     "id": 38928,
-    "error": "not-found"
+    "type": "Special",
+    "title": "Koeda-chan CMs"
   },
   {
     "id": 38929,
@@ -7684,44 +8199,106 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "グリーンコープCM"
+    ],
+    "synonyms": [
+      "Green Coop CMs"
+    ],
     "id": 38931,
-    "error": "not-found"
+    "type": "Special",
+    "title": "Green Co-Op CMs"
   },
   {
+    "japanese": [
+      "親子は続くよ"
+    ],
     "id": 38932,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Oyako wa Tsudzuku yo"
   },
   {
+    "japanese": [
+      "広岡浅子"
+    ],
+    "synonyms": [
+      "Daido Life",
+      "Daido Seimei"
+    ],
     "id": 38933,
-    "error": "not-found"
+    "type": "Special",
+    "title": "Hirooka Asako"
   },
   {
+    "japanese": [
+      "Change Our MIRAI！ (Our 7 Lights)"
+    ],
+    "synonyms": [
+      "Irodorimidori"
+    ],
+    "english": [
+      "Change Our Mirai!  (Our 7 Lights)"
+    ],
     "id": 38934,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Change Our Mirai!: Our 7 Lights"
   },
   {
+    "japanese": [
+      "みるタイツ"
+    ],
     "id": 38935,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Miru Tights"
   },
   {
+    "japanese": [
+      "ロード・エルメロイⅡ世の事件簿"
+    ],
+    "synonyms": [
+      "Lord El-Melloi II Case Files"
+    ],
     "id": 38936,
-    "error": "not-found"
+    "type": "Special",
+    "title": "Lord El-Melloi II-sei no Jikenbo"
   },
   {
+    "japanese": [
+      "PERSONA5 the Animation TVアニメ総集編"
+    ],
     "id": 38937,
-    "error": "not-found"
+    "type": "Special",
+    "title": "Persona 5 the Animation Recap"
   },
   {
+    "japanese": [
+      "青春ブタ野郎はバニーガール先輩の夢を見ない"
+    ],
+    "synonyms": [
+      "Rascal Does Not Dream of Bunny Girl Senpai Picture Drama"
+    ],
     "id": 38938,
-    "error": "not-found"
+    "type": "Special",
+    "title": "Seishun Buta Yarou wa Bunny Girl Senpai no Yume wo Minai Picture Drama"
   },
   {
+    "japanese": [
+      "賭ケグルイ メイド喫茶百花王"
+    ],
+    "synonyms": [
+      "Kakegurui: Compulsive Gambler Picture Drama"
+    ],
     "id": 38939,
-    "error": "not-found"
+    "type": "Special",
+    "title": "Kakegurui Picture Drama"
   },
   {
+    "japanese": [
+      "COP CRAFT [コップクラフト]"
+    ],
     "id": 38940,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Cop Craft"
   },
   {
     "id": 38941,
@@ -7768,36 +8345,81 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "『PERSONA5 the Animation』特番アニメーション後編「Stars and Ours」"
+    ],
     "id": 38952,
-    "error": "not-found"
+    "type": "Special",
+    "title": "Persona 5 the Animation: Stars and Ours"
   },
   {
     "id": 38953,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "おこしやす",
+      "ちとせちゃん: はじめまして",
+      "ちとせちゃん"
+    ],
+    "synonyms": [
+      "Okoshiyasu",
+      "Chitose-chan Recap",
+      "Okoshiyasu",
+      "Chitose-chan Episode 12.5"
+    ],
     "id": 38954,
-    "error": "not-found"
+    "type": "Special",
+    "title": "Okoshiyasu, Chitose-chan: Hajimemashite, Chitose-chan"
   },
   {
+    "japanese": [
+      "HUMANE"
+    ],
+    "english": [
+      "HUMANE"
+    ],
     "id": 38955,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Humane"
   },
   {
+    "japanese": [
+      "PERSONA5 the Animation TV未放映話"
+    ],
     "id": 38956,
-    "error": "not-found"
+    "type": "Special",
+    "title": "Persona 5 the Animation Special"
   },
   {
+    "japanese": [
+      "シャケちゃん"
+    ],
+    "synonyms": [
+      "Salmon-chan"
+    ],
     "id": 38957,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Shake-chan"
   },
   {
+    "japanese": [
+      "マンガで分かる！Fate/Grand Order"
+    ],
     "id": 38958,
-    "error": "not-found"
+    "type": "Special",
+    "title": "Manga de Wakaru! Fate/Grand Order"
   },
   {
+    "japanese": [
+      "ロード・エルメロイⅡ世の事件簿 -魔眼蒐集列車 Grace note-"
+    ],
+    "synonyms": [
+      "Lord El-Melloi II Case Files: Rail Zeppelin Grace Note"
+    ],
     "id": 38959,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note"
   },
   {
     "id": 38960,
