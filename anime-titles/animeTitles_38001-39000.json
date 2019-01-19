@@ -1474,6 +1474,9 @@
     "japanese": [
       "同居人はひざ、時々、頭のうえ。"
     ],
+    "english": [
+      "My Roommate is a Cat"
+    ],
     "id": 38145,
     "type": "TV",
     "title": "Doukyonin wa Hiza, Tokidoki, Atama no Ue."
@@ -1919,18 +1922,8 @@
     "title": "The iDOLM@STER SideM: Wake Atte Mini!"
   },
   {
-    "japanese": [
-      "汽車の發達"
-    ],
-    "synonyms": [
-      "The Development of the Train"
-    ],
-    "english": [
-      "The Development of the Train"
-    ],
     "id": 38204,
-    "type": "Movie",
-    "title": "Kisya no Hattatsu"
+    "error": "not-found"
   },
   {
     "id": 38205,
@@ -2635,6 +2628,12 @@
     "japanese": [
       "荒野のコトブキ飛行隊"
     ],
+    "synonyms": [
+      "The Kotobuki Squadron in the Wilderness"
+    ],
+    "english": [
+      "The Magnificent Kotobuki"
+    ],
     "id": 38301,
     "type": "TV",
     "title": "Kouya no Kotobuki Hikoutai"
@@ -2937,12 +2936,8 @@
     "title": "Stand My Heroes: Piece of Truth"
   },
   {
-    "japanese": [
-      "名探偵コナン 紅の修学旅行編"
-    ],
     "id": 38332,
-    "type": "Special",
-    "title": "Detective Conan: Kurenai no Shuugaku Ryokou-hen"
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -6056,18 +6051,33 @@
     "japanese": [
       "ああ／良い"
     ],
+    "english": [
+      "aaH / Hee"
+    ],
     "id": 38701,
     "type": "Movie",
-    "title": "aaH / Hee"
+    "title": "Aa / ii"
   },
   {
+    "japanese": [
+      "YA-NE-SEN a Go Go"
+    ],
+    "english": [
+      "YA-NE-SEN a Go Go"
+    ],
     "id": 38702,
     "type": "Movie",
-    "title": "YA-NE-SEN a Go Go"
+    "title": "Ya-Ne-Sen a Go Go"
   },
   {
     "japanese": [
       "こうこう"
+    ],
+    "synonyms": [
+      "Kou kou"
+    ],
+    "english": [
+      "Koukou"
     ],
     "id": 38703,
     "type": "Movie",
@@ -8253,14 +8263,16 @@
   },
   {
     "japanese": [
-      "ロード・エルメロイⅡ世の事件簿"
+      "ロード・エルメロイⅡ世の事件簿 {魔眼蒐集列車[レール・ツェッペリン]} Grace note 墓守と猫と魔術師"
     ],
     "synonyms": [
-      "Lord El-Melloi II Case Files"
+      "Lord El-Melloi II's Case Files: Rail Zeppelin Grace Note - A Grave Keeper",
+      "a Cat",
+      "and a Mage"
     ],
     "id": 38936,
     "type": "Special",
-    "title": "Lord El-Melloi II-sei no Jikenbo"
+    "title": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note - Hakamori to Neko to Majutsushi"
   },
   {
     "japanese": [
@@ -8422,76 +8434,208 @@
     "title": "Lord El-Melloi II Sei no Jikenbo: Rail Zeppelin Grace Note"
   },
   {
+    "japanese": [
+      "ROTO SPREAD"
+    ],
+    "english": [
+      "Roto Spread"
+    ],
     "id": 38960,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Roto Spread"
   },
   {
+    "japanese": [
+      "たこやきストーリー"
+    ],
+    "synonyms": [
+      "Takoyaki Monogatari"
+    ],
+    "english": [
+      "Takoyaki Story"
+    ],
     "id": 38961,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Takoyaki Story"
   },
   {
     "id": 38962,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "あの日見た花の名前を僕達はまだ知らない。「めんまへの手紙」"
+    ],
+    "synonyms": [
+      "AnoHana Picture Drama",
+      "We Still Don't Know the Name of the Flower We Saw That Day.: Letter to Menma"
+    ],
     "id": 38963,
-    "error": "not-found"
+    "type": "Special",
+    "title": "Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.: Menma e no Tegami"
   },
   {
+    "japanese": [
+      "タイムレス"
+    ],
+    "english": [
+      "Timeless"
+    ],
     "id": 38964,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Timeless"
   },
   {
+    "japanese": [
+      "연애하루전"
+    ],
+    "synonyms": [
+      "연애하루전 시즌1",
+      "Yeonae Haru Jeon"
+    ],
+    "english": [
+      "Yeonae Haru Jeon"
+    ],
     "id": 38965,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "A Day Before Us Season 1"
   },
   {
+    "japanese": [
+      "연애하루전"
+    ],
+    "synonyms": [
+      "연애하루전 시즌2",
+      "Yeonae Haru Jeon"
+    ],
+    "english": [
+      "A Day Before Us Season 2"
+    ],
     "id": 38966,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "A Day Before Us Season 2"
   },
   {
+    "japanese": [
+      "연애하루전"
+    ],
+    "synonyms": [
+      "연애하루전 시즌 ZERO",
+      "Yeonae Haru Jeon"
+    ],
+    "english": [
+      "A Day Before Us Season ZERO"
+    ],
     "id": 38967,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "A Day Before Us Season ZERO: The High Jump"
   },
   {
+    "japanese": [
+      "Love In Ruins"
+    ],
+    "synonyms": [
+      "Love In Ruins ft. Sinead Harnett"
+    ],
+    "english": [
+      "Love In Ruins"
+    ],
     "id": 38968,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Love In Ruins"
   },
   {
+    "japanese": [
+      "Shake"
+    ],
+    "english": [
+      "Shake"
+    ],
     "id": 38969,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Shake"
   },
   {
+    "japanese": [
+      "Land"
+    ],
+    "english": [
+      "Land"
+    ],
     "id": 38970,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Land"
   },
   {
+    "synonyms": [
+      "Nekomonogatari Black: Tsubasa Family Recap"
+    ],
+    "english": [
+      "Nekomonogatari Black Recap"
+    ],
     "id": 38971,
-    "error": "not-found"
+    "type": "Special",
+    "title": "Nekomonogatari: Kuro Recap"
   },
   {
+    "japanese": [
+      "ジョジョの奇妙な冒険 黄金の風 Inizio del vento aureo"
+    ],
+    "synonyms": [
+      "JoJo no Kimyou na Bouken: Ougon no Kaze - Inizio del vento aureo"
+    ],
     "id": 38972,
-    "error": "not-found"
+    "type": "Special",
+    "title": "JoJo no Kimyou na Bouken: Ougon no Kaze Recap"
   },
   {
+    "japanese": [
+      "クリスタルジュエル"
+    ],
+    "english": [
+      "Crystal Jewels"
+    ],
     "id": 38973,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Kurisutarujueru"
   },
   {
+    "japanese": [
+      "望遠のマーチ"
+    ],
     "id": 38974,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Bouen no March"
   },
   {
+    "japanese": [
+      "三射面談 ～連鎖する恥辱・調教の学園～"
+    ],
     "id": 38975,
-    "error": "not-found"
+    "type": "OVA",
+    "title": "Sansha Mendan: Rensa Suru Chijoku Choukyou no Gakuen"
   },
   {
+    "japanese": [
+      "Uneasiness and triangle"
+    ],
+    "english": [
+      "Uneasiness and triangle"
+    ],
     "id": 38976,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Uneasiness and Triangle"
   },
   {
+    "japanese": [
+      "on the table"
+    ],
+    "english": [
+      "on the table"
+    ],
     "id": 38977,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "On The Table"
   },
   {
     "id": 38978,
@@ -8502,16 +8646,44 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "I Like It"
+    ],
+    "synonyms": [
+      "I Like It (Japan Anime Edition)"
+    ],
+    "english": [
+      "I Like It"
+    ],
     "id": 38980,
-    "error": "not-found"
+    "type": "Music",
+    "title": "I Like It"
   },
   {
+    "japanese": [
+      "みにとじ 可奈美・美炎の「とじみこ 胎動編」205秒で紹介特番!"
+    ],
+    "synonyms": [
+      "Katana Maidens: Mini Toji",
+      "Mini Toji Episode 0"
+    ],
+    "english": [
+      "Katana Maidens ~ Mini Toji – Katana Maidens Quickening Arc 205-Second Introduction Special!"
+    ],
     "id": 38981,
-    "error": "not-found"
+    "type": "Special",
+    "title": "Mini Toji: Kanami-Mihono no \"Toji Miko Taidou-hen\" 205-byou de Shoukai Tokuban!"
   },
   {
+    "japanese": [
+      "機動戦士ガンダム 鉄血のオルフェンズ ウルズハント"
+    ],
+    "synonyms": [
+      "Kidou Senshi Gundam: Tekketsu no Orphans - Uror Hunt"
+    ],
     "id": 38982,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Mobile Suit Gundam: Iron-Blooded Orphans - Urðr Hunt"
   },
   {
     "id": 38983,
@@ -8522,67 +8694,161 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "バースデー・ワンダーランド"
+    ],
+    "synonyms": [
+      "Chikashitsu kara no Fushigi na Tabi"
+    ],
+    "english": [
+      "Birthday Wonderland"
+    ],
     "id": 38985,
-    "error": "not-found"
+    "type": "Movie",
+    "title": "Birthday Wonderland"
   },
   {
+    "japanese": [
+      "キミがいなくちゃっ！"
+    ],
     "id": 38986,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Kimi ga Inakucha!"
   },
   {
+    "japanese": [
+      "第01話~第10話 ダイジェスト"
+    ],
+    "english": [
+      "True Tears 1-10 Digest"
+    ],
     "id": 38987,
-    "error": "not-found"
+    "type": "Special",
+    "title": "True Tears Recap"
   },
   {
     "id": 38988,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "Neo-Aspect"
+    ],
+    "synonyms": [
+      "Roselia"
+    ],
+    "english": [
+      "Neo-Aspect"
+    ],
     "id": 38989,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Neo-Aspect"
   },
   {
+    "japanese": [
+      "人渣反派自救系统"
+    ],
+    "synonyms": [
+      "重生之人渣反派自救系統",
+      "The Scum Villain"
+    ],
+    "english": [
+      "The Scum Villain's Self-Saving System"
+    ],
     "id": 38990,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Ren Zha Fanpai Zijiu Xitong"
   },
   {
     "id": 38991,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "理系が恋に落ちたので証明してみた。"
+    ],
+    "synonyms": [
+      "RikeKoi"
+    ],
     "id": 38992,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Rikei ga Koi ni Ochita no de Shoumei shitemita."
   },
   {
+    "japanese": [
+      "からかい上手の高木さん 第2期"
+    ],
+    "synonyms": [
+      "Skilled Teaser Takagi-san 2nd Season"
+    ],
+    "english": [
+      "Teasing Master Takagi-san 2nd Season"
+    ],
     "id": 38993,
-    "error": "not-found"
+    "type": "TV",
+    "title": "Karakai Jouzu no Takagi-san 2nd Season"
   },
   {
+    "japanese": [
+      "虜ノ雫 ~夏の豪華客船で穢される処女たち~"
+    ],
     "id": 38994,
-    "error": "not-found"
+    "type": "OVA",
+    "title": "Toriko no Shizuku: Natsu no Gouka Kyakusen de Kegasareru Otome-tachi"
   },
   {
+    "japanese": [
+      "ヒナギクヴァージンロストクラブへようこそ"
+    ],
     "id": 38995,
-    "error": "not-found"
+    "type": "OVA",
+    "title": "Hinagiku Virgin Lost Club e Youkoso"
   },
   {
     "id": 38996,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "僕はもういない"
+    ],
+    "synonyms": [
+      "Boku no Lyric no Bouyomi",
+      "Boku no Lyric no Boyomi",
+      "Botsuraku"
+    ],
     "id": 38997,
-    "error": "not-found"
+    "type": "Music",
+    "title": "Boku wa Mou Inai"
   },
   {
+    "japanese": [
+      "バーチャルさんはみている"
+    ],
+    "english": [
+      "Virtual-san Looking"
+    ],
     "id": 38998,
-    "error": "not-found"
+    "type": "Special",
+    "title": "Virtual-san wa Miteiru Specials"
   },
   {
+    "japanese": [
+      "私に天使が舞い降りた！"
+    ],
     "id": 38999,
-    "error": "not-found"
+    "type": "OVA",
+    "title": "Watashi ni Tenshi ga Maiorita! OVA"
   },
   {
+    "japanese": [
+      "カラーサイクリング"
+    ],
+    "english": [
+      "Color Cycling"
+    ],
     "id": 39000,
-    "error": "not-found"
+    "type": "ONA",
+    "title": "Color Cycling"
   }
 ]
