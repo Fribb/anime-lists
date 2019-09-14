@@ -1,6 +1,6 @@
 # anime-lists
 
-Repository to store and provide the title and mapping lists of the website http://myanimelist.net and the corresponding mapping to https://www.themoviedb.org and https://www.thetvdb.com.
+Repository to store and provide the title and mapping lists of the website http://myanimelist.net and the corresponding mapping to https://www.themoviedb.org or https://www.thetvdb.com.
 
 ### anime-lists/anime-mapping/
 contains the lists of mappings between Myanimelist, TheMovieDB and TheTVDB
