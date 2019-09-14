@@ -33,8 +33,4 @@ contains the available titles (japanese, synonyms, english) for all IDs found on
 contains only the mapping of available MyAnimeList.net IDs, this also includes the mapping ID of entries that are not Movies or TV-Shows!
 
 ### Report wrong mapping
-<<<<<<< HEAD
 Since I can't check all those entries by myself I require some help to do it. If you find a mapping that is wrong please report it [here](https://github.com/Fribb/anime-lists/issues)
-=======
-Since I can't check all those entries by myself I require some help to do it. If you find a mapping that is wrong please report it [here](https://github.com/Fribb/anime-lists/issues) 
->>>>>>> refs/remotes/origin/develop
