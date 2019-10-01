@@ -890,10 +890,7 @@
   },
   {
     "id": 40113,
-    "error": {
-      "code": 500,
-      "message": "Internal Server Error"
-    }
+    "error": "not-found"
   },
   {
     "id": 40114,
@@ -976,11 +973,11 @@
   },
   {
     "japanese": [
-      "Reバース for you"
+      "りばあす"
     ],
     "id": 40129,
     "type": "TV",
-    "title": "Rebirth for You"
+    "title": "Rebirth"
   },
   {
     "id": 40130,
@@ -3029,7 +3026,7 @@
     ],
     "id": 40383,
     "error": "not-found",
-    "type": "Music",
+    "type": "ONA",
     "title": "Umete, Bye-Bye"
   },
   {
@@ -3146,8 +3143,8 @@
     ],
     "id": 40394,
     "error": "not-found",
-    "type": "OVA",
-    "title": "Zenonzard The Animation"
+    "type": "ONA",
+    "title": "Zenonzard: The Animation"
   },
   {
     "japanese": [
@@ -3258,11 +3255,12 @@
   },
   {
     "japanese": [
-      "特別編: 美しき女騎士! とらわれの妖精を追え!"
+      "コップクラフト 特別編: 美しき女騎士! とらわれの妖精を追え!"
     ],
     "synonyms": [
-      "Cop Craft Recap",
-      "Cop Craft 9.5"
+      "Cop Craft Episode 9.5",
+      "Cop Craft Special Episode: Utsukushiki Onna Kishi! Toraware no Yousei wo Oe!",
+      "Tokubetsu-hen: Utsukushiki Onna Kishi! Toraware no Yousei wo Oe!"
     ],
     "english": [
       "Cop Craft: Beautiful Knight! Pursue the Captured Fairy!"
@@ -3270,7 +3268,7 @@
     "id": 40405,
     "error": "not-found",
     "type": "Special",
-    "title": "Cop Craft: Utsukushiki Onna Kishi! Toraware no Yousei wo Oe!"
+    "title": "Cop Craft Recap"
   },
   {
     "japanese": [
@@ -3324,92 +3322,207 @@
     "title": "Ring no Seraph"
   },
   {
+    "japanese": [
+      "解放區 癡漢ハーレム"
+    ],
     "id": 40411,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "OVA",
+    "title": "Kaihouku: Chikan Harem"
   },
   {
+    "japanese": [
+      "ジャパンダ"
+    ],
+    "english": [
+      "Japanda"
+    ],
     "id": 40412,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Japanda"
   },
   {
+    "japanese": [
+      "サイコグラム"
+    ],
+    "english": [
+      "Psychogram"
+    ],
     "id": 40413,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Psychogram feat. Hatsune Miku"
   },
   {
+    "japanese": [
+      "人質交換"
+    ],
+    "english": [
+      "We The Hostages"
+    ],
     "id": 40414,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "We The Hostages feat. Hatsune Miku"
   },
   {
+    "english": [
+      "PROGRESS"
+    ],
     "id": 40415,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "PROGRESS"
   },
   {
+    "japanese": [
+      "デート・ア・ライブ"
+    ],
+    "synonyms": [
+      "DAL"
+    ],
     "id": 40416,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Date A Live (Shin)"
   },
   {
+    "japanese": [
+      "フルーツバスケット 2nd season"
+    ],
+    "synonyms": [
+      "Fruits Basket (2019) 2nd Season",
+      "Furuba",
+      "Fruits Basket (Zenpen)"
+    ],
     "id": 40417,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Fruits Basket 2nd Season"
   },
   {
     "id": 40418,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "耐え子の日常"
+    ],
     "id": 40419,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Taeko no Nijichou"
   },
   {
+    "japanese": [
+      "どるふろ –癒し編-"
+    ],
     "id": 40420,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Dorufuro: Iyashi-hen"
   },
   {
+    "japanese": [
+      "映画 ギヴン"
+    ],
+    "synonyms": [
+      "Eiga Given"
+    ],
     "id": 40421,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Given Movie"
   },
   {
     "id": 40422,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "耐え子の日常"
+    ],
+    "synonyms": [
+      "Taeko's Everyday Life"
+    ],
     "id": 40423,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Taeko no Nichijou"
   },
   {
     "id": 40424,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "映画 ねこねこ日本史 ~龍馬のはちゃめちゃタイムトラベルぜよ!~"
+    ],
     "id": 40425,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Neko Neko Nihonshi Movie: Ryouma no Hachamecha Time Travel ze yo!"
   },
   {
     "id": 40426,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "벚꽃나무 코끼리 숲"
+    ],
+    "english": [
+      "Cherry Blossom Elephant In Forest"
+    ],
     "id": 40427,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Beotkkotnamu Kokkiri Sup"
   },
   {
     "id": 40428,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "劇場版 美少女戦士セーラームーンEternal 2"
+    ],
+    "synonyms": [
+      "Gekijouban Bishoujo Senshi Sailor Moon Eternal 2",
+      "Pretty Guardians Sailor Moon Eternal The Movie 2"
+    ],
     "id": 40429,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Bishoujo Senshi Sailor Moon Eternal Movie 2"
   },
   {
+    "japanese": [
+      "宇宙生物ジロー"
+    ],
     "id": 40430,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Uchuu Seibutsu Jirou"
   },
   {
+    "japanese": [
+      "高校星歌劇[スタミュ] 第3期 特別編 アンコール"
+    ],
     "id": 40431,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Starmyu 3rd Season: Encore"
   },
   {
+    "japanese": [
+      "高校星歌劇[スタミュ] 第3期 特別編 アンコール"
+    ],
     "id": 40432,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Starmyu 3rd Season: Encore"
   },
   {
     "id": 40433,
@@ -3417,39 +3530,84 @@
   },
   {
     "id": 40434,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Mo Dao Zu Shi 3"
   },
   {
     "id": 40435,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Mo Dao Zu Shi Q"
   },
   {
+    "japanese": [
+      "ピーター・グリルと賢者の時間"
+    ],
+    "english": [
+      "Peter Grill and the Philosopher's Time"
+    ],
     "id": 40436,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Peter Grill to Kenja no Jikan"
   },
   {
+    "japanese": [
+      "モノのかみさま ここたま"
+    ],
     "id": 40437,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Mono no Kamisama Cocotama"
   },
   {
+    "japanese": [
+      "OBSOLETE"
+    ],
     "id": 40438,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Obsolete"
   },
   {
+    "japanese": [
+      "熊出没·变形记"
+    ],
+    "synonyms": [
+      "Boonie Bears: The Big Shrink"
+    ],
     "id": 40439,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Xiong Chu Mei Zhi Bian Xing Ji"
   },
   {
+    "synonyms": [
+      "Boonie Bears: Blast into the Past"
+    ],
     "id": 40440,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Xiong Chu Mo: Yuan shi shi dai"
   },
   {
+    "japanese": [
+      "SUNNY"
+    ],
     "id": 40441,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Sunny"
   },
   {
+    "japanese": [
+      "イニシエーション (feat. 初音ミク)"
+    ],
     "id": 40442,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Initiation feat. Hatsune Miku"
   },
   {
     "id": 40443,
@@ -3460,16 +3618,37 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "[던파] 마계 회합 애니메이션"
+    ],
+    "english": [
+      "Fellowship Animation"
+    ],
     "id": 40445,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Fellowship Animation"
   },
   {
+    "japanese": [
+      "Mayonaka no Occult Koumuin OVA"
+    ],
+    "english": [
+      "Midnight Occult Civil Servants OVA"
+    ],
     "id": 40446,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "OVA",
+    "title": "Mayonaka no Occult Koumuin OVA"
   },
   {
+    "japanese": [
+      "万能文化猫娘"
+    ],
     "id": 40447,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Bannou Bunka Neko-Musume Specials"
   },
   {
     "id": 40448,
@@ -3480,32 +3659,85 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "デート・ア・ライブ フラグメント デート・ア・バレット"
+    ],
     "id": 40450,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Date A Live Fragments: Date A Bullet"
   },
   {
     "id": 40451,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "風と共に"
+    ],
+    "synonyms": [
+      "Minna no Uta",
+      "With the Wind"
+    ],
     "id": 40452,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Kaze to Tomoni"
   },
   {
+    "japanese": [
+      "ダンジョンに出会いを求めるのは間違っているだろうか 2期 OVA"
+    ],
+    "synonyms": [
+      "DanMachi II OVA",
+      "Is It Wrong to Try to Pick Up Girls in a Dungeon? II OVA"
+    ],
     "id": 40453,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "OVA",
+    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II OVA"
   },
   {
+    "japanese": [
+      "ダンジョンに出会いを求めるのは間違っているだろうか 3期"
+    ],
+    "synonyms": [
+      "DanMachi 3rd Season",
+      "Is It Wrong That I Want to Meet You in a Dungeon 3rd Season"
+    ],
+    "english": [
+      "Is It Wrong to Try to Pick Up Girls in a Dungeon? III"
+    ],
     "id": 40454,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III"
   },
   {
+    "japanese": [
+      "シルバニアファミリー ミニストーリー クローバー"
+    ],
+    "synonyms": [
+      "Sylvanian Families: Mini Story 3rd Season"
+    ],
     "id": 40455,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Sylvanian Families: Mini Story - Clover"
   },
   {
+    "japanese": [
+      "劇場版 鬼滅の刃 無限列車編"
+    ],
+    "synonyms": [
+      "Gekijouban Kimetsu no Yaiba: Mugen Ressha-hen",
+      "Kimetsu no Yaiba: Infinity Train",
+      "Demon Slayer Movie: InfinityTrain"
+    ],
     "id": 40456,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Kimetsu no Yaiba Movie: Mugen Ressha-hen"
   },
   {
     "id": 40457,
@@ -3516,24 +3748,59 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "あんさんぶるスターズ！ピクチャードラマ"
+    ],
     "id": 40459,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Ensemble Stars! Picture Drama"
   },
   {
+    "japanese": [
+      "ナカノヒトゲノム【実況中】"
+    ],
+    "synonyms": [
+      "Naka no Hito Genome [Jikkyouchuu]"
+    ],
+    "english": [
+      "The Ones Within"
+    ],
     "id": 40460,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Nakanohito Genome [Jikkyouchuu] Special"
   },
   {
+    "japanese": [
+      "機動戦士ガンダム 光る命 Chronicle U.C."
+    ],
     "id": 40461,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "OVA",
+    "title": "Mobile Suit Gundam Special Eizou - Hikaru Inochi Chronicle U.C."
   },
   {
+    "japanese": [
+      "あんさんぶるスターズ！  振り返りスペシャル"
+    ],
     "id": 40462,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Ensemble Stars! Recap Special"
   },
   {
+    "japanese": [
+      "きみのきもち"
+    ],
+    "synonyms": [
+      "Minna no Uta",
+      "Your Feelings"
+    ],
     "id": 40463,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Kimi no Kimochi"
   },
   {
     "id": 40464,
