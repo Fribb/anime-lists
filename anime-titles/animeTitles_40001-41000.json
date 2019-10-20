@@ -35,18 +35,19 @@
   },
   {
     "japanese": [
-      "ぼくたちは勉強ができない"
+      "ぼくたちは勉強ができない！"
     ],
     "synonyms": [
       "BokuBen",
-      "We Can't Study"
+      "We Can't Study",
+      "Bokutachi wa Benkyou ga Dekinai 2nd Season"
     ],
     "english": [
-      "We Never Learn"
+      "We Never Learn!: Bokuben"
     ],
     "id": 40004,
     "type": "TV",
-    "title": "Bokutachi wa Benkyou ga Dekinai 2"
+    "title": "Bokutachi wa Benkyou ga Dekinai!"
   },
   {
     "japanese": [
@@ -1125,7 +1126,7 @@
       "Nanabun no Nijuuni"
     ],
     "id": 40147,
-    "type": "ONA",
+    "type": "Music",
     "title": "Nani mo Shite Agerarenai"
   },
   {
@@ -1392,7 +1393,7 @@
       "ぬるぺた"
     ],
     "id": 40178,
-    "type": "TV",
+    "type": "ONA",
     "title": "Null Peta"
   },
   {
@@ -1759,6 +1760,9 @@
     "japanese": [
       "ばなにゃ ふしぎななかまたち"
     ],
+    "english": [
+      "Bananya and the Curious Bunch"
+    ],
     "id": 40228,
     "type": "TV",
     "title": "Bananya: Fushigi na Nakama-tachi"
@@ -1968,6 +1972,9 @@
   },
   {
     "japanese": [
+      "Cannon Busters"
+    ],
+    "english": [
       "Cannon Busters"
     ],
     "id": 40256,
@@ -3377,7 +3384,7 @@
   },
   {
     "japanese": [
-      "デート・ア・ライブ"
+      "デート・ア・バレット"
     ],
     "synonyms": [
       "DAL"
@@ -3385,7 +3392,7 @@
     "id": 40416,
     "error": "not-found",
     "type": "TV",
-    "title": "Date A Live (Shin)"
+    "title": "Date A Bullet"
   },
   {
     "japanese": [
@@ -3660,12 +3667,12 @@
   },
   {
     "japanese": [
-      "デート・ア・ライブ フラグメント デート・ア・バレット"
+      "デート・ア・ライブ"
     ],
     "id": 40450,
     "error": "not-found",
     "type": "TV",
-    "title": "Date A Live Fragments: Date A Bullet"
+    "title": "Date A Live (Shin Series)"
   },
   {
     "id": 40451,
@@ -3803,12 +3810,29 @@
     "title": "Kimi no Kimochi"
   },
   {
+    "japanese": [
+      "機動戦士ガンダム 光る命 Chronicle U.C."
+    ],
+    "synonyms": [
+      "Mobile Suit Gundam: The Light of Life Chronicle U.C."
+    ],
     "id": 40464,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Mobile Suit Gundam: Hikaru Inochi Chronicle U.C."
   },
   {
+    "japanese": [
+      "厨病激発ボーイ"
+    ],
+    "synonyms": [
+      "Chuubyou Gekihatsu Boy Episode 12",
+      "Outburst Dreamer Boys Episode 12"
+    ],
     "id": 40465,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Chuubyou Gekihatsu Boy Special"
   },
   {
     "id": 40466,
@@ -3819,100 +3843,256 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "Smileflower"
+    ],
+    "synonyms": [
+      "Minna no Uta"
+    ],
     "id": 40468,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Smileflower"
   },
   {
+    "synonyms": [
+      "Fate/Grand Order 年忘れぐだぐだオーダー2016",
+      "Fate/Grand Order Farewell to 2016 - Guda Guda Order"
+    ],
     "id": 40469,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Fate/Grand Order Toshiwasure Guda Guda Order 2016"
   },
   {
     "id": 40470,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "のぞき彼女"
+    ],
     "id": 40471,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "OVA",
+    "title": "Nozoki Kanojo"
   },
   {
+    "japanese": [
+      "ボクと彼女[女医]の診察日誌 THE ANIMATION"
+    ],
     "id": 40472,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "OVA",
+    "title": "Boku to Joi no Shinsatsu Nisshi The Animation"
   },
   {
+    "japanese": [
+      "超普通都市カシワ伝説"
+    ],
     "id": 40473,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Chou Futsuu Toshi Kashiwa Densetsu"
   },
   {
+    "japanese": [
+      "ぐーぐりぃ ぐーぐりぃ"
+    ],
+    "english": [
+      "Googuri Googuri"
+    ],
     "id": 40474,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Googuri Googuri"
   },
   {
+    "japanese": [
+      "RINGING CITY"
+    ],
     "id": 40475,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Ringing City"
   },
   {
+    "japanese": [
+      "ATOMIC WORLD"
+    ],
     "id": 40476,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Atomic World"
   },
   {
+    "japanese": [
+      "カレーメシ×ゾンビランドサガ"
+    ],
     "id": 40477,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Curry Meshi x Zombieland Saga"
   },
   {
+    "japanese": [
+      "紙兎ロペ x Ricordi"
+    ],
     "id": 40478,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Kamiusagi Rope x Ricordi"
   },
   {
+    "japanese": [
+      "Karrimor Mountain Club 2"
+    ],
+    "english": [
+      "Karrimor Mountain Club 2"
+    ],
     "id": 40479,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Karrimor Mountain Club 2"
   },
   {
+    "japanese": [
+      "Sound & Fury"
+    ],
+    "synonyms": [
+      "Sound and Fury",
+      "Sturgill Simpson Presents Sound & Fury"
+    ],
+    "english": [
+      "Sound & Fury"
+    ],
     "id": 40480,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Sound & Fury"
   },
   {
+    "japanese": [
+      "神酒ノ尊"
+    ],
     "id": 40481,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Miki no Mikoto"
   },
   {
+    "japanese": [
+      "大須のぶーちゃん"
+    ],
+    "synonyms": [
+      "Ousu no Buu-chan",
+      "Ousu no Bu-chan",
+      "Osu no Bu-chan"
+    ],
     "id": 40482,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Osu no Buu-chan"
   },
   {
+    "japanese": [
+      "群れなせ！シートン学園"
+    ],
+    "english": [
+      "Come Together! to the Seton Academy"
+    ],
     "id": 40483,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Murenase! Seton Gakuen"
   },
   {
+    "japanese": [
+      "穿越火线：幽灵计划"
+    ],
+    "synonyms": [
+      "CF Animation / CrossFire: Project Ghost / CrossFire CG Animation"
+    ],
+    "english": [
+      "CrossFire Project Ghost"
+    ],
     "id": 40484,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Chuanyue huoxian: Youling jihua"
   },
   {
+    "japanese": [
+      "ストライク・ザ・ブラッド IV"
+    ],
+    "synonyms": [
+      "Strike the Blood Fourth"
+    ],
     "id": 40485,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "OVA",
+    "title": "Strike the Blood IV"
   },
   {
+    "japanese": [
+      "ストライク・ザ・ブラッド 消えた聖槍篇"
+    ],
+    "synonyms": [
+      "Strike the Blood Special OVA"
+    ],
     "id": 40486,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "OVA",
+    "title": "Strike the Blood: Kieta Seisou-hen"
   },
   {
+    "japanese": [
+      "エイリは王さま!"
+    ],
     "id": 40487,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Eily wa Ou-sama!"
   },
   {
+    "japanese": [
+      "フットサルボーイズ!!!!!"
+    ],
     "id": 40488,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Futsal Boys!!!!!"
   },
   {
+    "japanese": [
+      "ソードアート・オンライン アリシゼーション War of Underworld 前半戦総集編特番「リフレクション」"
+    ],
+    "synonyms": [
+      "Sword Art Online: Alicization Recap",
+      "Sword Art Online: Alicization - War of Underworld Episode 0"
+    ],
     "id": 40489,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Sword Art Online: Alicization - War of Underworld Reflection"
   },
   {
     "id": 40490,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Hatsune Miku - World is mine!"
   },
   {
+    "japanese": [
+      "과호흡"
+    ],
+    "synonyms": [
+      "過呼吸"
+    ],
     "id": 40491,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Hyperventilation"
   },
   {
     "id": 40492,
@@ -3927,156 +4107,409 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "타요의 공룡 어드벤처"
+    ],
+    "synonyms": [
+      "Tayo Dino Kingdom"
+    ],
+    "english": [
+      "Tayo's Dino Kingdom Adventure"
+    ],
     "id": 40495,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Tayo-ui Gonglyong Eodeubencheo"
   },
   {
+    "japanese": [
+      "魔王学院の不適合者 ～史上最強の魔王の始祖、転生して子孫たちの学校へ通う～"
+    ],
     "id": 40496,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Maou Gakuin no Futekigousha: Shijou Saikyou no Maou no Shiso, Tensei shite Shison-tachi no Gakkou e "
   },
   {
+    "japanese": [
+      "魔法科高校の劣等生 来訪者編"
+    ],
+    "synonyms": [
+      "The Irregular at Magic High School: Visitor Arc"
+    ],
     "id": 40497,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Mahouka Koukou no Rettousei: Raihousha-hen"
   },
   {
+    "japanese": [
+      "ぼくたちは勉強ができない！OVA"
+    ],
+    "synonyms": [
+      "Bokutachi wa Benkyou ga Dekinai 2nd Season OVA"
+    ],
+    "english": [
+      "We Never Learn!: Bokuben OVA"
+    ],
     "id": 40498,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "OVA",
+    "title": "Bokutachi wa Benkyou ga Dekinai! OVA"
   },
   {
+    "japanese": [
+      "FEED"
+    ],
     "id": 40499,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Feed"
   },
   {
     "id": 40500,
     "error": "not-found"
   },
   {
+    "synonyms": [
+      "Gekijō-ban Poketto Monsutā Kimi ni kimeta!"
+    ],
+    "english": [
+      "Pokemon the movie: I Choose You!"
+    ],
     "id": 40501,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Pokemon the movie: I Choose You!"
   },
   {
+    "japanese": [
+      "YANOYA"
+    ],
     "id": 40502,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Yanoya"
   },
   {
+    "japanese": [
+      "オタクビーチバー"
+    ],
+    "english": [
+      "The Otaku Beach Bar"
+    ],
     "id": 40503,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Otakubīchibā"
   },
   {
+    "japanese": [
+      "メジャーセカンド"
+    ],
     "id": 40504,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Major 2nd 2nd Season"
   },
   {
+    "english": [
+      "Kilari"
+    ],
     "id": 40505,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Kilari"
   },
   {
+    "japanese": [
+      "シャドウバース"
+    ],
     "id": 40506,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Shadowverse"
   },
   {
+    "japanese": [
+      "ありふれた職業で世界最強 第2期"
+    ],
+    "synonyms": [
+      "From Common Job Class to the Strongest in the World 2nd Season"
+    ],
     "id": 40507,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Arifureta Shokugyou de Sekai Saikyou 2nd Season"
   },
   {
+    "japanese": [
+      "あなたの声"
+    ],
+    "synonyms": [
+      "Minna no Uta",
+      "Your Voice"
+    ],
     "id": 40508,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Anata no Koe"
   },
   {
+    "japanese": [
+      "君の隣にいたいから"
+    ],
+    "synonyms": [
+      "Minna no Uta"
+    ],
     "id": 40509,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Kimi no Tonari ni Itai Kara"
   },
   {
     "id": 40510,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "9 ゲ ロ ウ イ イ 『No.9』"
+    ],
+    "english": [
+      "Kagerou Daze No.9"
+    ],
     "id": 40511,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Kagerō Deizu 『No.9』"
   },
   {
     "id": 40512,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "波よ聞いてくれ"
+    ],
+    "synonyms": [
+      "Nami yo Kiite Kure"
+    ],
+    "english": [
+      "Wave",
+      "Listen to Me!"
+    ],
     "id": 40513,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Nami yo Kiitekure"
   },
   {
+    "japanese": [
+      "Accursed!"
+    ],
+    "english": [
+      "Accursed!"
+    ],
     "id": 40514,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Accursed!"
   },
   {
+    "japanese": [
+      "日本沈没2020"
+    ],
+    "synonyms": [
+      "Japan Sinks 2020"
+    ],
     "id": 40515,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Nihon Chinbotsu 2020"
   },
   {
+    "japanese": [
+      "漫画 狼は狼だ"
+    ],
+    "synonyms": [
+      "A Wolf is a Wolf (1931)"
+    ],
+    "english": [
+      "A Wolf is a Wolf"
+    ],
     "id": 40516,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Okami wa Okami da"
   },
   {
+    "japanese": [
+      "あの日の心をとらえて"
+    ],
+    "synonyms": [
+      "Seize Your Heart From That Day"
+    ],
     "id": 40517,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Ano Hi no Kokoro wo Toraete"
   },
   {
     "id": 40518,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "妖魔娼館へようこそ"
+    ],
     "id": 40519,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "OVA",
+    "title": "Youma Shoukan e Youkoso"
   },
   {
+    "japanese": [
+      "ちーちゃん開発日記"
+    ],
+    "synonyms": [
+      "Chii-chan's Development Diary"
+    ],
     "id": 40520,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "OVA",
+    "title": "Chii-chan Kaihatsu Nikki"
   },
   {
+    "japanese": [
+      "キスハグ"
+    ],
     "id": 40521,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "OVA",
+    "title": "Kiss Hug"
   },
   {
     "id": 40522,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "やますき、やまざき"
+    ],
+    "english": [
+      "YAMASUKI YAMAZAKI"
+    ],
     "id": 40523,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Yamasuki, Yamazaki"
   },
   {
+    "japanese": [
+      "可愛ければ変態でも好きになってくれますか?"
+    ],
+    "english": [
+      "Hensuki : Are you willing to fall in love with a pervert",
+      "as long as she's a cutie?"
+    ],
     "id": 40524,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Kawaiikereba Hentai demo Suki ni Natte Kuremasu ka"
   },
   {
+    "japanese": [
+      "おたちゃん"
+    ],
+    "synonyms": [
+      "Otachan! Season One"
+    ],
+    "english": [
+      "The Otachan Show"
+    ],
     "id": 40525,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "OVA",
+    "title": "Otachan! Shīzun Ichi"
   },
   {
+    "japanese": [
+      "ドラゴン、家を買う。"
+    ],
+    "synonyms": [
+      "Dragon's House-Hunting",
+      "Dragon Goes House-Hunting"
+    ],
     "id": 40526,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Dragon, Ie wo Kau."
   },
   {
+    "japanese": [
+      "スマイル～SMILE～"
+    ],
+    "synonyms": [
+      "Minna no Uta"
+    ],
     "id": 40527,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Smile"
   },
   {
     "id": 40528,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "ノー・ガンズ・ライフ 第2期"
+    ],
     "id": 40529,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "No Guns Life 2nd Season"
   },
   {
+    "japanese": [
+      "弱キャラ友崎くん"
+    ],
+    "synonyms": [
+      "Jakusha Character Tomozaki-kun",
+      "The Low Tier Character \"Tomozaki-kun\""
+    ],
+    "english": [
+      "Bottom-tier Character Tomozaki"
+    ],
     "id": 40530,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Jaku-Chara Tomozaki-kun"
   },
   {
+    "japanese": [
+      "赤い山 青い山 白い山（北海道地方のわらべ唄）"
+    ],
+    "synonyms": [
+      "Minna no Uta",
+      "Red Mountain Blue Mountain White Mountain"
+    ],
     "id": 40531,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Akai Yama Aoi Yama Shiroi Yama"
   },
   {
+    "japanese": [
+      "天晴爛漫！"
+    ],
+    "synonyms": [
+      "Appare Ranman!"
+    ],
     "id": 40532,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Appare-Ranman!"
   },
   {
     "id": 40533,
@@ -4103,24 +4536,57 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "苺の花嫁さん"
+    ],
+    "synonyms": [
+      "Minna no Uta"
+    ],
     "id": 40539,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Ichigo no Hanayome-san"
   },
   {
+    "japanese": [
+      "ソードアート・オンライン アリシゼーション War of Underworld"
+    ],
+    "synonyms": [
+      "Sword Art Online: Alicization 3Season",
+      "Sword Art Online III 3Season",
+      "SAO Alicization 3Season",
+      "Sword Art Online 3 3Season",
+      "SAO 3 3Season"
+    ],
     "id": 40540,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Sword Art Online: Alicization - War of Underworld 2"
   },
   {
     "id": 40541,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "斉木楠雄のΨ難 Ψ始動編"
+    ],
+    "synonyms": [
+      "The Disastrous Life of Saiki K. Restart Arc"
+    ],
     "id": 40542,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Saiki Kusuo no Ψ-nan: Shidou-hen"
   },
   {
+    "japanese": [
+      "KING OF PRISM ALL STARS -プリズムショー☆ベストテン-"
+    ],
     "id": 40543,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "King of Prism All Stars: Prism Show Best Ten"
   },
   {
     "id": 40544,
@@ -4147,72 +4613,177 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "アサルトリリィ Bouquet"
+    ],
     "id": 40550,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Assault Lily: Bouquet"
   },
   {
     "id": 40551,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "早春賦"
+    ],
+    "synonyms": [
+      "Minna no Uta",
+      "Early Spring"
+    ],
     "id": 40552,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Soushunfu"
   },
   {
+    "japanese": [
+      "わたしの人形"
+    ],
+    "synonyms": [
+      "Minna no Uta",
+      "My Doll"
+    ],
     "id": 40553,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Watashi no Ningyou"
   },
   {
+    "japanese": [
+      "宇宙戦艦ヤマト2202愛の戦士たち 総集篇"
+    ],
+    "synonyms": [
+      "Uchuu Senkan Yamato 2202: Ai no Senshi-tachi Summary",
+      "Uchuu Senkan Yamato 2202: Ai no Senshi-tachi Recap"
+    ],
+    "english": [
+      "Star Blazers: Space Battleship Yamato 2202"
+    ],
     "id": 40554,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Uchuu Senkan Yamato 2202: Ai no Senshi-tachi Soushuuhen"
   },
   {
+    "japanese": [
+      "Heart Chrome feat. Anon & Kanon"
+    ],
     "id": 40555,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Heart Chrome feat. Anon & Kanon"
   },
   {
+    "japanese": [
+      "Electric Love feat. Hatsune Miku"
+    ],
     "id": 40556,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Electric Love feat. Hatsune Miku"
   },
   {
+    "japanese": [
+      "Sweet Devil feat. Hatsune Miku"
+    ],
     "id": 40557,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Sweet Devil feat. Hatsune Miku"
   },
   {
+    "japanese": [
+      "Little Scarlet Bad Girl feat. Hatsune Miku"
+    ],
     "id": 40558,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Little Scarlet Bad Girl feat. Hatsune Miku"
   },
   {
+    "japanese": [
+      "TRAPxTRAP feat. Hatsune Miku"
+    ],
     "id": 40559,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "TRAPxTRAP feat. Hatsune Miku"
   },
   {
+    "japanese": [
+      "Baby Maniacs feat. Hatsune Miku"
+    ],
     "id": 40560,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Baby Maniacs feat. Hatsune Miku"
   },
   {
+    "japanese": [
+      "Beautiful Nightmare feat. Megurine Luka"
+    ],
     "id": 40561,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Beautiful Nightmare feat. Megurine Luka"
   },
   {
+    "japanese": [
+      "お誕生日おめでとう"
+    ],
+    "synonyms": [
+      "Minna no Uta",
+      "Happy Birthday"
+    ],
     "id": 40562,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Otanjoubi Omedetou"
   },
   {
     "id": 40563,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Dragon Prince"
   },
   {
+    "japanese": [
+      "Blue Star feat. Hatsune Miku"
+    ],
     "id": 40564,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Blue Star feat. Hatsune Miku"
   },
   {
+    "japanese": [
+      "Wakfu"
+    ],
+    "english": [
+      "Wakfu"
+    ],
     "id": 40565,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Wakfu"
   },
   {
+    "japanese": [
+      "Meido in Abisu"
+    ],
+    "synonyms": [
+      "Meido in Abisu"
+    ],
+    "english": [
+      "Made in the Abyss"
+    ],
     "id": 40566,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Made in the Abyss"
   },
   {
     "id": 40567,
