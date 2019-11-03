@@ -2717,7 +2717,7 @@
     "id": 40351,
     "error": "not-found",
     "type": "TV",
-    "title": "Pokemon (Shin Series)"
+    "title": "Pokemon (2019)"
   },
   {
     "japanese": [
@@ -3387,7 +3387,7 @@
       "デート・ア・バレット"
     ],
     "synonyms": [
-      "DAL"
+      "Date A Live Fragment: Date A Bullet"
     ],
     "id": 40416,
     "error": "not-found",
@@ -3765,18 +3765,19 @@
   },
   {
     "japanese": [
-      "ナカノヒトゲノム【実況中】"
+      "ナカノヒトゲノム【実況中】KNOTS OF MEMORIES"
     ],
     "synonyms": [
-      "Naka no Hito Genome [Jikkyouchuu]"
+      "Naka no Hito Genome [Jikkyouchuu] OVA",
+      "The Ones Within OVA"
     ],
     "english": [
       "The Ones Within"
     ],
     "id": 40460,
     "error": "not-found",
-    "type": "Special",
-    "title": "Nakanohito Genome [Jikkyouchuu] Special"
+    "type": "OVA",
+    "title": "Nakanohito Genome [Jikkyouchuu]: Knots of Memories"
   },
   {
     "japanese": [
@@ -3957,7 +3958,7 @@
   },
   {
     "japanese": [
-      "Sound & Fury"
+      "SOUND & FURY"
     ],
     "synonyms": [
       "Sound and Fury",
@@ -4786,32 +4787,86 @@
     "title": "Made in the Abyss"
   },
   {
+    "japanese": [
+      "魔神英雄伝ワタル 七魂の龍神丸"
+    ],
     "id": 40567,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Mashin Eiyuuden Wataru: Nana Tamashii no Ryuujinmaru"
   },
   {
+    "japanese": [
+      "阴阳师：平安物语 第2季"
+    ],
+    "synonyms": [
+      "Onmyouji: Heian Monogatari season 2"
+    ],
+    "english": [
+      "Onmyouji: Heian Monogatari season 2"
+    ],
     "id": 40568,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "阴阳师：平安物语 第2季"
   },
   {
+    "japanese": [
+      "レーゾンデートル"
+    ],
+    "english": [
+      "raison d’etre"
+    ],
     "id": 40569,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Raison d'être"
   },
   {
+    "japanese": [
+      "THE PEAK"
+    ],
+    "english": [
+      "The Peak"
+    ],
     "id": 40570,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "The Peak"
   },
   {
+    "japanese": [
+      "魔女の旅々"
+    ],
+    "synonyms": [
+      "Wandering Witch: The Journey of Elaina"
+    ],
     "id": 40571,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Majo no Tabitabi"
   },
   {
+    "english": [
+      "KARMACHAKRA"
+    ],
     "id": 40572,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "KARMACHAKRA"
   },
   {
+    "japanese": [
+      "卒業前　～10日で100の出来事～"
+    ],
+    "synonyms": [
+      "Minna no Uta",
+      "Before Graduation: 100 Events in 10 Days"
+    ],
     "id": 40573,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Sotsugyou Mae: 10-hi de 100 no Dekigoto"
   },
   {
     "id": 40574,
@@ -4822,16 +4877,36 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "わたしとピアノ"
+    ],
+    "synonyms": [
+      "Minna no Uta",
+      "Me and Piano",
+      "Piano to Watashi",
+      "Piano and Me",
+      "ピアノとわたし"
+    ],
     "id": 40576,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Watashi to Piano"
   },
   {
     "id": 40577,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "ルパン三世 プリズン・オブ・ザ・パスト"
+    ],
+    "synonyms": [
+      "Lupin Sansei: Prison of the Past"
+    ],
     "id": 40578,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Lupin III: Prison of the Past"
   },
   {
     "id": 40579,
@@ -4846,12 +4921,25 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "思い出・おにぎり"
+    ],
+    "synonyms": [
+      "Minna no Uta"
+    ],
     "id": 40582,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Omoide Onigiri"
   },
   {
+    "japanese": [
+      "【艦これ】烈花の翠緑【秋津洲のオリジナル曲MV】＜キネマ106＞"
+    ],
     "id": 40583,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Rekka no Suiryoku"
   },
   {
     "id": 40584,
@@ -4862,44 +4950,105 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "スライム倒して300年、知らないうちにレベルMAXになってました"
+    ],
+    "synonyms": [
+      "I've Been Killing Slimes for 300 Years and Maxed Out My Level"
+    ],
     "id": 40586,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita"
   },
   {
+    "japanese": [
+      "映画プリキュアミラクルリープ みんなとの不思議な1日"
+    ],
     "id": 40587,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Precure Miracle Leap Movie: Minna to no Fushigi na Ichinichi"
   },
   {
     "id": 40588,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "コロコロアニマルABC@きんてれ"
+    ],
     "id": 40589,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "ColoColo Animal ABC@Kintere"
   },
   {
+    "japanese": [
+      "うたわれるもの 二人の白皇"
+    ],
+    "synonyms": [
+      "Utawarerumono: Mask of Truth"
+    ],
     "id": 40590,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Utawarerumono: Futari no Hakuoro"
   },
   {
+    "japanese": [
+      "かぐや様は告らせたい? ~天才たちの恋愛頭脳戦~"
+    ],
+    "synonyms": [
+      "Kaguya Wants to be Confessed To: The Geniuses' War of Love and Brains 2nd Season",
+      "Kaguya-sama wa Kokurasetai: Tensai-tachi no Renai Zunousen 2nd Season",
+      "Kaguya-sama: Love is War 2nd Season"
+    ],
     "id": 40591,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Kaguya-sama wa Kokurasetai? Tensai-tachi no Renai Zunousen"
   },
   {
     "id": 40592,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "ふるさとの五月"
+    ],
+    "synonyms": [
+      "Minna no Uta"
+    ],
     "id": 40593,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Furusato no Gogatsu"
   },
   {
+    "japanese": [
+      "たとえばラストダンジョン前の村の少年が序盤の街で暮らすような物語"
+    ],
+    "synonyms": [
+      "Suppose a Kid From the Last Dungeon Boonies Moved to a Starter Town"
+    ],
     "id": 40594,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Tatoeba Last Dungeon Mae no Mura no Shounen ga Joban no Machi de Kurasu Youna Monogatari"
   },
   {
+    "japanese": [
+      "キミと僕の最後の戦場、あるいは世界が始まる聖戦"
+    ],
+    "synonyms": [
+      "The Last Battlefield Between You and I",
+      "or Perhaps the Beginning of the World's Holy War"
+    ],
     "id": 40595,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen"
   },
   {
     "id": 40596,
@@ -4907,31 +5056,76 @@
   },
   {
     "id": 40597,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Sol Levante"
   },
   {
+    "japanese": [
+      "Otoboke Beaver おとぼけビ～バ～ ITEKOMA HITS「いてこまヒッツ」ダイジェスト Album summary!"
+    ],
+    "synonyms": [
+      "おとぼけビ～バ～「いてこまヒッツ」ダイジェスト"
+    ],
+    "english": [
+      "Otoboke Beaver ITEKOMA HITS Album summary!"
+    ],
     "id": 40598,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "otoboke biibaa itekoma hittsu daijesuto"
   },
   {
+    "japanese": [
+      "菜種時雨 ～natane shigure～"
+    ],
+    "synonyms": [
+      "Minna no Uta"
+    ],
     "id": 40599,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Natane Shigure"
   },
   {
+    "japanese": [
+      "おばあちゃん もしかして"
+    ],
+    "synonyms": [
+      "Minna no Uta"
+    ],
     "id": 40600,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Obaachan Moshikashite"
   },
   {
     "id": 40601,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "7SEEDS"
+    ],
+    "synonyms": [
+      "Seven Seeds 2nd Season"
+    ],
     "id": 40602,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "7 Seeds 2nd Season"
   },
   {
+    "japanese": [
+      "マイボーイ"
+    ],
+    "synonyms": [
+      "Minna no Uta"
+    ],
     "id": 40603,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "My Boy"
   },
   {
     "id": 40604,
@@ -4943,47 +5137,100 @@
   },
   {
     "id": 40606,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Captain Tsubasa Special"
   },
   {
     "id": 40607,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "マブラヴ オルタネイティヴ"
+    ],
     "id": 40608,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Muv-Luv Alternative"
   },
   {
     "id": 40609,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "ヒーリングっど♡プリキュア"
+    ],
     "id": 40610,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Healin' Good♡Precure"
   },
   {
     "id": 40611,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "ポッケ"
+    ],
+    "synonyms": [
+      "Minna no Uta",
+      "Pocket"
+    ],
     "id": 40612,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Pokke"
   },
   {
+    "japanese": [
+      "オルタード・カーボン: リスリーブド"
+    ],
     "id": 40613,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Altered Carbon: Resleeved"
   },
   {
+    "japanese": [
+      "あの日の心をとらえて"
+    ],
+    "english": [
+      "Capture That Days Heart"
+    ],
     "id": 40614,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Ano Hi no Kokoro wo Toraete"
   },
   {
+    "japanese": [
+      "海辺のエトランゼ"
+    ],
+    "synonyms": [
+      "L' étranger du plage",
+      "L'étranger de la plage",
+      "The Stranger by the Beach"
+    ],
     "id": 40615,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Umibe no Étranger"
   },
   {
+    "japanese": [
+      "めがね"
+    ],
+    "synonyms": [
+      "Minna no Uta",
+      "Glasses"
+    ],
     "id": 40616,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Megane"
   },
   {
     "id": 40617,
@@ -4994,64 +5241,146 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "すっぽんぽんぽん"
+    ],
+    "synonyms": [
+      "Minna no Uta"
+    ],
     "id": 40619,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Suppon Pon Pon"
   },
   {
+    "japanese": [
+      "うらみちお兄さん"
+    ],
     "id": 40620,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Uramichi Oniisan"
   },
   {
+    "japanese": [
+      "しまじろうと そらとぶふね"
+    ],
     "id": 40621,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Shimajirou to Sora Tobu Fune"
   },
   {
     "id": 40622,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "ド級編隊エグゼロス"
+    ],
+    "synonyms": [
+      "Haikei",
+      "Hannibal",
+      "Dear sir Hannibal"
+    ],
     "id": 40623,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Dokyuu Hentai HxEros"
   },
   {
     "id": 40624,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "さようならコンサート"
+    ],
+    "synonyms": [
+      "Minna no Uta",
+      "Goodbye Concert"
+    ],
     "id": 40625,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Sayounara Concert"
   },
   {
+    "japanese": [
+      "ショボクジラ・チビコブラ"
+    ],
+    "synonyms": [
+      "Minna no Uta"
+    ],
     "id": 40626,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Shobo Kujira Chibi Cobra"
   },
   {
     "id": 40627,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "A brightening life"
+    ],
+    "english": [
+      "A brightening life"
+    ],
     "id": 40628,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "A Brightening Life"
   },
   {
     "id": 40629,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "ゾンビランドサガ　ベストアルバム収録「佐賀事変」アニメーションMV"
+    ],
+    "synonyms": [
+      "Saga Incident MV,Zombieland Saga MV"
+    ],
+    "english": [
+      "Zombieland Saga Best Album “Saga Incident” Animation MV"
+    ],
     "id": 40630,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Zombieland Saga - \"Saga Incident\""
   },
   {
     "id": 40631,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "怦然心动"
+    ],
+    "synonyms": [
+      "My Heart Leaps",
+      "Love Never Fails",
+      "Heartbeat"
+    ],
     "id": 40632,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Peng Ran Xindong"
   },
   {
+    "japanese": [
+      "青春"
+    ],
+    "english": [
+      "Youth"
+    ],
     "id": 40633,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Seishun"
   },
   {
     "id": 40634,
@@ -5062,84 +5391,204 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "マルコと銀河竜"
+    ],
+    "english": [
+      "Marco and Galaxy Dragon"
+    ],
     "id": 40636,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "OVA",
+    "title": "Marco to Ginga Ryuu"
   },
   {
     "id": 40637,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "万国志"
+    ],
+    "synonyms": [
+      "Wings of The World"
+    ],
+    "english": [
+      "Wings of The World"
+    ],
     "id": 40638,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Wan Guo Zhi"
   },
   {
+    "japanese": [
+      "となりの家のアネットさん THE ANIMATION"
+    ],
+    "synonyms": [
+      "My Next Door Neighbor Anette-san The Animation"
+    ],
     "id": 40639,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "OVA",
+    "title": "Tonari no Ie no Anette-san The Animation"
   },
   {
+    "english": [
+      "King's Avatar: For the Glory"
+    ],
     "id": 40640,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Quan Zhi Gao Shou: For the Glory"
   },
   {
+    "japanese": [
+      "リトルワンダーズ \"Sneeze\""
+    ],
+    "english": [
+      "Lilttle Wonders: Sneeze"
+    ],
     "id": 40641,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Lilttle Wonders: Sneeze"
   },
   {
+    "japanese": [
+      "約束"
+    ],
+    "english": [
+      "Promises"
+    ],
     "id": 40642,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Yakusoku (2011)"
   },
   {
     "id": 40643,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "神酒ノ尊"
+    ],
     "id": 40644,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Miki no Mikoto"
   },
   {
+    "japanese": [
+      "介護と生きる"
+    ],
+    "synonyms": [
+      "Living with Care"
+    ],
     "id": 40645,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Kaigo to Ikiru"
   },
   {
+    "japanese": [
+      "イエスかノーか半分か"
+    ],
     "id": 40646,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Yes ka No ka Hanbun ka"
   },
   {
+    "japanese": [
+      "SISTERS - The Last Day of Summer - Haruka"
+    ],
     "id": 40647,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "OVA",
+    "title": "SISTERS - The Last Day of Summer"
   },
   {
+    "english": [
+      "Castlevania"
+    ],
     "id": 40648,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Castlevania"
   },
   {
+    "synonyms": [
+      "Avatar: The Legend of Aang"
+    ],
     "id": 40649,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Avatar: The Last Airbender"
   },
   {
     "id": 40650,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "神田川JET GIRLS  第4.5話「そうしゅうへん」"
+    ],
+    "synonyms": [
+      "Kandagawa Jet Girls Soushuuhen",
+      "Kandagawa Jet Girls Episode 4.5"
+    ],
     "id": 40651,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Kandagawa Jet Girls Recap"
   },
   {
+    "synonyms": [
+      "Onmyouji"
+    ],
     "id": 40652,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Onmyou Hyakki Monogatari"
   },
   {
+    "synonyms": [
+      "Onmyoji: Heian Monogatari 2"
+    ],
+    "english": [
+      "Onmyoji: Heian Monogatari 2"
+    ],
     "id": 40653,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Yin Yang Shi: Ping An Wu Yu"
   },
   {
+    "japanese": [
+      "Children of Ether"
+    ],
+    "english": [
+      "Children of Ether"
+    ],
     "id": 40654,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Children of Ether"
   },
   {
+    "japanese": [
+      "メロンの切り目"
+    ],
+    "synonyms": [
+      "Minna no Uta",
+      "The Melon's End"
+    ],
     "id": 40655,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Melon no Kirime"
   },
   {
     "id": 40656,
