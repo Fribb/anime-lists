@@ -112,11 +112,12 @@
       "きゃろる＆ちゅーずでい"
     ],
     "synonyms": [
-      "Car & Tue"
+      "Car & Tue",
+      "Carole & Tuesday Mini Series"
     ],
     "id": 40013,
     "type": "ONA",
-    "title": "Carole & Tuesday Mini Series"
+    "title": "Carole & Tuesday Specials"
   },
   {
     "japanese": [
@@ -2077,18 +2078,17 @@
   },
   {
     "japanese": [
-      "福娃"
+      "福娃の五連環"
     ],
     "synonyms": [
-      "福娃 ",
-      "Beibei's Promise and the Five Rings"
+      "Fuwa and the five rings"
     ],
     "english": [
       "Fuwa"
     ],
     "id": 40273,
     "type": "TV",
-    "title": "Fuwa"
+    "title": "Fuwa no go renkan"
   },
   {
     "id": 40274,
@@ -4670,7 +4670,7 @@
   },
   {
     "japanese": [
-      "Heart Chrome feat. Anon & Kanon"
+      "Heart Chrome feat. 杏音鳥音"
     ],
     "id": 40555,
     "error": "not-found",
@@ -4679,7 +4679,7 @@
   },
   {
     "japanese": [
-      "Electric Love feat. Hatsune Miku"
+      "エレクトリック・ラブ feat. 初音ミク"
     ],
     "id": 40556,
     "error": "not-found",
@@ -4688,7 +4688,7 @@
   },
   {
     "japanese": [
-      "Sweet Devil feat. Hatsune Miku"
+      "Sweet Devil feat. 初音ミク"
     ],
     "id": 40557,
     "error": "not-found",
@@ -4697,7 +4697,7 @@
   },
   {
     "japanese": [
-      "Little Scarlet Bad Girl feat. Hatsune Miku"
+      "Little Scarlet Bad Girl feat. 初音ミク"
     ],
     "id": 40558,
     "error": "not-found",
@@ -4706,7 +4706,7 @@
   },
   {
     "japanese": [
-      "TRAPxTRAP feat. Hatsune Miku"
+      "TRAP×TRAP feat. 初音ミク"
     ],
     "id": 40559,
     "error": "not-found",
@@ -4715,7 +4715,7 @@
   },
   {
     "japanese": [
-      "Baby Maniacs feat. Hatsune Miku"
+      "Baby Maniacs feat. 初音ミク"
     ],
     "id": 40560,
     "error": "not-found",
@@ -4752,7 +4752,7 @@
   },
   {
     "japanese": [
-      "Blue Star feat. Hatsune Miku"
+      "Blue Star feat. 初音ミク"
     ],
     "id": 40564,
     "error": "not-found",
@@ -5062,18 +5062,18 @@
   },
   {
     "japanese": [
-      "Otoboke Beaver おとぼけビ～バ～ ITEKOMA HITS「いてこまヒッツ」ダイジェスト Album summary!"
+      "いてこまヒッツ"
     ],
     "synonyms": [
       "おとぼけビ～バ～「いてこまヒッツ」ダイジェスト"
     ],
     "english": [
-      "Otoboke Beaver ITEKOMA HITS Album summary!"
+      "Itekoma Hits"
     ],
     "id": 40598,
     "error": "not-found",
     "type": "Music",
-    "title": "otoboke biibaa itekoma hittsu daijesuto"
+    "title": "Itekoma Hits"
   },
   {
     "japanese": [
@@ -5495,6 +5495,11 @@
     "japanese": [
       "イエスかノーか半分か"
     ],
+    "synonyms": [
+      "Yes",
+      "No",
+      "or Maybe Half?"
+    ],
     "id": 40646,
     "error": "not-found",
     "type": "TV",
@@ -5545,6 +5550,9 @@
     "title": "Kandagawa Jet Girls Recap"
   },
   {
+    "japanese": [
+      "陰陽百鬼物語"
+    ],
     "synonyms": [
       "Onmyouji"
     ],
@@ -5591,52 +5599,130 @@
     "title": "Melon no Kirime"
   },
   {
+    "japanese": [
+      "ガールズ&パンツァー タイヤキ・ウォー！"
+    ],
+    "synonyms": [
+      "Girls & Panzer: Saishuushou Special",
+      "Girls und Panzer das Finale OVA"
+    ],
     "id": 40656,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Girls & Panzer: Taiyaki War!"
   },
   {
+    "japanese": [
+      "ワールド エンド エコノミカ"
+    ],
     "id": 40657,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "World End Economica"
   },
   {
+    "japanese": [
+      "○○交配"
+    ],
+    "synonyms": [
+      "Enjo Kouhai"
+    ],
+    "english": [
+      "Assisted Mating"
+    ],
     "id": 40658,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "OVA",
+    "title": "** Kouhai"
   },
   {
+    "japanese": [
+      "戦姫絶唱シンフォギアXV 戦姫絶唱しないシンフォギア"
+    ],
+    "synonyms": [
+      "Symphogear XV Specials"
+    ],
     "id": 40659,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Senki Zesshou Symphogear XV: Senki Zesshou Shinai Symphogear"
   },
   {
+    "japanese": [
+      "START"
+    ],
+    "english": [
+      "Start"
+    ],
     "id": 40660,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Start"
   },
   {
+    "japanese": [
+      "邪神ちゃんドロップキック 千歳編"
+    ],
     "id": 40661,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Jashin-chan Dropkick: Chitose-hen"
   },
   {
     "id": 40662,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "オオカミさんは食べられたい"
+    ],
+    "synonyms": [
+      "I Want to Be Eaten by a Wolf"
+    ],
     "id": 40663,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Ookami-san wa Taberaretai"
   },
   {
+    "japanese": [
+      "劇場版 少女☆歌劇 レヴュースタァライト"
+    ],
     "id": 40664,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Shoujo☆Kageki Revue Starlight Movie"
   },
   {
+    "japanese": [
+      "再生産総集編 少女☆歌劇 レヴュースタァライト"
+    ],
+    "synonyms": [
+      "Saiseisan Soushuuhen Shoujo☆Kageki Revue Starlight"
+    ],
     "id": 40665,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Shoujo☆Kageki Revue Starlight Recap"
   },
   {
     "id": 40666,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "地獄少女 14.5"
+    ],
+    "synonyms": [
+      "Jigoku Shoujo Episode 14.5"
+    ],
+    "english": [
+      "Hell Girl Recap"
+    ],
     "id": 40667,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Jigoku Shoujo Recap"
   },
   {
     "id": 40668,
@@ -5647,24 +5733,55 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "うさぎのモフィ"
+    ],
     "id": 40670,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Usagi no Mofy (TV)"
   },
   {
+    "japanese": [
+      "うさぎのモフィ"
+    ],
     "id": 40671,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Usagi no Mofy (TV 2014)"
   },
   {
+    "japanese": [
+      "うさぎのモフィ"
+    ],
     "id": 40672,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Usagi no Mofy (TV 2016)"
   },
   {
+    "japanese": [
+      "tokyo未完成"
+    ],
+    "english": [
+      "tokyo UNFINISHED"
+    ],
     "id": 40673,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Tokyo Mikansei"
   },
   {
+    "japanese": [
+      "ナントカ天国"
+    ],
+    "english": [
+      "Paradises"
+    ],
     "id": 40674,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Nantoka Tengoku"
   },
   {
     "id": 40675,
@@ -5675,16 +5792,37 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "アルゴナビス from BanG Dream!"
+    ],
     "id": 40677,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Argonavis from BanG Dream!"
   },
   {
+    "japanese": [
+      "书灵记"
+    ],
+    "synonyms": [
+      "书灵记"
+    ],
+    "english": [
+      "Book Spirit Memoirs"
+    ],
     "id": 40678,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Shu Ling Kee"
   },
   {
+    "japanese": [
+      "2.43 清陰高校男子バレー部"
+    ],
     "id": 40679,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "2.43: Seiin Koukou Danshi Volley-bu"
   },
   {
     "id": 40680,
@@ -5695,160 +5833,413 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "キングダム 第3シリーズ"
+    ],
+    "synonyms": [
+      "Kingdom Season 3"
+    ],
     "id": 40682,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Kingdom 3rd Season"
   },
   {
+    "japanese": [
+      "Carry Me Off feat. 初音ミク"
+    ],
     "id": 40683,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Carry Me Off feat. Hatsune Miku"
   },
   {
+    "japanese": [
+      "Twinkle World feat. 初音ミク"
+    ],
     "id": 40684,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Twinkle World feat. Hatsune Miku"
   },
   {
+    "japanese": [
+      "スーパーカブ"
+    ],
     "id": 40685,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Super Cub"
   },
   {
+    "japanese": [
+      "デスクトップ・シンデレラ feat. 初音ミク"
+    ],
     "id": 40686,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Desktop Cinderella feat. Hatsune Miku"
   },
   {
+    "japanese": [
+      "クリーニングスイッチ"
+    ],
     "id": 40687,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Cleaning Switch"
   },
   {
     "id": 40688,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "お弁当ばこのうた ～あなたへのお手紙～"
+    ],
+    "synonyms": [
+      "Minna no Uta"
+    ],
     "id": 40689,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Obentou Bako no Uta: Anata e no Otegami"
   },
   {
+    "japanese": [
+      "Crazy Roulette"
+    ],
+    "synonyms": [
+      "あんさんぶるスターズ！！ Music MV vol.4 「Crazy Roulette」"
+    ],
+    "english": [
+      "Crazy Roulette"
+    ],
     "id": 40690,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Crazy Roulette"
   },
   {
+    "japanese": [
+      "Kiss of Life"
+    ],
+    "synonyms": [
+      "あんさんぶるスターズ！！ Music MV vol.3 「Kiss of Life」"
+    ],
+    "english": [
+      "Kiss of Life"
+    ],
     "id": 40691,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Kiss of Life"
   },
   {
     "id": 40692,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "アイドルマスター シンデレラガールズ Spin-off!"
+    ],
     "id": 40693,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "The iDOLM@STER Cinderella Girls Spin-off!"
   },
   {
+    "japanese": [
+      "どすこい!!太郎"
+    ],
+    "synonyms": [
+      "Minna no Uta"
+    ],
     "id": 40694,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Dosukoi!! Tarou"
   },
   {
+    "japanese": [
+      "象だゾウ"
+    ],
+    "synonyms": [
+      "Minna no Uta"
+    ],
     "id": 40695,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Zou da Zou"
   },
   {
+    "japanese": [
+      "重甲機神: 神降臨"
+    ],
+    "synonyms": [
+      "Deux Ex Baryon"
+    ],
     "id": 40696,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Deus Ex Baryon"
   },
   {
     "id": 40697,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Touhou Gensou Mangekyou: The Memories of Phantasm"
   },
   {
+    "japanese": [
+      "RWBY"
+    ],
+    "synonyms": [
+      "Ruby:RUBY:RWBY"
+    ],
+    "english": [
+      "RWBY"
+    ],
     "id": 40698,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "RWBY"
   },
   {
+    "japanese": [
+      "愛の旅立ち"
+    ],
+    "synonyms": [
+      "Minna no Uta"
+    ],
     "id": 40699,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Ai no Tabidachi"
   },
   {
+    "japanese": [
+      "色情教団"
+    ],
     "id": 40700,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "OVA",
+    "title": "Shikijou Kyoudan"
   },
   {
+    "japanese": [
+      "モノクロ∞ブルースカイ"
+    ],
+    "synonyms": [
+      "Monochrome∞Blue Sky"
+    ],
     "id": 40701,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Monochro∞Blue Sky"
   },
   {
+    "japanese": [
+      "Life size"
+    ],
     "id": 40702,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Life Size"
   },
   {
+    "japanese": [
+      "Melody Line"
+    ],
     "id": 40703,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Melody Line"
   },
   {
+    "japanese": [
+      "Kujira no ko-ra wa sajō ni utau"
+    ],
+    "english": [
+      "Children of the Whales"
+    ],
     "id": 40704,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Kujira no ko-ra wa sajō ni utau"
   },
   {
+    "japanese": [
+      "しおひガールズ ボンゴレビアンコ"
+    ],
     "id": 40705,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Shiohi Girls Bonkorebianko"
   },
   {
+    "japanese": [
+      "カップヌードルCM「HUNGRY DAYS ワンピース ゾロ 篇」"
+    ],
     "id": 40706,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "One Piece x Nissin Cup Noodles"
   },
   {
+    "japanese": [
+      "しおひガールズ ボンゴレビアンコ"
+    ],
+    "synonyms": [
+      "Shiohi Girls White Clams"
+    ],
     "id": 40707,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Shiohi Girls: Vongole Bianco"
   },
   {
+    "japanese": [
+      "モンスター娘のお医者さん"
+    ],
+    "synonyms": [
+      "Monster Girl Doctor",
+      "The doctor for monster girls."
+    ],
     "id": 40708,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Monster Musume no Oishasan"
   },
   {
+    "japanese": [
+      "いいわけLove song"
+    ],
+    "synonyms": [
+      "Love Song Excuse"
+    ],
     "id": 40709,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Iiwake Love Song"
   },
   {
+    "japanese": [
+      "Distorted Princess"
+    ],
     "id": 40710,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Distorted Princess"
   },
   {
+    "japanese": [
+      "GANTZ x 閃乱カグラ New Link"
+    ],
+    "synonyms": [
+      "Gantz x Senran Kagura New Link Collab Kaichii",
+      "Gantz x Senran Kagura PV"
+    ],
     "id": 40711,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Gantz x Senran Kagura New Link"
   },
   {
+    "japanese": [
+      "三笠大先輩と学ぶアニメ「アズールレーン」"
+    ],
+    "synonyms": [
+      "Mikasa Dai-senpai to Manabu: Anime \"Azur Lane\""
+    ],
     "id": 40712,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Azur Lane Recap"
   },
   {
+    "japanese": [
+      "Memories"
+    ],
     "id": 40713,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Memories (Music)"
   },
   {
+    "japanese": [
+      "妖怪ウォッチJam 妖怪学園Y Nとの遭遇"
+    ],
     "id": 40714,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Youkai Watch Jam: Youkai Gakuen Y - N to no Souguu"
   },
   {
+    "japanese": [
+      "To Dimension"
+    ],
     "id": 40715,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "To Dimension"
   },
   {
+    "japanese": [
+      "かくしごと"
+    ],
+    "synonyms": [
+      "Hidden Things"
+    ],
     "id": 40716,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Kakushigoto"
   },
   {
+    "japanese": [
+      "KAIJU DECODE"
+    ],
     "id": 40717,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Kaiju Decode"
   },
   {
+    "japanese": [
+      "Pivotu Sticku Figuru Animetoru"
+    ],
+    "synonyms": [
+      "Pivot Stick Figure Animator"
+    ],
+    "english": [
+      "Pivot Stick Figues Animator"
+    ],
     "id": 40718,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Pivot Animator"
   },
   {
+    "japanese": [
+      "ゆるキャン△ 活動記録映像"
+    ],
+    "english": [
+      "Laid-Back Camp△ Activity Record Video"
+    ],
     "id": 40719,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Yuru Camp△ Katsudō Kiroku"
   },
   {
+    "synonyms": [
+      "Haganai NEXT Special"
+    ],
     "id": 40720,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Boku wa Tomodachi ga Sukunai Next Picture Drama"
   },
   {
     "id": 40721,
