@@ -2709,7 +2709,9 @@
       "ポケットモンスター"
     ],
     "synonyms": [
-      "Pocket Monsters"
+      "Pocket Monsters",
+      "Pokemon 2019",
+      "Pokémon"
     ],
     "english": [
       "Pokémon"
@@ -4229,7 +4231,7 @@
     "id": 40506,
     "error": "not-found",
     "type": "TV",
-    "title": "Shadowverse"
+    "title": "Shadowverse (TV)"
   },
   {
     "japanese": [
@@ -5477,7 +5479,7 @@
     "id": 40644,
     "error": "not-found",
     "type": "ONA",
-    "title": "Miki no Mikoto"
+    "title": "Miki no Mikoto (TV)"
   },
   {
     "japanese": [
@@ -6194,7 +6196,7 @@
     "id": 40716,
     "error": "not-found",
     "type": "TV",
-    "title": "Kakushigoto"
+    "title": "Kakushigoto (TV)"
   },
   {
     "japanese": [
@@ -6242,12 +6244,22 @@
     "title": "Boku wa Tomodachi ga Sukunai Next Picture Drama"
   },
   {
+    "japanese": [
+      "Templex"
+    ],
     "id": 40721,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Templex"
   },
   {
+    "japanese": [
+      "DEEMO THE MOVIE"
+    ],
     "id": 40722,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Deemo the Movie"
   },
   {
     "id": 40723,
@@ -6258,224 +6270,548 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "ゆるキャン△ 活動記録映像"
+    ],
+    "english": [
+      "Laid-Back Camp△ Activity Record Video"
+    ],
     "id": 40725,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Yuru Camp△ Katsudō Kiroku"
   },
   {
+    "english": [
+      "Khepri’s Blessing On This Wonderful Server!"
+    ],
     "id": 40726,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Khepri’s Blessing On This Wonderful Server!"
   },
   {
+    "japanese": [
+      "Out of My Mind"
+    ],
     "id": 40727,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Out of My Mind"
   },
   {
+    "japanese": [
+      "美術教育"
+    ],
+    "english": [
+      "The art education"
+    ],
     "id": 40728,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Bijutsu Kyouiku"
   },
   {
+    "japanese": [
+      "メガロボクス2"
+    ],
     "id": 40729,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Megalo Box 2"
   },
   {
+    "japanese": [
+      "天官赐福"
+    ],
+    "synonyms": [
+      "Heaven Official's Blessing",
+      "TGCF"
+    ],
     "id": 40730,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Tian Guan Ci Fu"
   },
   {
     "id": 40731,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "少年歌行 2"
+    ],
+    "english": [
+      "Great Journey of Teenagers 2"
+    ],
     "id": 40732,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Shao Nian Ge Xing 2"
   },
   {
+    "japanese": [
+      "镇魂街 2"
+    ],
+    "synonyms": [
+      "Requiem Street 2"
+    ],
+    "english": [
+      "Rakshasa Street 2"
+    ],
     "id": 40733,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Zhen Hun Jie 2"
   },
   {
+    "japanese": [
+      "妖神记 第4季"
+    ],
+    "english": [
+      "Tales of Demons and Gods 4th Season"
+    ],
     "id": 40734,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Yao Shen Ji 4th Season"
   },
   {
+    "japanese": [
+      "天宝伏妖录"
+    ],
+    "synonyms": [
+      "Tian Bao Fu Yao Lu"
+    ],
     "id": 40735,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Tian Bao Fuyao Lu"
   },
   {
     "id": 40736,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "tumbled cat"
+    ],
     "id": 40737,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Tumbled Cat"
   },
   {
+    "japanese": [
+      "なつなぐ!"
+    ],
     "id": 40738,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Natsunagu!"
   },
   {
     "id": 40739,
     "error": "not-found"
   },
   {
+    "english": [
+      "High School DxD New Specials"
+    ],
     "id": 40740,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "High School DxD New Specials"
   },
   {
+    "japanese": [
+      "時間を捨てて"
+    ],
+    "synonyms": [
+      "STAND ALONE"
+    ],
     "id": 40741,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Jikan wo Sutete"
   },
   {
+    "japanese": [
+      "発見"
+    ],
     "id": 40742,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Hakken"
   },
   {
+    "japanese": [
+      "ラブナイツ! A・D"
+    ],
     "id": 40743,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Love Knights! A.D"
   },
   {
     "id": 40744,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "すし"
+    ],
     "id": 40745,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Sushi"
   },
   {
+    "japanese": [
+      "おーばーふろぉ"
+    ],
     "id": 40746,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Overflow"
   },
   {
+    "japanese": [
+      "どうにかなる日々"
+    ],
+    "synonyms": [
+      "Happy-Go-Lucky Days",
+      "Dou ni ka Naru Hibi"
+    ],
     "id": 40747,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Dounika Naru Hibi"
   },
   {
+    "japanese": [
+      "呪術廻戦"
+    ],
+    "synonyms": [
+      "Sorcery Fight"
+    ],
     "id": 40748,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Jujutsu Kaisen (TV)"
   },
   {
+    "japanese": [
+      "魔王様、“プチ”リトライ！"
+    ],
     "id": 40749,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Maou-sama, \"Petit\" Retry!"
   },
   {
+    "japanese": [
+      "回復術士のやり直し"
+    ],
+    "synonyms": [
+      "Redo of Healer",
+      "Kaiyari"
+    ],
     "id": 40750,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Kaifuku Jutsushi no Yarinaoshi"
   },
   {
     "id": 40751,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "美少年シリーズ"
+    ],
     "id": 40752,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Bishounen Series"
   },
   {
+    "japanese": [
+      "シンデレラガールズ劇場 CLIMAX SEASON"
+    ],
+    "synonyms": [
+      "THE IDOLM@STER CINDERELLA GIRLS Theater: Climax Season Specials"
+    ],
     "id": 40753,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Cinderella Girls Gekijou: Climax Season Specials"
   },
   {
+    "japanese": [
+      "シンデレラガールズ劇場 CLIMAX SEASON"
+    ],
+    "synonyms": [
+      "THE IDOLM@STER CINDERELLA GIRLS Theater: Climax Season Specials"
+    ],
     "id": 40754,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Cinderella Girls Gekijou: Climax Season Specials"
   },
   {
+    "japanese": [
+      "まちカドまぞくミニアニメ"
+    ],
     "id": 40755,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Machikado Mazoku Mini Anime"
   },
   {
+    "japanese": [
+      "うごいてハミだせ！まちカドまぞく"
+    ],
     "id": 40756,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Ugoite Hamidase! Machikado Mazoku"
   },
   {
+    "japanese": [
+      "ラティナの日記"
+    ],
     "id": 40757,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Latina no Nikki"
   },
   {
+    "japanese": [
+      "フライングベイビーズ☆プチ"
+    ],
     "id": 40758,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Hulaing Babies Petit"
   },
   {
+    "japanese": [
+      "Rakudai kishi no kyabarurii"
+    ],
     "id": 40759,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Rakudai kishi no kyabarurii"
   },
   {
     "id": 40760,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "OVA",
+    "title": "RWBY"
   },
   {
+    "japanese": [
+      "Fate/Grand Order -絶対魔獣戦線バビロニア- 総集編"
+    ],
     "id": 40761,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Fate/Grand Order: Zettai Majuu Sensen Babylonia Recaps"
   },
   {
+    "japanese": [
+      "警視庁 特務部 特殊凶悪犯対策室 第七課 -トクナナ- OVA File.0.5「一年前、二条クジャクの憂い」"
+    ],
+    "synonyms": [
+      "Special Crime Investigation Unit - Special 7 OVA",
+      "Special Crime Investigation Unit - Special 7 Episode 0.5"
+    ],
     "id": 40762,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Keishichou Tokumubu Tokushu Kyouakuhan Taisakushitsu Dainanaka: Tokunana OVA"
   },
   {
+    "japanese": [
+      "SHOW BY ROCK!!ましゅまいれっしゅ!!"
+    ],
     "id": 40763,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Show By Rock!! Mashumairesh!!"
   },
   {
+    "japanese": [
+      "天官賜福"
+    ],
+    "synonyms": [
+      "Heavenly Blessing"
+    ],
+    "english": [
+      "Heaven Official's Blessing"
+    ],
     "id": 40764,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Tian Guan Ci Fu"
   },
   {
+    "synonyms": [
+      "Eondeodog",
+      "The Underdog"
+    ],
+    "english": [
+      "Underdog"
+    ],
     "id": 40765,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Underdog"
   },
   {
+    "english": [
+      "Naruto Shippuuden Special: Hashirama Senju vs Madara Uchiha"
+    ],
     "id": 40766,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Naruto Shippuuden Special: Hashirama Senju vs Madara Uchiha"
   },
   {
+    "japanese": [
+      "Suzumiya Haruhi no Shōshitsu"
+    ],
+    "english": [
+      "The Disappearance of Haruhi Suzumiya"
+    ],
     "id": 40767,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Suzumiya Haruhi no Shōshitsu"
   },
   {
+    "japanese": [
+      "ガイナタマガー"
+    ],
     "id": 40768,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Gaina Tamager"
   },
   {
+    "japanese": [
+      "ライフル・イズ・ビューティフル『全国大会 ・イズ・目前』（総集編）"
+    ],
+    "synonyms": [
+      "Rifle is Beautiful Episode 7.5",
+      "Rifle is Beautiful: Zengoku Daikai is Mokuzen"
+    ],
     "id": 40769,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Rifle is Beautiful Recap"
   },
   {
     "id": 40770,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Manyuu Hikenchou Picture Drama"
   },
   {
     "id": 40771,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Manyuu Hikenchou Specials"
   },
   {
+    "synonyms": [
+      "エヴァンゲリオン劇場版 AVANT 1 （冒頭10分40秒00コマ） 0706版’"
+    ],
     "id": 40772,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Evangelion the Movie AVANT 1: 0706 Version"
   },
   {
     "id": 40773,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Kagerou Daze “No.9” (temporary name)"
   },
   {
+    "japanese": [
+      "東離劍遊紀"
+    ],
+    "synonyms": [
+      "Sandāboruto Fantajī: Tōriken Yūki,Thunderbolt Fantasy"
+    ],
+    "english": [
+      "Thunderbolt Fantasy"
+    ],
     "id": 40774,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Thunderbolt Fantasy"
   },
   {
+    "japanese": [
+      "Tsunami"
+    ],
+    "synonyms": [
+      "Tsunami"
+    ],
+    "english": [
+      "Tsunami"
+    ],
     "id": 40775,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Tsunami"
   },
   {
+    "japanese": [
+      "ハイキュー!! TO THE TOP 第2期"
+    ],
+    "synonyms": [
+      "Haikyuu!! (2020) 2nd Season"
+    ],
     "id": 40776,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Haikyuu!!: To the Top 2nd Season"
   },
   {
+    "japanese": [
+      "グリッドマン アラーム -If your smile-"
+    ],
+    "synonyms": [
+      "SSSS.GRIDMAN ALARM -if your smile-",
+      "Gridman -if your smile-",
+      "GRIDMAN ALARM -if your smile-"
+    ],
     "id": 40777,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "SSSS.GRIDMAN -If your smile-"
   },
   {
+    "japanese": [
+      "planetarian ~雪圏球[スノーグローブ]~"
+    ],
     "id": 40778,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "OVA",
+    "title": "Planetarian: Snow Globe"
   },
   {
+    "japanese": [
+      "天地無用!魎皇鬼 平安無用!"
+    ],
     "id": 40779,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "OVA",
+    "title": "Tenchi Muyou! Ryououki: Heianmuyo! Picture Drama"
   },
   {
     "id": 40780,
