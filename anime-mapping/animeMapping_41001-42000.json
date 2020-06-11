@@ -441,7 +441,7 @@
     "mal_id": 41189
   },
   {
-    "themoviedb_id": 562464,
+    "themoviedb_id": 40885,
     "mal_id": 41190
   },
   {
@@ -846,7 +846,7 @@
     "mal_id": 41370
   },
   {
-    "thetvdb_id": -1,
+    "thetvdb_id": 381768,
     "mal_id": 41372
   },
   {
@@ -1070,7 +1070,7 @@
     "mal_id": 41464
   },
   {
-    "thetvdb_id": -1,
+    "thetvdb_id": 382658,
     "mal_id": 41466
   },
   {
@@ -1122,7 +1122,7 @@
     "mal_id": 41487
   },
   {
-    "thetvdb_id": -1,
+    "thetvdb_id": 382595,
     "mal_id": 41488
   },
   {
@@ -1206,7 +1206,7 @@
     "mal_id": 41519
   },
   {
-    "thetvdb_id": 379726,
+    "thetvdb_id": 372753,
     "mal_id": 41520
   },
   {
@@ -1229,7 +1229,7 @@
     "mal_id": 41528
   },
   {
-    "thetvdb_id": -1,
+    "thetvdb_id": 325374,
     "mal_id": 41529
   },
   {
@@ -1702,7 +1702,7 @@
     "mal_id": 41750
   },
   {
-    "thetvdb_id": 79270,
+    "thetvdb_id": 383161,
     "mal_id": 41751
   },
   {
@@ -1757,15 +1757,15 @@
     "mal_id": 41774
   },
   {
-    "thetvdb_id": -1,
+    "thetvdb_id": 358138,
     "mal_id": 41776
   },
   {
-    "thetvdb_id": -1,
+    "thetvdb_id": 358138,
     "mal_id": 41777
   },
   {
-    "thetvdb_id": -1,
+    "thetvdb_id": 358138,
     "mal_id": 41778
   },
   {
@@ -1923,5 +1923,379 @@
   {
     "thetvdb_id": 329065,
     "mal_id": 41832
+  },
+  {
+    "thetvdb_id": 188841,
+    "mal_id": 41833
+  },
+  {
+    "thetvdb_id": -1,
+    "mal_id": 41834
+  },
+  {
+    "mal_id": 41835
+  },
+  {
+    "themoviedb_id": 534935,
+    "mal_id": 41837
+  },
+  {
+    "mal_id": 41838
+  },
+  {
+    "mal_id": 41841
+  },
+  {
+    "thetvdb_id": -1,
+    "mal_id": 41842
+  },
+  {
+    "thetvdb_id": 327507,
+    "mal_id": 41843
+  },
+  {
+    "mal_id": 41844
+  },
+  {
+    "thetvdb_id": -1,
+    "mal_id": 41848
+  },
+  {
+    "mal_id": 41851
+  },
+  {
+    "thetvdb_id": -1,
+    "mal_id": 41852
+  },
+  {
+    "mal_id": 41853
+  },
+  {
+    "thetvdb_id": -1,
+    "mal_id": 41854
+  },
+  {
+    "themoviedb_id": 698835,
+    "mal_id": 41855
+  },
+  {
+    "mal_id": 41856
+  },
+  {
+    "mal_id": 41858
+  },
+  {
+    "thetvdb_id": -1,
+    "mal_id": 41860
+  },
+  {
+    "themoviedb_id": -1,
+    "mal_id": 41863
+  },
+  {
+    "thetvdb_id": -1,
+    "mal_id": 41865
+  },
+  {
+    "thetvdb_id": -1,
+    "mal_id": 41866
+  },
+  {
+    "thetvdb_id": -1,
+    "mal_id": 41867
+  },
+  {
+    "thetvdb_id": -1,
+    "mal_id": 41871
+  },
+  {
+    "mal_id": 41872
+  },
+  {
+    "thetvdb_id": -1,
+    "mal_id": 41873
+  },
+  {
+    "mal_id": 41874
+  },
+  {
+    "themoviedb_id": 628964,
+    "mal_id": 41877
+  },
+  {
+    "themoviedb_id": 594188,
+    "mal_id": 41879
+  },
+  {
+    "thetvdb_id": -1,
+    "mal_id": 41880
+  },
+  {
+    "mal_id": 41884
+  },
+  {
+    "thetvdb_id": 364343,
+    "mal_id": 41886
+  },
+  {
+    "themoviedb_id": -1,
+    "mal_id": 41887
+  },
+  {
+    "thetvdb_id": -1,
+    "mal_id": 41888
+  },
+  {
+    "thetvdb_id": -1,
+    "mal_id": 41890
+  },
+  {
+    "thetvdb_id": -1,
+    "mal_id": 41899
+  },
+  {
+    "thetvdb_id": -1,
+    "mal_id": 41902
+  },
+  {
+    "thetvdb_id": 336924,
+    "mal_id": 41903
+  },
+  {
+    "thetvdb_id": -1,
+    "mal_id": 41904
+  },
+  {
+    "thetvdb_id": 294073,
+    "mal_id": 41906
+  },
+  {
+    "mal_id": 41908
+  },
+  {
+    "thetvdb_id": 71361,
+    "mal_id": 41911
+  },
+  {
+    "mal_id": 41912
+  },
+  {
+    "mal_id": 41913
+  },
+  {
+    "mal_id": 41914
+  },
+  {
+    "mal_id": 41915
+  },
+  {
+    "mal_id": 41916
+  },
+  {
+    "mal_id": 41917
+  },
+  {
+    "mal_id": 41918
+  },
+  {
+    "mal_id": 41919
+  },
+  {
+    "mal_id": 41920
+  },
+  {
+    "thetvdb_id": -1,
+    "mal_id": 41921
+  },
+  {
+    "thetvdb_id": -1,
+    "mal_id": 41922
+  },
+  {
+    "mal_id": 41923
+  },
+  {
+    "mal_id": 41924
+  },
+  {
+    "thetvdb_id": 253323,
+    "mal_id": 41925
+  },
+  {
+    "mal_id": 41926
+  },
+  {
+    "mal_id": 41927
+  },
+  {
+    "mal_id": 41928
+  },
+  {
+    "mal_id": 41929
+  },
+  {
+    "thetvdb_id": -1,
+    "mal_id": 41930
+  },
+  {
+    "mal_id": 41932
+  },
+  {
+    "mal_id": 41936
+  },
+  {
+    "thetvdb_id": -1,
+    "mal_id": 41937
+  },
+  {
+    "themoviedb_id": 553839,
+    "mal_id": 41938
+  },
+  {
+    "mal_id": 41939
+  },
+  {
+    "mal_id": 41942
+  },
+  {
+    "mal_id": 41945
+  },
+  {
+    "thetvdb_id": -1,
+    "mal_id": 41946
+  },
+  {
+    "thetvdb_id": -1,
+    "mal_id": 41950
+  },
+  {
+    "thetvdb_id": -1,
+    "mal_id": 41951
+  },
+  {
+    "thetvdb_id": -1,
+    "mal_id": 41957
+  },
+  {
+    "thetvdb_id": 374389,
+    "mal_id": 41960
+  },
+  {
+    "themoviedb_id": 11331,
+    "mal_id": 41961
+  },
+  {
+    "mal_id": 41962
+  },
+  {
+    "mal_id": 41963
+  },
+  {
+    "mal_id": 41964
+  },
+  {
+    "mal_id": 41965
+  },
+  {
+    "mal_id": 41966
+  },
+  {
+    "mal_id": 41967
+  },
+  {
+    "mal_id": 41968
+  },
+  {
+    "mal_id": 41969
+  },
+  {
+    "mal_id": 41970
+  },
+  {
+    "mal_id": 41971
+  },
+  {
+    "mal_id": 41972
+  },
+  {
+    "mal_id": 41973
+  },
+  {
+    "mal_id": 41974
+  },
+  {
+    "mal_id": 41975
+  },
+  {
+    "mal_id": 41976
+  },
+  {
+    "mal_id": 41977
+  },
+  {
+    "mal_id": 41978
+  },
+  {
+    "mal_id": 41979
+  },
+  {
+    "mal_id": 41980
+  },
+  {
+    "mal_id": 41981
+  },
+  {
+    "mal_id": 41982
+  },
+  {
+    "mal_id": 41983
+  },
+  {
+    "mal_id": 41984
+  },
+  {
+    "mal_id": 41985
+  },
+  {
+    "mal_id": 41986
+  },
+  {
+    "mal_id": 41987
+  },
+  {
+    "mal_id": 41988
+  },
+  {
+    "mal_id": 41990
+  },
+  {
+    "mal_id": 41991
+  },
+  {
+    "mal_id": 41992
+  },
+  {
+    "mal_id": 41993
+  },
+  {
+    "mal_id": 41994
+  },
+  {
+    "mal_id": 41995
+  },
+  {
+    "mal_id": 41996
+  },
+  {
+    "mal_id": 41997
+  },
+  {
+    "mal_id": 41998
+  },
+  {
+    "mal_id": 41999
+  },
+  {
+    "mal_id": 42000
   }
 ]
