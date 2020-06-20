@@ -1821,16 +1821,20 @@
   },
   {
     "japanese": [
-      "西行纪"
+      "西行纪之集结篇"
     ],
     "synonyms": [
+      "Xixing Ji 2nd Season",
       "Journey to the West",
       "Westbound",
       "Westbound Discipline"
     ],
+    "english": [
+      "The Westward"
+    ],
     "id": 41215,
     "type": "ONA",
-    "title": "Xi Xing Ji 2nd Season"
+    "title": "Xixing Ji Zhi Jijie Pian"
   },
   {
     "japanese": [
@@ -2401,6 +2405,9 @@
     "japanese": [
       "カードファイト!! ヴァンガード外伝 イフ-if-"
     ],
+    "synonyms": [
+      "Cardfight!! Vanguard Extra Story"
+    ],
     "id": 41283,
     "type": "TV",
     "title": "Cardfight!! Vanguard Gaiden: If"
@@ -2757,7 +2764,8 @@
     ],
     "id": 41328,
     "type": "ONA",
-    "title": "Seis Manos"
+    "title": "Seis Manos",
+    "error": "not-found"
   },
   {
     "id": 41329,
@@ -4616,14 +4624,16 @@
       "へんたつ"
     ],
     "synonyms": [
+      "Hentatsu (TV) Episode 12.5",
+      "Hentatsu (TV) Special",
       "Oni to Neko to o-Cha to ka."
     ],
     "english": [
       "Hentatsu (TV) 12.5"
     ],
     "id": 41564,
-    "type": "TV",
-    "title": "Hentatsu (TV) 12.5"
+    "type": "Special",
+    "title": "Hentatsu (TV) Recap"
   },
   {
     "japanese": [
@@ -4824,7 +4834,8 @@
     ],
     "id": 41591,
     "type": "TV",
-    "title": "Dragonball"
+    "title": "Dragonball",
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -4892,7 +4903,8 @@
   {
     "id": 41600,
     "type": "TV",
-    "title": "Isekai wa Smartphone Season 2"
+    "title": "Isekai wa Smartphone Season 2",
+    "error": "not-found"
   },
   {
     "id": 41601,
@@ -5318,7 +5330,8 @@
     ],
     "id": 41653,
     "type": "OVA",
-    "title": "Soukou Seiki Yisphere: Ingyaku no Sennou Kaizou"
+    "title": "Soukou Seiki Yisphere: Ingyaku no Sennou Kaizou",
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -5478,7 +5491,8 @@
     ],
     "id": 41670,
     "type": "ONA",
-    "title": "Ushichichi Tabehoudai! The Animation"
+    "title": "Ushichichi Tabehoudai! The Animation",
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -5613,7 +5627,8 @@
     ],
     "id": 41687,
     "type": "ONA",
-    "title": "Youkoso Japari Park 2"
+    "title": "Youkoso Japari Park 2",
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -5675,7 +5690,8 @@
     ],
     "id": 41695,
     "type": "Movie",
-    "title": "Tatsumi"
+    "title": "Tatsumi",
+    "error": "not-found"
   },
   {
     "id": 41696,
@@ -5844,7 +5860,8 @@
     ],
     "id": 41719,
     "type": "ONA",
-    "title": "Nihon monogatari"
+    "title": "Nihon monogatari",
+    "error": "not-found"
   },
   {
     "english": [
@@ -5852,7 +5869,8 @@
     ],
     "id": 41720,
     "type": "ONA",
-    "title": "Ushichichi Tabehoudai! The Animation"
+    "title": "Ushichichi Tabehoudai! The Animation",
+    "error": "not-found"
   },
   {
     "id": 41721,
@@ -5919,7 +5937,8 @@
     ],
     "id": 41728,
     "type": "Movie",
-    "title": "Tatsumi"
+    "title": "Tatsumi",
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -5964,7 +5983,8 @@
     ],
     "id": 41732,
     "type": "OVA",
-    "title": "Ushichichi Tabehoudai! The Animation"
+    "title": "Ushichichi Tabehoudai! The Animation",
+    "error": "not-found"
   },
   {
     "id": 41733,
@@ -6086,7 +6106,8 @@
     ],
     "id": 41746,
     "type": "TV",
-    "title": "Rail Romanesque"
+    "title": "Rail Romanesque",
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -6097,7 +6118,8 @@
     ],
     "id": 41747,
     "type": "TV",
-    "title": "Muv-Luv Alternative"
+    "title": "Muv-Luv Alternative",
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -6105,7 +6127,8 @@
     ],
     "id": 41748,
     "type": "TV",
-    "title": "Despera"
+    "title": "Despera",
+    "error": "not-found"
   },
   {
     "id": 41749,
@@ -6147,7 +6170,8 @@
     ],
     "id": 41753,
     "type": "ONA",
-    "title": "Nyan 〜 satō neko on'nanoko"
+    "title": "Nyan 〜 satō neko on'nanoko",
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -6158,7 +6182,8 @@
     ],
     "id": 41754,
     "type": "ONA",
-    "title": "Nyan 〜 satō neko on'nanoko"
+    "title": "Nyan 〜 satō neko on'nanoko",
+    "error": "not-found"
   },
   {
     "id": 41755,
@@ -6660,7 +6685,8 @@
     ],
     "id": 41810,
     "type": "ONA",
-    "title": "Ushichichi Tabehoudai! The Animation"
+    "title": "Ushichichi Tabehoudai! The Animation",
+    "error": "not-found"
   },
   {
     "id": 41811,
@@ -6707,7 +6733,8 @@
     ],
     "id": 41817,
     "type": "OVA",
-    "title": "Suketto Sanjou!! The Animation"
+    "title": "Suketto Sanjou!! The Animation",
+    "error": "not-found"
   },
   {
     "synonyms": [
@@ -6831,7 +6858,8 @@
     ],
     "id": 41829,
     "type": "OVA",
-    "title": "Natsu ga Owaru made The Animation"
+    "title": "Natsu ga Owaru made The Animation",
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -7493,12 +7521,15 @@
       "最后的召唤师"
     ],
     "synonyms": [
+      "Zui Hou De Zhao Huan Shi"
+    ],
+    "english": [
       "The Last Summoner"
     ],
     "id": 41915,
     "error": "not-found",
     "type": "ONA",
-    "title": "Zui Hou De Zhao Huan Shi"
+    "title": "Zuihou de Zhaohuan Shi"
   },
   {
     "japanese": [
@@ -7813,12 +7844,12 @@
       "むかしケイバなし(第2期)"
     ],
     "synonyms": [
-      "Mukashi Keibanashi 2nd Season"
+      "Mukashi Keibanashi Second Season"
     ],
     "id": 41951,
     "error": "not-found",
     "type": "TV",
-    "title": "Mukashi Keibanashi Second Season"
+    "title": "Mukashi Keibanashi 2nd Season"
   },
   {
     "id": 41952,
