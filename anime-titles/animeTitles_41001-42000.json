@@ -1364,7 +1364,7 @@
       "A Whisker Away"
     ],
     "id": 41168,
-    "type": "Movie",
+    "type": "ONA",
     "title": "Nakitai Watashi wa Neko wo Kaburu"
   },
   {
@@ -1785,6 +1785,9 @@
     "japanese": [
       "万界神主 第二季"
     ],
+    "synonyms": [
+      "Lord of the Universe 2nd Season"
+    ],
     "english": [
       "Lord of the Universe 2nd Season"
     ],
@@ -1875,7 +1878,7 @@
     ],
     "id": 41219,
     "type": "ONA",
-    "title": "Fan Ren Xiu Xian Chuan"
+    "title": "Fanren Xiu Xian Chuan"
   },
   {
     "japanese": [
@@ -3061,6 +3064,9 @@
     "japanese": [
       "戦翼のシグルドリーヴァ"
     ],
+    "synonyms": [
+      "Sigururi"
+    ],
     "english": [
       "Warlords of Sigrdrifa"
     ],
@@ -3763,11 +3769,11 @@
       "村本 咲"
     ],
     "english": [
-      "People who are Eating"
+      "People who are eating"
     ],
     "id": 41459,
     "type": "ONA",
-    "title": "食べる人たち"
+    "title": "Taberu Hitotachi"
   },
   {
     "japanese": [
@@ -3831,6 +3837,9 @@
     "synonyms": [
       "The Titan's Bride"
     ],
+    "english": [
+      "Kyojinzoku no Hanayome"
+    ],
     "id": 41466,
     "type": "TV",
     "title": "Kyojinzoku no Hanayome"
@@ -3868,11 +3877,11 @@
   },
   {
     "japanese": [
-      "劇場版 きんいろモザイク"
+      "劇場版きんいろモザイク Thank you!!"
     ],
     "id": 41471,
     "type": "Movie",
-    "title": "Kiniro Mosaic Movie"
+    "title": "Kiniro Mosaic: Thank You!!"
   },
   {
     "id": 41472,
@@ -4751,7 +4760,8 @@
     ],
     "id": 41578,
     "type": "TV",
-    "title": "Yu☆Gi☆Oh!: Duel Monsters ALEX"
+    "title": "Yu☆Gi☆Oh!: Duel Monsters ALEX",
+    "error": "not-found"
   },
   {
     "id": 41579,
@@ -4843,7 +4853,8 @@
     ],
     "id": 41592,
     "type": "TV",
-    "title": "Get Up! Get Live!"
+    "title": "Get Up! Get Live!",
+    "error": "not-found"
   },
   {
     "id": 41593,
@@ -4890,7 +4901,8 @@
     ],
     "id": 41597,
     "type": "TV",
-    "title": "Jinzo Konchu Kabuto Borg VxV"
+    "title": "Jinzo Konchu Kabuto Borg VxV",
+    "error": "not-found"
   },
   {
     "id": 41598,
@@ -5031,7 +5043,8 @@
     ],
     "id": 41615,
     "type": "Movie",
-    "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Hyouketsu No Kizuna - Manner Movie"
+    "title": "Re:Zero Kara Hajimeru Isekai Seikatsu - Hyouketsu No Kizuna - Manner Movie",
+    "error": "not-found"
   },
   {
     "id": 41616,
@@ -5339,7 +5352,8 @@
     ],
     "id": 41654,
     "type": "Special",
-    "title": "Sunoko-tan. Promotion anime"
+    "title": "Sunoko-tan. Promotion anime",
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -5367,7 +5381,8 @@
   {
     "id": 41658,
     "type": "TV",
-    "title": "High School DxD Hero"
+    "title": "High School DxD Hero",
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -5553,11 +5568,12 @@
     ],
     "id": 41679,
     "type": "Special",
-    "title": "A Day Before Us Zero"
+    "title": ""
   },
   {
     "id": 41680,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "japanese": [
@@ -5571,15 +5587,17 @@
     ],
     "id": 41681,
     "type": "Special",
-    "title": "Princess Robot Bubblegum"
+    "title": ""
   },
   {
     "id": 41682,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "id": 41683,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "japanese": [
@@ -5590,7 +5608,7 @@
     ],
     "id": 41684,
     "type": "Music",
-    "title": "Oka Shika Chika Ika Saka"
+    "title": ""
   },
   {
     "japanese": [
@@ -5605,7 +5623,7 @@
     ],
     "id": 41685,
     "type": "Music",
-    "title": "Kaze no Organ"
+    "title": ""
   },
   {
     "japanese": [
@@ -5616,7 +5634,7 @@
     ],
     "id": 41686,
     "type": "TV",
-    "title": "Zo Zo Zo Zombie-kun (TV)"
+    "title": ""
   },
   {
     "japanese": [
@@ -5627,7 +5645,7 @@
     ],
     "id": 41687,
     "type": "ONA",
-    "title": "Youkoso Japari Park 2",
+    "title": "",
     "error": "not-found"
   },
   {
@@ -5640,7 +5658,7 @@
     ],
     "id": 41688,
     "type": "TV",
-    "title": "Toutotsu ni Egypt Kami"
+    "title": ""
   },
   {
     "japanese": [
@@ -5651,11 +5669,12 @@
     ],
     "id": 41689,
     "type": "Special",
-    "title": "Alice or Alice Soushuu-hen"
+    "title": ""
   },
   {
     "id": 41690,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "japanese": [
@@ -5663,15 +5682,17 @@
     ],
     "id": 41691,
     "type": "ONA",
-    "title": "Ushichichi Tabehoudai! The Animation"
+    "title": ""
   },
   {
     "id": 41692,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "id": 41693,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "japanese": [
@@ -5682,7 +5703,7 @@
     ],
     "id": 41694,
     "type": "TV",
-    "title": "Hataraku Saibou Black (TV)"
+    "title": ""
   },
   {
     "japanese": [
@@ -5690,12 +5711,13 @@
     ],
     "id": 41695,
     "type": "Movie",
-    "title": "Tatsumi",
+    "title": "",
     "error": "not-found"
   },
   {
     "id": 41696,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "japanese": [
@@ -5703,39 +5725,47 @@
     ],
     "id": 41697,
     "type": "Music",
-    "title": "lemolemo"
+    "title": ""
   },
   {
     "id": 41698,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "id": 41699,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "id": 41700,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "id": 41701,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "id": 41702,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "id": 41703,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "id": 41704,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "id": 41705,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "english": [
@@ -5743,7 +5773,7 @@
     ],
     "id": 41706,
     "type": "Movie",
-    "title": "Ni no Kuni: Shiroki Seihai no Joō"
+    "title": ""
   },
   {
     "japanese": [
@@ -5754,7 +5784,7 @@
     ],
     "id": 41707,
     "type": "Music",
-    "title": "Chanto Kao ni Kaite Aru"
+    "title": ""
   },
   {
     "japanese": [
@@ -5799,7 +5829,8 @@
     ],
     "id": 41711,
     "type": "TV",
-    "title": "Mr. Robot"
+    "title": "Mr. Robot",
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -5810,7 +5841,8 @@
     ],
     "id": 41712,
     "type": "ONA",
-    "title": "Gudetama"
+    "title": "Gudetama",
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -5824,7 +5856,8 @@
     ],
     "id": 41713,
     "type": "TV",
-    "title": "Sōho Sect: Innocent Lovers"
+    "title": "Sōho Sect: Innocent Lovers",
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -6233,6 +6266,9 @@
       "[Ten-De-Bu] What a strange animal!",
       "Tendebu"
     ],
+    "english": [
+      "Tenchisozo Design Bu"
+    ],
     "id": 41762,
     "type": "TV",
     "title": "Tenchi Souzou Design-bu"
@@ -6370,7 +6406,8 @@
     ],
     "id": 41774,
     "type": "TV",
-    "title": "Jojo's Bizzare Adventure: Battle Tendency"
+    "title": "Jojo's Bizzare Adventure: Battle Tendency",
+    "error": "not-found"
   },
   {
     "id": 41775,
@@ -6658,11 +6695,11 @@
   },
   {
     "japanese": [
-      "ゲラゲラ"
+      "GETUP! GETLIVE! #げらげら"
     ],
     "id": 41807,
     "type": "TV",
-    "title": "Get Up! Get Live!"
+    "title": "Get Up! Get Live! #Geragera"
   },
   {
     "japanese": [
@@ -6760,7 +6797,8 @@
     ],
     "id": 41819,
     "type": "ONA",
-    "title": "Wan Jie Shen Zhu Season 2"
+    "title": "Wan Jie Shen Zhu Season 2",
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -6776,7 +6814,8 @@
     ],
     "id": 41821,
     "type": "Movie",
-    "title": "Aria - Aoi no Katenkoru"
+    "title": "Aria - Aoi no Katenkoru",
+    "error": "not-found"
   },
   {
     "synonyms": [
@@ -7074,8 +7113,8 @@
     ],
     "id": 41854,
     "error": "not-found",
-    "type": "TV",
-    "title": "Sitareul Wihayeo"
+    "type": "ONA",
+    "title": "Sita Wihayeo"
   },
   {
     "japanese": [
