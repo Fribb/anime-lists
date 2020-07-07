@@ -70,5 +70,9 @@
 	{
 		"thetvdb_id": 372084,
 		"mal_id": 40148
+	},
+	{
+		"thetvdb_id": -1,
+		"mal_id": 40658
 	}
 ]
