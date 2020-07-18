@@ -35,6 +35,9 @@
       "When the Cicadas Cry",
       "The Moment the Cicadas Cry"
     ],
+    "english": [
+      "Higurashi: When They Cry - New"
+    ],
     "id": 41006,
     "type": "TV",
     "title": "Higurashi no Naku Koro ni (2020)"
@@ -890,7 +893,7 @@
     ],
     "id": 41103,
     "type": "TV",
-    "title": "Koi to Yobu ni wa Kimochiwarui"
+    "title": "Koi to Yobu ni wa Kimochi Warui"
   },
   {
     "id": 41104,
@@ -1941,8 +1944,10 @@
       "宇崎ちゃんは遊びたい！"
     ],
     "synonyms": [
-      "Uzaki-chan Wants to Hang Out",
       "Uzaki-chan Wants to Play!"
+    ],
+    "english": [
+      "Uzaki-chan Wants to Hang Out!"
     ],
     "id": 41226,
     "type": "TV",
@@ -2286,11 +2291,11 @@
   },
   {
     "japanese": [
-      "オリンピア・キュクロス"
+      "別冊オリンピア・キュクロス"
     ],
     "id": 41266,
     "type": "TV",
-    "title": "Olympia Kyklos"
+    "title": "Bessatsu Olympia Kyklos"
   },
   {
     "id": 41267,
@@ -2666,8 +2671,10 @@
     ],
     "synonyms": [
       "The man picked up by the gods",
-      "By the Grace of the Gods",
       "Kamihiro"
+    ],
+    "english": [
+      "By the Grace of the Gods"
     ],
     "id": 41312,
     "type": "TV",
@@ -3715,14 +3722,14 @@
   },
   {
     "japanese": [
-      "「映像研には手を出すな！」ミニアニメ"
+      "映像研ミニアニメ"
     ],
     "synonyms": [
       "Eizouken Mini Anime"
     ],
     "id": 41454,
     "type": "ONA",
-    "title": "Eizouken ni wa Te wo Dasu na!: Mini Anime"
+    "title": "Eizouken Mini Anime"
   },
   {
     "id": 41455,
@@ -4204,8 +4211,10 @@
       "请吃红小豆吧! 第三季"
     ],
     "synonyms": [
-      "Beanie's Daily",
       "Qing Chi Hong Xiaodou Ba! Di San Ji"
+    ],
+    "english": [
+      "Beanie's Daily III"
     ],
     "id": 41509,
     "type": "ONA",
@@ -4830,6 +4839,9 @@
   {
     "japanese": [
       "Re:ゼロから始める異世界生活 氷結の絆 マナームービー"
+    ],
+    "synonyms": [
+      "Re:ZERO: Starting Life in Another World - Frozen Bonds - Manner Movie"
     ],
     "id": 41590,
     "type": "Movie",
@@ -5568,7 +5580,7 @@
     ],
     "id": 41679,
     "type": "Special",
-    "title": ""
+    "title": "A Day Before Us Zero"
   },
   {
     "id": 41680,
@@ -5587,7 +5599,7 @@
     ],
     "id": 41681,
     "type": "Special",
-    "title": ""
+    "title": "Princess Robot Bubblegum"
   },
   {
     "id": 41682,
@@ -5608,7 +5620,7 @@
     ],
     "id": 41684,
     "type": "Music",
-    "title": ""
+    "title": "Oka Shika Chika Ika Saka"
   },
   {
     "japanese": [
@@ -5623,7 +5635,7 @@
     ],
     "id": 41685,
     "type": "Music",
-    "title": ""
+    "title": "Kaze no Organ"
   },
   {
     "japanese": [
@@ -5634,7 +5646,7 @@
     ],
     "id": 41686,
     "type": "TV",
-    "title": ""
+    "title": "Zo Zo Zo Zombie-kun (TV)"
   },
   {
     "japanese": [
@@ -5658,7 +5670,7 @@
     ],
     "id": 41688,
     "type": "TV",
-    "title": ""
+    "title": "Toutotsu ni Egypt Kami"
   },
   {
     "japanese": [
@@ -5669,7 +5681,7 @@
     ],
     "id": 41689,
     "type": "Special",
-    "title": ""
+    "title": "Alice or Alice Soushuu-hen"
   },
   {
     "id": 41690,
@@ -5682,7 +5694,7 @@
     ],
     "id": 41691,
     "type": "ONA",
-    "title": ""
+    "title": "Ushichichi Tabehoudai! The Animation"
   },
   {
     "id": 41692,
@@ -5703,7 +5715,7 @@
     ],
     "id": 41694,
     "type": "TV",
-    "title": ""
+    "title": "Hataraku Saibou Black (TV)"
   },
   {
     "japanese": [
@@ -5725,7 +5737,7 @@
     ],
     "id": 41697,
     "type": "Music",
-    "title": ""
+    "title": "lemolemo"
   },
   {
     "id": 41698,
@@ -5773,7 +5785,8 @@
     ],
     "id": 41706,
     "type": "Movie",
-    "title": ""
+    "title": "",
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -5784,7 +5797,7 @@
     ],
     "id": 41707,
     "type": "Music",
-    "title": ""
+    "title": "Chanto Kao ni Kaite Aru"
   },
   {
     "japanese": [
