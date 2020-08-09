@@ -1372,11 +1372,11 @@
   },
   {
     "japanese": [
-      "ラブライブ!  (新シリーズプロジェクト)"
+      "ラブライブ！スーパースター!!"
     ],
     "id": 41169,
     "type": "TV",
-    "title": "Love Live! (Shin Series Project)"
+    "title": "Love Live! Superstar!!"
   },
   {
     "japanese": [
@@ -1874,14 +1874,14 @@
   },
   {
     "japanese": [
-      "凡人修仙传"
+      "凡人修仙传之凡人风起天南"
     ],
     "synonyms": [
       "A Record of a Mortal's Journey to Immortality"
     ],
     "id": 41219,
     "type": "ONA",
-    "title": "Fanren Xiu Xian Chuan"
+    "title": "Fanren Xiu Xian Chuan Zhi Fanren Feng Qi Tian Nan"
   },
   {
     "japanese": [
@@ -1910,6 +1910,8 @@
       "朱"
     ],
     "synonyms": [
+      "Aka",
+      "Scarlet",
       "Vermilion"
     ],
     "id": 41222,
@@ -2256,7 +2258,7 @@
     ],
     "id": 41261,
     "type": "OVA",
-    "title": "Gishi wa Yan Mama Junyuu Chuu"
+    "title": "Ane wa Yanmama Junyuu-chuu"
   },
   {
     "english": [
@@ -2820,6 +2822,10 @@
     "japanese": [
       "空中軍艦アトランティス"
     ],
+    "synonyms": [
+      "Aerial Battleship Atlantis",
+      "Atlantis the Aerial Warship"
+    ],
     "english": [
       "Aerial Battleship Atlantis",
       "Atlantis the aerial warship"
@@ -3135,6 +3141,10 @@
     "japanese": [
       "君は彼方"
     ],
+    "synonyms": [
+      "You are Beyond",
+      "KimiKana"
+    ],
     "id": 41379,
     "type": "Movie",
     "title": "Kimi wa Kanata"
@@ -3254,7 +3264,8 @@
     ],
     "id": 41394,
     "type": "Movie",
-    "title": "Fushigi Dakashiy Movie: Zenitendou - Tsuritai Yaki"
+    "title": "Fushigi Dakashiy Movie: Zenitendou - Tsuritai Yaki",
+    "error": "not-found"
   },
   {
     "english": [
@@ -3373,14 +3384,15 @@
       "武神主宰"
     ],
     "synonyms": [
-      "Martial Master"
+      "Martial Master",
+      "Wu Shen Zhu Zai"
     ],
     "english": [
       "Martial master"
     ],
     "id": 41409,
     "type": "ONA",
-    "title": "Wu Shen Zhu Zai"
+    "title": "Wushen Zhuzai"
   },
   {
     "japanese": [
@@ -4549,6 +4561,9 @@
       "Majutsushi Orphen Hagure Tabi Special",
       "Sorcerous Stabber Orphen Special"
     ],
+    "english": [
+      "Sorcerous Stabber Orphen: Celestial Artifacts"
+    ],
     "id": 41549,
     "type": "Special",
     "title": "Majutsushi Orphen Hagure Tabi: Tennin no Isan"
@@ -5416,7 +5431,7 @@
     ],
     "id": 41660,
     "type": "ONA",
-    "title": "Yesterday wo Utatte Haishin-ban Episode"
+    "title": "Yesterday wo Utatte: Haishin-ban Episode"
   },
   {
     "synonyms": [
@@ -5552,11 +5567,11 @@
   },
   {
     "japanese": [
-      "ARIA"
+      "ARIA The CREPUSCOLO"
     ],
     "id": 41674,
     "type": "Movie",
-    "title": "Aria"
+    "title": "Aria the Crepuscolo"
   },
   {
     "id": 41675,
@@ -7342,8 +7357,11 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "灵剑尊 第四季"
+    ],
     "synonyms": [
-      "Spirit Sword Sovereign 4"
+      "Spirit Sword Sovereign 4th Season"
     ],
     "id": 41884,
     "error": "not-found",
@@ -7538,6 +7556,9 @@
     "japanese": [
       "孤雄"
     ],
+    "english": [
+      "Lonely Hero"
+    ],
     "id": 41912,
     "error": "not-found",
     "type": "ONA",
@@ -7587,6 +7608,9 @@
     "japanese": [
       "有药"
     ],
+    "english": [
+      "Are You Ok"
+    ],
     "id": 41916,
     "error": "not-found",
     "type": "ONA",
@@ -7595,6 +7619,10 @@
   {
     "japanese": [
       "民调局异闻录"
+    ],
+    "synonyms": [
+      "Bureau of Paranormal Investigation",
+      "Occult Investigator's Strange Record"
     ],
     "id": 41917,
     "error": "not-found",
@@ -7804,7 +7832,7 @@
     "id": 41939,
     "error": "not-found",
     "type": "Music",
-    "title": "Harujion"
+    "title": "Halzion"
   },
   {
     "id": 41940,
@@ -7841,7 +7869,9 @@
       "2011."
     ],
     "synonyms": [
-      "Ties"
+      "Ties",
+      "Kizuna: In eternal remembrance of March 11",
+      "2011."
     ],
     "english": [
       "A Link Between You and I"
@@ -7849,7 +7879,7 @@
     "id": 41945,
     "error": "not-found",
     "type": "Music",
-    "title": "Kizuna　- In eternal remembrance of March 11, 2011."
+    "title": "Kizuna (2014)"
   },
   {
     "japanese": [
