@@ -2295,6 +2295,9 @@
     "japanese": [
       "別冊オリンピア・キュクロス"
     ],
+    "english": [
+      "Extra Olympia Kyklos"
+    ],
     "id": 41266,
     "type": "TV",
     "title": "Bessatsu Olympia Kyklos"
@@ -2673,7 +2676,8 @@
     ],
     "synonyms": [
       "The man picked up by the gods",
-      "Kamihiro"
+      "Kamihiro",
+      "Kamitachi ni Hirowareta Otoko"
     ],
     "english": [
       "By the Grace of the Gods"
@@ -2870,7 +2874,7 @@
     ],
     "id": 41339,
     "type": "ONA",
-    "title": "Blue: line  step brush"
+    "title": "Blue: Line Step Brush"
   },
   {
     "japanese": [
@@ -2906,6 +2910,9 @@
   },
   {
     "japanese": [
+      "NOBLESSE -ノブレス-"
+    ],
+    "synonyms": [
       "노블레스"
     ],
     "id": 41345,
@@ -4216,7 +4223,8 @@
     ],
     "id": 41508,
     "type": "Music",
-    "title": "Junky Night Town Orchestra"
+    "title": "Junky Night Town Orchestra",
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -5495,7 +5503,8 @@
     ],
     "id": 41666,
     "type": "Movie",
-    "title": "Tatsumi"
+    "title": "Tatsumi",
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -5978,7 +5987,8 @@
     ],
     "id": 41726,
     "type": "Special",
-    "title": "Meow's Star"
+    "title": "Meow's Star",
+    "error": "not-found"
   },
   {
     "japanese": [
