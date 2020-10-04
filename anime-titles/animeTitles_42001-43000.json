@@ -516,6 +516,9 @@
     "japanese": [
       "白銀"
     ],
+    "synonyms": [
+      "Snow"
+    ],
     "id": 42078,
     "type": "Music",
     "title": "Hakugin"
@@ -2206,7 +2209,9 @@
     "synonyms": [
       "It's a Wonderful World",
       "This Wonderful World",
-      "Subarashiki Konosekai"
+      "Subarashiki Konosekai",
+      "Subaseka",
+      "TWEWY"
     ],
     "english": [
       "The World Ends with You The Animation"
@@ -3562,7 +3567,8 @@
     ],
     "id": 42481,
     "type": "ONA",
-    "title": "A Day Before Us"
+    "title": "A Day Before Us",
+    "error": "Error"
   },
   {
     "japanese": [
@@ -3570,7 +3576,8 @@
     ],
     "id": 42482,
     "type": "TV",
-    "title": "Seizei Ganbare! Mahou Shoujo Kurumi 3rd Season"
+    "title": "Seizei Ganbare! Mahou Shoujo Kurumi 3rd Season",
+    "error": "Error"
   },
   {
     "japanese": [
@@ -4721,6 +4728,9 @@
     "title": "Warabigami: Ten no Komoriuta"
   },
   {
+    "japanese": [
+      "万圣街2"
+    ],
     "english": [
       "All Saints Street 2"
     ],
@@ -4731,6 +4741,9 @@
   {
     "japanese": [
       "木兰：横空出世"
+    ],
+    "synonyms": [
+      "Kung Fu Mulan"
     ],
     "id": 42641,
     "type": "Movie",
@@ -4954,8 +4967,10 @@
       "体操ザムライ"
     ],
     "synonyms": [
-      "Taiso Samurai",
       "Gymnastics Samurai"
+    ],
+    "english": [
+      "Taiso Samurai"
     ],
     "id": 42668,
     "type": "TV",
@@ -5178,11 +5193,11 @@
       "それを愛と呼ぶだけ"
     ],
     "synonyms": [
-      "Just Call it Love"
+      "Just Call It Love"
     ],
     "id": 42703,
     "type": "Music",
-    "title": "Sore Wo Ai To Yobudake"
+    "title": "Sore wo Ai to Yobu dake"
   },
   {
     "japanese": [
@@ -5193,7 +5208,8 @@
     ],
     "id": 42704,
     "type": "Music",
-    "title": "Sore Wo Ai To Yobudake"
+    "title": "Sore Wo Ai To Yobudake",
+    "error": "not-found"
   },
   {
     "id": 42705,
