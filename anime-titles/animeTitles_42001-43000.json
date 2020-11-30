@@ -204,7 +204,8 @@
     ],
     "id": 42032,
     "type": "Movie",
-    "title": "Akai Sakana"
+    "title": "Akai Sakana",
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -504,6 +505,9 @@
     "synonyms": [
       "How to Eat Life"
     ],
+    "english": [
+      "How to Eat Life"
+    ],
     "id": 42076,
     "type": "Music",
     "title": "Inochi no Tabekata"
@@ -534,7 +538,8 @@
   {
     "id": 42081,
     "type": "ONA",
-    "title": "Tasuu Ketsu -Judgement Assizes-"
+    "title": "Tasuu Ketsu -Judgement Assizes-",
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -1393,6 +1398,9 @@
     "japanese": [
       "カタリナと学ぼう"
     ],
+    "synonyms": [
+      "Let's Learn With Katarina"
+    ],
     "id": 42194,
     "type": "ONA",
     "title": "Katarina to Manabou"
@@ -1650,14 +1658,15 @@
   },
   {
     "japanese": [
-      "水輪 カルマ2"
+      "水輪 カルマ（二）"
     ],
     "synonyms": [
+      "Mizu wa Karma 2",
       "Water Ring Karma 2"
     ],
     "id": 42233,
     "type": "Movie",
-    "title": "Mizu wa Karma 2"
+    "title": "Suirin: Karma (Ni)"
   },
   {
     "japanese": [
@@ -1751,7 +1760,7 @@
     ],
     "id": 42247,
     "type": "Movie",
-    "title": "Oomagatoki"
+    "title": "Oumagatoki"
   },
   {
     "japanese": [
@@ -1775,6 +1784,9 @@
   {
     "japanese": [
       "文豪ストレイドッグス わん！"
+    ],
+    "synonyms": [
+      "Bunsuto Wan!"
     ],
     "id": 42250,
     "type": "TV",
@@ -1873,7 +1885,8 @@
     ],
     "id": 42265,
     "type": "ONA",
-    "title": "Out of Sight"
+    "title": "Out of Sight",
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -2299,7 +2312,8 @@
     ],
     "id": 42318,
     "type": "OVA",
-    "title": "Danganronpa: Trigger Happy Havoc"
+    "title": "Danganronpa: Trigger Happy Havoc",
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -2360,7 +2374,8 @@
     ],
     "id": 42325,
     "type": "ONA",
-    "title": "My Last Day"
+    "title": "My Last Day",
+    "error": "not-found"
   },
   {
     "id": 42326,
@@ -2469,7 +2484,8 @@
     ],
     "id": 42336,
     "type": "TV",
-    "title": "Kodomo-tachi wa yūrei o mimasu"
+    "title": "Kodomo-tachi wa yūrei o mimasu",
+    "error": "not-found"
   },
   {
     "id": 42337,
@@ -2515,7 +2531,8 @@
   {
     "id": 42342,
     "type": "ONA",
-    "title": "super dragon ball heros big bang mission"
+    "title": "super dragon ball heros big bang mission",
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -2619,7 +2636,8 @@
     ],
     "id": 42356,
     "type": "TV",
-    "title": "Hachigatsu no Cinderella Nine Re:fine"
+    "title": "Hachigatsu no Cinderella Nine Re:fine",
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -2777,7 +2795,8 @@
     ],
     "id": 42374,
     "type": "Music",
-    "title": "Breaking the Habit"
+    "title": "Breaking the Habit",
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -2897,7 +2916,8 @@
     ],
     "id": 42389,
     "type": "OVA",
-    "title": "Moon Struck Artemis"
+    "title": "Moon Struck Artemis",
+    "error": "not-found"
   },
   {
     "synonyms": [
@@ -3082,11 +3102,11 @@
   },
   {
     "japanese": [
-      "映画ヒーリングっど♥プリキュア"
+      "映画ヒーリングっど♥プリキュア　ゆめのまちでキュン！っとGoGo！大変身！！"
     ],
     "id": 42422,
     "type": "Movie",
-    "title": "Healin' Good♡Precure Movie"
+    "title": "Healin' Good♡Precure Movie: Yume no Machi de Kyun! Tto GoGo! Dai Henshin!!"
   },
   {
     "japanese": [
@@ -3466,14 +3486,15 @@
       "战斗王之飓风战魂5"
     ],
     "synonyms": [
-      "King of Warrior 5"
+      "King of Warrior 5",
+      "Infinity Nado 5"
     ],
     "english": [
       "Infinity Nado 5"
     ],
     "id": 42468,
     "type": "TV",
-    "title": "Zhandou Wang Jufeng Zhan Hun 5"
+    "title": "Zhandou Wang Zhi Jufeng Zhan Hun 5"
   },
   {
     "id": 42469,
@@ -3542,7 +3563,8 @@
     ],
     "id": 42479,
     "type": "TV",
-    "title": "BeyWheelz: Powered by Beyblade"
+    "title": "BeyWheelz: Powered by Beyblade",
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -3556,7 +3578,8 @@
     ],
     "id": 42480,
     "type": "TV",
-    "title": "BeyWarriors BeyRaiderz"
+    "title": "BeyWarriors BeyRaiderz",
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -3577,7 +3600,10 @@
     "id": 42482,
     "type": "TV",
     "title": "Seizei Ganbare! Mahou Shoujo Kurumi 3rd Season",
-    "error": "Error"
+    "error": {
+      "code": 500,
+      "message": "Internal Server Error"
+    }
   },
   {
     "japanese": [
@@ -3618,7 +3644,7 @@
     ],
     "id": 42486,
     "type": "Special",
-    "title": "Shadowverse (TV) Recap"
+    "title": "Shadowverse (TV) Recaps"
   },
   {
     "japanese": [
@@ -3682,7 +3708,8 @@
     ],
     "id": 42494,
     "type": "Music",
-    "title": "南の島のハメハメハ大王"
+    "title": "南の島のハメハメハ大王",
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -3856,12 +3883,15 @@
     "japanese": [
       "アニメ カピバラさん"
     ],
+    "synonyms": [
+      "Animation Kapibara-san"
+    ],
     "english": [
-      "Animation KAPIBARASAN"
+      "Anime KAPIBARASAN"
     ],
     "id": 42514,
     "type": "TV",
-    "title": "Animation Kapibara-san"
+    "title": "Anime Kapibara-san"
   },
   {
     "id": 42515,
@@ -4323,7 +4353,8 @@
     ],
     "id": 42583,
     "type": "Special",
-    "title": "Toaru Kagaku no Railgun T: Motto Marutto Railgun"
+    "title": "Toaru Kagaku no Railgun T: Motto Marutto Railgun",
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -4429,9 +4460,12 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "Never giving up!"
+    ],
     "id": 42600,
     "type": "Music",
-    "title": "Never giving up!"
+    "title": "Never Giving Up!"
   },
   {
     "japanese": [
@@ -4501,7 +4535,8 @@
     ],
     "id": 42608,
     "type": "Special",
-    "title": "Toaru Kagaku no Railgun T: Motto Marutto Railgun"
+    "title": "Toaru Kagaku no Railgun T: Motto Marutto Railgun",
+    "error": "not-found"
   },
   {
     "id": 42609,
@@ -4823,7 +4858,7 @@
   },
   {
     "id": 42652,
-    "error": "not-found"
+    "error": "network-error"
   },
   {
     "japanese": [
@@ -4831,7 +4866,8 @@
     ],
     "id": 42653,
     "type": "TV",
-    "title": "Aikatsu Planet!"
+    "title": "Aikatsu Planet!",
+    "error": "network-error"
   },
   {
     "japanese": [
@@ -4845,11 +4881,12 @@
     ],
     "id": 42654,
     "type": "TV",
-    "title": "Robocar Poli 3"
+    "title": "Robocar Poli 3",
+    "error": "network-error"
   },
   {
     "id": 42655,
-    "error": "not-found"
+    "error": "network-error"
   },
   {
     "japanese": [
@@ -4860,7 +4897,8 @@
     ],
     "id": 42656,
     "type": "Music",
-    "title": "Furusato"
+    "title": "Furusato",
+    "error": "network-error"
   },
   {
     "japanese": [
@@ -4868,7 +4906,8 @@
     ],
     "id": 42657,
     "type": "TV",
-    "title": "Himitsukessha Taka no Tsume: Golden Spell"
+    "title": "Himitsukessha Taka no Tsume: Golden Spell",
+    "error": "network-error"
   },
   {
     "japanese": [
@@ -4882,11 +4921,12 @@
     ],
     "id": 42658,
     "type": "ONA",
-    "title": "Ninjala"
+    "title": "Ninjala",
+    "error": "network-error"
   },
   {
     "id": 42659,
-    "error": "not-found"
+    "error": "network-error"
   },
   {
     "japanese": [
@@ -4900,11 +4940,12 @@
     ],
     "id": 42660,
     "type": "TV",
-    "title": "Robocar Poli 4"
+    "title": "Robocar Poli 4",
+    "error": "network-error"
   },
   {
     "id": 42661,
-    "error": "not-found"
+    "error": "network-error"
   },
   {
     "japanese": [
@@ -4915,7 +4956,8 @@
     ],
     "id": 42662,
     "type": "Music",
-    "title": "Fanta Jiisan no Uta"
+    "title": "Fanta Jiisan no Uta",
+    "error": "network-error"
   },
   {
     "japanese": [
@@ -4926,7 +4968,8 @@
     ],
     "id": 42663,
     "type": "Music",
-    "title": "Fuusen"
+    "title": "Fuusen",
+    "error": "network-error"
   },
   {
     "japanese": [
@@ -4934,11 +4977,12 @@
     ],
     "id": 42664,
     "type": "Movie",
-    "title": "Detective Conan Movie 19: The Hellfire Sunflowers x No More Eiga Dorobou"
+    "title": "Detective Conan Movie 19: The Hellfire Sunflowers x No More Eiga Dorobou",
+    "error": "network-error"
   },
   {
     "id": 42665,
-    "error": "not-found"
+    "error": "network-error"
   },
   {
     "japanese": [
@@ -5229,7 +5273,8 @@
     ],
     "id": 42708,
     "type": "Special",
-    "title": "Ryuu to Ichigo"
+    "title": "Ryuu to Ichigo",
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -5421,7 +5466,8 @@
     ],
     "id": 42735,
     "type": "ONA",
-    "title": "Jyuu no Shitsumon"
+    "title": "Jyuu no Shitsumon",
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -5543,6 +5589,9 @@
     "japanese": [
       "この世界の楽しみ方〜Secret Story Film〜"
     ],
+    "synonyms": [
+      "HoneyWorks 10th Anniversary \"Lip×Lip Film×Live\""
+    ],
     "id": 42750,
     "type": "Movie",
     "title": "Kono Sekai no Tanoshimikata: Secret Story Film"
@@ -5620,27 +5669,29 @@
   },
   {
     "japanese": [
-      "机甲兽神之爆裂飞车 第二季"
+      "爆裂飞车Ⅱ 星能觉醒"
     ],
     "synonyms": [
       "Burst Speed 2",
-      "Opti-Morphs"
+      "Opti-Morphs",
+      "Ji Jia Shou Shen Zhi Baolie Feiche 2nd Season"
     ],
     "id": 42760,
     "type": "ONA",
-    "title": "Ji Jia Shou Shen Zhi Baolie Feiche Season 2"
+    "title": "Baolie Feiche II: Xing Neng Juexing"
   },
   {
     "japanese": [
-      "机甲兽神之爆裂飞车 第三季"
+      "爆裂飞车3兽神合体"
     ],
     "synonyms": [
       "Burst Speed 3",
-      "Opti-Morphs"
+      "Opti-Morphs",
+      "Ji Jia Shou Shen Zhi Baolie Feiche 3rd Season"
     ],
     "id": 42761,
     "type": "ONA",
-    "title": "Ji Jia Shou Shen Zhi Baolie Feiche Season 3"
+    "title": "Baolie Feiche 3: Shou Shen Heti"
   },
   {
     "japanese": [
@@ -5698,7 +5749,7 @@
   },
   {
     "japanese": [
-      "机甲兽神 第二季"
+      "机甲兽神 第2季"
     ],
     "synonyms": [
       "The Mechnimals 2"
@@ -5706,7 +5757,7 @@
     "id": 42766,
     "error": "not-found",
     "type": "TV",
-    "title": "Ji Jia Shou Shen Season 2"
+    "title": "Ji Jia Shou Shen 2nd Season"
   },
   {
     "japanese": [
@@ -5852,6 +5903,9 @@
     "title": "Dazzling White Town"
   },
   {
+    "japanese": [
+      "书灵记"
+    ],
     "id": 42784,
     "error": "not-found",
     "type": "ONA",
@@ -5895,24 +5949,27 @@
   },
   {
     "id": 42788,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "id": 42789,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "id": 42790,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "japanese": [
-      "『サクラ革命 ～華咲く乙女たち～ 』スペシャルアニメ"
+      "サクラ革命 ～華咲く乙女たち～"
     ],
     "id": 42791,
     "error": "not-found",
     "type": "ONA",
-    "title": "Sakura Kakumei: Hanasaku Otome-tachi Special Animation"
+    "title": "Sakura Kakumei: Hanasaku Otome-tachi"
   },
   {
     "japanese": [
@@ -5939,21 +5996,26 @@
     "title": "Carol (Music)"
   },
   {
+    "japanese": [
+      "镜·双城 风起篇"
+    ],
     "english": [
-      "The Mirror Twin Cities"
+      "The Mirror: Twin Cities"
     ],
     "id": 42794,
     "error": "not-found",
     "type": "ONA",
-    "title": "Jing Shuang Cheng"
+    "title": "Jing: Shuang Cheng - Feng Qi Pian"
   },
   {
     "id": 42795,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "id": 42796,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "japanese": [
@@ -6042,6 +6104,12 @@
     "japanese": [
       "おねがいっパトロンさま！"
     ],
+    "synonyms": [
+      "Onepato"
+    ],
+    "english": [
+      "Dear My Patron"
+    ],
     "id": 42804,
     "error": "not-found",
     "type": "ONA",
@@ -6049,16 +6117,17 @@
   },
   {
     "japanese": [
-      "多数欠"
+      "多数欠 -Judgement Assizes-"
     ],
     "id": 42805,
     "error": "not-found",
     "type": "OVA",
-    "title": "Tasuuketsu"
+    "title": "Tasuuketsu: Judgement Assizes"
   },
   {
     "id": 42806,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "japanese": [
@@ -6082,7 +6151,7 @@
     "id": 42808,
     "error": "not-found",
     "type": "TV",
-    "title": "Shenmue: The Animation"
+    "title": ""
   },
   {
     "japanese": [
@@ -6094,7 +6163,7 @@
     "id": 42809,
     "error": "not-found",
     "type": "Music",
-    "title": "Zone: Intro"
+    "title": ""
   },
   {
     "japanese": [
@@ -6103,7 +6172,7 @@
     "id": 42810,
     "error": "not-found",
     "type": "ONA",
-    "title": "Sakura Kakumei"
+    "title": ""
   },
   {
     "japanese": [
@@ -6125,7 +6194,8 @@
   },
   {
     "id": 42813,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "synonyms": [
@@ -6153,15 +6223,18 @@
   },
   {
     "id": 42816,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "id": 42817,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "id": 42818,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "japanese": [
@@ -6170,7 +6243,7 @@
     "id": 42819,
     "error": "not-found",
     "type": "Music",
-    "title": "Alba"
+    "title": ""
   },
   {
     "japanese": [
@@ -6204,11 +6277,13 @@
   },
   {
     "id": 42823,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "id": 42824,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "japanese": [
@@ -6239,7 +6314,8 @@
   },
   {
     "id": 42827,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "japanese": [
@@ -6260,6 +6336,9 @@
     "japanese": [
       "忘却バッテリー"
     ],
+    "synonyms": [
+      "Jump Special Anime Festa 2020"
+    ],
     "id": 42829,
     "error": "not-found",
     "type": "ONA",
@@ -6267,11 +6346,15 @@
   },
   {
     "id": 42830,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "japanese": [
       "無能なナナ"
+    ],
+    "synonyms": [
+      "Talentless Nana Mini Anime"
     ],
     "english": [
       "Talentless Nana Mini Anime"
@@ -6291,7 +6374,7 @@
     "id": 42832,
     "error": "not-found",
     "type": "Special",
-    "title": "Tales of Crestoria: Toga Waga o Shoite Kare wa Tatsu"
+    "title": "Tales of Crestoria: Toga Waga wo Shoite Kare wa Tatsu"
   },
   {
     "japanese": [
@@ -6303,11 +6386,14 @@
     "id": 42833,
     "error": "not-found",
     "type": "ONA",
-    "title": "Jing: Shuang Cheng"
+    "title": ""
   },
   {
     "japanese": [
       "喵千岁的成年礼"
+    ],
+    "synonyms": [
+      "Miao Qian Sui de Cheng Nian Li"
     ],
     "english": [
       "Miao Chitose's Coming-of-Age Ceremony"
@@ -6315,19 +6401,22 @@
     "id": 42834,
     "error": "not-found",
     "type": "ONA",
-    "title": "Miao Qian Sui De Cheng Nian Li"
+    "title": "Miao Qiansui de Chengnian Li"
   },
   {
     "japanese": [
       "任务大师"
     ],
+    "synonyms": [
+      "Ren Wu Da Shi"
+    ],
     "english": [
-      "Task Master"
+      "Master of Task"
     ],
     "id": 42835,
     "error": "not-found",
     "type": "ONA",
-    "title": "Ren Wu Da Shi"
+    "title": "Renwu Dashi"
   },
   {
     "japanese": [
@@ -6368,7 +6457,8 @@
   },
   {
     "id": 42839,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "japanese": [
@@ -6398,7 +6488,7 @@
     "id": 42841,
     "error": "not-found",
     "type": "OVA",
-    "title": "Moments"
+    "title": ""
   },
   {
     "japanese": [
@@ -6462,7 +6552,7 @@
     "id": 42848,
     "error": "not-found",
     "type": "OVA",
-    "title": "Shikoyakanaru Toki mo Hameru Toki mo"
+    "title": "Shikoyaka Naru Toki mo Hameru Toki mo"
   },
   {
     "japanese": [
@@ -6622,15 +6712,20 @@
   },
   {
     "japanese": [
-      "Rent-a-Girlfriend chiba"
+      "彼女",
+      "お借りします ぷち"
     ],
     "synonyms": [
-      "Rent-a-Girlfriend Chibi"
+      "Kanojo",
+      "Okarishimasu Puchi",
+      "Rent-a-Girlfriend Chibi",
+      "Kanojo",
+      "Okarishimasu Mini Anime"
     ],
     "id": 42867,
     "error": "not-found",
     "type": "ONA",
-    "title": "Kanojo, Okarishimasu Puchi"
+    "title": "Kanojo, Okarishimasu Petit"
   },
   {
     "japanese": [
@@ -6788,6 +6883,9 @@
     "japanese": [
       "それだけがネック"
     ],
+    "english": [
+      "That is the Bottleneck"
+    ],
     "id": 42883,
     "error": "not-found",
     "type": "TV",
@@ -6815,10 +6913,14 @@
     "japanese": [
       "銀河英雄伝説 Die Neue These (続編)"
     ],
+    "synonyms": [
+      "The Legend of the Galactic Heroes: The New Thesis",
+      "LotGH"
+    ],
     "id": 42886,
     "error": "not-found",
     "type": "TV",
-    "title": "Ginga Eiyuu Densetsu: Die Neue These (Zokuhen)"
+    "title": "Ginga Eiyuu Densetsu: Die Neue These (Zoku-hen)"
   },
   {
     "japanese": [
@@ -6846,47 +6948,123 @@
   },
   {
     "id": 42889,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Muteki-kyuu*Believer / Mirai Harmony"
   },
   {
+    "japanese": [
+      "キャップ革命ボトルマン"
+    ],
     "id": 42890,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Cap Kakumei Bottleman"
   },
   {
+    "japanese": [
+      "漁童"
+    ],
+    "synonyms": [
+      "Fishing Child",
+      "Fisherboy"
+    ],
     "id": 42891,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Yu Tong"
   },
   {
+    "japanese": [
+      "薔薇王の葬列"
+    ],
+    "synonyms": [
+      "Requiem of the Rose King"
+    ],
     "id": 42892,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Baraou no Souretsu"
   },
   {
+    "japanese": [
+      "갓오브하이스쿨"
+    ],
+    "english": [
+      "The God of High School"
+    ],
     "id": 42893,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "The God of Highschool"
   },
   {
+    "japanese": [
+      "夏目友人帳 石起こしと怪しき来訪者"
+    ],
+    "synonyms": [
+      "Natsume's Book of Friends"
+    ],
     "id": 42894,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Natsume Yuujinchou: Ishi Okoshi to Ayashiki Raihousha"
   },
   {
+    "japanese": [
+      "宇宙はたのしいフェスティバル"
+    ],
+    "synonyms": [
+      "Minna no Uta"
+    ],
     "id": 42895,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Uchuu wa Tanoshii Festival"
   },
   {
+    "japanese": [
+      "もういいかい"
+    ],
+    "synonyms": [
+      "Minna no Uta",
+      "Are You Ready"
+    ],
     "id": 42896,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Mou Ii Kai"
   },
   {
+    "japanese": [
+      "ホリミヤ"
+    ],
     "id": 42897,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Horimiya"
   },
   {
+    "japanese": [
+      "万界仙踪 第四季"
+    ],
+    "synonyms": [
+      "Wan Jie Xian Zong Di Si Ji",
+      "Wanjie Xianzong 4th Season"
+    ],
     "id": 42898,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Wan Jie Xian Zong 4th Season"
   },
   {
+    "japanese": [
+      "マイリトルゴート"
+    ],
     "id": 42899,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "My Little Goat"
   },
   {
     "id": 42900,
@@ -6901,8 +7079,16 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "わたしのにゃんこ"
+    ],
+    "synonyms": [
+      "Minna no Uta"
+    ],
     "id": 42903,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Watashi no Nyanko"
   },
   {
     "id": 42904,
@@ -6913,48 +7099,120 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "絶望の怪物"
+    ],
+    "english": [
+      "Despair of the Monster"
+    ],
     "id": 42906,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Zetsubou no Kaibutsu"
   },
   {
+    "japanese": [
+      "緑黄色社会 『Mela!』Music Video / Ryokuoushoku Shakai – Mela!"
+    ],
     "id": 42907,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Mela! MV"
   },
   {
+    "japanese": [
+      "緑黄色社会 『夏を生きる』Music Video / Ryokuoushoku Shakai"
+    ],
     "id": 42908,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Natsu wo Ikiru"
   },
   {
+    "japanese": [
+      "南の島の花よめさん"
+    ],
+    "synonyms": [
+      "Minna no Uta"
+    ],
     "id": 42909,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Minami no Shima no Hanayome-san"
   },
   {
+    "japanese": [
+      "파도가 끝나는 곳까지"
+    ],
+    "synonyms": [
+      "파도가 끝나는 곳까지"
+    ],
+    "english": [
+      "Where the Sea Sleeps"
+    ],
     "id": 42910,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Where the Sea Sleeps"
   },
   {
+    "japanese": [
+      "노래하고 싶어"
+    ],
+    "synonyms": [
+      "노래하고 싶어"
+    ],
+    "english": [
+      "I Just Wanna Sing"
+    ],
     "id": 42911,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "I Just Wanna Sing"
   },
   {
     "id": 42912,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "囀る動物はやるしかない！"
+    ],
     "id": 42913,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Saezuru Doubutsu wa Yarushikanai!"
   },
   {
+    "japanese": [
+      "プラネタリウム ポケットモンスター オーロラからのメッセージ"
+    ],
+    "synonyms": [
+      "Pocket Monsters Planetarium \"The Message from the Aurora\"",
+      "Pokemon (2019): Planetarium"
+    ],
     "id": 42914,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Planetarium Pokemon: Aurora kara no Message"
   },
   {
     "id": 42915,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "劇場版 ソードアート・オンライン プログレッシブ 星なき夜のアリア"
+    ],
+    "synonyms": [
+      "SAO Progressive Movie",
+      "Aria in the Starless Night",
+      "Hoshinaki Yoru no Aria"
+    ],
     "id": 42916,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Sword Art Online: Progressive Movie - Hoshi Naki Yoru no Aria"
   },
   {
     "id": 42917,
@@ -6965,256 +7223,614 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "フニクリ フニクラ（登山電車）"
+    ],
+    "synonyms": [
+      "Minna no Uta",
+      "Tozandensha"
+    ],
     "id": 42919,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Funiculì funiculà"
   },
   {
+    "japanese": [
+      "俺はFBI捜査官 赤井秀一"
+    ],
+    "synonyms": [
+      "Taboo-Tag: 04 - Akai Shuuichi x Self-Introduction"
+    ],
     "id": 42920,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Watashi wa FBI Sousakan Akai Shuuichi"
   },
   {
     "id": 42921,
     "error": "not-found"
   },
   {
+    "english": [
+      "Q-borg"
+    ],
     "id": 42922,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Q-borg"
   },
   {
+    "japanese": [
+      "SK∞ エスケーエイト"
+    ],
+    "synonyms": [
+      "SK Eight"
+    ],
+    "english": [
+      "SK8 the Infinity"
+    ],
     "id": 42923,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "SK∞"
   },
   {
     "id": 42924,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "かむかもしかもにどもかも！"
+    ],
+    "synonyms": [
+      "Minna no Uta"
+    ],
     "id": 42925,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Kamu Kamo Shikamo Nidomo Kamo!"
   },
   {
     "id": 42926,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "ポケットモンスター ミュウツーの逆襲"
+    ],
+    "synonyms": [
+      "Pokemon Movie 01: Mewtwo no Gyakushuu First Trailer"
+    ],
     "id": 42927,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Pokemon Movie 01: Mewtwo no Gyakushuu PV"
   },
   {
+    "japanese": [
+      "ポケットモンスター 結晶塔の帝王 ENTEI"
+    ],
     "id": 42928,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Pokemon Movie 03: Kesshoutou no Teiou Entei PV"
   },
   {
+    "japanese": [
+      "ポケットモンスター ダイヤモンド＆パール ディアルガVSパルキアVSダークライ"
+    ],
     "id": 42929,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Pokemon Movie 10: Dialga vs. Palkia vs. Darkrai PVs"
   },
   {
+    "japanese": [
+      "ポケットモンスター ダイヤモンド&パール 幻影の覇者 ゾロアーク"
+    ],
     "id": 42930,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Pokemon Movie 13: Genei no Hasha Zoroark PVs"
   },
   {
+    "japanese": [
+      "週刊ポケモン放送局"
+    ],
+    "synonyms": [
+      "Weekly Pokemon Broadcasting Station"
+    ],
     "id": 42931,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Shuukan Pokemon Housoukyoku"
   },
   {
+    "japanese": [
+      "ポケモン不思議のダンジョン 空の探検隊"
+    ],
     "id": 42932,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Pokemon Fushigi no Dungeon: Sora no Tankentai CM"
   },
   {
+    "japanese": [
+      "ポケモン不思議のダンジョン 時の探検隊・闇の探検隊"
+    ],
     "id": 42933,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Pokemon Fushigi no Dungeon: Toki no Tankentai, Yami no Tankentai CMs"
   },
   {
     "id": 42934,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
+    "japanese": [
+      "サクガサク"
+    ],
     "id": 42935,
-    "error": "not-found"
+    "error": "not-found",
+    "title": "Sakugasaku",
+    "type": "Music"
   },
   {
     "id": 42936,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "id": 42937,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
+    "japanese": [
+      "フルーツバスケット The Final"
+    ],
+    "synonyms": [
+      "Fruits Basket 3rd Season",
+      "Fruits Basket (2019) 3rd Season",
+      "Furuba"
+    ],
     "id": 42938,
-    "error": "not-found"
+    "error": "not-found",
+    "title": "Fruits Basket: The Final",
+    "type": "TV"
   },
   {
     "id": 42939,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
+    "japanese": [
+      "範馬刃牙 SON OF OGRE"
+    ],
+    "synonyms": [
+      "The Boy Fascinating the Fighting God"
+    ],
     "id": 42940,
-    "error": "not-found"
+    "error": "not-found",
+    "title": "Hanma Baki: Son of Ogre",
+    "type": "ONA"
   },
   {
+    "japanese": [
+      "ウマ娘 プリティーダービー Season 2"
+    ],
+    "synonyms": [
+      "Umamusume: Pretty Derby Season 2"
+    ],
     "id": 42941,
-    "error": "not-found"
+    "error": "not-found",
+    "title": "Uma Musume: Pretty Derby Season 2",
+    "type": "TV"
   },
   {
     "id": 42942,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "id": 42943,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
+    "japanese": [
+      "お正月だよ！ポケモンで初笑いスペシャル!!"
+    ],
+    "synonyms": [
+      "It's New Year's! Get the First Laugh of the Year with Pokemon!!"
+    ],
     "id": 42944,
-    "error": "not-found"
+    "error": "not-found",
+    "title": "Oshougatsuda yo! Pokemon de Hatsu Warai Special!!",
+    "type": "Special"
   },
   {
+    "japanese": [
+      "第一パン ポケモン"
+    ],
+    "synonyms": [
+      "Daiichi Pan Pokemon Story",
+      "Pokemon Pan"
+    ],
     "id": 42945,
-    "error": "not-found"
+    "error": "not-found",
+    "title": "Daiichi Pan Pokemon CMs",
+    "type": "Special"
   },
   {
+    "japanese": [
+      "クソゲーって言うな！アニメーション"
+    ],
+    "synonyms": [
+      "Don't Say Kusoge!"
+    ],
+    "english": [
+      "Don't Call Us A JUNK GAME!"
+    ],
     "id": 42946,
-    "error": "not-found"
+    "error": "not-found",
+    "title": "Kusoge tte Iuna! Animation",
+    "type": "ONA"
   },
   {
+    "japanese": [
+      "秦侠"
+    ],
+    "english": [
+      "The Warrior From Qin"
+    ],
     "id": 42947,
-    "error": "not-found"
+    "error": "not-found",
+    "title": "Qin Xia",
+    "type": "ONA"
   },
   {
+    "japanese": [
+      "宿身小人"
+    ],
     "id": 42948,
-    "error": "not-found"
+    "error": "not-found",
+    "title": "Su Shen Xiao Ren",
+    "type": "ONA"
   },
   {
+    "japanese": [
+      "少女前线 人形小剧场2"
+    ],
+    "synonyms": [
+      "Girls' Frontline 2",
+      "Dolls' Frontline 2",
+      "Shao Nu Qian Xian 2",
+      "Dollfro: Iyashi-hen 2",
+      "Dollfro: Kyouran-hen 2"
+    ],
     "id": 42949,
-    "error": "not-found"
+    "error": "not-found",
+    "title": "Shaonu Qianxian: Renxing Xiao Juchang 2",
+    "type": "ONA"
   },
   {
+    "japanese": [
+      "我家大师兄是个反派"
+    ],
+    "synonyms": [
+      "There's a Pit in My Senior Martial Brother's Brain 2",
+      "Our Big Brother's Mind Has A Problem 2",
+      "Wo Jia Da Shixiong Naozi You Keng 2nd Season"
+    ],
     "id": 42950,
-    "error": "not-found"
+    "error": "not-found",
+    "title": "Wo Jia Da Shixiong Shi Ge Fanpai",
+    "type": "ONA"
   },
   {
+    "japanese": [
+      "我为歌狂"
+    ],
+    "synonyms": [
+      "Crazy for the Song",
+      "Music Up!"
+    ],
     "id": 42951,
-    "error": "not-found"
+    "error": "not-found",
+    "title": "Wo Wei Ge Kuang",
+    "type": "ONA"
   },
   {
+    "japanese": [
+      "我为歌狂之旋律重启"
+    ],
+    "synonyms": [
+      "Music Up! I'm Back!",
+      "Music Up: Reborn",
+      "Wo Wei Ge Kuang Zhi Xuan Lv Chong Qi"
+    ],
     "id": 42952,
-    "error": "not-found"
+    "error": "not-found",
+    "title": "Wo Wei Ge Kuang: Xuanlu Chongqi",
+    "type": "ONA"
   },
   {
     "id": 42953,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
+    "japanese": [
+      "ひげヒゲげひポンポン"
+    ],
+    "synonyms": [
+      "Minna no Uta"
+    ],
     "id": 42954,
-    "error": "not-found"
+    "error": "not-found",
+    "title": "Hige Hige Gehi Ponpon",
+    "type": "Music"
   },
   {
+    "japanese": [
+      "ハレルヤ - 運命の選択 -"
+    ],
+    "synonyms": [
+      "Monster Strike the Animation: Halleujah",
+      "Monsuto Anime: Hallelujah",
+      "Hareruya"
+    ],
     "id": 42955,
-    "error": "not-found"
+    "error": "not-found",
+    "title": "Hallelujah: Unmei no Sentaku",
+    "type": "ONA"
   },
   {
+    "japanese": [
+      "汉化日记 第二季"
+    ],
+    "english": [
+      "God Troubles Me"
+    ],
     "id": 42956,
-    "error": "not-found"
+    "error": "not-found",
+    "title": "Han Hua Ri Ji 2nd Season",
+    "type": "ONA"
   },
   {
     "id": 42957,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
+    "japanese": [
+      "うたの歌"
+    ],
+    "synonyms": [
+      "Minna no Uta"
+    ],
     "id": 42958,
-    "error": "not-found"
+    "error": "not-found",
+    "title": "Uta no Uta",
+    "type": "Music"
   },
   {
+    "japanese": [
+      "八十亀ちゃんかんさつにっき 3さつめ"
+    ],
     "id": 42959,
-    "error": "not-found"
+    "error": "not-found",
+    "title": "Yatogame-chan Kansatsu Nikki Sansatsume",
+    "type": "TV"
   },
   {
     "id": 42960,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "id": 42961,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
+    "japanese": [
+      "宇崎ちゃんは遊びたい！"
+    ],
+    "synonyms": [
+      "Uzaki-chan Wants to Hang Out! 2nd Season"
+    ],
     "id": 42962,
-    "error": "not-found"
+    "error": "not-found",
+    "title": "Uzaki-chan wa Asobitai! 2nd Season",
+    "type": "TV"
   },
   {
+    "japanese": [
+      "彼女、お借りします"
+    ],
+    "synonyms": [
+      "Kanokari",
+      "Rent-a-Girlfriend 2nd Season"
+    ],
     "id": 42963,
-    "error": "not-found"
+    "error": "not-found",
+    "title": "Kanojo, Okarishimasu 2nd Season",
+    "type": "TV"
   },
   {
     "id": 42964,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
+    "japanese": [
+      "凡人修仙传之凡人风起天南 贰"
+    ],
+    "synonyms": [
+      "Fanren Xiu Xian Chuan Zhi Fanren Feng Qi Tian Nan 2",
+      "A Record of a Mortal's Journey to Immortality 2"
+    ],
     "id": 42965,
-    "error": "not-found"
+    "error": "not-found",
+    "title": "Fanren Xiu Xian Chuan Zhi Fanren Feng Qi Tian Nan Er",
+    "type": "ONA"
   },
   {
+    "japanese": [
+      "战双帕尼尼"
+    ],
+    "synonyms": [
+      "Punishing: Panini"
+    ],
     "id": 42966,
-    "error": "not-found"
+    "error": "not-found",
+    "title": "Zhan Shuang Panini",
+    "type": "ONA"
   },
   {
+    "japanese": [
+      "肥志百科"
+    ],
+    "synonyms": [
+      "Fei Zhi Baike: Yuanlai Ni Shi Zheyang de Zhiwu"
+    ],
     "id": 42967,
-    "error": "not-found"
+    "error": "not-found",
+    "title": "Fei Zhi Baike",
+    "type": "ONA"
   },
   {
     "id": 42968,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
+    "japanese": [
+      "梦幻书院 第四季"
+    ],
     "id": 42969,
-    "error": "not-found"
+    "error": "not-found",
+    "title": "Menghuan Shuyuan 4th Season",
+    "type": "ONA"
   },
   {
     "id": 42970,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
+    "japanese": [
+      "ふるさと"
+    ],
+    "synonyms": [
+      "Minna no Uta"
+    ],
     "id": 42971,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Furusato (2013)"
   },
   {
+    "japanese": [
+      "俗・さよなら絶望先生「週刊絶望先生批評」"
+    ],
+    "synonyms": [
+      "Zoku Sayonara Zetsubou Sensei Specials",
+      "Zoku Sayonara Zetsubou Sensei: Zetsubou Sensei Weekly Review"
+    ],
     "id": 42972,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Zoku Sayonara Zetsubou Sensei: Shuukan Zetsubou Sensei Hihyou"
   },
   {
     "id": 42973,
     "error": "not-found"
   },
   {
+    "english": [
+      "My Hero Academia: the dream comes true"
+    ],
     "id": 42974,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Boku no Hero Academia Yume wo Genjitsu ni"
   },
   {
+    "japanese": [
+      "服を着るまで"
+    ],
+    "synonyms": [
+      "Getting Dressed"
+    ],
+    "english": [
+      "Getting Dressed"
+    ],
     "id": 42975,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Movie",
+    "title": "Fuku wo Kiru made"
   },
   {
+    "japanese": [
+      "BIOHAZARD INFINITE DARKNESS"
+    ],
+    "synonyms": [
+      "Resident Evil: Infinite Darkness"
+    ],
     "id": 42976,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Biohazard: Infinite Darkness"
   },
   {
+    "japanese": [
+      "斗罗大陆之星斗献祭篇"
+    ],
+    "synonyms": [
+      "Douluo Dalu 6th Season",
+      "Douluo Dalu 1st Season Part 6",
+      "Soul Land 6th Season"
+    ],
     "id": 42977,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Douluo Dalu: Zhi Xingdou Xian Ji Pian"
   },
   {
     "id": 42978,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "战斗王之飓风战魂5合体番外篇"
+    ],
     "id": 42979,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Zhandou Wang Zhi Jufeng Zhan Hun 5: Heti Fanwai Pian"
   },
   {
     "id": 42980,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "アイドールズ!"
+    ],
+    "synonyms": [
+      "Idolls!: Idol Survival"
+    ],
     "id": 42981,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Idolls!"
   },
   {
     "id": 42982,
@@ -7225,12 +7841,30 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "GOTCHA!"
+    ],
+    "synonyms": [
+      "Pokémon Special Music Video",
+      "Acacia"
+    ],
     "id": 42984,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Gotcha!"
   },
   {
+    "japanese": [
+      "灵笼:INCARNATION 中章"
+    ],
+    "synonyms": [
+      "Spirit Cage: Incarnation Middle Chapter",
+      "Ling Long Episode 6.5"
+    ],
     "id": 42985,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "ONA",
+    "title": "Ling Long: Incarnation Middle Chapter"
   },
   {
     "id": 42986,
@@ -7241,48 +7875,120 @@
     "error": "not-found"
   },
   {
+    "japanese": [
+      "New Tribe"
+    ],
     "id": 42988,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "New Tribe"
   },
   {
+    "japanese": [
+      "マジカルDEATH"
+    ],
     "id": 42989,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Magical Death"
   },
   {
+    "japanese": [
+      "土下座で頼んでみた 異世界編"
+    ],
+    "synonyms": [
+      "Dogeza de Tanondemita Episode 13",
+      "I Tried Asking In Dogeza Episode 13"
+    ],
     "id": 42990,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Dogeza de Tanondemita: Isekai-hen"
   },
   {
+    "japanese": [
+      "魔法少獣シャーベット"
+    ],
+    "synonyms": [
+      "Magical Beast Sherbert"
+    ],
     "id": 42991,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Mahou Shoujuu Sherbert"
   },
   {
+    "synonyms": [
+      "Boku no Hero Academia Yume wo Genjitsu ni"
+    ],
     "id": 42992,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Special",
+    "title": "Boku no Hero Academia Heroes Rising Picture Drama"
   },
   {
+    "japanese": [
+      "Gravity"
+    ],
+    "synonyms": [
+      "Omoi",
+      "Omoware",
+      "Furi",
+      "Furare Special Music Video"
+    ],
     "id": 42993,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Gravity"
   },
   {
+    "japanese": [
+      "邪神ちゃんドロップキック"
+    ],
+    "synonyms": [
+      "Dropkick On My Devil! 3rd Season"
+    ],
     "id": 42994,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Jashin-chan Dropkick 3rd Season"
   },
   {
+    "japanese": [
+      "ショッキングブラック"
+    ],
     "id": 42995,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "Shocking Black"
   },
   {
+    "japanese": [
+      "い・そ・ぐ・な"
+    ],
+    "synonyms": [
+      "I So Gu Na"
+    ],
     "id": 42996,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "Music",
+    "title": "It's So Good Now"
   },
   {
     "id": 42997,
     "error": "not-found"
   },
   {
+    "japanese": [
+      "あわじしまの七福神"
+    ],
+    "english": [
+      "Seven Lucky Gods"
+    ],
     "id": 42998,
-    "error": "not-found"
+    "error": "not-found",
+    "type": "TV",
+    "title": "Awajishima no Shichifukujin"
   },
   {
     "id": 42999,
