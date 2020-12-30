@@ -181,11 +181,11 @@
   },
   {
     "japanese": [
-      "劇場版 Fate/kaleid liner プリズマ☆イリヤ"
+      "劇場版 Fate/kaleid liner プリズマ☆イリヤ Licht 名前の無い少女"
     ],
     "id": 42030,
     "type": "Movie",
-    "title": "Fate/kaleid liner Prisma☆Illya Movie"
+    "title": "Fate/kaleid liner Prisma☆Illya Movie: Licht - Namae no Nai Shoujo"
   },
   {
     "japanese": [
@@ -4805,7 +4805,7 @@
       "Golden Bat 2000"
     ],
     "english": [
-      "The Golden Bat ~millennium version~"
+      "The Golden Bat: Millennium Version"
     ],
     "id": 42645,
     "type": "Special",
@@ -4858,7 +4858,7 @@
   },
   {
     "id": 42652,
-    "error": "network-error"
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -4886,7 +4886,7 @@
   },
   {
     "id": 42655,
-    "error": "network-error"
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -4926,7 +4926,7 @@
   },
   {
     "id": 42659,
-    "error": "network-error"
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -4945,7 +4945,7 @@
   },
   {
     "id": 42661,
-    "error": "network-error"
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -4982,7 +4982,7 @@
   },
   {
     "id": 42665,
-    "error": "network-error"
+    "error": "not-found"
   },
   {
     "japanese": [
@@ -5202,7 +5202,8 @@
     ],
     "id": 42697,
     "type": "Special",
-    "title": "Teinenpi Shoujo Heidi CMs"
+    "title": "Teinenpi Shoujo Heidi CMs",
+    "error": "Error"
   },
   {
     "japanese": [
@@ -6151,7 +6152,7 @@
     "id": 42808,
     "error": "not-found",
     "type": "TV",
-    "title": ""
+    "title": "Shenmue: The Animation"
   },
   {
     "japanese": [
@@ -6163,7 +6164,7 @@
     "id": 42809,
     "error": "not-found",
     "type": "Music",
-    "title": ""
+    "title": "Zone: Intro"
   },
   {
     "japanese": [

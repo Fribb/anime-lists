@@ -20,6 +20,7 @@
 		"mal_id": 763
 	},
 	{
+		"thetvdb_id": -1,
 		"themoviedb_id": 45295,
 		"mal_id": 937
 	},
@@ -48,6 +49,7 @@
 		"mal_id": 2137
 	},
 	{
+		"thetvdb_id": -1,
 		"themoviedb_id": 78422,
 		"mal_id": 2263
 	},
@@ -762,6 +764,7 @@
 		"mal_id": 41468
 	},
 	{
+		"thetvdb_id": -1,
 		"themoviedb_id": -1,
 		"mal_id": 41751
 	},
