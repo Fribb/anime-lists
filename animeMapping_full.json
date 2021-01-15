@@ -53210,7 +53210,7 @@
     "mal_id": 36456
   },
   {
-    "thetvdb_id": -1,
+    "thetvdb_id": 391883,
     "mal_id": 36458
   },
   {
@@ -56869,7 +56869,7 @@
     "mal_id": 37983
   },
   {
-    "thetvdb_id": -1,
+    "thetvdb_id": 377902,
     "mal_id": 37984
   },
   {
@@ -60830,7 +60830,7 @@
     "mal_id": 39534
   },
   {
-    "thetvdb_id": -1,
+    "thetvdb_id": 371310,
     "mal_id": 39535
   },
   {
@@ -62984,7 +62984,7 @@
     "mal_id": 40593
   },
   {
-    "thetvdb_id": -1,
+    "thetvdb_id": 386933,
     "mal_id": 40594
   },
   {
@@ -63348,7 +63348,7 @@
     "mal_id": 40749
   },
   {
-    "thetvdb_id": -1,
+    "thetvdb_id": 388575,
     "mal_id": 40750
   },
   {
@@ -63844,7 +63844,7 @@
     "mal_id": 40960
   },
   {
-    "thetvdb_id": -1,
+    "thetvdb_id": 390384,
     "mal_id": 40961
   },
   {
@@ -63852,7 +63852,7 @@
     "mal_id": 40962
   },
   {
-    "thetvdb_id": 252373,
+    "thetvdb_id": 391465,
     "mal_id": 40964
   },
   {
@@ -64803,7 +64803,7 @@
     "mal_id": 41391
   },
   {
-    "thetvdb_id": -1,
+    "thetvdb_id": 388381,
     "mal_id": 41392
   },
   {
@@ -65961,7 +65961,7 @@
     "mal_id": 41890
   },
   {
-    "thetvdb_id": -1,
+    "thetvdb_id": 388006,
     "mal_id": 41899
   },
   {
@@ -68230,5 +68230,13 @@
   {
     "thetvdb_id": -1,
     "mal_id": 42998
+  },
+  {
+    "thetvdb_id": 390028,
+    "mal_id": 43299
+  },
+  {
+    "thetvdb_id": 352408,
+    "mal_id": 45753
   }
 ]
