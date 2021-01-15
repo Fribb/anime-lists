@@ -181,7 +181,10 @@
   },
   {
     "japanese": [
-      "劇場版 Fate/kaleid liner プリズマ☆イリヤ Licht 名前の無い少女"
+      "劇場版 Fate/kaleid liner プリズマ☆イリヤ"
+    ],
+    "synonyms": [
+      "Fate/kaleid liner Prisma☆Illya Movie: Licht Namae no Nai Shoujo"
     ],
     "id": 42030,
     "type": "Movie",
@@ -316,7 +319,7 @@
     ],
     "id": 42047,
     "type": "ONA",
-    "title": "Sema Kuruoshii Ie"
+    "title": ""
   },
   {
     "japanese": [
@@ -324,27 +327,32 @@
     ],
     "id": 42048,
     "type": "OVA",
-    "title": "Succubus Stayed Life The Animation"
+    "title": ""
   },
   {
     "id": 42049,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "id": 42050,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "id": 42051,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "id": 42052,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "id": 42053,
-    "error": "not-found"
+    "error": "not-found",
+    "title": ""
   },
   {
     "japanese": [
@@ -355,7 +363,7 @@
     ],
     "id": 42054,
     "type": "ONA",
-    "title": "Chou Futsuu Toshi Kashiwa Densetsu"
+    "title": ""
   },
   {
     "japanese": [
@@ -386,7 +394,7 @@
     ],
     "id": 42057,
     "type": "ONA",
-    "title": "Kyoshin to Hyouka no Shiro"
+    "title": ""
   },
   {
     "id": 42058,
@@ -6293,6 +6301,9 @@
     "synonyms": [
       "Project Scard: Scar on the Praeter"
     ],
+    "english": [
+      "Scar on the Praeter"
+    ],
     "id": 42825,
     "error": "not-found",
     "type": "TV",
@@ -6303,10 +6314,10 @@
       "聖女の魔力は万能です"
     ],
     "synonyms": [
-      "The Saint's Magic Ability is Omnipotent"
+      "The power of the saint is all around."
     ],
     "english": [
-      "The power of the saint is all around."
+      "The Saint's Magic Power is Omnipotent"
     ],
     "id": 42826,
     "error": "not-found",
@@ -6658,15 +6669,19 @@
   },
   {
     "japanese": [
-      "おとなの防具屋さん 第2シリーズ"
+      "おとなの防具屋さんII"
     ],
     "synonyms": [
+      "Otona no Bouguya-san 2nd Season",
       "Armor Shop for Ladies & Gentlemen 2nd Season"
+    ],
+    "english": [
+      "Armor Shop for Ladies and Gentlemen II"
     ],
     "id": 42862,
     "error": "not-found",
-    "type": "TV",
-    "title": "Otona no Bouguya-san 2nd Season"
+    "type": "ONA",
+    "title": "Otona no Bouguya-san II"
   },
   {
     "japanese": [
@@ -7008,7 +7023,7 @@
     ],
     "id": 42894,
     "error": "not-found",
-    "type": "TV",
+    "type": "Movie",
     "title": "Natsume Yuujinchou: Ishi Okoshi to Ayashiki Raihousha"
   },
   {
@@ -7039,6 +7054,9 @@
   {
     "japanese": [
       "ホリミヤ"
+    ],
+    "english": [
+      "Horimiya"
     ],
     "id": 42897,
     "error": "not-found",
@@ -7429,7 +7447,7 @@
     ],
     "id": 42941,
     "error": "not-found",
-    "title": "Uma Musume: Pretty Derby Season 2",
+    "title": "Uma Musume: Pretty Derby (TV) Season 2",
     "type": "TV"
   },
   {
@@ -7472,7 +7490,8 @@
       "クソゲーって言うな！アニメーション"
     ],
     "synonyms": [
-      "Don't Say Kusoge!"
+      "Don't Say Kusoge!",
+      "kusoge-tte iuna! Animation"
     ],
     "english": [
       "Don't Call Us A JUNK GAME!"
