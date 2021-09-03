@@ -105,3 +105,16 @@ while ID 25 from the movie endpoint will return "[Jarhead](https://www.themovied
 You would have to make sure that you use the correct endpoint depending on what kind of media you have.
 
 ---
+
+### Generation and Corrections
+
+The anime-lists-generator Project only reduces the anime-offline-database so that only the IDs are available.
+
+In regards to the ScudLee anime-lists, this is, however, not fully the case.
+The anime-lists provided includes some unwanted information (like TheTVDB ID being set to "movie" etc) which are just not viable for a list of mappings.
+For that reason, the generator will lookup the missing IDs for TheMovieDB, TheTVDB and IMDB, depending on the available IDs.
+
+Those lookups happen through the TheMovieDB API endpoints for external IDs and/or by searching for such an external ID.
+
+This means that this project cannot provide a way for corrections anymore and that corrections have to be brought to those source projects.
+As for completely missing IDs those should be added to TheMovieDB instead so that the generator is able to find those IDs and add them to the list the next time they are generated.
