@@ -89,8 +89,8 @@ To use the IDs for requests on the websites the following "endpoints" can be use
 * https://kitsu.io/anime/{id}
 * https://myanimelist.net/anime/{id}
 * https://notify.moe/anime/{id}
-* https://thetvdb.com/?tab=series&id={id}
-* Currently no direct link to "movies" on TheTVDB that I know of
+* https://www.thetvdb.com/dereferrer/series/{id}
+* https://www.thetvdb.com/dereferrer/movie/{id}
 * https://www.themoviedb.org/movie/{id}
 * https://www.themoviedb.org/tv/{id}
 
