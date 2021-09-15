@@ -59,7 +59,7 @@ Example:
 This file will be merged through a JQ statement by merging the elements over the "anidb_id".
 
 ```
-jq -s 'flatten | group_by(.anidb_id) | map(reduce .[] as $x ({}; . * $x))' "<path_to_the_anime-offline-database-reduced.json>" "<path_to_the_anime-lists-reduced.json>" > "<path_to_the_anime-list-full.json>"
+jq -s 'flatten | group_by(.anidb_id) | map(if .[0] | has("anidb_id") then reduce .[] as $x ({}; . * $x) else .[] end)' "<path_to_the_anime-offline-database-reduced.json>" "<path_to_the_anime-lists-reduced.json>" > "<path_to_the_anime-list-full.json>"
 ```
 
 the result of this is the following:
