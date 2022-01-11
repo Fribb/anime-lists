@@ -18,7 +18,7 @@ This repository is to store and provide the mapping between various anime source
 The lists are generated through the [anime-lists-generator](https://github.com/Fribb/anime-lists-generator) based on a couple of already existing lists and mappings from other repositories.
 
 1. [anime-offline-database](https://github.com/manami-project/anime-offline-database/)
-2. [ScudLee anime-lists](https://github.com/ScudLee/anime-lists/)
+2. [Anime-Lists/anime-lists](https://github.com/Anime-Lists/anime-lists/)
 
 ### anime-offline-database-reduced
 
