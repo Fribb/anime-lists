@@ -35558,6 +35558,7 @@
   {
     "thetvdb_id": 278329,
     "imdb_id": "tt6580380",
+    "themoviedb_id": 431821,
     "anidb_id": 11980
   },
   {
@@ -41105,6 +41106,10 @@
     "anidb_id": 15779
   },
   {
+    "thetvdb_id": 368358,
+    "anidb_id": 15788
+  },
+  {
     "thetvdb_id": 390832,
     "anidb_id": 15795
   },
@@ -41422,6 +41427,7 @@
   },
   {
     "thetvdb_id": 278329,
+    "themoviedb_id": 948904,
     "anidb_id": 16081
   },
   {
@@ -41771,6 +41777,18 @@
     "anidb_id": 16848
   },
   {
+    "thetvdb_id": 259635,
+    "anidb_id": 16912
+  },
+  {
+    "thetvdb_id": "hentai",
+    "anidb_id": 16914
+  },
+  {
+    "thetvdb_id": 411625,
+    "anidb_id": 16917
+  },
+  {
     "thetvdb_id": 411770,
     "anidb_id": 16928
   },
@@ -41789,6 +41807,10 @@
   {
     "thetvdb_id": 412312,
     "anidb_id": 16966
+  },
+  {
+    "thetvdb_id": 412826,
+    "anidb_id": 17005
   },
   {
     "thetvdb_id": 402412,
