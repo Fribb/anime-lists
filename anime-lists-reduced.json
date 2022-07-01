@@ -40203,6 +40203,10 @@
     "anidb_id": 15003
   },
   {
+    "thetvdb_id": 80009,
+    "anidb_id": 15007
+  },
+  {
     "thetvdb_id": "web",
     "imdb_id": "tt10682000",
     "anidb_id": 15010
@@ -40970,6 +40974,10 @@
   {
     "thetvdb_id": 396903,
     "anidb_id": 15628
+  },
+  {
+    "thetvdb_id": 366263,
+    "anidb_id": 15634
   },
   {
     "thetvdb_id": 400398,
