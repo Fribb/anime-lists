@@ -41271,6 +41271,10 @@
     "anidb_id": 15463
   },
   {
+    "thetvdb_id": 373679,
+    "anidb_id": 15464
+  },
+  {
     "thetvdb_id": 389227,
     "anidb_id": 15467
   },
@@ -42459,6 +42463,10 @@
     "anidb_id": 16363
   },
   {
+    "thetvdb_id": 380477,
+    "anidb_id": 16364
+  },
+  {
     "thetvdb_id": 400133,
     "anidb_id": 16367
   },
@@ -43049,6 +43057,10 @@
     "anidb_id": 17101
   },
   {
+    "thetvdb_id": 414221,
+    "anidb_id": 17108
+  },
+  {
     "thetvdb_id": 416684,
     "anidb_id": 17118
   },
@@ -43301,12 +43313,28 @@
     "anidb_id": 17336
   },
   {
+    "thetvdb_id": 419502,
+    "anidb_id": 17341
+  },
+  {
     "thetvdb_id": "hentai",
     "anidb_id": 17344
   },
   {
+    "thetvdb_id": "hentai",
+    "anidb_id": 17345
+  },
+  {
+    "thetvdb_id": "hentai",
+    "anidb_id": 17346
+  },
+  {
     "thetvdb_id": 305074,
     "anidb_id": 17356
+  },
+  {
+    "thetvdb_id": 420084,
+    "anidb_id": 17360
   },
   {
     "thetvdb_id": 250070,
@@ -43341,12 +43369,32 @@
     "anidb_id": 17450
   },
   {
+    "thetvdb_id": 421514,
+    "anidb_id": 17473
+  },
+  {
     "thetvdb_id": 421676,
     "anidb_id": 17475
   },
   {
+    "thetvdb_id": 421994,
+    "anidb_id": 17494
+  },
+  {
     "thetvdb_id": 358828,
     "anidb_id": 17511
+  },
+  {
+    "thetvdb_id": 422345,
+    "anidb_id": 17513
+  },
+  {
+    "thetvdb_id": 422564,
+    "anidb_id": 17517
+  },
+  {
+    "thetvdb_id": 422675,
+    "anidb_id": 17523
   },
   {
     "thetvdb_id": 381536,
@@ -43451,5 +43499,13 @@
   {
     "thetvdb_id": 262954,
     "anidb_id": 17664
+  },
+  {
+    "thetvdb_id": 426294,
+    "anidb_id": 17674
+  },
+  {
+    "thetvdb_id": 426572,
+    "anidb_id": 17689
   }
 ]
