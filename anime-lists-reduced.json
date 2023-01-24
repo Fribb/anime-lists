@@ -4660,7 +4660,7 @@
     "anidb_id": 1184
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": "ova",
     "imdb_id": "tt0243560",
     "anidb_id": 1185
   },
@@ -7536,7 +7536,7 @@
     "anidb_id": 1960
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 204541,
     "anidb_id": 1962
   },
   {
@@ -7806,7 +7806,7 @@
     "anidb_id": 2041
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 262977,
     "imdb_id": "tt1279098",
     "anidb_id": 2042
   },
@@ -7940,7 +7940,7 @@
     "anidb_id": 2073
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 280933,
     "anidb_id": 2074
   },
   {
@@ -7977,22 +7977,20 @@
     "anidb_id": 2083
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 377391,
     "anidb_id": 2084
   },
   {
-    "thetvdb_id": "unknown",
-    "imdb_id": "unknown",
+    "thetvdb_id": 377391,
     "anidb_id": 2085
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 377391,
     "imdb_id": "tt0142636",
     "anidb_id": 2086
   },
   {
-    "thetvdb_id": "unknown",
-    "imdb_id": "unknown",
+    "thetvdb_id": 377391,
     "anidb_id": 2087
   },
   {
@@ -8445,7 +8443,7 @@
     "anidb_id": 2204
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 265215,
     "imdb_id": "tt0062224",
     "anidb_id": 2205
   },
@@ -8460,7 +8458,7 @@
     "anidb_id": 2207
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 418709,
     "imdb_id": "tt0062667",
     "anidb_id": 2208
   },
@@ -8897,7 +8895,7 @@
     "anidb_id": 2313
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 418709,
     "anidb_id": 2314
   },
   {
@@ -8916,7 +8914,7 @@
     "anidb_id": 2317
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 280933,
     "imdb_id": "tt0228064",
     "anidb_id": 2318
   },
@@ -9961,11 +9959,11 @@
     "anidb_id": 2629
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 261562,
     "anidb_id": 2630
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 261562,
     "imdb_id": "tt0189171",
     "anidb_id": 2631
   },
@@ -10141,6 +10139,7 @@
   },
   {
     "thetvdb_id": 258052,
+    "imdb_id": "tt1158246",
     "anidb_id": 2684
   },
   {
@@ -10612,7 +10611,7 @@
     "anidb_id": 2815
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 330899,
     "anidb_id": 2816
   },
   {
@@ -11515,7 +11514,7 @@
     "anidb_id": 3141
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 5411,
     "imdb_id": "unknown",
     "anidb_id": 3142
   },
@@ -12014,7 +12013,7 @@
     "anidb_id": 3341
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 157211,
     "imdb_id": "tt0203084",
     "anidb_id": 3342
   },
@@ -12023,7 +12022,7 @@
     "anidb_id": 3343
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 157211,
     "imdb_id": "tt0203012",
     "anidb_id": 3344
   },
@@ -12105,7 +12104,7 @@
     "anidb_id": 3365
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 355649,
     "anidb_id": 3366
   },
   {
@@ -12252,7 +12251,7 @@
     "anidb_id": 3412
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 293065,
     "anidb_id": 3413
   },
   {
@@ -12982,7 +12981,7 @@
     "anidb_id": 3607
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 90331,
     "imdb_id": "tt1298836",
     "anidb_id": 3608
   },
@@ -13121,12 +13120,12 @@
     "anidb_id": 3638
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 204541,
     "imdb_id": "tt0891438",
     "anidb_id": 3639
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 286895,
     "imdb_id": "tt1927094",
     "anidb_id": 3640
   },
@@ -13347,12 +13346,12 @@
     "anidb_id": 3706
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 329173,
     "imdb_id": "tt2120764",
     "anidb_id": 3947
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 392061,
     "anidb_id": 3948
   },
   {
@@ -14054,7 +14053,7 @@
     "anidb_id": 4127
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 330899,
     "imdb_id": "tt1158253",
     "anidb_id": 4131
   },
@@ -16726,7 +16725,7 @@
     "anidb_id": 4997
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 330899,
     "imdb_id": "tt1158281",
     "anidb_id": 4998
   },
@@ -17964,7 +17963,7 @@
     "anidb_id": 5408
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 329173,
     "anidb_id": 5411
   },
   {
@@ -18240,7 +18239,7 @@
     "anidb_id": 5516
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 293065,
     "anidb_id": 5517
   },
   {
@@ -19867,7 +19866,7 @@
     "anidb_id": 6180
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 293065,
     "anidb_id": 6181
   },
   {
@@ -20128,7 +20127,7 @@
     "anidb_id": 6272
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 258052,
     "imdb_id": "tt1158246",
     "anidb_id": 6273
   },
@@ -23062,7 +23061,7 @@
     "anidb_id": 7139
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 265216,
     "imdb_id": "tt1344107",
     "anidb_id": 7163
   },
@@ -23509,7 +23508,7 @@
     "anidb_id": 7286
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 355649,
     "imdb_id": "tt1703076",
     "anidb_id": 7287
   },
@@ -23759,19 +23758,28 @@
     "anidb_id": 7355
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 265216,
     "imdb_id": "tt1614343",
     "anidb_id": 7356
   },
   {
-    "thetvdb_id": "unknown",
-    "imdb_id": "unknown",
+    "thetvdb_id": 265216,
+    "imdb_id": "tt20568174",
     "anidb_id": 7357
   },
   {
-    "thetvdb_id": "unknown",
-    "imdb_id": "unknown",
+    "thetvdb_id": 265216,
     "anidb_id": 7358
+  },
+  {
+    "thetvdb_id": "tv special",
+    "imdb_id": "unknown",
+    "anidb_id": 7359
+  },
+  {
+    "thetvdb_id": "tv special",
+    "imdb_id": "unknown",
+    "anidb_id": 7360
   },
   {
     "thetvdb_id": "movie",
@@ -24649,22 +24657,22 @@
     "anidb_id": 7630
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 293065,
     "imdb_id": "tt0064561",
     "anidb_id": 7631
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 293065,
     "imdb_id": "tt0065953",
     "anidb_id": 7632
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 293065,
     "imdb_id": "tt0065952",
     "anidb_id": 7633
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 293065,
     "imdb_id": "tt0064560",
     "anidb_id": 7634
   },
@@ -25296,7 +25304,7 @@
     "anidb_id": 7904
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 90331,
     "imdb_id": "tt1767311",
     "anidb_id": 7906
   },
@@ -25479,7 +25487,7 @@
     "anidb_id": 7981
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 286895,
     "imdb_id": "tt1732650",
     "anidb_id": 7983
   },
@@ -27280,7 +27288,7 @@
     "anidb_id": 8561
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 392061,
     "imdb_id": "tt0205821",
     "anidb_id": 8562
   },
@@ -27473,13 +27481,12 @@
     "anidb_id": 8616
   },
   {
-    "thetvdb_id": "unknown",
-    "imdb_id": "unknown",
+    "thetvdb_id": 293065,
     "anidb_id": 8617
   },
   {
     "thetvdb_id": "movie",
-    "imdb_id": "unknown",
+    "imdb_id": "tt3835438",
     "anidb_id": 8618
   },
   {
@@ -29356,7 +29363,6 @@
   },
   {
     "thetvdb_id": 252232,
-    "imdb_id": "unknown",
     "anidb_id": 9240
   },
   {
@@ -29553,6 +29559,12 @@
   {
     "thetvdb_id": 262106,
     "anidb_id": 9298
+  },
+  {
+    "thetvdb_id": 252232,
+    "imdb_id": "tt3198652,tt3898504,tt4331400,tt5463052",
+    "themoviedb_id": "212153,297189,332169,372761",
+    "anidb_id": 9299
   },
   {
     "thetvdb_id": 259642,
@@ -30189,7 +30201,7 @@
     "anidb_id": 9499
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 323054,
     "imdb_id": "tt2506390",
     "anidb_id": 9500
   },
@@ -31913,7 +31925,7 @@
     "anidb_id": 10145
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 323054,
     "imdb_id": "tt3912854",
     "anidb_id": 10150
   },
@@ -33666,7 +33678,7 @@
     "anidb_id": 10915
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 323054,
     "imdb_id": "tt4794852",
     "anidb_id": 10916
   },
@@ -35120,7 +35132,7 @@
     "anidb_id": 11756
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 323054,
     "imdb_id": "tt5185564",
     "anidb_id": 11757
   },
@@ -35785,6 +35797,11 @@
   {
     "thetvdb_id": 313487,
     "anidb_id": 12044
+  },
+  {
+    "thetvdb_id": "movie",
+    "themoviedb_id": 412382,
+    "anidb_id": 12045
   },
   {
     "thetvdb_id": 337018,
@@ -36527,6 +36544,10 @@
   {
     "thetvdb_id": 329823,
     "anidb_id": 12542
+  },
+  {
+    "thetvdb_id": 284263,
+    "anidb_id": 12543
   },
   {
     "thetvdb_id": 337120,
@@ -38299,6 +38320,10 @@
     "anidb_id": 13718
   },
   {
+    "thetvdb_id": 284263,
+    "anidb_id": 13728
+  },
+  {
     "thetvdb_id": "hentai",
     "anidb_id": 13730
   },
@@ -38755,7 +38780,7 @@
     "anidb_id": 14008
   },
   {
-    "thetvdb_id": "movie",
+    "thetvdb_id": 330139,
     "imdb_id": "tt8652818",
     "themoviedb_id": 533514,
     "anidb_id": 14013
@@ -38818,6 +38843,12 @@
   {
     "thetvdb_id": 281249,
     "anidb_id": 14059
+  },
+  {
+    "thetvdb_id": 284564,
+    "imdb_id": "tt8346438",
+    "themoviedb_id": 532323,
+    "anidb_id": 14061
   },
   {
     "thetvdb_id": 358180,
@@ -40846,6 +40877,12 @@
     "anidb_id": 15286
   },
   {
+    "thetvdb_id": "movie",
+    "imdb_id": "tt12879624",
+    "themoviedb_id": 652837,
+    "anidb_id": 15287
+  },
+  {
     "thetvdb_id": "hentai",
     "anidb_id": 15288
   },
@@ -41333,7 +41370,7 @@
     "anidb_id": 15576
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 284263,
     "anidb_id": 15577
   },
   {
@@ -43336,6 +43373,10 @@
     "anidb_id": 17444
   },
   {
+    "thetvdb_id": 421061,
+    "anidb_id": 17446
+  },
+  {
     "thetvdb_id": 402180,
     "anidb_id": 17450
   },
@@ -43476,6 +43517,10 @@
     "anidb_id": 17643
   },
   {
+    "thetvdb_id": 372939,
+    "anidb_id": 17644
+  },
+  {
     "thetvdb_id": 425368,
     "anidb_id": 17646
   },
@@ -43510,6 +43555,10 @@
   {
     "thetvdb_id": 262954,
     "anidb_id": 17664
+  },
+  {
+    "thetvdb_id": 426080,
+    "anidb_id": 17670
   },
   {
     "thetvdb_id": 426294,
