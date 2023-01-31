@@ -42615,6 +42615,10 @@
     "anidb_id": 16538
   },
   {
+    "thetvdb_id": 393810,
+    "anidb_id": 16540
+  },
+  {
     "thetvdb_id": 424562,
     "anidb_id": 16543
   },
@@ -43019,6 +43023,12 @@
   {
     "thetvdb_id": 422405,
     "anidb_id": 17075
+  },
+  {
+    "thetvdb_id": 397208,
+    "imdb_id": "tt16609250",
+    "themoviedb_id": 919609,
+    "anidb_id": 17076
   },
   {
     "thetvdb_id": 404886,
