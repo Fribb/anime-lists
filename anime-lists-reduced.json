@@ -39395,6 +39395,8 @@
   },
   {
     "thetvdb_id": 330692,
+    "imdb_id": "tt14364238",
+    "themoviedb_id": 566466,
     "anidb_id": 14438
   },
   {
@@ -42109,7 +42111,9 @@
     "anidb_id": 16078
   },
   {
-    "thetvdb_id": 278329,
+    "thetvdb_id": "tv special",
+    "imdb_id": "tt15497404",
+    "themoviedb_id": 1009176,
     "anidb_id": 16081
   },
   {
