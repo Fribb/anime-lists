@@ -35673,7 +35673,7 @@
     "anidb_id": 11979
   },
   {
-    "thetvdb_id": 278329,
+    "thetvdb_id": "movie",
     "imdb_id": "tt6580380",
     "themoviedb_id": 431821,
     "anidb_id": 11980
@@ -44643,10 +44643,6 @@
   {
     "thetvdb_id": 433560,
     "anidb_id": 17981
-  },
-  {
-    "thetvdb_id": "hentai",
-    "anidb_id": 18057
   },
   {
     "thetvdb_id": 436087,
