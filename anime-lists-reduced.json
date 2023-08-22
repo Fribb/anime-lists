@@ -2520,7 +2520,7 @@
   },
   {
     "thetvdb_id": 97781,
-    "themoviedb_id": 97781,
+    "themoviedb_id": 143833,
     "anidb_id": 633
   },
   {
@@ -11992,7 +11992,7 @@
   },
   {
     "thetvdb_id": 262314,
-    "themoviedb_id": 262314,
+    "themoviedb_id": 305896,
     "anidb_id": 3333
   },
   {
@@ -31893,7 +31893,7 @@
   {
     "thetvdb_id": 357271,
     "imdb_id": "tt3306776",
-    "themoviedb_id": 357271,
+    "themoviedb_id": 242546,
     "anidb_id": 10114
   },
   {
@@ -34700,7 +34700,7 @@
     "anidb_id": 11385
   },
   {
-    "thetvdb_id": "music video",
+    "thetvdb_id": 306269,
     "anidb_id": 11395
   },
   {
@@ -44081,6 +44081,10 @@
     "anidb_id": 17478
   },
   {
+    "thetvdb_id": 421776,
+    "anidb_id": 17479
+  },
+  {
     "thetvdb_id": 411914,
     "anidb_id": 17481
   },
@@ -44497,6 +44501,10 @@
     "anidb_id": 17749
   },
   {
+    "thetvdb_id": 428108,
+    "anidb_id": 17758
+  },
+  {
     "thetvdb_id": 425285,
     "anidb_id": 17759
   },
@@ -44509,8 +44517,16 @@
     "anidb_id": 17777
   },
   {
+    "thetvdb_id": 428456,
+    "anidb_id": 17780
+  },
+  {
     "thetvdb_id": 410378,
     "anidb_id": 17789
+  },
+  {
+    "thetvdb_id": 429673,
+    "anidb_id": 17792
   },
   {
     "thetvdb_id": 432849,
@@ -44559,6 +44575,10 @@
   {
     "thetvdb_id": 431162,
     "anidb_id": 17870
+  },
+  {
+    "thetvdb_id": 438161,
+    "anidb_id": 17871
   },
   {
     "thetvdb_id": 407520,
