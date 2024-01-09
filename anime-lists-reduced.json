@@ -5492,6 +5492,7 @@
   },
   {
     "thetvdb_id": "OVA",
+    "themoviedb_id": 172347,
     "anidb_id": 1406
   },
   {
@@ -6586,7 +6587,7 @@
     "anidb_id": 1705
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 351995,
     "anidb_id": 1707
   },
   {
@@ -9465,7 +9466,7 @@
     "anidb_id": 2457
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 335070,
     "anidb_id": 2459
   },
   {
@@ -10595,7 +10596,7 @@
   },
   {
     "thetvdb_id": "OVA",
-    "imdb_id": "unknown",
+    "themoviedb_id": 171942,
     "anidb_id": 2797
   },
   {
@@ -11630,7 +11631,7 @@
     "anidb_id": 3152
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 335070,
     "anidb_id": 3153
   },
   {
@@ -13174,12 +13175,12 @@
     "anidb_id": 3632
   },
   {
-    "thetvdb_id": "OVA",
+    "thetvdb_id": 195161,
     "imdb_id": "tt0295420",
     "anidb_id": 3633
   },
   {
-    "thetvdb_id": "OVA",
+    "thetvdb_id": 157691,
     "imdb_id": "tt0295412",
     "anidb_id": 3634
   },
@@ -21717,6 +21718,7 @@
   },
   {
     "thetvdb_id": "tv special",
+    "themoviedb_id": 737073,
     "anidb_id": 6760
   },
   {
@@ -27398,6 +27400,7 @@
   },
   {
     "thetvdb_id": "other",
+    "themoviedb_id": 744791,
     "anidb_id": 8524
   },
   {
@@ -39528,6 +39531,11 @@
     "anidb_id": 14162
   },
   {
+    "thetvdb_id": "movie",
+    "themoviedb_id": 600227,
+    "anidb_id": 14164
+  },
+  {
     "thetvdb_id": 342010,
     "anidb_id": 14165
   },
@@ -42260,6 +42268,11 @@
     "anidb_id": 15634
   },
   {
+    "thetvdb_id": "music video",
+    "imdb_id": "tt12723626",
+    "anidb_id": 15637
+  },
+  {
     "thetvdb_id": 388248,
     "anidb_id": 15644
   },
@@ -44635,6 +44648,11 @@
     "anidb_id": 17330
   },
   {
+    "thetvdb_id": "movie",
+    "themoviedb_id": 1047041,
+    "anidb_id": 17334
+  },
+  {
     "thetvdb_id": 419448,
     "anidb_id": 17336
   },
@@ -45761,6 +45779,10 @@
     "anidb_id": 18114
   },
   {
+    "thetvdb_id": 437236,
+    "anidb_id": 18119
+  },
+  {
     "thetvdb_id": 380207,
     "anidb_id": 18127
   },
@@ -45851,6 +45873,10 @@
   {
     "thetvdb_id": 442938,
     "anidb_id": 18294
+  },
+  {
+    "thetvdb_id": 442084,
+    "anidb_id": 18303
   },
   {
     "thetvdb_id": 443181,
