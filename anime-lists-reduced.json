@@ -13282,7 +13282,7 @@
     "anidb_id": 3658
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 243231,
     "anidb_id": 3659
   },
   {
@@ -39956,6 +39956,10 @@
     "anidb_id": 14427
   },
   {
+    "thetvdb_id": 341295,
+    "anidb_id": 14428
+  },
+  {
     "thetvdb_id": "hentai",
     "anidb_id": 14429
   },
@@ -42260,6 +42264,10 @@
     "anidb_id": 15615
   },
   {
+    "thetvdb_id": 386257,
+    "anidb_id": 15617
+  },
+  {
     "thetvdb_id": 388574,
     "anidb_id": 15619
   },
@@ -43765,6 +43773,10 @@
   {
     "thetvdb_id": 310311,
     "anidb_id": 16617
+  },
+  {
+    "thetvdb_id": 341295,
+    "anidb_id": 16618
   },
   {
     "thetvdb_id": 369144,
