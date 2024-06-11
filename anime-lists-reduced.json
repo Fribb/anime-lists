@@ -44581,7 +44581,7 @@
     "anidb_id": 17271
   },
   {
-    "thetvdb_id": 418123,
+    "thetvdb_id": "movie",
     "imdb_id": "tt28813303,tt28813376",
     "themoviedb_id": "1172228,1172229",
     "anidb_id": 17273
@@ -46242,5 +46242,9 @@
     "thetvdb_id": "movie",
     "themoviedb_id": 1263421,
     "anidb_id": 18557
+  },
+  {
+    "thetvdb_id": 418123,
+    "anidb_id": 18670
   }
 ]
