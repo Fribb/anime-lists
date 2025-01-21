@@ -47236,6 +47236,10 @@
     "anidb_id": 18750
   },
   {
+    "thetvdb_id": 271591,
+    "anidb_id": 18754
+  },
+  {
     "thetvdb_id": "hentai",
     "anidb_id": 18756
   },
@@ -47366,5 +47370,13 @@
     "thetvdb_id": "movie",
     "themoviedb_id": 1406240,
     "anidb_id": 19059
+  },
+  {
+    "thetvdb_id": 402033,
+    "anidb_id": 19078
+  },
+  {
+    "thetvdb_id": 271591,
+    "anidb_id": 19086
   }
 ]
