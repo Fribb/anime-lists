@@ -12484,7 +12484,7 @@
     "anidb_id": 3452
   },
   {
-    "thetvdb_id": "unknown",
+    "thetvdb_id": 369400,
     "anidb_id": 3453
   },
   {
@@ -43987,6 +43987,12 @@
     "anidb_id": 16720
   },
   {
+    "thetvdb_id": 371437,
+    "imdb_id": "tt15447084",
+    "themoviedb_id": 997086,
+    "anidb_id": 16727
+  },
+  {
     "thetvdb_id": 410147,
     "anidb_id": 16732
   },
@@ -47628,6 +47634,10 @@
     "anidb_id": 19027
   },
   {
+    "thetvdb_id": 457645,
+    "anidb_id": 19038
+  },
+  {
     "thetvdb_id": "movie",
     "themoviedb_id": 1397163,
     "anidb_id": 19044
@@ -47696,5 +47706,9 @@
     "thetvdb_id": "web",
     "themoviedb_id": 1455360,
     "anidb_id": 19253
+  },
+  {
+    "thetvdb_id": 464419,
+    "anidb_id": 19357
   }
 ]
