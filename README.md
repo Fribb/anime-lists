@@ -120,11 +120,11 @@ To use the IDs for requests on the websites the following "endpoints" can be use
 * https://anisearch.com/anime/{id}
 * https://kitsu.io/anime/{id}
 * https://myanimelist.net/anime/{id}
-* https://notify.moe/anime/{id}
 * https://www.thetvdb.com/dereferrer/series/{id}
 * https://www.thetvdb.com/dereferrer/movie/{id}
 * https://www.themoviedb.org/movie/{id}
 * https://www.themoviedb.org/tv/{id}
+* https://www.animenewsnetwork.com/encyclopedia/anime.php?id={id}
 
 ---
 **NOTE**
@@ -150,3 +150,4 @@ Those lookups happen through the TheMovieDB API endpoints for external IDs and/o
 
 This means that this project cannot provide a way for corrections anymore and that corrections have to be brought to those source projects.
 As for completely missing IDs, those should be added to TheMovieDB instead so that the generator is able to find those IDs and add them to the list the next time they are generated.
+
