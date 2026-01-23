@@ -26,7 +26,7 @@ This file is is the reduced version of the anime-offline-database to only includ
 
 Example:
 
-```
+```json
 {
   "type" : "MOVIE",
   "anidb_id" : 5459,
@@ -48,8 +48,16 @@ This file is the reduced version of the ScudLee anime-lists project also only in
 
 Example:
 
-```
+```json
 {
+  "anidb_id" : 5458,
+  "themoviedb_id" : 44298,
+  "tvdb_id" : 91021,
+  "season" : {
+    "tvdb" : 1,
+    "tmdb" : 1
+  }
+}, {
   "anidb_id" : 5459,
   "imdb_id" : "tt1164545",
   "themoviedb_id" : 8864,
@@ -57,14 +65,32 @@ Example:
 }
 ```
 
-### anime-lists-full
+### anime-list-full
 
 This file will merge the elements over the "anidb_id".
 
 Example:
 
-```
+```json
 {
+  "type" : "OVA",
+  "anidb_id" : 5458,
+  "anilist_id" : 3390,
+  "animecountdown_id" : 40868,
+  "animenewsnetwork_id" : 8720,
+  "anime-planet_id" : "amuri-in-star-ocean",
+  "anisearch_id" : 4445,
+  "kitsu_id" : 2977,
+  "livechart_id" : 7110,
+  "mal_id" : 3390,
+  "simkl_id" : 40868,
+  "themoviedb_id" : 44298,
+  "tvdb_id" : 91021,
+  "season" : {
+    "tvdb" : 1,
+    "tmdb" : 1
+  }
+}, {
   "type" : "MOVIE",
   "anidb_id" : 5459,
   "anilist_id" : 3269,
@@ -81,6 +107,10 @@ Example:
   "tvdb_id" : 79099
 },
 ```
+
+### anime-list-mini
+
+Same as `anime-list-full` but minified (no new-lines nor indenting)
 
 To use the IDs for requests on the websites the following "endpoints" can be used by replacing the {id} part in the URL:
 
@@ -119,5 +149,4 @@ For that reason, the generator will lookup the missing IDs for TheMovieDB, TheTV
 Those lookups happen through the TheMovieDB API endpoints for external IDs and/or by searching for such an external ID.
 
 This means that this project cannot provide a way for corrections anymore and that corrections have to be brought to those source projects.
-
-As for completely missing IDs those should be added to TheMovieDB instead so that the generator is able to find those IDs and add them to the list the next time they are generated.
+As for completely missing IDs, those should be added to TheMovieDB instead so that the generator is able to find those IDs and add them to the list the next time they are generated.
