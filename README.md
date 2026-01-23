@@ -8,10 +8,10 @@ This repository is to store and provide the mapping between various anime source
 * [Anime-Planet](https://www.anime-planet.com/)
 * [Kitsu.io](https://kitsu.io/)
 * [Anisearch](https://www.anisearch.com/)
-* [notify.moe](https://notify.moe/)
 * [anilist.co](https://anilist.co/)
 * [anidb.net](https://anidb.net/)
 * [livechart.me](https://www.livechart.me/)
+* [Anime News Network](https://www.animenewsnetwork.com/)
 
 ## lists
 
@@ -27,16 +27,19 @@ This file is is the reduced version of the anime-offline-database to only includ
 Example:
 
 ```
-   {
-      "livechart_id":4721,
-      "anime-planet_id":"hack-g-u-trilogy",
-      "anisearch_id":4491,
-      "anidb_id":5459,
-      "kitsu_id":2895,
-      "mal_id":3269,
-      "notify.moe_id":"z5OQcKiiR",
-      "anilist_id":3269
-   },
+{
+  "type" : "MOVIE",
+  "anidb_id" : 5459,
+  "anilist_id" : 3269,
+  "animecountdown_id" : 41283,
+  "animenewsnetwork_id" : 8719,
+  "anime-planet_id" : "hack-g-u-trilogy",
+  "anisearch_id" : 4491,
+  "kitsu_id" : 2895,
+  "livechart_id" : 4721,
+  "mal_id" : 3269,
+  "simkl_id" : 41283
+},
 ```
 
 ### anime-lists-reduced
@@ -46,38 +49,37 @@ This file is the reduced version of the ScudLee anime-lists project also only in
 Example:
 
 ```
-   {
-      "thetvdb_id":79099,
-      "imdb_id":"tt1164545",
-      "themoviedb_id":8864,
-      "anidb_id":5459
-   }
+{
+  "anidb_id" : 5459,
+  "imdb_id" : "tt1164545",
+  "themoviedb_id" : 8864,
+  "tvdb_id" : 79099
+}
 ```
 
 ### anime-lists-full
 
-This file will be merged through a JQ statement by merging the elements over the "anidb_id".
+This file will merge the elements over the "anidb_id".
+
+Example:
 
 ```
-jq -s 'flatten | group_by(.anidb_id) | map(if .[0] | has("anidb_id") then reduce .[] as $x ({}; . * $x) else .[] end)' "<path_to_the_anime-offline-database-reduced.json>" "<path_to_the_anime-lists-reduced.json>" > "<path_to_the_anime-list-full.json>"
-```
-
-the result of this is the following:
-
-```
-  {
-      "livechart_id": 4721,
-      "anime-planet_id": "hack-g-u-trilogy",
-      "anisearch_id": 4491,
-      "anidb_id": 5459,
-      "kitsu_id": 2895,
-      "mal_id": 3269,
-      "notify.moe_id": "z5OQcKiiR",
-      "anilist_id": 3269,
-      "thetvdb_id": 79099,
-      "imdb_id": "tt1164545",
-      "themoviedb_id": 8864
-  },
+{
+  "type" : "MOVIE",
+  "anidb_id" : 5459,
+  "anilist_id" : 3269,
+  "animecountdown_id" : 41283,
+  "animenewsnetwork_id" : 8719,
+  "anime-planet_id" : "hack-g-u-trilogy",
+  "anisearch_id" : 4491,
+  "imdb_id" : "tt1164545",
+  "kitsu_id" : 2895,
+  "livechart_id" : 4721,
+  "mal_id" : 3269,
+  "simkl_id" : 41283,
+  "themoviedb_id" : 8864,
+  "tvdb_id" : 79099
+},
 ```
 
 To use the IDs for requests on the websites the following "endpoints" can be used by replacing the {id} part in the URL:
@@ -117,4 +119,5 @@ For that reason, the generator will lookup the missing IDs for TheMovieDB, TheTV
 Those lookups happen through the TheMovieDB API endpoints for external IDs and/or by searching for such an external ID.
 
 This means that this project cannot provide a way for corrections anymore and that corrections have to be brought to those source projects.
+
 As for completely missing IDs those should be added to TheMovieDB instead so that the generator is able to find those IDs and add them to the list the next time they are generated.
