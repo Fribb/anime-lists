@@ -71292,6 +71292,14 @@
   "anidb_id" : 19701,
   "themoviedb_id" : 1575337
 }, {
+  "anidb_id" : 19742,
+  "themoviedb_id" : 306721,
+  "tvdb_id" : 470961,
+  "season" : {
+    "tvdb" : 1,
+    "tmdb" : 1
+  }
+}, {
   "anidb_id" : 19743,
   "themoviedb_id" : 306762,
   "tvdb_id" : 470980,
@@ -71302,6 +71310,14 @@
 }, {
   "anidb_id" : 19749,
   "themoviedb_id" : 1589925
+}, {
+  "anidb_id" : 19808,
+  "themoviedb_id" : 67063,
+  "tvdb_id" : 313488,
+  "season" : {
+    "tvdb" : 6,
+    "tmdb" : 6
+  }
 }, {
   "anidb_id" : 19825,
   "themoviedb_id" : 56559,
