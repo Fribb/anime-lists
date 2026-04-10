@@ -108,6 +108,34 @@ Example:
 },
 ```
 
+### Indices
+
+The indeces folder contains the different index files of the different sources (mal, tmdb, tvdb, etc). This is to speed up the lookup process because you don't need to iterate through the anime-lists array anymore. When you have an ID and the source (like mal `59978`), you can request the `mal_index.json` and get the ID `59978` directly. This will then return an Array of Integer (anime-planet and imdb use Strings) with the index where that ID is being used in the anime-list-full.json. Example:
+
+```
+  "59978" : [ 14875 ],
+```
+```
+{
+  "type" : "TV",
+  "anidb_id" : 18886,
+  "anilist_id" : 182255,
+  "animecountdown_id" : 2595284,
+  "anime-planet_id" : "frieren-beyond-journeys-end-season-2",
+  "anisearch_id" : 19635,
+  "kitsu_id" : 49240,
+  "livechart_id" : 12860,
+  "mal_id" : 59978,
+  "simkl_id" : 2595284,
+  "themoviedb_id" : 209867,
+  "tvdb_id" : 424536,
+  "season" : {
+    "tvdb" : 2,
+    "tmdb" : 1
+  }
+}
+```
+
 ### anime-list-mini
 
 Same as `anime-list-full` but minified (no new-lines nor indenting)
