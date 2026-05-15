@@ -22,7 +22,7 @@ The lists are generated through the [anime-lists-generator](https://github.com/F
 
 ### anime-offline-database-reduced
 
-This file is is the reduced version of the anime-offline-database to only include the necessary IDs.
+This file is the reduced version of the anime-offline-database to only include the necessary IDs.
 
 Example:
 
@@ -44,7 +44,7 @@ Example:
 
 ### anime-lists-reduced
 
-This file is the reduced version of the ScudLee anime-lists project also only including the necessary IDs.
+This file is the reduced version of the Anime-Lists anime-lists project, also only including the necessary IDs.
 
 Example:
 
@@ -108,31 +108,60 @@ Example:
 },
 ```
 
+### Collections
+
+The Collections folder contains the JSON files for the Collections for each Source (mal, tvdb, anibd, etc).
+This Collection is generated based on the "relatedAnime" Element from the `anime-offline-database` and should only contain bidirectional related Anime.
+This means that a Collection should only contain Anime that reference each other. This is to prevent Anime that have a relation to another Anime (possibly through a crossover episode) that would produce a huge Collection.
+
+A collection looks like this (example from AniDB):
+```json
+{
+  "name" : "Seikai no Monshou",
+  "ids" : [ 1, 4, 5, 6, 884, 1623, 2673 ]
+},
+```
+
 ### Indices
 
-The indeces folder contains the different index files of the different sources (mal, tmdb, tvdb, etc). This is to speed up the lookup process because you don't need to iterate through the anime-lists array anymore. When you have an ID and the source (like mal `59978`), you can request the `mal_index.json` and get the ID `59978` directly. This will then return an Array of Integer (anime-planet and imdb use Strings) with the index where that ID is being used in the anime-list-full.json. Example:
+The indices folder contains the JSON files for the different sources (mal, tmdb, tvdb, etc). This is to speed up the lookup process for an ID without having to iterate through the anime-lists array and check each element for that ID.
+The Index file will contain Objects with the Key being the ID of the Anime for that source. The value of that Key will then contain two arrays, `anime-list` and `collection`, with the index where that ID can be found in those files.
 
+An example, for the AniDB ID 1:
+```json
+  "1" : {
+    "anime-list" : [ 0 ],
+    "collection" : [ 0 ]
+  },
 ```
-  "59978" : [ 14875 ],
-```
-```
+So, the AniDB ID `1` can be found in the `anime-list-full.json` at position 0:
+```json
 {
   "type" : "TV",
-  "anidb_id" : 18886,
-  "anilist_id" : 182255,
-  "animecountdown_id" : 2595284,
-  "anime-planet_id" : "frieren-beyond-journeys-end-season-2",
-  "anisearch_id" : 19635,
-  "kitsu_id" : 49240,
-  "livechart_id" : 12860,
-  "mal_id" : 59978,
-  "simkl_id" : 2595284,
-  "themoviedb_id" : 209867,
-  "tvdb_id" : 424536,
+  "anidb_id" : 1,
+  "anilist_id" : 290,
+  "animecountdown_id" : 36462,
+  "animenewsnetwork_id" : 14,
+  "anime-planet_id" : "crest-of-the-stars",
+  "anisearch_id" : 3039,
+  "imdb_id" : "tt0286390",
+  "kitsu_id" : 265,
+  "livechart_id" : 4157,
+  "mal_id" : 290,
+  "simkl_id" : 36462,
+  "themoviedb_id" : 26209,
+  "tvdb_id" : 72025,
   "season" : {
-    "tvdb" : 2,
+    "tvdb" : 1,
     "tmdb" : 1
   }
+}
+```
+And the collection for that ID would be in the `anidb_collection.json` also at position 0:
+```json
+{
+  "name" : "Seikai no Monshou",
+  "ids" : [ 1, 4, 5, 6, 884, 1623, 2673 ]
 }
 ```
 
@@ -140,7 +169,7 @@ The indeces folder contains the different index files of the different sources (
 
 Same as `anime-list-full` but minified (no new-lines nor indenting)
 
-To use the IDs for requests on the websites the following "endpoints" can be used by replacing the {id} part in the URL:
+To use the IDs for requests on the websites, the following "endpoints" can be used by replacing the {id} part in the URL:
 
 * https://anidb.net/anime/{id}
 * https://anilist.co/anime/{id}
@@ -168,14 +197,15 @@ You would have to make sure that you use the correct endpoint depending on what 
 
 ### Generation and Corrections
 
-The anime-lists-generator Project only reduces the anime-offline-database so that only the IDs are available.
+Lists above are generated through the [anime-lists-generator](https://github.com/Fribb/anime-lists-generator).
+The generator will get the [anime-offline-database](https://github.com/manami-project/anime-offline-database/) and the [anime-lists](https://github.com/Anime-Lists/anime-lists/) projects and clean them up into a JSON format. Especially the anime-lists project has a lot of information that is not viable for a mapping project (like the TheTVDB ID set to "movie", etc.).
 
-In regards to the ScudLee anime-lists, this is, however, not fully the case.
-The anime-lists provided includes some unwanted information (like TheTVDB ID being set to "movie" etc) which are just not viable for a list of mappings.
-For that reason, the generator will lookup the missing IDs for TheMovieDB, TheTVDB and IMDB, depending on the available IDs.
+Those resulting JSON files (`*-reduced.json`) are then merged based on the AniDB ID, since that is the most common denominator of both lists.
 
-Those lookups happen through the TheMovieDB API endpoints for external IDs and/or by searching for such an external ID.
+Each of those elements is then checked to see if they have a TMDB, TVDB and IMDB ID. If any of them are missing, the IDs are looked up on TheMovieDB API search or external ID endpoints, depending on which ID is available.
 
-This means that this project cannot provide a way for corrections anymore and that corrections have to be brought to those source projects.
+Finally, the Index and Collection files are generated based on the resulting anime-list file.
+
+What this means is that this project cannot provide a way for corrections anymore, and that corrections have to be brought to those source projects.
 As for completely missing IDs, those should be added to TheMovieDB instead so that the generator is able to find those IDs and add them to the list the next time they are generated.
 
