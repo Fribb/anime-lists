@@ -69,9 +69,29 @@ Example:
 
 This file will merge the elements over the "anidb_id".
 
-Example:
+Examples:
 
 ```json
+{
+  "type" : "MOVIE",
+  "anidb_id" : 7,
+  "anilist_id" : 164,
+  "animecountdown_id" : 36228,
+  "animenewsnetwork_id" : 197,
+  "anime-planet_id" : "princess-mononoke",
+  "anisearch_id" : 3320,
+  "imdb_id" : "tt0119698",
+  "kitsu_id" : 142,
+  "livechart_id" : 3081,
+  "mal_id" : 164,
+  "simkl_id" : 36228,
+  "themoviedb_id" : {
+    "movie" : 128
+  }
+},
+.
+.
+.
 {
   "type" : "OVA",
   "anidb_id" : 5458,
@@ -84,7 +104,9 @@ Example:
   "livechart_id" : 7110,
   "mal_id" : 3390,
   "simkl_id" : 40868,
-  "themoviedb_id" : 44298,
+  "themoviedb_id" : {
+    "tv" : 44298
+  },
   "tvdb_id" : 91021,
   "season" : {
     "tvdb" : 1,
@@ -103,8 +125,14 @@ Example:
   "livechart_id" : 4721,
   "mal_id" : 3269,
   "simkl_id" : 41283,
-  "themoviedb_id" : 8864,
-  "tvdb_id" : 79099
+  "themoviedb_id" : {
+    "tv" : 8864
+  },
+  "tvdb_id" : 79099,
+  "season" : {
+    "tvdb" : 0,
+    "tmdb" : 0
+  }
 },
 ```
 
@@ -149,7 +177,9 @@ So, the AniDB ID `1` can be found in the `anime-list-full.json` at position 0:
   "livechart_id" : 4157,
   "mal_id" : 290,
   "simkl_id" : 36462,
-  "themoviedb_id" : 26209,
+  "themoviedb_id" : {
+    "tv" : 26209
+  },
   "tvdb_id" : 72025,
   "season" : {
     "tvdb" : 1,
