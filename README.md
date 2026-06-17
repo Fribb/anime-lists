@@ -27,42 +27,59 @@ This file is the reduced version of the anime-offline-database to only include t
 Example:
 
 ```json
-{
-  "type" : "MOVIE",
-  "anidb_id" : 5459,
-  "anilist_id" : 3269,
-  "animecountdown_id" : 41283,
-  "animenewsnetwork_id" : 8719,
-  "anime-planet_id" : "hack-g-u-trilogy",
-  "anisearch_id" : 4491,
-  "kitsu_id" : 2895,
-  "livechart_id" : 4721,
-  "mal_id" : 3269,
-  "simkl_id" : 41283
-},
+[
+  {
+    "type": "MOVIE",
+    "anidb_id": 5459,
+    "anilist_id": 3269,
+    "animecountdown_id": 41283,
+    "animenewsnetwork_id": 8719,
+    "anime-planet_id": "hack-g-u-trilogy",
+    "anisearch_id": 4491,
+    "kitsu_id": 2895,
+    "livechart_id": 4721,
+    "mal_id": 3269,
+    "simkl_id": 41283
+  }
+]
 ```
 
 ### anime-lists-reduced
 
-This file is the reduced version of the Anime-Lists anime-lists project, also only including the necessary IDs.
+This file is the reduced version of the Anime-Lists project `anime-list-full.xml` file, also only including the necessary IDs.
 
 Example:
 
 ```json
-{
-  "anidb_id" : 5458,
-  "themoviedb_id" : 44298,
-  "tvdb_id" : 91021,
-  "season" : {
-    "tvdb" : 1,
-    "tmdb" : 1
+[
+  {
+    "anidb_id": 5458,
+    "themoviedb_id": {
+      "tv": 44298
+    },
+    "tvdb_id": 91021,
+    "season": {
+      "tvdb": 1,
+      "tmdb": 1
+    }
+  },
+  {
+    "anidb_id": 5459,
+    "imdb_id": ["tt1164545"],
+    "themoviedb_id": {
+      "tv": 8864
+    },
+    "tvdb_id": 79099,
+    "season": {
+      "tvdb": 0,
+      "tmdb": 0
+    },
+    "episode_offset": {
+      "tvdb": 11,
+      "tmdb": 11
+    }
   }
-}, {
-  "anidb_id" : 5459,
-  "imdb_id" : "tt1164545",
-  "themoviedb_id" : 8864,
-  "tvdb_id" : 79099
-}
+]
 ```
 
 ### anime-list-full
@@ -72,95 +89,105 @@ This file will merge the elements over the "anidb_id".
 Examples:
 
 ```json
-{
-  "type" : "MOVIE",
-  "anidb_id" : 7,
-  "anilist_id" : 164,
-  "animecountdown_id" : 36228,
-  "animenewsnetwork_id" : 197,
-  "anime-planet_id" : "princess-mononoke",
-  "anisearch_id" : 3320,
-  "imdb_id" : "tt0119698",
-  "kitsu_id" : 142,
-  "livechart_id" : 3081,
-  "mal_id" : 164,
-  "simkl_id" : 36228,
-  "themoviedb_id" : {
-    "movie" : 128
-  }
-},
-.
-.
-.
-{
-  "type" : "OVA",
-  "anidb_id" : 5458,
-  "anilist_id" : 3390,
-  "animecountdown_id" : 40868,
-  "animenewsnetwork_id" : 8720,
-  "anime-planet_id" : "amuri-in-star-ocean",
-  "anisearch_id" : 4445,
-  "kitsu_id" : 2977,
-  "livechart_id" : 7110,
-  "mal_id" : 3390,
-  "simkl_id" : 40868,
-  "themoviedb_id" : {
-    "tv" : 44298
+[
+  {
+    "type": "MOVIE",
+    "anidb_id": 7,
+    "anilist_id": 164,
+    "animecountdown_id": 36228,
+    "animenewsnetwork_id": 197,
+    "anime-planet_id": "princess-mononoke",
+    "anisearch_id": 3320,
+    "imdb_id": ["tt0119698"],
+    "kitsu_id": 142,
+    "livechart_id": 3081,
+    "mal_id": 164,
+    "simkl_id": 36228,
+    "themoviedb_id": {
+      "movie": [
+        128
+      ]
+    }
   },
-  "tvdb_id" : 91021,
-  "season" : {
-    "tvdb" : 1,
-    "tmdb" : 1
-  }
-}, {
-  "type" : "MOVIE",
-  "anidb_id" : 5459,
-  "anilist_id" : 3269,
-  "animecountdown_id" : 41283,
-  "animenewsnetwork_id" : 8719,
-  "anime-planet_id" : "hack-g-u-trilogy",
-  "anisearch_id" : 4491,
-  "imdb_id" : "tt1164545",
-  "kitsu_id" : 2895,
-  "livechart_id" : 4721,
-  "mal_id" : 3269,
-  "simkl_id" : 41283,
-  "themoviedb_id" : {
-    "tv" : 8864
+  {
+    "type": "OVA",
+    "anidb_id": 5458,
+    "anilist_id": 3390,
+    "animecountdown_id": 40868,
+    "animenewsnetwork_id": 8720,
+    "anime-planet_id": "amuri-in-star-ocean",
+    "anisearch_id": 4445,
+    "kitsu_id": 2977,
+    "livechart_id": 7110,
+    "mal_id": 3390,
+    "simkl_id": 40868,
+    "themoviedb_id": {
+      "tv": 44298
+    },
+    "tvdb_id": 91021,
+    "season": {
+      "tvdb": 1,
+      "tmdb": 1
+    }
   },
-  "tvdb_id" : 79099,
-  "season" : {
-    "tvdb" : 0,
-    "tmdb" : 0
+  {
+    "type": "MOVIE",
+    "anidb_id": 5459,
+    "anilist_id": 3269,
+    "animecountdown_id": 41283,
+    "animenewsnetwork_id": 8719,
+    "anime-planet_id": "hack-g-u-trilogy",
+    "anisearch_id": 4491,
+    "imdb_id": ["tt1164545"],
+    "kitsu_id": 2895,
+    "livechart_id": 4721,
+    "mal_id": 3269,
+    "simkl_id": 41283,
+    "themoviedb_id": {
+      "tv": 8864
+    },
+    "tvdb_id": 79099,
+    "season": {
+      "tvdb": 0,
+      "tmdb": 0
+    },
+    "episode_offset": {
+      "tvdb": 11,
+      "tmdb": 11
+    }
   }
-},
+]
 ```
 
 ### Collections
 
-The Collections folder contains the JSON files for the Collections for each Source (mal, tvdb, anibd, etc).
+The Collections folder contains the JSON files for the Collections for each Source (mal, tvdb, anibd, etc.).
 This Collection is generated based on the "relatedAnime" Element from the `anime-offline-database` and should only contain bidirectional related Anime.
-This means that a Collection should only contain Anime that reference each other. This is to prevent Anime that have a relation to another Anime (possibly through a crossover episode) that would produce a huge Collection.
+This means that a Collection should only contain Anime that references each other. This is to prevent Anime that has a relation to another Anime (possibly through a crossover episode) that would produce a huge Collection.
 
 A collection looks like this (example from AniDB):
 ```json
-{
-  "name" : "Seikai no Monshou",
-  "ids" : [ 1, 4, 5, 6, 884, 1623, 2673 ]
-},
+[
+  {
+    "name": "Seikai no Monshou",
+    "ids": [1, 4, 5, 6, 884, 1623, 2673]
+  }
+]
 ```
 
 ### Indices
 
-The indices folder contains the JSON files for the different sources (mal, tmdb, tvdb, etc). This is to speed up the lookup process for an ID without having to iterate through the anime-lists array and check each element for that ID.
+The indices folder contains the JSON files for the different sources (mal, tmdb, tvdb, etc.). This is to speed up the lookup process for an ID without having to iterate through the anime-lists array and check each element for that ID.
 The Index file will contain Objects with the Key being the ID of the Anime for that source. The value of that Key will then contain two arrays, `anime-list` and `collection`, with the index where that ID can be found in those files.
 
 An example, for the AniDB ID 1:
 ```json
-  "1" : {
-    "anime-list" : [ 0 ],
-    "collection" : [ 0 ]
-  },
+{
+  "1": {
+    "anime-list": [ 0 ],
+    "collection": [ 0 ]
+  }
+}
 ```
 So, the AniDB ID `1` can be found in the `anime-list-full.json` at position 0:
 ```json
@@ -172,7 +199,7 @@ So, the AniDB ID `1` can be found in the `anime-list-full.json` at position 0:
   "animenewsnetwork_id" : 14,
   "anime-planet_id" : "crest-of-the-stars",
   "anisearch_id" : 3039,
-  "imdb_id" : "tt0286390",
+  "imdb_id" : [ "tt0286390" ],
   "kitsu_id" : 265,
   "livechart_id" : 4157,
   "mal_id" : 290,
@@ -189,9 +216,9 @@ So, the AniDB ID `1` can be found in the `anime-list-full.json` at position 0:
 ```
 And the collection for that ID would be in the `anidb_collection.json` also at position 0:
 ```json
-{
-  "name" : "Seikai no Monshou",
-  "ids" : [ 1, 4, 5, 6, 884, 1623, 2673 ]
+  {
+  "name": "Seikai no Monshou",
+  "ids": [1, 4, 5, 6, 884, 1623, 2673]
 }
 ```
 
@@ -227,7 +254,7 @@ You would have to make sure that you use the correct endpoint depending on what 
 
 ### Generation and Corrections
 
-Lists above are generated through the [anime-lists-generator](https://github.com/Fribb/anime-lists-generator).
+The lists above are generated through the [anime-lists-generator](https://github.com/Fribb/anime-lists-generator).
 The generator will get the [anime-offline-database](https://github.com/manami-project/anime-offline-database/) and the [anime-lists](https://github.com/Anime-Lists/anime-lists/) projects and clean them up into a JSON format. Especially the anime-lists project has a lot of information that is not viable for a mapping project (like the TheTVDB ID set to "movie", etc.).
 
 Those resulting JSON files (`*-reduced.json`) are then merged based on the AniDB ID, since that is the most common denominator of both lists.
