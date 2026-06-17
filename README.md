@@ -81,6 +81,8 @@ Example:
   }
 ]
 ```
+Note: Yes, there is an inconsistency between the themoviedb_id.tv and themoviedb_id.movie fields, the latter being an Array while the other is not. This is intended.
+From the source (as of right now), only the movie side can have multiple IDs mapped under a single anidb ID. This isn't the case for an ID on the TV side. I think this is clearer in what to expect, the themoviedb_id.tv will only contain one ID, but the themoviedb_id.movie can have multiple IDs in it!
 
 ### anime-list-full
 
