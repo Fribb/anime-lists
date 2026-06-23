@@ -80116,7 +80116,10 @@
   "tvdb_id" : 421855,
   "season" : {
     "tvdb" : 2,
-    "tmdb" : 2
+    "tmdb" : 1
+  },
+  "episode_offset" : {
+    "tmdb" : 25
   }
 }, {
   "anidb_id" : 18581,
