@@ -653,7 +653,7 @@
   "name" : "Chou Robot Seimeitai Transformers Micron Densetsu",
   "ids" : [ 525, 1342, 2065, 2069, 2077, 2103, 2806, 2978, 3393, 4201, 4202, 6669, 7061, 7924, 9924, 10935, 11264, 19767 ]
 }, {
-  "name" : "Panda! Go Panda!",
+  "name" : "Panda Kopanda",
   "ids" : [ 530, 6976 ]
 }, {
   "name" : "Madou King Granzort",
@@ -930,7 +930,7 @@
   "ids" : [ 1007, 1008, 1009, 1010, 3570 ]
 }, {
   "name" : "Shingetsutan Tsukihime",
-  "ids" : [ 1015, 3348, 4932, 6784, 7206, 8102, 8160, 8824, 8880, 9042, 9309, 9900, 9907, 9977, 10091, 10566, 10755, 10760, 10804, 10833, 11639, 12046, 12420, 12519, 12704, 13508, 13643, 13644, 13705, 14238, 14239, 14573, 14579, 14580, 15461, 15565, 15899, 16421, 16565, 17080, 17636, 17804, 18092, 18093, 18160, 18796, 19851, 19984 ]
+  "ids" : [ 1015, 3348, 4932, 6784, 7206, 8102, 8160, 8824, 8880, 9042, 9309, 9900, 9907, 9977, 10091, 10566, 10755, 10760, 10804, 10833, 11639, 12046, 12420, 12519, 12704, 13508, 13643, 13644, 13705, 14238, 14239, 14573, 14579, 14580, 15461, 15565, 15899, 16421, 16565, 17080, 17636, 17804, 18092, 18093, 18160, 18796, 19851, 19984, 20278 ]
 }, {
   "name" : "Uchuu Densetsu Ulysses 31",
   "ids" : [ 1016, 8443 ]
@@ -962,7 +962,7 @@
   "name" : "Akage no Anne",
   "ids" : [ 1061, 4895, 6046, 7142, 7526, 19002 ]
 }, {
-  "name" : "Wagamama Fairy Mirumo de Pon!",
+  "name" : "Wagamama☆Fairy Mirumo de Pon!",
   "ids" : [ 1063, 2267, 3196, 3197 ]
 }, {
   "name" : "Ace wo Nerae!",
@@ -1547,7 +1547,7 @@
   "name" : "Bouken Ou Beet",
   "ids" : [ 2391, 3703 ]
 }, {
-  "name" : "GANTZ",
+  "name" : "Gantz",
   "ids" : [ 2400, 11778 ]
 }, {
   "name" : "Offside (TV)",
@@ -1636,6 +1636,9 @@
 }, {
   "name" : "Bao Lian Deng",
   "ids" : [ 2753, 4087, 4907, 7386, 7927, 9369, 12143, 12146, 12249, 12250, 13974, 19727 ]
+}, {
+  "name" : "Meitantei Precure! Movie: Fushigi na Niwa to 2-ri no Himitsu",
+  "ids" : [ 20218 ]
 }, {
   "name" : "Norimono Oukoku BuBu ChaCha",
   "ids" : [ 2770, 3171 ]
@@ -1760,6 +1763,9 @@
   "name" : "Fuuma no Kojirou: Fuuma Hanran-hen",
   "ids" : [ 3096, 3097, 3099 ]
 }, {
+  "name" : "Doraemon Movie 45: Nobita no Jouki Jikansha",
+  "ids" : [ 20220 ]
+}, {
   "name" : "Ginga Shippuu Sasuraiger",
   "ids" : [ 3115, 3116, 3117 ]
 }, {
@@ -1844,7 +1850,7 @@
   "name" : "Ashita Genki ni Nare!: Hanbun no Satsumaimo",
   "ids" : [ 3438, 3630 ]
 }, {
-  "name" : "IGPX: Immortal Grand Prix",
+  "name" : "IGPX: Immortal Grand Prix (2005)",
   "ids" : [ 3450, 7763 ]
 }, {
   "name" : "Gintama",
@@ -1867,6 +1873,9 @@
 }, {
   "name" : "Boku no Boukuugou",
   "ids" : [ 3567, 5361, 5810, 6085, 6200, 6201, 6759, 6760, 6761 ]
+}, {
+  "name" : "19432",
+  "ids" : [ 19432 ]
 }, {
   "name" : "Higurashi no Naku Koro ni",
   "ids" : [ 3574, 4894, 5634, 8350, 9574, 15350, 16137, 20119 ]
@@ -2177,7 +2186,7 @@
   "name" : "Cencoroll",
   "ids" : [ 4982, 10546, 14970 ]
 }, {
-  "name" : "Bavi Stock I: Hateshi Naki Hyouteki",
+  "name" : "Bavi Stock",
   "ids" : [ 5007, 8633 ]
 }, {
   "name" : "Code-E",
@@ -2675,6 +2684,12 @@
   "name" : "Bakuman.",
   "ids" : [ 7251, 8150, 8836 ]
 }, {
+  "name" : "Jigazou",
+  "ids" : [ 7260 ]
+}, {
+  "name" : "7045",
+  "ids" : [ 7045 ]
+}, {
   "name" : "Fushigi na Kusuri",
   "ids" : [ 7266, 7269, 8988 ]
 }, {
@@ -2812,6 +2827,9 @@
 }, {
   "name" : "Deadman Wonderland",
   "ids" : [ 7902, 8307 ]
+}, {
+  "name" : "19834",
+  "ids" : [ 19834 ]
 }, {
   "name" : "Dantalian no Shoka",
   "ids" : [ 7939, 8944 ]
@@ -3005,13 +3023,13 @@
   "name" : "Recorder to Randoseru Do♪",
   "ids" : [ 8716, 9034, 9123, 9802 ]
 }, {
-  "name" : "Tomika Mirai Kinkyuu Tai Earth Commander",
+  "name" : "Tomica Mirai Kinkyuu Tai Earth Commander",
   "ids" : [ 8741, 12721, 13507, 13606, 13607, 14961, 15355, 15994, 18354 ]
 }, {
   "name" : "Yonimo Osoroshii Grimm Douwa",
   "ids" : [ 8747, 8748 ]
 }, {
-  "name" : "Battle of Clay",
+  "name" : "Nendo no Tatakai",
   "ids" : [ 8758, 15053 ]
 }, {
   "name" : "Ghost Messenger",
@@ -3077,7 +3095,7 @@
   "name" : "Blood Lad",
   "ids" : [ 8929, 9803 ]
 }, {
-  "name" : "Chuu-gakusei: Super Deluxe",
+  "name" : "Chuugakusei",
   "ids" : [ 8935, 8936 ]
 }, {
   "name" : "Qin Shi Mingyue: Bai Bu Fei Jian",
@@ -3098,7 +3116,7 @@
   "name" : "Furusato Saisei: Nippon no Mukashibanashi",
   "ids" : [ 9016, 13050 ]
 }, {
-  "name" : "Monsuno",
+  "name" : "Juusen Battle Monsuno",
   "ids" : [ 9022, 9795 ]
 }, {
   "name" : "Kami-Usagi Rope",
@@ -3387,7 +3405,7 @@
   "ids" : [ 9955, 10667, 12954, 13704 ]
 }, {
   "name" : "Yami Shibai",
-  "ids" : [ 9964, 10717, 11748, 12575, 12947, 13219, 14088, 14922, 15603, 15879, 16363, 17057, 18020, 18402, 18754, 19086, 19426, 19825 ]
+  "ids" : [ 9964, 10717, 11748, 12575, 12947, 13219, 14088, 14922, 15603, 15879, 16363, 17057, 18020, 18402, 18754, 19086, 19426, 19825, 20192 ]
 }, {
   "name" : "Hitsugi no Chaika",
   "ids" : [ 9973, 10639, 10648 ]
@@ -3551,7 +3569,7 @@
   "name" : "Master of Torque",
   "ids" : [ 10562, 10748, 12127, 12128, 12702 ]
 }, {
-  "name" : "12-sai. Kiss, Kirai, Suki",
+  "name" : "12-sai.",
   "ids" : [ 10584, 11899, 12198 ]
 }, {
   "name" : "Ookami Shoujo to Kuro Ouji",
@@ -3894,7 +3912,7 @@
   "ids" : [ 11736, 12819 ]
 }, {
   "name" : "Boku no Hero Academia",
-  "ids" : [ 11739, 12233, 12344, 13485, 13633, 14416, 14776, 15484, 15672, 15873, 16793, 17356, 17931, 18150, 18199, 18921, 19069, 19423, 20039 ]
+  "ids" : [ 11739, 12233, 12344, 13485, 13633, 14416, 14776, 15484, 15672, 15873, 16793, 17356, 17931, 18150, 18199, 18921, 19069, 19423, 20039, 20241 ]
 }, {
   "name" : "MEMORiES MELODiES",
   "ids" : [ 11751, 11752, 12339, 12841, 12842, 12844, 14202, 14543, 15380, 15955, 16010, 17809 ]
@@ -4160,7 +4178,7 @@
   "name" : "Sentai Hero Sukiyaki Force: Gunma no Heiwa wo Negau Season",
   "ids" : [ 12572, 13716 ]
 }, {
-  "name" : "Hello Jadoo",
+  "name" : "Annyeong Jadoo",
   "ids" : [ 12590, 12794, 12795, 12796 ]
 }, {
   "name" : "Gan Gan Ganko-chan",
@@ -4302,7 +4320,7 @@
   "ids" : [ 13175, 19291 ]
 }, {
   "name" : "Yao Shen Ji",
-  "ids" : [ 13191, 13868, 14473, 15670, 16988, 17835, 17836, 18606, 19478 ]
+  "ids" : [ 13191, 13868, 14473, 15670, 16988, 17835, 17836, 18606, 19478, 20200 ]
 }, {
   "name" : "Oshiri Tantei",
   "ids" : [ 13203, 14712, 15084, 15310, 15429, 16133, 16272, 16924, 16946, 17054, 17701, 19059 ]
@@ -4970,7 +4988,7 @@
   "name" : "Kami-tachi ni Hirowareta Otoko",
   "ids" : [ 15400, 16364 ]
 }, {
-  "name" : "Ttoli Janggun: Je 3 Ttanggul Pyeon",
+  "name" : "Ttoli Janggun",
   "ids" : [ 15404, 20050 ]
 }, {
   "name" : "100-man no Inochi no Ue ni Ore wa Tatteiru",
@@ -5150,7 +5168,7 @@
   "name" : "Wo Shi Da Shenxian",
   "ids" : [ 15860, 18954, 18955 ]
 }, {
-  "name" : "Power Racer",
+  "name" : "Hua Jianghu: Gui Yexing",
   "ids" : [ 15861, 17160 ]
 }, {
   "name" : "Ai Zai Xiyuan Qian",
@@ -5252,7 +5270,7 @@
   "name" : "Kakkou no Iinazuke",
   "ids" : [ 16188, 18773 ]
 }, {
-  "name" : "Gouyeong-ui Samgugji",
+  "name" : "Go U-Yeong-ui Samgukji",
   "ids" : [ 16233, 16242 ]
 }, {
   "name" : "Sono Bisque Doll wa Koi wo Suru",
@@ -5271,7 +5289,7 @@
   "ids" : [ 16267, 16530, 18338, 19915 ]
 }, {
   "name" : "Wanmei Shijie",
-  "ids" : [ 16281, 18005, 18871, 18950, 20005 ]
+  "ids" : [ 16281, 18005, 18871, 18950, 20005, 20260 ]
 }, {
   "name" : "Shiguang Dailiren",
   "ids" : [ 16290, 16531, 19078, 19882 ]
@@ -5308,6 +5326,9 @@
 }, {
   "name" : "Gunma-chan",
   "ids" : [ 16416, 17319 ]
+}, {
+  "name" : "20156",
+  "ids" : [ 20156 ]
 }, {
   "name" : "Kaitou Queen wa Circus ga Osuki",
   "ids" : [ 16434, 17905 ]
@@ -5348,7 +5369,7 @@
   "name" : "Xian Yu Ge",
   "ids" : [ 16634, 18466 ]
 }, {
-  "name" : "Fengzi Wuyu Yinhe Pian",
+  "name" : "Fengzi Wuyu: Yinhe Pian",
   "ids" : [ 16639, 16640, 18414 ]
 }, {
   "name" : "Fei Zhi Baike",
@@ -5402,7 +5423,7 @@
   "name" : "Sugar Apple Fairy Tale",
   "ids" : [ 16827, 17939 ]
 }, {
-  "name" : "Gon Di Hanta",
+  "name" : "Gon de Hanta",
   "ids" : [ 16859, 16860, 16861, 16862 ]
 }, {
   "name" : "Disney Twisted-Wonderland The Animation: Episode of Heartslabyul",
@@ -5504,7 +5525,7 @@
   "name" : "Isekai Nonbiri Nouka",
   "ids" : [ 17290, 19506 ]
 }, {
-  "name" : "Koikeya SDGs Gekijou: Sus to Taina",
+  "name" : "Koikeya SDGs Gekijou Suss to Tina",
   "ids" : [ 17298, 17299 ]
 }, {
   "name" : "Watashi no Shiawase na Kekkon",
@@ -5907,7 +5928,7 @@
   "ids" : [ 18686, 19779 ]
 }, {
   "name" : "Shi Wangzhe A?",
-  "ids" : [ 18704, 18705, 18706, 19114, 19654 ]
+  "ids" : [ 18704, 18705, 18706, 19114, 19654, 20213 ]
 }, {
   "name" : "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha",
   "ids" : [ 18730, 19581 ]
@@ -5925,7 +5946,7 @@
   "ids" : [ 18757, 18758 ]
 }, {
   "name" : "Tomica Heroes Jobraver: Tokusou Gattai Robo",
-  "ids" : [ 18788, 19647, 19648 ]
+  "ids" : [ 18788, 19647, 19648, 20173 ]
 }, {
   "name" : "Katainaka no Ossan, Kensei ni Naru",
   "ids" : [ 18793, 19400 ]
@@ -5984,6 +6005,9 @@
   "name" : "Taiyou yori mo Mabushii Hoshi",
   "ids" : [ 19145, 19770 ]
 }, {
+  "name" : "Jiyi Guanli Ju (2026)",
+  "ids" : [ 19175 ]
+}, {
   "name" : "Yuusha Party wo Oidasareta Kiyoubinbou",
   "ids" : [ 19190, 19960 ]
 }, {
@@ -6015,12 +6039,12 @@
   "ids" : [ 19546, 20139 ]
 }, {
   "name" : "Jiaonang Jihua",
-  "ids" : [ 19597, 19598, 19599 ]
+  "ids" : [ 19597, 19598, 19599, 20199 ]
 }, {
   "name" : "Marriagetoxin",
   "ids" : [ 19625, 20150 ]
 }, {
-  "name" : "Balala Xiaomoxian: Yao Xing Shouhu Zhe 1",
+  "name" : "Balala Xiao Mo Xian: Yao Xing Shouhu Zhe",
   "ids" : [ 19668, 19669 ]
 }, {
   "name" : "Rainbow Bubblegem",
@@ -6029,11 +6053,20 @@
   "name" : "Chou Kaguya-hime!",
   "ids" : [ 19701, 19872 ]
 }, {
+  "name" : "Hokuto no Ken: Ken`ou-gun Zako-tachi no Banka (2026)",
+  "ids" : [ 20178 ]
+}, {
   "name" : "Guangyin Zhi Wai",
   "ids" : [ 19835, 20115 ]
 }, {
   "name" : "Jochum",
   "ids" : [ 19854, 19855 ]
+}, {
+  "name" : "Shiguang Zhaoxiangguan de Richang",
+  "ids" : [ 20272, 20273 ]
+}, {
+  "name" : "Aka no Kioku",
+  "ids" : [ 19973, 20177 ]
 }, {
   "name" : "Yinyue Gongzhu Ai Meili",
   "ids" : [ 20013, 20015, 20016, 20017, 20058 ]
@@ -6044,18 +6077,87 @@
   "name" : "19336",
   "ids" : [ 19336 ]
 }, {
+  "name" : "Alssongdalssong Catch! Tiniping",
+  "ids" : [ 20130, 20132, 20138, 20265 ]
+}, {
   "name" : "Shooting Star Catch! Tiniping",
   "ids" : [ 20133, 20137 ]
 }, {
-  "name" : "Hitoribocchi no Isekai Kouryaku 2",
+  "name" : "Hitoribocchi no Isekai Kouryaku 2nd Season",
   "ids" : [ 20166 ]
 }, {
   "name" : "18432",
   "ids" : [ 18432 ]
 }, {
-  "name" : "Koori no Jouheki (2026)",
+  "name" : "Koori no Jouheki 2nd Season",
   "ids" : [ 20168 ]
 }, {
   "name" : "19139",
   "ids" : [ 19139 ]
+}, {
+  "name" : "19188",
+  "ids" : [ 19188 ]
+}, {
+  "name" : "Bananya: At-Home Party",
+  "ids" : [ 20189 ]
+}, {
+  "name" : "Lian Qi Shi Wan Nian Special: Yangji Tianxia",
+  "ids" : [ 20204 ]
+}, {
+  "name" : "18369",
+  "ids" : [ 18369 ]
+}, {
+  "name" : "Yi Nian Yong Heng: Wanjie Ji",
+  "ids" : [ 20207 ]
+}, {
+  "name" : "Jueshi Zhan Hun 2nd Season",
+  "ids" : [ 20212 ]
+}, {
+  "name" : "18604",
+  "ids" : [ 18604 ]
+}, {
+  "name" : "Mato Seihei no Slave 3",
+  "ids" : [ 20238 ]
+}, {
+  "name" : "Chitose-kun wa Ramune Bin no Naka Part 2",
+  "ids" : [ 20240 ]
+}, {
+  "name" : "18811",
+  "ids" : [ 18811 ]
+}, {
+  "name" : "You Shou Yan 6th Season",
+  "ids" : [ 20248 ]
+}, {
+  "name" : "Quanzhi Fashi VIII",
+  "ids" : [ 20253 ]
+}, {
+  "name" : "Di Ling Ai: Shui Xin Chan",
+  "ids" : [ 20257 ]
+}, {
+  "name" : "19488",
+  "ids" : [ 19488 ]
+}, {
+  "name" : "Bawang Long Lei Qi: Lei Qi Zhi Duoshao",
+  "ids" : [ 20268, 20269, 20270 ]
+}, {
+  "name" : "Zhu Xian: Zuizhong Ji",
+  "ids" : [ 20282 ]
+}, {
+  "name" : "Bei Jiazu Paoqi, Wo Juexing Jiu Yi Shuxing Dian 2",
+  "ids" : [ 20289 ]
+}, {
+  "name" : "19940",
+  "ids" : [ 19940 ]
+}, {
+  "name" : "Tefuda ga Oome no Victoria 2",
+  "ids" : [ 20334 ]
+}, {
+  "name" : "19573",
+  "ids" : [ 19573 ]
+}, {
+  "name" : "Nippon Sangoku 2",
+  "ids" : [ 20336 ]
+}, {
+  "name" : "19861",
+  "ids" : [ 19861 ]
 } ]
