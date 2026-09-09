@@ -17,7 +17,7 @@ This repository is to store and provide the mapping between various anime source
 
 The lists are generated through the [anime-lists-generator](https://github.com/Fribb/anime-lists-generator) based on a couple of already existing lists and mappings from other repositories.
 
-1. [anime-offline-database](https://github.com/manami-project/anime-offline-database/)
+1. [anime-offline-database](https://github.com/cedya77/anime-offline-database)
 2. [Anime-Lists/anime-lists](https://github.com/Anime-Lists/anime-lists/)
 
 ### anime-offline-database-reduced
@@ -257,7 +257,7 @@ You would have to make sure that you use the correct endpoint depending on what 
 ### Generation and Corrections
 
 The lists above are generated through the [anime-lists-generator](https://github.com/Fribb/anime-lists-generator).
-The generator will get the [anime-offline-database](https://github.com/manami-project/anime-offline-database/) and the [anime-lists](https://github.com/Anime-Lists/anime-lists/) projects and clean them up into a JSON format. Especially the anime-lists project has a lot of information that is not viable for a mapping project (like the TheTVDB ID set to "movie", etc.).
+The generator will get the [anime-offline-database](https://github.com/cedya77/anime-offline-database) and the [anime-lists](https://github.com/Anime-Lists/anime-lists/) projects and clean them up into a JSON format. Especially the anime-lists project has a lot of information that is not viable for a mapping project (like the TheTVDB ID set to "movie", etc.).
 
 Those resulting JSON files (`*-reduced.json`) are then merged based on the AniDB ID, since that is the most common denominator of both lists.
 
