@@ -200773,7 +200773,10 @@
   "tvdb_id" : 393478,
   "season" : {
     "tvdb" : 2,
-    "tmdb" : 2
+    "tmdb" : 1
+  },
+  "episode_offset" : {
+    "tmdb" : 24
   }
 }, {
   "type" : "TV",
@@ -200992,10 +200995,14 @@
   "animenewsnetwork_id" : 25095,
   "anime-planet_id" : "mahoutsukai-no-yoru",
   "anisearch_id" : 16972,
+  "imdb_id" : [ "tt31970593" ],
   "kitsu_id" : 45666,
   "livechart_id" : 10945,
   "mal_id" : 50668,
-  "simkl_id" : 1814376
+  "simkl_id" : 1814376,
+  "themoviedb_id" : {
+    "movie" : [ 920167 ]
+  }
 }, {
   "type" : "ONA",
   "anidb_id" : 17082,
@@ -211496,7 +211503,10 @@
   "tvdb_id" : 393478,
   "season" : {
     "tvdb" : 3,
-    "tmdb" : 3
+    "tmdb" : 1
+  },
+  "episode_offset" : {
+    "tmdb" : 36
   }
 }, {
   "type" : "ONA",
@@ -214328,7 +214338,15 @@
   "kitsu_id" : 47985,
   "livechart_id" : 12344,
   "mal_id" : 56733,
-  "simkl_id" : 2263622
+  "simkl_id" : 2263622,
+  "themoviedb_id" : {
+    "tv" : 335194
+  },
+  "tvdb_id" : 440056,
+  "season" : {
+    "tvdb" : 1,
+    "tmdb" : 1
+  }
 }, {
   "type" : "TV",
   "anidb_id" : 18209,
@@ -216082,10 +216100,19 @@
   "animenewsnetwork_id" : 31103,
   "anime-planet_id" : "a-returners-magic-should-be-special-season-2",
   "anisearch_id" : 18981,
+  "imdb_id" : [ "tt28313387" ],
   "kitsu_id" : 48397,
   "livechart_id" : 12474,
   "mal_id" : 57612,
-  "simkl_id" : 2330432
+  "simkl_id" : 2330432,
+  "themoviedb_id" : {
+    "tv" : 230050
+  },
+  "tvdb_id" : 432815,
+  "season" : {
+    "tvdb" : 2,
+    "tmdb" : 2
+  }
 }, {
   "type" : "ONA",
   "anidb_id" : 18346,
@@ -220099,10 +220126,22 @@
   "animenewsnetwork_id" : 32821,
   "anime-planet_id" : "tokyo-revengers-battle-of-three-deities",
   "anisearch_id" : 19353,
+  "imdb_id" : [ "tt13196080" ],
   "kitsu_id" : 48960,
   "livechart_id" : 12704,
   "mal_id" : 59088,
-  "simkl_id" : 2493596
+  "simkl_id" : 2493596,
+  "themoviedb_id" : {
+    "tv" : 105009
+  },
+  "tvdb_id" : 393478,
+  "season" : {
+    "tvdb" : 4,
+    "tmdb" : 1
+  },
+  "episode_offset" : {
+    "tmdb" : 50
+  }
 }, {
   "type" : "TV",
   "anidb_id" : 18694,
@@ -224897,10 +224936,22 @@
   "animenewsnetwork_id" : 34229,
   "anime-planet_id" : "as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-world-season-3",
   "anisearch_id" : 19993,
+  "imdb_id" : [ "tt31975847" ],
   "kitsu_id" : 49437,
   "livechart_id" : 12991,
   "mal_id" : 60601,
-  "simkl_id" : 2667698
+  "simkl_id" : 2667698,
+  "themoviedb_id" : {
+    "tv" : 237150
+  },
+  "tvdb_id" : 434704,
+  "season" : {
+    "tvdb" : 3,
+    "tmdb" : 1
+  },
+  "episode_offset" : {
+    "tmdb" : 24
+  }
 }, {
   "type" : "TV",
   "anidb_id" : 19071,
@@ -228978,7 +229029,15 @@
   "kitsu_id" : 50016,
   "livechart_id" : 13230,
   "mal_id" : 61990,
-  "simkl_id" : 2830474
+  "simkl_id" : 2830474,
+  "themoviedb_id" : {
+    "tv" : 326788
+  },
+  "tvdb_id" : 384541,
+  "season" : {
+    "tvdb" : 2,
+    "tmdb" : 1
+  }
 }, {
   "type" : "ONA",
   "anidb_id" : 19446,
@@ -231428,10 +231487,14 @@
   "animenewsnetwork_id" : 37933,
   "anime-planet_id" : "the-apothecary-diaries-movie",
   "anisearch_id" : 20990,
+  "imdb_id" : [ "tt39110207" ],
   "kitsu_id" : 50842,
   "livechart_id" : 13371,
   "mal_id" : 62844,
-  "simkl_id" : 2909050
+  "simkl_id" : 2909050,
+  "themoviedb_id" : {
+    "movie" : [ 1566920 ]
+  }
 }, {
   "type" : "TV",
   "anidb_id" : 19671,
@@ -233416,6 +233479,9 @@
   "anisearch_id" : 21185,
   "mal_id" : 63381,
   "simkl_id" : 3004128,
+  "themoviedb_id" : {
+    "tv" : 334779
+  },
   "tvdb_id" : 473125,
   "season" : {
     "tvdb" : 1
@@ -233625,6 +233691,7 @@
   "animenewsnetwork_id" : 38410,
   "anime-planet_id" : "hi-im-a-witch-and-my-crush-wants-me-to-make-a-love-potion",
   "anisearch_id" : 21219,
+  "imdb_id" : [ "tt43650300" ],
   "kitsu_id" : 50520,
   "livechart_id" : 13508,
   "mal_id" : 63409,
@@ -235208,7 +235275,11 @@
   "kitsu_id" : 50752,
   "livechart_id" : 13628,
   "mal_id" : 64131,
-  "simkl_id" : 3108830
+  "simkl_id" : 3108830,
+  "tvdb_id" : 477658,
+  "season" : {
+    "tvdb" : 1
+  }
 }, {
   "type" : "ONA",
   "anidb_id" : 20041,
@@ -235361,10 +235432,19 @@
   "animenewsnetwork_id" : 39645,
   "anime-planet_id" : "the-iceblade-sorcerer-shall-rule-the-world-ii",
   "anisearch_id" : 21575,
+  "imdb_id" : [ "tt25531288" ],
   "kitsu_id" : 50723,
   "livechart_id" : 13639,
   "mal_id" : 64254,
-  "simkl_id" : 3127764
+  "simkl_id" : 3127764,
+  "themoviedb_id" : {
+    "tv" : 200777
+  },
+  "tvdb_id" : 419502,
+  "season" : {
+    "tvdb" : 2,
+    "tmdb" : 2
+  }
 }, {
   "type" : "ONA",
   "anidb_id" : 20066,
@@ -235995,10 +236075,23 @@
   "anilist_id" : 213657,
   "animecountdown_id" : 3167238,
   "anime-planet_id" : "mission-yozakura-family-season-2-part-ii",
+  "imdb_id" : [ "tt31131310" ],
   "kitsu_id" : 50823,
   "livechart_id" : 13700,
   "mal_id" : 64503,
-  "simkl_id" : 3167238
+  "simkl_id" : 3167238,
+  "themoviedb_id" : {
+    "tv" : 216467
+  },
+  "tvdb_id" : 424019,
+  "season" : {
+    "tvdb" : 2,
+    "tmdb" : 2
+  },
+  "episode_offset" : {
+    "tvdb" : 12,
+    "tmdb" : 12
+  }
 }, {
   "type" : "TV",
   "anidb_id" : 20143,
@@ -236673,9 +236766,21 @@
   "animenewsnetwork_id" : 38864,
   "anime-planet_id" : "chitose-is-in-the-ramune-bottle-part-ii",
   "anisearch_id" : 21358,
+  "imdb_id" : [ "tt35769369" ],
   "livechart_id" : 13317,
   "mal_id" : 62484,
-  "simkl_id" : 3203592
+  "simkl_id" : 3203592,
+  "themoviedb_id" : {
+    "tv" : 261343
+  },
+  "tvdb_id" : 453057,
+  "season" : {
+    "tvdb" : 2,
+    "tmdb" : 1
+  },
+  "episode_offset" : {
+    "tmdb" : 13
+  }
 }, {
   "type" : "ONA",
   "anidb_id" : 20241,
