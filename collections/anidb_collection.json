@@ -105,7 +105,7 @@
   "ids" : [ 60, 565 ]
 }, {
   "name" : "Koukaku Kidoutai",
-  "ids" : [ 61, 181, 247, 890, 1176, 1240, 1585, 2126, 3431, 3542, 4290, 4414, 4691, 5555, 5941, 6122, 6779, 7019, 9248, 9658, 10382, 10442, 10824, 11023, 11367, 12360, 12388, 12389, 12392, 12393, 13098, 13615, 15512, 16427, 17609, 17940, 18652 ]
+  "ids" : [ 61, 181, 247, 642, 890, 1176, 1240, 1585, 2126, 3431, 3542, 4290, 4414, 4691, 5555, 5941, 6122, 6779, 7019, 9248, 9658, 10382, 10442, 10824, 11023, 11367, 12360, 12388, 12389, 12392, 12393, 13098, 13615, 15512, 16427, 17609, 17940, 18652 ]
 }, {
   "name" : "Saber Marionette J Again",
   "ids" : [ 62, 344, 394, 1247, 11862 ]
@@ -1183,9 +1183,6 @@
 }, {
   "name" : "Seigi wo Aisuru Mono Gekkou Kamen",
   "ids" : [ 1576, 1577 ]
-}, {
-  "name" : "642",
-  "ids" : [ 642 ]
 }, {
   "name" : "Compiler",
   "ids" : [ 1589, 1590, 12593 ]
@@ -2408,6 +2405,9 @@
   "name" : "What's Michael?",
   "ids" : [ 5946, 5952, 6758 ]
 }, {
+  "name" : "20085",
+  "ids" : [ 20085 ]
+}, {
   "name" : "Toaru Majutsu no Index",
   "ids" : [ 5975, 6460, 7599, 7975, 8694, 9484, 10453, 10579, 13481, 14440, 14441, 19159, 19161 ]
 }, {
@@ -2705,6 +2705,9 @@
   "name" : "Shukufuku no Campanella",
   "ids" : [ 7280, 8243 ]
 }, {
+  "name" : "Obocchama-kun",
+  "ids" : [ 7284, 20434 ]
+}, {
   "name" : "Peeping Life",
   "ids" : [ 7302, 7730, 7731, 8656, 8657, 9538, 9662, 9774, 10057, 10074, 10476, 10477, 10825, 11550 ]
 }, {
@@ -2867,7 +2870,7 @@
   "name" : "Astarotte no Omocha!",
   "ids" : [ 8062, 8560 ]
 }, {
-  "name" : "Mahou Shoujo Madoka★Magica",
+  "name" : "Mahou Shoujo Madoka☆Magica",
   "ids" : [ 8069, 8778, 11793, 14360, 15472, 16278, 16404 ]
 }, {
   "name" : "Houkago no Pleiades",
@@ -3060,7 +3063,7 @@
   "ids" : [ 8823, 10048, 10861, 14643, 14644, 14861 ]
 }, {
   "name" : "Sylvanian Families",
-  "ids" : [ 8828, 13423, 14451, 15112, 17020, 17610, 17987, 18075, 18882, 19590 ]
+  "ids" : [ 8828, 13423, 14451, 15112, 17020, 17610, 17987, 18075, 18882, 19590, 20437 ]
 }, {
   "name" : "Upotte!!",
   "ids" : [ 8829, 8991 ]
@@ -4479,7 +4482,7 @@
   "ids" : [ 13693, 19596 ]
 }, {
   "name" : "Iya na Kao sare nagara Opantsu Misete Moraitai",
-  "ids" : [ 13698, 14259, 19508 ]
+  "ids" : [ 13698, 14259, 18061, 19508 ]
 }, {
   "name" : "Doupo Cangqiong",
   "ids" : [ 13721, 13851, 14874, 14891, 14892, 15147, 16179, 16566, 17052, 17524 ]
@@ -4779,7 +4782,7 @@
   "ids" : [ 14659, 15330, 16443, 19449 ]
 }, {
   "name" : "Mairimashita! Iruma-kun",
-  "ids" : [ 14660, 15428, 16627, 18995, 19878 ]
+  "ids" : [ 14660, 15428, 16627, 18995, 19878, 20420 ]
 }, {
   "name" : "Meng Qi Shi Shen",
   "ids" : [ 14663, 16986, 17511 ]
@@ -4818,7 +4821,7 @@
   "ids" : [ 14757, 17791, 18171, 18272, 19262 ]
 }, {
   "name" : "Mushoku Tensei: Isekai Ittara Honki Dasu",
-  "ids" : [ 14758, 15954, 17236, 18104, 18727 ]
+  "ids" : [ 14758, 15954, 17236, 18104, 18727, 20422 ]
 }, {
   "name" : "No Guns Life",
   "ids" : [ 14759, 15143 ]
@@ -5208,7 +5211,7 @@
   "ids" : [ 15867, 17093, 18364, 18365, 19039, 20042 ]
 }, {
   "name" : "Seirei Gensouki",
-  "ids" : [ 15875, 16962 ]
+  "ids" : [ 15875, 16962, 20432 ]
 }, {
   "name" : "Chainsaw Man",
   "ids" : [ 15914, 18324, 18476, 18477, 18478, 18479, 18480, 19560, 19778 ]
@@ -5334,7 +5337,7 @@
   "ids" : [ 16355, 20099 ]
 }, {
   "name" : "Da Wang Rao Ming",
-  "ids" : [ 16356, 18391 ]
+  "ids" : [ 16356, 18391, 20439 ]
 }, {
   "name" : "Ao Ashi",
   "ids" : [ 16358, 19318 ]
@@ -5424,7 +5427,7 @@
   "ids" : [ 16752, 16753, 17426 ]
 }, {
   "name" : "Yuan Shi Qi Zhuan Qianzhuan: Gloria",
-  "ids" : [ 16756, 16757, 16758, 16759, 16760, 19136 ]
+  "ids" : [ 16756, 16757, 16758, 16759, 16760, 19136, 19175 ]
 }, {
   "name" : "Jingling Meng Xie Luo Li",
   "ids" : [ 16765, 16766, 16767, 16768, 16769, 16770, 16771, 16772 ]
@@ -5795,9 +5798,6 @@
   "name" : "Zuoshou Shanglan",
   "ids" : [ 18045, 19130 ]
 }, {
-  "name" : "Iya na Kao Sarenagara Opantsu Misete Moraitai Ver. 3.0 (Kari)",
-  "ids" : [ 18061 ]
-}, {
   "name" : "Cang Yuan Tu",
   "ids" : [ 18078, 18764, 19030, 19946, 19947 ]
 }, {
@@ -5832,7 +5832,7 @@
   "ids" : [ 18201, 19613 ]
 }, {
   "name" : "Xian Ni",
-  "ids" : [ 18237, 19372 ]
+  "ids" : [ 18237, 19372, 20436 ]
 }, {
   "name" : "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
   "ids" : [ 18247, 20167 ]
@@ -6038,9 +6038,6 @@
   "name" : "Neko to Ryuu",
   "ids" : [ 19172, 20404 ]
 }, {
-  "name" : "Jiyi Guanli Ju (2026)",
-  "ids" : [ 19175 ]
-}, {
   "name" : "Yuusha Party wo Oidasareta Kiyoubinbou",
   "ids" : [ 19190, 19960 ]
 }, {
@@ -6101,6 +6098,9 @@
   "name" : "Nippon Sangoku",
   "ids" : [ 19861, 20336 ]
 }, {
+  "name" : "Thunder 3",
+  "ids" : [ 19877, 20431 ]
+}, {
   "name" : "Shiguang Zhaoxiangguan de Richang",
   "ids" : [ 20272, 20273 ]
 }, {
@@ -6114,13 +6114,10 @@
   "ids" : [ 20013, 20015, 20016, 20017, 20058 ]
 }, {
   "name" : "Banjjagbanjjag Catch! Tiniping",
-  "ids" : [ 20129 ]
+  "ids" : [ 20129, 20130, 20132, 20133, 20137, 20138, 20265 ]
 }, {
   "name" : "19336",
   "ids" : [ 19336 ]
-}, {
-  "name" : "Alssongdalssong Catch! Tiniping",
-  "ids" : [ 20130, 20132, 20133, 20137, 20138, 20265 ]
 }, {
   "name" : "Hitoribocchi no Isekai Kouryaku 2nd Season",
   "ids" : [ 20166 ]
@@ -6158,7 +6155,7 @@
   "name" : "Bawang Long Lei Qi: Lei Qi Zhi Duoshao",
   "ids" : [ 20268, 20269, 20270 ]
 }, {
-  "name" : "EAT-MAN The Over Order",
+  "name" : "Eat-Man: The Over Order",
   "ids" : [ 20346 ]
 }, {
   "name" : "Eiga Uchuu Nanchara Kotetsu-kun: Ukkari Detekita Uchuujin o Sagase!",
@@ -6176,9 +6173,30 @@
   "name" : "Grand Blue Season 4",
   "ids" : [ 20408 ]
 }, {
-  "name" : "Kore Kaite Shine 2",
+  "name" : "Kore Kaite Shine 2nd Season",
   "ids" : [ 20417 ]
 }, {
   "name" : "19232",
   "ids" : [ 19232 ]
+}, {
+  "name" : "Umayuru: Full Gate!",
+  "ids" : [ 20425 ]
+}, {
+  "name" : "Liar Game 2nd Season",
+  "ids" : [ 20426 ]
+}, {
+  "name" : "19538",
+  "ids" : [ 19538 ]
+}, {
+  "name" : "Ra/Radio Noise*Planet",
+  "ids" : [ 20428 ]
+}, {
+  "name" : "9489",
+  "ids" : [ 9489 ]
+}, {
+  "name" : "Kizu Darake Seijo yori Houfuku o Komete Season 2",
+  "ids" : [ 20433 ]
+}, {
+  "name" : "19442",
+  "ids" : [ 19442 ]
 } ]

@@ -1424,6 +1424,9 @@
   "name" : "UQ Holder! Mahou Sensei Negima! 2",
   "ids" : [ 2223, 2485 ]
 }, {
+  "name" : "Karasu Tengu Kabuto",
+  "ids" : [ 13840, 13841 ]
+}, {
   "name" : "Nils no Fushigi na Tabi",
   "ids" : [ 7019, 7609 ]
 }, {
@@ -3210,7 +3213,7 @@
   "ids" : [ 1060 ]
 }, {
   "name" : "Sylvanian Families: Mini Story",
-  "ids" : [ 2854, 9616, 9617, 12116, 12117, 12118, 12119, 12253, 12853, 13321 ]
+  "ids" : [ 2854, 9616, 9617, 12116, 12117, 12118, 12119, 12253, 12853, 13321, 13836 ]
 }, {
   "name" : "Upotte!! Miatte Waratte",
   "ids" : [ 1015, 2366 ]
@@ -4185,7 +4188,7 @@
   "ids" : [ 1580, 9563, 11150, 12339 ]
 }, {
   "name" : "Monster Strike",
-  "ids" : [ 1594, 2261, 2499, 2695, 2709, 2900, 3312, 3358, 8517, 8523, 8552, 9586, 9859, 10164, 13240 ]
+  "ids" : [ 1594, 2261, 2499, 2695, 2709, 2900, 3312, 3358, 8517, 8523, 8552, 9586, 9859, 10164, 13240, 13829 ]
 }, {
   "name" : "Bikini Warriors",
   "ids" : [ 1600, 1730, 2260 ]
@@ -5337,7 +5340,7 @@
   "ids" : [ 9214, 9740, 10715 ]
 }, {
   "name" : "Mairimashita! Iruma-kun",
-  "ids" : [ 9215, 9820, 10780, 12927, 13512 ]
+  "ids" : [ 9215, 9820, 10780, 12927, 13512, 13828 ]
 }, {
   "name" : "Meng Qi Shi Shen",
   "ids" : [ 9011, 10903, 11331 ]
@@ -5346,7 +5349,7 @@
   "ids" : [ 9224 ]
 }, {
   "name" : "Sumikko Gurashi Movie 1: Tobidasu Ehon to Himitsu no Ko",
-  "ids" : [ 9513, 10215, 11758, 12382, 13105, 13112 ]
+  "ids" : [ 9513, 10215, 11758, 12382, 13105, 13112, 13832 ]
 }, {
   "name" : "Princess Connect! Re:Dive",
   "ids" : [ 9236, 10117 ]
@@ -5364,7 +5367,7 @@
   "ids" : [ 10409, 10410, 10411 ]
 }, {
   "name" : "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen",
-  "ids" : [ 9258, 9703, 9708, 10065, 12439 ]
+  "ids" : [ 9258, 9703, 9708, 10065, 12439, 13842 ]
 }, {
   "name" : "Totsukuni no Shoujo",
   "ids" : [ 9267, 10444, 10576 ]
@@ -5379,7 +5382,7 @@
   "ids" : [ 9358, 11756, 12405, 12406, 13125 ]
 }, {
   "name" : "Mushoku Tensei: Isekai Ittara Honki Dasu",
-  "ids" : [ 9357, 10297, 10886, 11115, 12225, 12251, 12735 ]
+  "ids" : [ 9357, 10297, 10886, 11115, 12225, 12251, 12735, 13827 ]
 }, {
   "name" : "No Guns Life",
   "ids" : [ 9361, 9644 ]
@@ -5542,6 +5545,9 @@
 }, {
   "name" : "Dokyuu Hentai HxEros",
   "ids" : [ 9658, 10053 ]
+}, {
+  "name" : "Luo Xiaohei Zhanji (Movie)",
+  "ids" : [ 9561, 13839 ]
 }, {
   "name" : "2.43: Seiin Koukou Danshi Volley-bu",
   "ids" : [ 9670, 10324, 10337, 10338, 10339 ]
@@ -5811,7 +5817,7 @@
   "ids" : [ 10233, 10287, 10376 ]
 }, {
   "name" : "Seirei Gensouki",
-  "ids" : [ 10238, 10606, 10875, 12287 ]
+  "ids" : [ 10238, 10606, 10875, 12287, 13833 ]
 }, {
   "name" : "Gintama: The Semi-Final",
   "ids" : [ 10036 ]
@@ -6659,6 +6665,9 @@
   "name" : "Nihon e Youkoso Elf-san.",
   "ids" : [ 12481, 12920 ]
 }, {
+  "name" : "Wu Nao Monu",
+  "ids" : [ 12280, 13768 ]
+}, {
   "name" : "Touhai: Ura Rate Mahjong Touhairoku",
   "ids" : [ 11378, 12868 ]
 }, {
@@ -6729,7 +6738,7 @@
   "ids" : [ 12643, 13108 ]
 }, {
   "name" : "Tougen Anki",
-  "ids" : [ 12651, 13208, 13454 ]
+  "ids" : [ 12651, 13208, 13454, 13755, 13814 ]
 }, {
   "name" : "Izure Saikyou no Renkinjutsushi?",
   "ids" : [ 12653, 13314 ]
@@ -6769,12 +6778,6 @@
 }, {
   "name" : "Yuusha Party wo Tsuihou sareta Shiromadoushi, S-Rank Boukensha ni Hirowareru: Kono Shiromadoushi ga Kikakugai Sugiru",
   "ids" : [ 12777, 13186 ]
-}, {
-  "name" : "Wu Nao Monu 2nd Season",
-  "ids" : [ 13768 ]
-}, {
-  "name" : "12280",
-  "ids" : [ 12280 ]
 }, {
   "name" : "Katainaka no Ossan, Kensei ni Naru",
   "ids" : [ 12774, 13207 ]
@@ -6872,6 +6875,9 @@
   "name" : "Hoshi no Kodomo to Hajimari no Ki",
   "ids" : [ 13062, 13063, 13064, 13065 ]
 }, {
+  "name" : "Neko to Ryuu",
+  "ids" : [ 13050, 13810 ]
+}, {
   "name" : "Kairyuu to Yuubinyasan",
   "ids" : [ 13031 ]
 }, {
@@ -6927,7 +6933,7 @@
   "ids" : [ 13057 ]
 }, {
   "name" : "Guimi Zhi Zhu: Xiaochou Pian",
-  "ids" : [ 13201, 13618 ]
+  "ids" : [ 13201, 13618, 13767 ]
 }, {
   "name" : "Love Live! Hasunosora Jogakuin School Idol Club Movie: Bloom Garden Party",
   "ids" : [ 13187, 13590 ]
@@ -7025,6 +7031,9 @@
   "name" : "Yani Neko",
   "ids" : [ 13505, 13529 ]
 }, {
+  "name" : "Thunder 3",
+  "ids" : [ 13511, 13834 ]
+}, {
   "name" : "Genshin Impact The Animation",
   "ids" : [ 11510, 12678 ]
 }, {
@@ -7042,6 +7051,9 @@
 }, {
   "name" : "Boku no Hero Academia: More",
   "ids" : [ 13435 ]
+}, {
+  "name" : "Kanojo no Tomodachi",
+  "ids" : [ 13628, 13790 ]
 }, {
   "name" : "Pan no Akachan (TV)",
   "ids" : [ 13632, 13633 ]
@@ -7094,6 +7106,9 @@
   "name" : "Boku no Hero Academia: I Am a Hero Too",
   "ids" : [ 13626 ]
 }, {
+  "name" : "Nezumi-kun no Chokki (TV)",
+  "ids" : [ 13305, 13764 ]
+}, {
   "name" : "One Piece Film: God Valley",
   "ids" : [ 13777 ]
 }, {
@@ -7108,6 +7123,24 @@
 }, {
   "name" : "Katainaka no Ossan, Kensei ni Naru III",
   "ids" : [ 13818 ]
+}, {
+  "name" : "Kore Kaite Shine 2nd Season",
+  "ids" : [ 13825 ]
+}, {
+  "name" : "13106",
+  "ids" : [ 13106 ]
+}, {
+  "name" : "Liar Game 2nd Season",
+  "ids" : [ 13831 ]
+}, {
+  "name" : "13289",
+  "ids" : [ 13289 ]
+}, {
+  "name" : "Obocchama-kun Reborn",
+  "ids" : [ 13835 ]
+}, {
+  "name" : "10465",
+  "ids" : [ 10465 ]
 }, {
   "name" : "5-Okunen Button",
   "ids" : [ 11254, 12841 ]
@@ -7256,7 +7289,7 @@
   "name" : "Fudanshi Shoukan: Isekai de Shinjuu ni Hameraremashita",
   "ids" : [ 10145, 10868, 11325, 12446, 12447, 12448 ]
 }, {
-  "name" : "Futsutsuka na Akujo dewa Gozaimasu ga ~Suuguu Chouso Torikae Den~ Cour 2",
+  "name" : "Futsutsuka na Akujo de wa Gozaimasu ga: Suuguu Chouso Torikae Den - Dai 2 Cour",
   "ids" : [ 13811 ]
 }, {
   "name" : "13095",
@@ -7295,9 +7328,6 @@
   "name" : "Golden Douga Gekijou",
   "ids" : [ 4738 ]
 }, {
-  "name" : "Guimi Zhi Zhu: Wu Mian Ren Pian",
-  "ids" : [ 13767 ]
-}, {
   "name" : "Haikara-san ga Tooru Movie 1: Benio, Hana no 17-sai",
   "ids" : [ 2203, 2610 ]
 }, {
@@ -7327,12 +7357,6 @@
 }, {
   "name" : "Kabigon to Karakara",
   "ids" : [ 12449 ]
-}, {
-  "name" : "Kanojo no Tomodachi Mini Anime",
-  "ids" : [ 13790 ]
-}, {
-  "name" : "13628",
-  "ids" : [ 13628 ]
 }, {
   "name" : "Kidou Senshi Gundam 00 Special Edition",
   "ids" : [ 6295 ]
@@ -7414,12 +7438,6 @@
 }, {
   "name" : "Kochira Katsushikaku Kameari Kouenmae Hashutsujo: Washi to Ore!? - Bokura wa Asakusa Shounen Tanteidan!",
   "ids" : [ 11502 ]
-}, {
-  "name" : "Kore Kaite Shine 2nd Season",
-  "ids" : [ 13825 ]
-}, {
-  "name" : "13106",
-  "ids" : [ 13106 ]
 }, {
   "name" : "Kotowaza Gundam-san (ONA)",
   "ids" : [ 6807 ]
@@ -7514,19 +7532,10 @@
   "name" : "Neko Jockey",
   "ids" : [ 10545, 10821 ]
 }, {
-  "name" : "Neko to Ryuu 2nd Season",
-  "ids" : [ 13810 ]
-}, {
-  "name" : "13050",
-  "ids" : [ 13050 ]
-}, {
-  "name" : "Nezumi-kun no Chokki (TV)",
-  "ids" : [ 13305, 13764 ]
-}, {
   "name" : "Ninja Bugei-chou Pilot Film",
   "ids" : [ 11676, 11677 ]
 }, {
-  "name" : "NIPPON SANGOKU Sequel",
+  "name" : "NIPPON SANGOKU (Sequel)",
   "ids" : [ 13681 ]
 }, {
   "name" : "13499",
@@ -7588,9 +7597,6 @@
 }, {
   "name" : "One Piece: Straw Hat Theater",
   "ids" : [ 4906 ]
-}, {
-  "name" : "Oni mo Momo mo 2nd season",
-  "ids" : [ 13755, 13814 ]
 }, {
   "name" : "Oshiri Tantei 10th Season",
   "ids" : [ 13380 ]

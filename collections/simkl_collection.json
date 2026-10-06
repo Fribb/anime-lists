@@ -992,6 +992,9 @@
   "name" : "Golgo 13 (TV)",
   "ids" : [ 38412, 38609, 41331 ]
 }, {
+  "name" : "Doraemon Movie 45: Nobita no Jouki Jikansha",
+  "ids" : [ 3196706 ]
+}, {
   "name" : "Kaibutsu-kun",
   "ids" : [ 36520, 41088, 41196, 41614 ]
 }, {
@@ -1363,9 +1366,6 @@
 }, {
   "name" : "Nanami-chan 3rd Series",
   "ids" : [ 36723, 36973, 37050, 1572629, 1572631, 1572633 ]
-}, {
-  "name" : "Doraemon Movie 45: Nobita no Jouki Jikansha",
-  "ids" : [ 3196706 ]
 }, {
   "name" : "Spirit of Wonder: China-san no Yuuutsu",
   "ids" : [ 37623, 38577 ]
@@ -2720,6 +2720,9 @@
   "name" : "Shukufuku no Campanella",
   "ids" : [ 38713, 615335 ]
 }, {
+  "name" : "Obocchama-kun",
+  "ids" : [ 1572121, 3269452 ]
+}, {
   "name" : "Peeping Life: Gekijou Original-ban",
   "ids" : [ 36808, 37548, 40949, 41114, 43784, 45514, 49704, 49706, 419336, 522632, 1572435, 1572437, 1572597, 1572619 ]
 }, {
@@ -2897,7 +2900,7 @@
   "name" : "Astarotte no Omocha! EX",
   "ids" : [ 38987, 39058 ]
 }, {
-  "name" : "Mahou Shoujo Madoka★Magica",
+  "name" : "Mahou Shoujo Madoka☆Magica",
   "ids" : [ 36433, 38910, 540178, 898951, 1306641, 1621829, 1673915 ]
 }, {
   "name" : "Houkago no Pleiades",
@@ -3114,7 +3117,7 @@
   "ids" : [ 37702, 431550, 1079099, 1079101, 1079103, 1079105 ]
 }, {
   "name" : "Sylvanian Families",
-  "ids" : [ 38846, 716173, 936635, 1176705, 1797924, 1987674, 2142112, 2193172, 2593074, 2885508 ]
+  "ids" : [ 38846, 716173, 936635, 1176705, 1797924, 1987674, 2142112, 2193172, 2593074, 2885508, 3271102 ]
 }, {
   "name" : "Upotte!! Miatte Waratte",
   "ids" : [ 37476, 38101 ]
@@ -3166,6 +3169,9 @@
 }, {
   "name" : "Gakkatsu!",
   "ids" : [ 40667, 41312 ]
+}, {
+  "name" : "Ghost Meets Gal!",
+  "ids" : [ 3240648 ]
 }, {
   "name" : "Renkyori Enai",
   "ids" : [ 37214, 39338 ]
@@ -3613,9 +3619,6 @@
 }, {
   "name" : "Aldnoah.Zero",
   "ids" : [ 47812, 421390 ]
-}, {
-  "name" : "Ghost Meets Gal!",
-  "ids" : [ 3240648 ]
 }, {
   "name" : "Francesca",
   "ids" : [ 48472, 833847 ]
@@ -4629,7 +4632,7 @@
   "ids" : [ 773453, 1723363, 1723365, 1723367, 1723369, 1723371, 2073860, 2073862, 2238642, 2844502, 3120602 ]
 }, {
   "name" : "Tensei shitara Slime Datta Ken",
-  "ids" : [ 777867, 984455, 1060335, 1301569, 1301571, 1735833, 2031512, 2100312, 2704960, 2969868 ]
+  "ids" : [ 777867, 984455, 1060335, 1301569, 1301571, 1735833, 2031512, 2100312, 2704960, 2969868, 3119468 ]
 }, {
   "name" : "Wakaokami wa Shougakusei!",
   "ids" : [ 777871, 799359 ]
@@ -4669,6 +4672,9 @@
 }, {
   "name" : "Okojo to Yamane",
   "ids" : [ 810689, 1014365 ]
+}, {
+  "name" : "BanG Dream! Yume∞Mita",
+  "ids" : [ 2875716 ]
 }, {
   "name" : "Nakanohito Genome [Jikkyouchuu]",
   "ids" : [ 826729, 1192423 ]
@@ -4848,7 +4854,7 @@
   "ids" : [ 1687953 ]
 }, {
   "name" : "Mairimashita! Iruma-kun",
-  "ids" : [ 1034469, 1294833, 1728821, 2638832 ]
+  "ids" : [ 1034469, 1294833, 1728821, 2638832, 3265396 ]
 }, {
   "name" : "Meng Qi Shi Shen",
   "ids" : [ 1060903, 1782474, 1950964 ]
@@ -4887,7 +4893,7 @@
   "ids" : [ 1059369, 2061376, 2239298, 2292956, 2743490 ]
 }, {
   "name" : "Mushoku Tensei: Isekai Ittara Honki Dasu",
-  "ids" : [ 1059371, 1524389, 1863030, 2204668, 2832226 ]
+  "ids" : [ 1059371, 1524389, 1863030, 2204668, 2832226, 3265400 ]
 }, {
   "name" : "No Guns Life",
   "ids" : [ 1059373, 1185563 ]
@@ -5108,9 +5114,6 @@
   "name" : "Da Li Si Rizhi",
   "ids" : [ 1351523, 2093844 ]
 }, {
-  "name" : "BanG Dream! Yume∞Mita",
-  "ids" : [ 2875716 ]
-}, {
   "name" : "Kyuuketsuki Sugu Shinu",
   "ids" : [ 1334917, 1810590 ]
 }, {
@@ -5143,6 +5146,9 @@
 }, {
   "name" : "Tokyo Revengers",
   "ids" : [ 1372805, 1809628, 2132154, 2493596, 2747956 ]
+}, {
+  "name" : "Cyberpunk: Edgerunners",
+  "ids" : [ 1377443, 2830474 ]
 }, {
   "name" : "Tianbao Fuyao Lu",
   "ids" : [ 1391959, 1642621 ]
@@ -5364,7 +5370,7 @@
   "ids" : [ 1623359, 2158326, 2586578, 2622672, 3079848, 3211428 ]
 }, {
   "name" : "Shiguang Dailiren",
-  "ids" : [ 1625669, 1706957, 2671728 ]
+  "ids" : [ 1625669, 1706957, 2671728, 3180260, 3219010, 3219012 ]
 }, {
   "name" : "Komi-san wa, Comyushou desu.",
   "ids" : [ 1642619, 1812124 ]
@@ -5533,6 +5539,9 @@
 }, {
   "name" : "Shenyi Jiu Xiaojie",
   "ids" : [ 1807160, 2424536 ]
+}, {
+  "name" : "Shu Shan Qi Xian Lu",
+  "ids" : [ 1810588, 2700146 ]
 }, {
   "name" : "The Legend of Sky Lord",
   "ids" : [ 2341816, 2527118 ]
@@ -5775,7 +5784,7 @@
   "ids" : [ 2275522, 2983996 ]
 }, {
   "name" : "Chibi Godzilla no Gyakushuu",
-  "ids" : [ 2109294, 2465738 ]
+  "ids" : [ 2109294, 2465738, 3169194 ]
 }, {
   "name" : "2827542",
   "ids" : [ 2827542 ]
@@ -5838,7 +5847,7 @@
   "ids" : [ 2160736, 2498878, 2667698 ]
 }, {
   "name" : "Da Zhuzai: Nian Fan",
-  "ids" : [ 2275626, 3019366 ]
+  "ids" : [ 2275626, 3019366, 3209094 ]
 }, {
   "name" : "1760557",
   "ids" : [ 1760557 ]
@@ -5889,7 +5898,7 @@
   "ids" : [ 2275518, 3173580 ]
 }, {
   "name" : "You Shou Yan",
-  "ids" : [ 2281032, 2477412, 2477414, 2536324, 3025910 ]
+  "ids" : [ 2281032, 2477412, 2477414, 2536324, 3025910, 3206590 ]
 }, {
   "name" : "Ore wa Subete wo \"Parry\" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai",
   "ids" : [ 2281228, 2838534 ]
@@ -6035,6 +6044,9 @@
   "name" : "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha",
   "ids" : [ 2505908, 2884094 ]
 }, {
+  "name" : "0-saiji Start Dash Monogatari",
+  "ids" : [ 2538872, 2743494 ]
+}, {
   "name" : "Wuliao Jiu Wanjie",
   "ids" : [ 2511720, 2828428 ]
 }, {
@@ -6131,23 +6143,11 @@
   "name" : "Fushigi no Kuni de Alice to: Dive in Wonderland",
   "ids" : [ 2687250 ]
 }, {
-  "name" : "0-saiji Start Dash Monogatari Season 2",
-  "ids" : [ 2743494 ]
-}, {
-  "name" : "2538872",
-  "ids" : [ 2538872 ]
-}, {
   "name" : "Juedai Shuang Jiao: Tian Wai You Tian",
   "ids" : [ 2694448 ]
 }, {
   "name" : "2017212",
   "ids" : [ 2017212 ]
-}, {
-  "name" : "Shu Shan Qi Xian Lu 2nd season",
-  "ids" : [ 2700146 ]
-}, {
-  "name" : "1810588",
-  "ids" : [ 1810588 ]
 }, {
   "name" : "Koori no Jouheki",
   "ids" : [ 2701194, 3173582 ]
@@ -6206,17 +6206,8 @@
   "name" : "Love Live! Hasunosora Jogakuin School Idol Club Movie: Bloom Garden Party",
   "ids" : [ 2806626, 3068610 ]
 }, {
-  "name" : "Chibi Godzilla no Gyakushuu 3rd Season",
-  "ids" : [ 3169194 ]
-}, {
   "name" : "Ginga Tokkyuu Milky☆Subway",
   "ids" : [ 2832330, 2865478, 2982894 ]
-}, {
-  "name" : "Cyberpunk: Edgerunners 2",
-  "ids" : [ 2830474 ]
-}, {
-  "name" : "1377443",
-  "ids" : [ 1377443 ]
 }, {
   "name" : "Snowball Earth",
   "ids" : [ 2837598, 3165110 ]
@@ -6335,12 +6326,6 @@
   "name" : "2924096",
   "ids" : [ 2924096 ]
 }, {
-  "name" : "Shiguang Dailiren III",
-  "ids" : [ 3180260 ]
-}, {
-  "name" : "Shiguang Zhaoxiangguan de Richang",
-  "ids" : [ 3219010, 3219012 ]
-}, {
   "name" : "Hanazakari no Kimitachi e 2nd Season",
   "ids" : [ 3058024 ]
 }, {
@@ -6452,9 +6437,6 @@
   "name" : "2536326",
   "ids" : [ 2536326 ]
 }, {
-  "name" : "You Shou Yan 6th Season",
-  "ids" : [ 3206590 ]
-}, {
   "name" : "Di Ling Ai: Shui Xin Chan",
   "ids" : [ 3209096 ]
 }, {
@@ -6476,6 +6458,12 @@
   "name" : "1431269",
   "ids" : [ 1431269 ]
 }, {
+  "name" : "Kizu Darake Seijo yori Houfuku o Komete Season 2",
+  "ids" : [ 3269450 ]
+}, {
+  "name" : "2832332",
+  "ids" : [ 2832332 ]
+}, {
   "name" : "Ai Shimai: Futari no Kajitsu",
   "ids" : [ 872889, 872891 ]
 }, {
@@ -6490,6 +6478,27 @@
 }, {
   "name" : "2728474",
   "ids" : [ 2728474 ]
+}, {
+  "name" : "Liar Game Season 2",
+  "ids" : [ 3266704 ]
+}, {
+  "name" : "2865480",
+  "ids" : [ 2865480 ]
+}, {
+  "name" : "Ra/Radio Noise * Planet",
+  "ids" : [ 3268352 ]
+}, {
+  "name" : "36335",
+  "ids" : [ 36335 ]
+}, {
+  "name" : "Renegade Immortal Movie: Slaying the Blood Progenitor",
+  "ids" : [ 3271100 ]
+}, {
+  "name" : "Seirei Gensouki 3",
+  "ids" : [ 3269448 ]
+}, {
+  "name" : "Spare Me, Great Lord! Season 3",
+  "ids" : [ 3272302 ]
 }, {
   "name" : "The Cat and the Dragon Season 2",
   "ids" : [ 3256041 ]

@@ -2298,7 +2298,7 @@
   "ids" : [ 2591, 2593 ]
 }, {
   "name" : "Bleach",
-  "ids" : [ 244, 684, 739, 1515, 2623, 3817, 5267, 13264, 43078, 43146, 45543, 46903, 47942, 47953, 48015, 48913, 48914, 49262, 49444, 49536 ]
+  "ids" : [ 244, 684, 739, 1515, 2623, 3817, 5267, 13264, 43078, 43146, 45543, 46903, 47942, 47953, 48015, 48913, 48914, 49262, 49444, 49536, 50874 ]
 }, {
   "name" : "Seton Doubutsuki: Risu no Banner",
   "ids" : [ 3660 ]
@@ -6603,7 +6603,7 @@
   "ids" : [ 13065, 41436 ]
 }, {
   "name" : "Quanzhi Gaoshou",
-  "ids" : [ 12611, 41158, 41358, 42673, 45074, 49523 ]
+  "ids" : [ 12611, 41158, 41358, 42673, 45074, 49523, 50908 ]
 }, {
   "name" : "Tsukipro The Animation",
   "ids" : [ 13721, 43890, 46509 ]
@@ -7038,7 +7038,7 @@
   "ids" : [ 40997, 41157, 43096, 43488 ]
 }, {
   "name" : "Grand Blue",
-  "ids" : [ 14190, 49247, 50181 ]
+  "ids" : [ 14190, 49247, 50181, 51078 ]
 }, {
   "name" : "Wo Shi Jiang Xiaobai",
   "ids" : [ 14186, 41306 ]
@@ -7491,7 +7491,7 @@
   "ids" : [ 42929, 43706, 44085, 47775 ]
 }, {
   "name" : "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen",
-  "ids" : [ 42241, 42838, 43048, 43607, 46075, 48293 ]
+  "ids" : [ 42241, 42838, 43048, 43607, 46075, 48293, 51115 ]
 }, {
   "name" : "Totsukuni no Shoujo",
   "ids" : [ 42185, 44114 ]
@@ -7531,6 +7531,9 @@
 }, {
   "name" : "Yesterday wo Utatte",
   "ids" : [ 43063, 43175 ]
+}, {
+  "name" : "I★Chu: Halfway Through the Idol",
+  "ids" : [ 43307, 50912 ]
 }, {
   "name" : "Luo Xiaohei Zhanji",
   "ids" : [ 12748, 14078, 43296, 46695, 50045 ]
@@ -7590,7 +7593,7 @@
   "ids" : [ 43002, 43908, 46645, 46657, 48851 ]
 }, {
   "name" : "Nu Wushen de Canzhuo",
-  "ids" : [ 42478, 42686, 43364, 43622, 44110, 49724 ]
+  "ids" : [ 42478, 42686, 43364, 43622, 44110, 45900, 49724, 51095, 51096, 51097, 51098, 51099 ]
 }, {
   "name" : "Rebirth",
   "ids" : [ 42886, 43529 ]
@@ -9975,7 +9978,7 @@
   "ids" : [ 49358, 50180 ]
 }, {
   "name" : "Seihantai na Kimi to Boku",
-  "ids" : [ 49372, 50634 ]
+  "ids" : [ 49372, 50465, 50634, 50827 ]
 }, {
   "name" : "Gnosia",
   "ids" : [ 49929, 50975 ]
@@ -9991,9 +9994,6 @@
 }, {
   "name" : "Futon no Naka kara Detakunai",
   "ids" : [ 42375, 45193, 49842, 50782 ]
-}, {
-  "name" : "Koori no Jouheki",
-  "ids" : [ 50465, 50827 ]
 }, {
   "name" : "Galaxy Apartment☆Cosmo Hills",
   "ids" : [ 50164, 50165, 50166, 50167 ]
@@ -10070,6 +10070,12 @@
   "name" : "Mahou no Princess Minky Momo: Akogare no Yume e - Magokoro no Duo",
   "ids" : [ 50997 ]
 }, {
+  "name" : "Tougen Anki: Nikko Kegon no Taki-hen",
+  "ids" : [ 51018 ]
+}, {
+  "name" : "48834",
+  "ids" : [ 48834 ]
+}, {
   "name" : "Yani Neko",
   "ids" : [ 50551, 50552 ]
 }, {
@@ -10142,8 +10148,32 @@
   "name" : "Ghost Meets Gal!",
   "ids" : [ 50866 ]
 }, {
-  "name" : "Grand Blue Season 4",
-  "ids" : [ 51078 ]
+  "name" : "Neko to Ryuu 2nd Season",
+  "ids" : [ 51071 ]
+}, {
+  "name" : "49585",
+  "ids" : [ 49585 ]
+}, {
+  "name" : "Odekake Hololive",
+  "ids" : [ 51010 ]
+}, {
+  "name" : "Kore Kaite Shine 2nd Season",
+  "ids" : [ 51087 ]
+}, {
+  "name" : "50244",
+  "ids" : [ 50244 ]
+}, {
+  "name" : "Umayuru: Full Gate!",
+  "ids" : [ 51017 ]
+}, {
+  "name" : "Thunder 3 Season 2",
+  "ids" : [ 51111 ]
+}, {
+  "name" : "50519",
+  "ids" : [ 50519 ]
+}, {
+  "name" : "Seirei Gensouki 3",
+  "ids" : [ 51112 ]
 }, {
   "name" : "#holoEN3DRepeat",
   "ids" : [ 47617, 49174, 49908 ]
@@ -10303,6 +10333,21 @@
 }, {
   "name" : "Benghuai: Xing Qiong Tiedao - Yongjie Lun Wu",
   "ids" : [ 48862, 48863, 48864, 49540 ]
+}, {
+  "name" : "Hikkyou",
+  "ids" : [ 49469, 49988, 50588, 51100, 51101, 51102, 51103, 51104, 51105 ]
+}, {
+  "name" : "48954",
+  "ids" : [ 48954 ]
+}, {
+  "name" : "49107",
+  "ids" : [ 49107 ]
+}, {
+  "name" : "49470",
+  "ids" : [ 49470 ]
+}, {
+  "name" : "49583",
+  "ids" : [ 49583 ]
 }, {
   "name" : "Betsu Sekai",
   "ids" : [ 46912 ]
@@ -11060,12 +11105,6 @@
   "name" : "Kodansha Morning Two CM",
   "ids" : [ 43292, 43293 ]
 }, {
-  "name" : "Kore Kaite Shine 2nd Season",
-  "ids" : [ 51087 ]
-}, {
-  "name" : "50244",
-  "ids" : [ 50244 ]
-}, {
   "name" : "KoSys! Kochira Keihime Tetsudou: Kouhou System-ka",
   "ids" : [ 8798, 12826 ]
 }, {
@@ -11132,6 +11171,9 @@
   "name" : "Megas XLR",
   "ids" : [ 7956, 11034 ]
 }, {
+  "name" : "Luo Xiaohei Zhanji: Xueqian Pian",
+  "ids" : [ 51094 ]
+}, {
   "name" : "Machibouke (2017)",
   "ids" : [ 14135, 14136 ]
 }, {
@@ -11143,12 +11185,6 @@
 }, {
   "name" : "Magical Girl Friendship Squad",
   "ids" : [ 49420, 49421 ]
-}, {
-  "name" : "Magical Love Potion!",
-  "ids" : [ 50912 ]
-}, {
-  "name" : "43307",
-  "ids" : [ 43307 ]
 }, {
   "name" : "Mahou Shoujo holoWitch! The Stage: Trick or Magic!",
   "ids" : [ 50959 ]
@@ -11182,6 +11218,9 @@
 }, {
   "name" : "Mardock Scramble: The First Compression",
   "ids" : [ 5195, 6269, 6653 ]
+}, {
+  "name" : "Mash Burnedead-tachi to School Life",
+  "ids" : [ 51113, 51114 ]
 }, {
   "name" : "She-Ra and the Princesses of Power",
   "ids" : [ 41994, 42133, 42417, 42649, 43008, 43082, 43132, 43133, 44940, 46172 ]
@@ -11267,6 +11306,9 @@
   "name" : "Monster Allergy",
   "ids" : [ 44160, 44161, 44162 ]
 }, {
+  "name" : "Monster Strike: Mera×Death - Shinigami to Boku no Ijou na Koi",
+  "ids" : [ 51106 ]
+}, {
   "name" : "Moodoku",
   "ids" : [ 51009 ]
 }, {
@@ -11278,6 +11320,9 @@
 }, {
   "name" : "MUSE",
   "ids" : [ 50841 ]
+}, {
+  "name" : "Mushoku Tensei III: Isekai Ittara Honki Dasu Part 2",
+  "ids" : [ 51093 ]
 }, {
   "name" : "My Adventures with Superman",
   "ids" : [ 47711, 48819, 50695 ]
@@ -11299,12 +11344,6 @@
 }, {
   "name" : "Necchuu Syndrome",
   "ids" : [ 50957 ]
-}, {
-  "name" : "Neko to Ryuu 2nd Season",
-  "ids" : [ 51071 ]
-}, {
-  "name" : "49585",
-  "ids" : [ 49585 ]
 }, {
   "name" : "Nekoronde ID",
   "ids" : [ 13179 ]
@@ -11362,9 +11401,6 @@
 }, {
   "name" : "Norasco Specials",
   "ids" : [ 12898 ]
-}, {
-  "name" : "Odekake Hololive",
-  "ids" : [ 51010 ]
 }, {
   "name" : "Oishi-sa Hajikeru! One Piece",
   "ids" : [ 13119 ]
@@ -11477,9 +11513,6 @@
   "name" : "Quanzhi Gaoshou 2: Q Ban Xiao Juchang",
   "ids" : [ 50907 ]
 }, {
-  "name" : "Quanzhi Gaoshou: Rongyao Xiao Juchang 2nd Season",
-  "ids" : [ 50908 ]
-}, {
   "name" : "Rasen",
   "ids" : [ 50870 ]
 }, {
@@ -11491,9 +11524,6 @@
 }, {
   "name" : "43943",
   "ids" : [ 43943 ]
-}, {
-  "name" : "Reaper",
-  "ids" : [ 50874 ]
 }, {
   "name" : "Reimei Compass",
   "ids" : [ 51046 ]
@@ -11723,12 +11753,6 @@
   "name" : "Totally Spies! The Movie",
   "ids" : [ 13507 ]
 }, {
-  "name" : "Tougen Anki: Nikko Kegon Falls Arc",
-  "ids" : [ 51018 ]
-}, {
-  "name" : "48834",
-  "ids" : [ 48834 ]
-}, {
   "name" : "Towa no Quon 1: Utakata no Kaben",
   "ids" : [ 6116, 6310, 6311, 6312, 6313, 6314 ]
 }, {
@@ -11761,9 +11785,6 @@
 }, {
   "name" : "UFO Robo Grendizer: Akai Yuuhi no Taiketsu",
   "ids" : [ 5137 ]
-}, {
-  "name" : "Umayuru: Full Gate!",
-  "ids" : [ 51017 ]
 }, {
   "name" : "Under the Party Lights",
   "ids" : [ 50893 ]

@@ -117,7 +117,7 @@
   "ids" : [ 361 ]
 }, {
   "name" : "Dragon Ball Z Special 1: Tatta Hitori no Saishuu Kessen",
-  "ids" : [ 104, 133, 139, 140, 243, 244, 248, 316, 616, 836, 985, 986, 987, 988, 989, 990, 991, 994, 995, 1035, 2138, 2139, 2326, 2400, 2851, 2871, 3206, 3448, 3708, 3709, 4308, 4790, 6058, 6348, 6372, 6527, 6528, 6529, 7061, 7109, 9047, 10623, 10855, 10877, 11349, 11448, 12043, 12306, 14258, 14669, 14887, 14900, 14969, 15111, 15122, 15224, 15227, 15396, 16190, 16232, 16549, 17006, 17212, 17827, 18113, 18559, 19806, 20750, 20960, 21495, 21732, 24551, 24981, 30298, 31073, 33643, 33724, 34408, 38159, 38363, 38367, 38649, 40461, 40462 ]
+  "ids" : [ 104, 133, 139, 140, 243, 244, 248, 316, 616, 836, 985, 986, 987, 988, 989, 990, 991, 994, 995, 1035, 2138, 2139, 2326, 2400, 2851, 2871, 3206, 3448, 3708, 3709, 4308, 4790, 6058, 6348, 6372, 6527, 6528, 6529, 7061, 7109, 9047, 10623, 10855, 10877, 11349, 11448, 12043, 12306, 14258, 14669, 14887, 14900, 14969, 15111, 15122, 15224, 15227, 15396, 16190, 16232, 16549, 17006, 17212, 17827, 18113, 18559, 19806, 20750, 20960, 21495, 21732, 24551, 24981, 30298, 31073, 33643, 33724, 34408, 38159, 38363, 38367, 38649, 40461, 40462, 40592 ]
 }, {
   "name" : "Eat-Man",
   "ids" : [ 143, 144 ]
@@ -2364,7 +2364,7 @@
   "ids" : [ 10232, 23477 ]
 }, {
   "name" : "Hetalia Axis Powers",
-  "ids" : [ 10179, 11097, 11720, 14925, 16636, 23864, 40497, 40498, 40499 ]
+  "ids" : [ 10179, 11097, 11720, 14925, 16636, 23864, 40497, 40498, 40499, 40500, 40501 ]
 }, {
   "name" : "Higashi no Eden",
   "ids" : [ 10474, 10620, 10919, 11929 ]
@@ -2579,9 +2579,6 @@
   "name" : "Mouretsu Pirates",
   "ids" : [ 11399, 14432 ]
 }, {
-  "name" : "Hetalia World★Stars",
-  "ids" : [ 40500, 40501 ]
-}, {
   "name" : "Unko-san: Tsuiteru Hito ni Shika Mienai Yousei Junjou Ha",
   "ids" : [ 12394, 12395 ]
 }, {
@@ -2765,7 +2762,7 @@
   "name" : "Astarotte no Omocha!",
   "ids" : [ 12104, 13000 ]
 }, {
-  "name" : "Mahou Shoujo Madoka★Magica",
+  "name" : "Mahou Shoujo Madoka☆Magica",
   "ids" : [ 12120, 14363, 14364, 14850, 22009, 24330, 24441, 25051, 30148, 37551 ]
 }, {
   "name" : "Houkago no Pleiades",
@@ -4254,7 +4251,7 @@
   "ids" : [ 21808, 23565 ]
 }, {
   "name" : "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen",
-  "ids" : [ 22255, 23026, 23166, 24606, 30955 ]
+  "ids" : [ 22255, 23026, 23166, 24606, 30955, 40608 ]
 }, {
   "name" : "Given",
   "ids" : [ 21958, 23072, 24386, 27565 ]
@@ -4267,6 +4264,9 @@
 }, {
   "name" : "Mushoku Tensei: Isekai Ittara Honki Dasu",
   "ids" : [ 22589, 24164, 24969, 25412, 28953, 29147, 32859 ]
+}, {
+  "name" : "Mushoku Tensei: Jobless Reincarnation III",
+  "ids" : [ 40586 ]
 }, {
   "name" : "No Guns Life",
   "ids" : [ 21978, 23084 ]
@@ -5174,6 +5174,9 @@
   "name" : "Mahou no Shimai Lulutto Lilly",
   "ids" : [ 35141, 40079 ]
 }, {
+  "name" : "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den",
+  "ids" : [ 35194, 40561 ]
+}, {
   "name" : "Everyday Host",
   "ids" : [ 34192, 38082 ]
 }, {
@@ -5210,6 +5213,9 @@
   "name" : "Akane-banashi",
   "ids" : [ 37292, 40070 ]
 }, {
+  "name" : "Liar Game",
+  "ids" : [ 37594, 40589 ]
+}, {
   "name" : "Kill Ao",
   "ids" : [ 37722, 40185 ]
 }, {
@@ -5224,6 +5230,9 @@
 }, {
   "name" : "Jochum",
   "ids" : [ 32674, 37291 ]
+}, {
+  "name" : "Thunder 3",
+  "ids" : [ 38418, 40603 ]
 }, {
   "name" : "Aka no Kioku",
   "ids" : [ 38376, 38377 ]
@@ -5245,6 +5254,9 @@
 }, {
   "name" : "Mato Seihei no Slave 3",
   "ids" : [ 40399 ]
+}, {
+  "name" : "Mera x Death: Shinigami to Boku no Ijou na Koi",
+  "ids" : [ 40585 ]
 }, {
   "name" : "5-Okunen Button",
   "ids" : [ 25835, 34173 ]
@@ -5597,6 +5609,9 @@
   "name" : "Sei Michaela Gakuen Hyouryuuki II",
   "ids" : [ 271, 19390 ]
 }, {
+  "name" : "Seirei Gensouki - Spirit Chronicles",
+  "ids" : [ 40602 ]
+}, {
   "name" : "Sekiro: No Defeat",
   "ids" : [ 40574 ]
 }, {
@@ -5645,12 +5660,6 @@
   "name" : "34782",
   "ids" : [ 34782 ]
 }, {
-  "name" : "Though I Am an Inept Villainess",
-  "ids" : [ 40561 ]
-}, {
-  "name" : "35194",
-  "ids" : [ 35194 ]
-}, {
   "name" : "Tokubetsu Jugyou",
   "ids" : [ 4186, 5876, 29461 ]
 }, {
@@ -5680,6 +5689,9 @@
 }, {
   "name" : "Violence Gekiga David no Hoshi",
   "ids" : [ 9098, 9099 ]
+}, {
+  "name" : "Welcome to Demon School, Iruma-kun",
+  "ids" : [ 40584 ]
 }, {
   "name" : "Words Worth",
   "ids" : [ 1176, 3367 ]
