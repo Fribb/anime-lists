@@ -195,7 +195,7 @@
   "ids" : [ 125, 6662, 8132, 8769, 8783, 8788, 9980, 11247, 13295, 16637 ]
 }, {
   "name" : "Arcade Gamer Fubuki",
-  "ids" : [ 128, 853, 1552, 3088, 3569, 4818, 5956, 6095, 7246, 7420, 10306 ]
+  "ids" : [ 128, 853, 1552, 3088, 3569, 4818, 5956, 6095, 7246, 7420, 10306, 19432 ]
 }, {
   "name" : "Hajime no Ippo",
   "ids" : [ 129, 982, 1086, 6153, 9982 ]
@@ -475,6 +475,9 @@
 }, {
   "name" : "Tonari no Totoro",
   "ids" : [ 303, 3190, 3364, 3365 ]
+}, {
+  "name" : "Meitantei Conan: 30-gou Satsujin Jiken",
+  "ids" : [ 20414 ]
 }, {
   "name" : "Mahoujin Guruguru",
   "ids" : [ 311, 418, 1619, 12723 ]
@@ -1400,7 +1403,7 @@
   "name" : "Warau Salesman",
   "ids" : [ 2106, 9172, 12655 ]
 }, {
-  "name" : "Doraemon Movie 45: Nobita no Jouki Jikansha",
+  "name" : "Doraemon Movie 46: Nobita no Jouki Jikansha",
   "ids" : [ 20220 ]
 }, {
   "name" : "Geisters: Fractions of the Earth",
@@ -1874,9 +1877,6 @@
   "name" : "Boku no Boukuugou",
   "ids" : [ 3567, 5361, 5810, 6085, 6200, 6201, 6759, 6760, 6761 ]
 }, {
-  "name" : "19432",
-  "ids" : [ 19432 ]
-}, {
   "name" : "Higurashi no Naku Koro ni",
   "ids" : [ 3574, 4894, 5634, 8350, 9574, 15350, 16137, 20119 ]
 }, {
@@ -2249,7 +2249,7 @@
   "name" : "Tondemo Senshi Muteking",
   "ids" : [ 5172, 14934 ]
 }, {
-  "name" : "Koukou Butouden Crows 2",
+  "name" : "Crows",
   "ids" : [ 5183, 9345 ]
 }, {
   "name" : "Mighty Orbots",
@@ -4292,7 +4292,7 @@
   "name" : "Kai Feng Qitan: Zhege Baogong Bu Taixing",
   "ids" : [ 13010, 13011 ]
 }, {
-  "name" : "Xing Ji",
+  "name" : "Link Planets",
   "ids" : [ 13014, 13015 ]
 }, {
   "name" : "Heisei Matsue Kaidan",
@@ -4604,6 +4604,9 @@
   "name" : "Okojo to Yamane",
   "ids" : [ 14052, 14600 ]
 }, {
+  "name" : "19566",
+  "ids" : [ 19566 ]
+}, {
   "name" : "Nakanohito Genome [Jikkyouchuu]",
   "ids" : [ 14100, 15217 ]
 }, {
@@ -4683,7 +4686,7 @@
   "ids" : [ 14373, 18923, 18924, 18925, 18926 ]
 }, {
   "name" : "Xi Xing Ji",
-  "ids" : [ 14374, 15039, 16045, 16493, 17448, 18308, 18309, 18310, 18311, 18522, 19371, 19750 ]
+  "ids" : [ 14374, 15039, 16045, 16493, 17448, 18308, 18309, 18310, 18311, 18522, 19371, 19750, 20458 ]
 }, {
   "name" : "Moshi Juexing: Ruqin",
   "ids" : [ 14375, 16491 ]
@@ -6086,7 +6089,7 @@
   "name" : "Chou Kaguya-hime!",
   "ids" : [ 19701, 19872 ]
 }, {
-  "name" : "Hokuto no Ken: Ken`ou-gun Zako-tachi no Banka (2026)",
+  "name" : "Hokuto no Ken: Kenougun Zako-tachi no Banka",
   "ids" : [ 20178 ]
 }, {
   "name" : "Guangyin Zhi Wai",
@@ -6104,13 +6107,13 @@
   "name" : "Shiguang Zhaoxiangguan de Richang",
   "ids" : [ 20272, 20273 ]
 }, {
-  "name" : "Bei Jiazu Paoqi, Wo Juexing Jiu Yi Shuxing Dian",
+  "name" : "Cast Out by My Family, I Awakened 900 Million Stat Points",
   "ids" : [ 19940, 20289 ]
 }, {
   "name" : "Aka no Kioku",
   "ids" : [ 19973, 20177 ]
 }, {
-  "name" : "Yinyue Gongzhu Ai Meili",
+  "name" : "Princess Doremi",
   "ids" : [ 20013, 20015, 20016, 20017, 20058 ]
 }, {
   "name" : "Banjjagbanjjag Catch! Tiniping",
@@ -6194,9 +6197,15 @@
   "name" : "9489",
   "ids" : [ 9489 ]
 }, {
-  "name" : "Kizu Darake Seijo yori Houfuku o Komete Season 2",
+  "name" : "Kizu darake Seijo yori Houfuku wo Komete Season 2",
   "ids" : [ 20433 ]
 }, {
   "name" : "19442",
   "ids" : [ 19442 ]
+}, {
+  "name" : "Tanuki to Kitsune (2026)",
+  "ids" : [ 20450 ]
+}, {
+  "name" : "13674",
+  "ids" : [ 13674 ]
 } ]

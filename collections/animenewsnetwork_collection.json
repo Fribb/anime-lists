@@ -318,7 +318,7 @@
   "ids" : [ 378, 483, 848 ]
 }, {
   "name" : "Naruto",
-  "ids" : [ 1825, 3381, 3499, 3994, 5042, 6057, 6602, 7293, 7837, 8017, 9194, 10757, 11422, 12869, 13113, 14172, 14834, 15415, 16184, 16924, 18055, 18934, 23662, 24788, 28888, 28889 ]
+  "ids" : [ 1825, 3381, 3499, 3994, 5042, 6057, 6602, 7293, 7837, 8017, 9194, 10757, 11422, 12869, 13113, 14172, 14834, 15415, 16184, 16924, 18055, 18934, 23662, 24788, 28888, 28889, 40646 ]
 }, {
   "name" : "Touch",
   "ids" : [ 619, 3267, 3268, 3269, 3288, 5368, 21648, 26184 ]
@@ -417,7 +417,7 @@
   "ids" : [ 461, 1005 ]
 }, {
   "name" : "Ginga Tetsudou 999: Eternal Fantasy",
-  "ids" : [ 147, 315, 487, 508, 1361, 1362, 1780, 2913, 3630, 3808, 3809, 4096, 5895, 6974, 6975, 10009 ]
+  "ids" : [ 147, 315, 487, 508, 1361, 1362, 1780, 2913, 3630, 3808, 3809, 4096, 5895, 6974, 6975, 10009, 10014 ]
 }, {
   "name" : "Ranma ½",
   "ids" : [ 64, 200, 1533, 1534, 3261, 14869, 32778 ]
@@ -720,7 +720,7 @@
   "ids" : [ 70, 5390, 10404, 10680 ]
 }, {
   "name" : "Future GPX Cyber Formula",
-  "ids" : [ 1979, 4229, 4230, 4231, 4232, 4234 ]
+  "ids" : [ 1979, 4229, 4230, 4231, 4232, 4234, 40582, 40583 ]
 }, {
   "name" : "Fortune Quest L",
   "ids" : [ 322, 1902 ]
@@ -1389,7 +1389,10 @@
   "ids" : [ 3170, 3171 ]
 }, {
   "name" : "The☆Ultraman",
-  "ids" : [ 3900, 3901, 9181, 11076, 11077, 11078, 14675, 14677 ]
+  "ids" : [ 3900, 3901, 9181, 11076, 11077, 11078 ]
+}, {
+  "name" : "Ultraman M78 Gekijou: Love and Peace",
+  "ids" : [ 14675, 14677 ]
 }, {
   "name" : "Ultraman",
   "ids" : [ 21602, 23491, 25567, 28028 ]
@@ -1469,7 +1472,7 @@
   "name" : "Haru wo Daiteita",
   "ids" : [ 5215, 7146 ]
 }, {
-  "name" : "Mahou Sensei Negima!",
+  "name" : "Mahou Sensei Negima!: Introduction Film",
   "ids" : [ 4306, 4380, 6707, 6708, 7205, 9721, 10713, 11268, 12571, 19357, 23050 ]
 }, {
   "name" : "Perman",
@@ -2014,6 +2017,9 @@
 }, {
   "name" : "The iDOLM@STER Cinderella Girls: U149",
   "ids" : [ 25490, 27803 ]
+}, {
+  "name" : "Gekijouban Idolm@ster SideM F＠ntastic Battle Fes ～Who goes first～",
+  "ids" : [ 40534 ]
 }, {
   "name" : "Devil May Cry",
   "ids" : [ 6905, 35592, 39838 ]
@@ -3029,7 +3035,7 @@
   "name" : "Lupin the Third: Mine Fujiko to Iu Onna",
   "ids" : [ 14135, 16148, 18730, 22089 ]
 }, {
-  "name" : "Fate/kaleid liner Prisma☆Illya: Finale",
+  "name" : "Fate/kaleid liner Prisma Illya Finale",
   "ids" : [ 40356 ]
 }, {
   "name" : "K",
@@ -3597,7 +3603,7 @@
   "ids" : [ 18746, 19981, 20427, 21976, 24512, 25466, 25468, 32542, 38845 ]
 }, {
   "name" : "Monster Strike",
-  "ids" : [ 17368, 18803, 18986, 19673, 21139, 22176, 22264, 23065, 23066, 23077, 23360, 23720, 37024 ]
+  "ids" : [ 17368, 18803, 18986, 19673, 21139, 22176, 22264, 23065, 23066, 23077, 23360, 23720, 37024, 40585 ]
 }, {
   "name" : "Bakuon!! OVA",
   "ids" : [ 17745, 17959 ]
@@ -4406,6 +4412,9 @@
   "name" : "Fushigi Dagashiya: Zenitendou Movie - Tsuri Taiyaki",
   "ids" : [ 23571, 23665 ]
 }, {
+  "name" : "Welcome to Demon School, Iruma-kun",
+  "ids" : [ 40584 ]
+}, {
   "name" : "86",
   "ids" : [ 23089, 24481 ]
 }, {
@@ -4506,7 +4515,7 @@
   "ids" : [ 24453, 25083, 26052, 26053 ]
 }, {
   "name" : "Seirei Gensouki",
-  "ids" : [ 24139, 24949 ]
+  "ids" : [ 24139, 24949, 40602 ]
 }, {
   "name" : "Chainsaw Man",
   "ids" : [ 23843, 31068, 37643, 37644, 38158 ]
@@ -4665,10 +4674,13 @@
   "ids" : [ 24980, 34215 ]
 }, {
   "name" : "Mato Seihei no Slave",
-  "ids" : [ 24978, 32540 ]
+  "ids" : [ 24978, 32540, 40399 ]
 }, {
   "name" : "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
   "ids" : [ 24993, 26769 ]
+}, {
+  "name" : "Dr. Stone: Terraforming",
+  "ids" : [ 40645 ]
 }, {
   "name" : "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
   "ids" : [ 25070, 31067 ]
@@ -4863,7 +4875,7 @@
   "ids" : [ 27528, 30616 ]
 }, {
   "name" : "Yozakura-san Chi no Daisakusen",
-  "ids" : [ 26739 ]
+  "ids" : [ 26739, 40187 ]
 }, {
   "name" : "33661",
   "ids" : [ 33661 ]
@@ -4875,13 +4887,10 @@
   "ids" : [ 26745, 31168 ]
 }, {
   "name" : "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai",
-  "ids" : [ 26784, 30896, 33098, 40402 ]
+  "ids" : [ 26784, 30896, 33098, 40402, 40404, 40405, 40406 ]
 }, {
   "name" : "40403",
   "ids" : [ 40403 ]
-}, {
-  "name" : "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai Season 3",
-  "ids" : [ 40404, 40405, 40406 ]
 }, {
   "name" : "Suki na Ko ga Megane wo Wasureta",
   "ids" : [ 26891, 30101 ]
@@ -4904,11 +4913,14 @@
   "name" : "37931",
   "ids" : [ 37931 ]
 }, {
-  "name" : "Kusuriya no Hitorigoto Movie",
+  "name" : "Kusuriya no Hitorigoto Movie: Bouhi no Hihou",
   "ids" : [ 37933 ]
 }, {
   "name" : "Pokemon Concierge",
   "ids" : [ 27221, 34859 ]
+}, {
+  "name" : "Edge of Time",
+  "ids" : [ 27064, 27065, 37943 ]
 }, {
   "name" : "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
   "ids" : [ 27380, 31112, 37923 ]
@@ -4954,6 +4966,9 @@
 }, {
   "name" : "Himesama \"Goumon\" no Jikan desu",
   "ids" : [ 28789, 32594 ]
+}, {
+  "name" : "Fate/strange Fake",
+  "ids" : [ 28887, 40460 ]
 }, {
   "name" : "The Fable",
   "ids" : [ 28984, 38879 ]
@@ -5060,6 +5075,9 @@
   "name" : "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
   "ids" : [ 32732, 35335 ]
 }, {
+  "name" : "Atashin'chi Next",
+  "ids" : [ 37934, 40555 ]
+}, {
   "name" : "Hanazakari no Kimitachi e",
   "ids" : [ 32734, 38789 ]
 }, {
@@ -5091,7 +5109,7 @@
   "ids" : [ 25565, 34399 ]
 }, {
   "name" : "Katainaka no Ossan, Kensei ni Naru",
-  "ids" : [ 33057, 36693 ]
+  "ids" : [ 33057, 36693, 40570 ]
 }, {
   "name" : "Chitose-kun wa Ramune Bin no Naka",
   "ids" : [ 33207, 38864 ]
@@ -5122,9 +5140,6 @@
 }, {
   "name" : "Grand Blue Dreaming",
   "ids" : [ 40566 ]
-}, {
-  "name" : "Yozakura-san Chi no Daisakusen 2nd Season",
-  "ids" : [ 40187 ]
 }, {
   "name" : "Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi",
   "ids" : [ 33767, 37993 ]
@@ -5184,7 +5199,7 @@
   "ids" : [ 35674, 40071 ]
 }, {
   "name" : "PetitCure: Precure Fairies",
-  "ids" : [ 35273, 38734 ]
+  "ids" : [ 35273, 38734, 40340 ]
 }, {
   "name" : "37891",
   "ids" : [ 37891 ]
@@ -5204,6 +5219,9 @@
   "name" : "Toi-san",
   "ids" : [ 34289, 34290 ]
 }, {
+  "name" : "Shuiro no Kamen",
+  "ids" : [ 36879, 40632 ]
+}, {
   "name" : "Snowball Earth",
   "ids" : [ 37061, 40165 ]
 }, {
@@ -5222,6 +5240,9 @@
   "name" : "Death Stranding: Mosquito",
   "ids" : [ 37866, 37995 ]
 }, {
+  "name" : "Marriagetoxin",
+  "ids" : [ 37882, 40238 ]
+}, {
   "name" : "Needy Girl Overdose",
   "ids" : [ 37986, 38462 ]
 }, {
@@ -5230,6 +5251,9 @@
 }, {
   "name" : "Jochum",
   "ids" : [ 32674, 37291 ]
+}, {
+  "name" : "Nippon Sangoku",
+  "ids" : [ 38382, 40502 ]
 }, {
   "name" : "Thunder 3",
   "ids" : [ 38418, 40603 ]
@@ -5240,32 +5264,17 @@
   "name" : "24912",
   "ids" : [ 24912 ]
 }, {
-  "name" : "Marriagetoxin 2nd Season",
-  "ids" : [ 40238 ]
-}, {
-  "name" : "37882",
-  "ids" : [ 37882 ]
-}, {
   "name" : "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life 2nd Season",
   "ids" : [ 40273 ]
 }, {
   "name" : "30332",
   "ids" : [ 30332 ]
 }, {
-  "name" : "Mato Seihei no Slave 3",
-  "ids" : [ 40399 ]
-}, {
-  "name" : "Mera x Death: Shinigami to Boku no Ijou na Koi",
-  "ids" : [ 40585 ]
-}, {
   "name" : "5-Okunen Button",
   "ids" : [ 25835, 34173 ]
 }, {
   "name" : "33570",
   "ids" : [ 33570 ]
-}, {
-  "name" : "Edge of Time",
-  "ids" : [ 27064, 27065, 37943 ]
 }, {
   "name" : "Stringendo: Angel-tachi no Private Lesson",
   "ids" : [ 7444, 7446, 10005 ]
@@ -5293,12 +5302,6 @@
 }, {
   "name" : "Ashita no Yukinojou",
   "ids" : [ 8506, 9348 ]
-}, {
-  "name" : "ATASHIn'CHI Next",
-  "ids" : [ 40555 ]
-}, {
-  "name" : "37934",
-  "ids" : [ 37934 ]
 }, {
   "name" : "Baokemeng Qiyu Shatanjie",
   "ids" : [ 36862, 36863 ]
@@ -5360,17 +5363,8 @@
   "name" : "Elemon",
   "ids" : [ 30112, 38880 ]
 }, {
-  "name" : "Fate/strange Fake (Shin Series)",
-  "ids" : [ 40460 ]
-}, {
-  "name" : "28887",
-  "ids" : [ 28887 ]
-}, {
   "name" : "Flutter of Birds: Tori-tachi no Habataki",
   "ids" : [ 4644, 7697 ]
-}, {
-  "name" : "From Old Country Bumpkin to Master Swordsman",
-  "ids" : [ 40570 ]
 }, {
   "name" : "Fudanshi Shoukan: Isekai de Shinjuu ni Hameraremashita",
   "ids" : [ 24929, 24930, 26034, 28194, 28195, 30989 ]
@@ -5378,14 +5372,8 @@
   "name" : "Fun Times on monpoké Island",
   "ids" : [ 32684, 34209 ]
 }, {
-  "name" : "Future GPX Cyber Formula: Early Days Renewal Movie Edition",
-  "ids" : [ 40582, 40583 ]
-}, {
   "name" : "Gakuen: Chijoku no Zushiki",
   "ids" : [ 5101, 8235, 12563 ]
-}, {
-  "name" : "Gekijouban Idolm@ster SideM F＠ntastic Battle Fes ～Who goes first～",
-  "ids" : [ 40534 ]
 }, {
   "name" : "Gelpiyo",
   "ids" : [ 40572 ]
@@ -5546,6 +5534,9 @@
   "name" : "Nanashi Kaidan",
   "ids" : [ 26099, 28814 ]
 }, {
+  "name" : "2603",
+  "ids" : [ 2603 ]
+}, {
   "name" : "Natural",
   "ids" : [ 3154, 3155 ]
 }, {
@@ -5554,12 +5545,6 @@
 }, {
   "name" : "Nintama Rantarou: 100% Yuuki! Dokutake Dejiro wo Yattsukero no Dan",
   "ids" : [ 25493 ]
-}, {
-  "name" : "Nippon Sangoku The Three Nations of the Crimson Sun",
-  "ids" : [ 40502 ]
-}, {
-  "name" : "38382",
-  "ids" : [ 38382 ]
 }, {
   "name" : "Oni Chichi",
   "ids" : [ 11298, 11805, 12565, 13929, 24033 ]
@@ -5575,9 +5560,6 @@
 }, {
   "name" : "Persona 3 the Movie 1: Spring of Birth",
   "ids" : [ 14449, 15771, 16103, 17257 ]
-}, {
-  "name" : "PetitCure: Gekijou Manner Movie",
-  "ids" : [ 40340 ]
 }, {
   "name" : "Potecco Babies",
   "ids" : [ 13665, 13666 ]
@@ -5608,9 +5590,6 @@
 }, {
   "name" : "Sei Michaela Gakuen Hyouryuuki II",
   "ids" : [ 271, 19390 ]
-}, {
-  "name" : "Seirei Gensouki - Spirit Chronicles",
-  "ids" : [ 40602 ]
 }, {
   "name" : "Sekiro: No Defeat",
   "ids" : [ 40574 ]
@@ -5651,6 +5630,12 @@
   "name" : "Synapusyu The Movie: Pushu Hoppe New World",
   "ids" : [ 26873, 34411 ]
 }, {
+  "name" : "Tefuda ga Oome no Victoria 2nd Season",
+  "ids" : [ 40492 ]
+}, {
+  "name" : "37834",
+  "ids" : [ 37834 ]
+}, {
   "name" : "Tezuka Osamu no Buddha: Akai Sabaku yo! Utsukushiku",
   "ids" : [ 11523, 15333 ]
 }, {
@@ -5678,20 +5663,14 @@
   "name" : "Tōgane! Omatsuri-Bu",
   "ids" : [ 25411, 37283 ]
 }, {
-  "name" : "Victoria of Many Faces",
-  "ids" : [ 40492 ]
-}, {
-  "name" : "37834",
-  "ids" : [ 37834 ]
+  "name" : "Uchuu Senkan Yamato √2199",
+  "ids" : [ 40628 ]
 }, {
   "name" : "Victoria of Many Faces",
   "ids" : [ 40491 ]
 }, {
   "name" : "Violence Gekiga David no Hoshi",
   "ids" : [ 9098, 9099 ]
-}, {
-  "name" : "Welcome to Demon School, Iruma-kun",
-  "ids" : [ 40584 ]
 }, {
   "name" : "Words Worth",
   "ids" : [ 1176, 3367 ]
