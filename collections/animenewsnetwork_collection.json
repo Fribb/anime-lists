@@ -318,7 +318,7 @@
   "ids" : [ 378, 483, 848 ]
 }, {
   "name" : "Naruto",
-  "ids" : [ 1825, 3381, 3499, 3994, 5042, 6057, 6602, 7293, 7837, 8017, 9194, 10757, 11422, 12869, 13113, 14172, 14834, 15415, 16184, 16924, 18055, 18934, 23662, 24788, 28888, 28889, 40646 ]
+  "ids" : [ 1825, 2603, 3381, 3499, 3994, 5042, 6057, 6602, 7293, 7837, 8017, 9194, 10757, 11422, 12869, 13113, 14172, 14834, 15415, 16184, 16924, 18055, 18934, 23662, 24788, 28888, 28889, 40646 ]
 }, {
   "name" : "Touch",
   "ids" : [ 619, 3267, 3268, 3269, 3288, 5368, 21648, 26184 ]
@@ -672,7 +672,7 @@
   "ids" : [ 2533, 26314 ]
 }, {
   "name" : "Uchuu Senkan Yamato",
-  "ids" : [ 338, 1199, 1200, 2134, 3172, 3645, 3654, 3751, 3752, 3923, 8768, 13765, 13776, 14426, 14427, 14840, 15196, 15357, 15552, 16186, 16187, 18939, 24145, 24448, 25145, 31510 ]
+  "ids" : [ 338, 1199, 1200, 2134, 3172, 3645, 3654, 3751, 3752, 3923, 8768, 13765, 13776, 14426, 14427, 14840, 15196, 15357, 15552, 16186, 16187, 18939, 24145, 24448, 25145, 31510, 40628 ]
 }, {
   "name" : "Popolocrois Monogatari",
   "ids" : [ 1792, 2957 ]
@@ -1668,7 +1668,7 @@
   "ids" : [ 3266, 8961, 9121, 10670 ]
 }, {
   "name" : "Midori no Makibao",
-  "ids" : [ 2070, 20598, 22478, 23863, 25438, 25655, 25815, 26547, 26548, 31171, 32558, 33371, 34169, 35918, 36789, 37907, 38862 ]
+  "ids" : [ 2070, 20598, 22478, 23863, 25438, 25655, 25815, 26547, 26548, 31171, 32558, 33371, 34169, 35918, 36789, 37907, 38862, 40463 ]
 }, {
   "name" : "Ultra B: Black Hole kara no Dokusaisha BB!!",
   "ids" : [ 3286, 3351 ]
@@ -1714,6 +1714,9 @@
 }, {
   "name" : "Fate/kaleid liner Prisma☆Illya",
   "ids" : [ 15245, 15630, 15635, 16275, 17690, 19029, 21867, 23758, 23759, 23760, 23761, 23762, 23768, 23852 ]
+}, {
+  "name" : "Fate/kaleid liner Prisma Illya Finale",
+  "ids" : [ 40356 ]
 }, {
   "name" : "Konchuu Monogatari Minashigo Hutch",
   "ids" : [ 1741, 1742, 1743, 11230 ]
@@ -2555,6 +2558,12 @@
   "name" : "Highschool of the Dead",
   "ids" : [ 11271, 13942 ]
 }, {
+  "name" : "Wolverine",
+  "ids" : [ 12083 ]
+}, {
+  "name" : "12366",
+  "ids" : [ 12366 ]
+}, {
   "name" : "Sore Ike! Anpanman: Ruby no Negai",
   "ids" : [ 2658, 20532 ]
 }, {
@@ -3034,9 +3043,6 @@
 }, {
   "name" : "Lupin the Third: Mine Fujiko to Iu Onna",
   "ids" : [ 14135, 16148, 18730, 22089 ]
-}, {
-  "name" : "Fate/kaleid liner Prisma Illya Finale",
-  "ids" : [ 40356 ]
 }, {
   "name" : "K",
   "ids" : [ 14732, 15350, 16771, 20818, 22689 ]
@@ -3528,7 +3534,7 @@
   "ids" : [ 16546, 17656, 18755 ]
 }, {
   "name" : "Koutetsujou no Kabaneri",
-  "ids" : [ 16595, 18964, 21512 ]
+  "ids" : [ 16595, 18964, 21512, 40418 ]
 }, {
   "name" : "Okusama ga Seitokaichou!",
   "ids" : [ 16812, 18672, 34869 ]
@@ -3968,9 +3974,6 @@
   "name" : "38031",
   "ids" : [ 38031 ]
 }, {
-  "name" : "Umayuru: Full Gate!",
-  "ids" : [ 40463 ]
-}, {
   "name" : "Soutai Sekai",
   "ids" : [ 19419, 21491 ]
 }, {
@@ -4074,7 +4077,7 @@
   "ids" : [ 21119, 24646, 37269 ]
 }, {
   "name" : "Grand Blue",
-  "ids" : [ 20709, 33631, 37864 ]
+  "ids" : [ 20709, 33631, 37864, 40566 ]
 }, {
   "name" : "Hataraku Saibou",
   "ids" : [ 20564, 21586, 22007, 23509, 23613 ]
@@ -4206,7 +4209,7 @@
   "ids" : [ 25700 ]
 }, {
   "name" : "Dr. Stone",
-  "ids" : [ 21703, 22942, 25068, 25069, 28620, 31089, 35383, 37873 ]
+  "ids" : [ 21703, 22942, 25068, 25069, 28620, 31089, 35383, 37873, 40645 ]
 }, {
   "name" : "SD Gundam World: Sangoku Souketsuden",
   "ids" : [ 22268, 24158 ]
@@ -4248,7 +4251,7 @@
   "ids" : [ 26301 ]
 }, {
   "name" : "Mairimashita! Iruma-kun",
-  "ids" : [ 21927, 24018, 24714, 34035, 38419 ]
+  "ids" : [ 21927, 24018, 24714, 34035, 38419, 40584 ]
 }, {
   "name" : "Sumikko Gurashi Movie 1: Tobidasu Ehon to Himitsu no Ko",
   "ids" : [ 22310, 24299, 28935, 30463, 35315, 36740 ]
@@ -4269,22 +4272,13 @@
   "ids" : [ 30590 ]
 }, {
   "name" : "Mushoku Tensei: Isekai Ittara Honki Dasu",
-  "ids" : [ 22589, 24164, 24969, 25412, 28953, 29147, 32859 ]
-}, {
-  "name" : "Mushoku Tensei: Jobless Reincarnation III",
-  "ids" : [ 40586 ]
+  "ids" : [ 22589, 24164, 24969, 25412, 28953, 29147, 32859, 40586 ]
 }, {
   "name" : "No Guns Life",
   "ids" : [ 21978, 23084 ]
 }, {
   "name" : "Aware! Meisaku-kun",
-  "ids" : [ 18226, 24132, 24133, 24134, 24135, 24136, 26244, 26464 ]
-}, {
-  "name" : "38233",
-  "ids" : [ 38233 ]
-}, {
-  "name" : "Aware! Meisaku-kun (2026)",
-  "ids" : [ 40567 ]
+  "ids" : [ 18226, 24132, 24133, 24134, 24135, 24136, 26244, 26464, 38233, 40567 ]
 }, {
   "name" : "Watanuki-san Chi no",
   "ids" : [ 24223, 24224 ]
@@ -4411,9 +4405,6 @@
 }, {
   "name" : "Fushigi Dagashiya: Zenitendou Movie - Tsuri Taiyaki",
   "ids" : [ 23571, 23665 ]
-}, {
-  "name" : "Welcome to Demon School, Iruma-kun",
-  "ids" : [ 40584 ]
 }, {
   "name" : "86",
   "ids" : [ 23089, 24481 ]
@@ -4649,11 +4640,8 @@
   "name" : "Sorairo Utility",
   "ids" : [ 24902, 24910, 25939, 32015, 34665 ]
 }, {
-  "name" : "Chiikawa",
-  "ids" : [ 40400 ]
-}, {
   "name" : "Chiikawa Movie: Ningyo no Shima no Himitsu",
-  "ids" : [ 38049 ]
+  "ids" : [ 38049, 40400 ]
 }, {
   "name" : "Spy x Family",
   "ids" : [ 24917, 25920, 26746, 26747, 32804 ]
@@ -4678,9 +4666,6 @@
 }, {
   "name" : "Otome Game Sekai wa Mob ni Kibishii Sekai desu",
   "ids" : [ 24993, 26769 ]
-}, {
-  "name" : "Dr. Stone: Terraforming",
-  "ids" : [ 40645 ]
 }, {
   "name" : "Rurouni Kenshin: Meiji Kenkaku Romantan (2023)",
   "ids" : [ 25070, 31067 ]
@@ -4919,7 +4904,7 @@
   "name" : "Pokemon Concierge",
   "ids" : [ 27221, 34859 ]
 }, {
-  "name" : "Edge of Time",
+  "name" : "她在时空尽头",
   "ids" : [ 27064, 27065, 37943 ]
 }, {
   "name" : "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
@@ -5138,9 +5123,6 @@
   "name" : "Kankin Kuiki Level X",
   "ids" : [ 33161, 33715 ]
 }, {
-  "name" : "Grand Blue Dreaming",
-  "ids" : [ 40566 ]
-}, {
   "name" : "Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi",
   "ids" : [ 33767, 37993 ]
 }, {
@@ -5163,10 +5145,7 @@
   "ids" : [ 34100, 35942 ]
 }, {
   "name" : "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru",
-  "ids" : [ 34132, 38839 ]
-}, {
-  "name" : "Hell Mode",
-  "ids" : [ 40580 ]
+  "ids" : [ 34132, 38839, 40580 ]
 }, {
   "name" : "Takopii no Genzai",
   "ids" : [ 34142, 39656 ]
@@ -5191,6 +5170,9 @@
 }, {
   "name" : "Futsutsuka na Akujo dewa Gozaimasu ga: Suuguu Chouso Torikae Den",
   "ids" : [ 35194, 40561 ]
+}, {
+  "name" : "Kore Kaite Shine",
+  "ids" : [ 35280, 40581 ]
 }, {
   "name" : "Everyday Host",
   "ids" : [ 34192, 38082 ]
@@ -5222,6 +5204,9 @@
   "name" : "Shuiro no Kamen",
   "ids" : [ 36879, 40632 ]
 }, {
+  "name" : "Yomi no Tsugai",
+  "ids" : [ 36881, 40558 ]
+}, {
   "name" : "Snowball Earth",
   "ids" : [ 37061, 40165 ]
 }, {
@@ -5231,11 +5216,17 @@
   "name" : "Akane-banashi",
   "ids" : [ 37292, 40070 ]
 }, {
+  "name" : "Sekiro: No Defeat",
+  "ids" : [ 37526, 40574 ]
+}, {
   "name" : "Liar Game",
   "ids" : [ 37594, 40589 ]
 }, {
   "name" : "Kill Ao",
   "ids" : [ 37722, 40185 ]
+}, {
+  "name" : "Tefuda ga Oome no Victoria",
+  "ids" : [ 37834, 40491, 40492 ]
 }, {
   "name" : "Death Stranding: Mosquito",
   "ids" : [ 37866, 37995 ]
@@ -5260,9 +5251,6 @@
 }, {
   "name" : "Aka no Kioku",
   "ids" : [ 38376, 38377 ]
-}, {
-  "name" : "24912",
-  "ids" : [ 24912 ]
 }, {
   "name" : "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life 2nd Season",
   "ids" : [ 40273 ]
@@ -5336,12 +5324,6 @@
   "name" : "Cynical Hysterie Hour: Trip Coaster",
   "ids" : [ 9082, 9083, 9084, 9085 ]
 }, {
-  "name" : "Daemons of the Shadow Realm",
-  "ids" : [ 40558 ]
-}, {
-  "name" : "36881",
-  "ids" : [ 36881 ]
-}, {
   "name" : "Deep Blue Town e Oide yo",
   "ids" : [ 23763, 23764 ]
 }, {
@@ -5350,12 +5332,6 @@
 }, {
   "name" : "Kokudo Ou",
   "ids" : [ 4928, 9421, 9422 ]
-}, {
-  "name" : "Draw This, Then Die!",
-  "ids" : [ 40581 ]
-}, {
-  "name" : "35280",
-  "ids" : [ 35280 ]
 }, {
   "name" : "Dream Hunter Rem",
   "ids" : [ 2119, 3410, 3474 ]
@@ -5483,9 +5459,6 @@
   "name" : "Konna Ko Iru kana",
   "ids" : [ 38496, 38497 ]
 }, {
-  "name" : "Koutetsujou no Kabaneri: Mumei Ranman",
-  "ids" : [ 40418 ]
-}, {
   "name" : "Kowaremono",
   "ids" : [ 3076, 8004 ]
 }, {
@@ -5533,9 +5506,6 @@
 }, {
   "name" : "Nanashi Kaidan",
   "ids" : [ 26099, 28814 ]
-}, {
-  "name" : "2603",
-  "ids" : [ 2603 ]
 }, {
   "name" : "Natural",
   "ids" : [ 3154, 3155 ]
@@ -5591,12 +5561,6 @@
   "name" : "Sei Michaela Gakuen Hyouryuuki II",
   "ids" : [ 271, 19390 ]
 }, {
-  "name" : "Sekiro: No Defeat",
-  "ids" : [ 40574 ]
-}, {
-  "name" : "37526",
-  "ids" : [ 37526 ]
-}, {
   "name" : "Shin Karate Jigokuhen: Chi no Mokushiroku",
   "ids" : [ 8217, 8219 ]
 }, {
@@ -5630,12 +5594,6 @@
   "name" : "Synapusyu The Movie: Pushu Hoppe New World",
   "ids" : [ 26873, 34411 ]
 }, {
-  "name" : "Tefuda ga Oome no Victoria 2nd Season",
-  "ids" : [ 40492 ]
-}, {
-  "name" : "37834",
-  "ids" : [ 37834 ]
-}, {
   "name" : "Tezuka Osamu no Buddha: Akai Sabaku yo! Utsukushiku",
   "ids" : [ 11523, 15333 ]
 }, {
@@ -5662,12 +5620,6 @@
 }, {
   "name" : "Tōgane! Omatsuri-Bu",
   "ids" : [ 25411, 37283 ]
-}, {
-  "name" : "Uchuu Senkan Yamato √2199",
-  "ids" : [ 40628 ]
-}, {
-  "name" : "Victoria of Many Faces",
-  "ids" : [ 40491 ]
 }, {
   "name" : "Violence Gekiga David no Hoshi",
   "ids" : [ 9098, 9099 ]

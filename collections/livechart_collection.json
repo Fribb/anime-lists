@@ -750,7 +750,7 @@
   "ids" : [ 2558, 6525, 8799 ]
 }, {
   "name" : "Betterman",
-  "ids" : [ 5436, 6418, 6446, 6513, 6833, 8173, 13775 ]
+  "ids" : [ 5436, 6418, 6446, 6513, 6799, 6833, 8173, 13775 ]
 }, {
   "name" : "Yuusha Shirei Dagwon",
   "ids" : [ 8974, 12023 ]
@@ -760,9 +760,6 @@
 }, {
   "name" : "6234",
   "ids" : [ 6234 ]
-}, {
-  "name" : "6799",
-  "ids" : [ 6799 ]
 }, {
   "name" : "Kidou Shinseiki Gundam X",
   "ids" : [ 5096 ]
@@ -1144,6 +1141,15 @@
 }, {
   "name" : "Megazone 23 SIN",
   "ids" : [ 2556, 2557, 6286 ]
+}, {
+  "name" : "Ninkuu (Movie)",
+  "ids" : [ 13867, 13868 ]
+}, {
+  "name" : "11297",
+  "ids" : [ 11297 ]
+}, {
+  "name" : "Naruto x Ninkuu",
+  "ids" : [ 11850 ]
 }, {
   "name" : "Love♥Love?",
   "ids" : [ 7002, 11950 ]
@@ -1809,7 +1815,13 @@
   "ids" : [ 4255, 6213 ]
 }, {
   "name" : "Brave Witches",
-  "ids" : [ 276, 277, 612, 613, 990, 2495, 3379, 3380, 3381, 3382, 3383, 3384, 9480, 10078, 10135 ]
+  "ids" : [ 276, 613, 990, 2495, 3379, 3380, 3381, 3382, 3383, 3384, 9480, 10078, 10135 ]
+}, {
+  "name" : "277",
+  "ids" : [ 277 ]
+}, {
+  "name" : "612",
+  "ids" : [ 612 ]
 }, {
   "name" : "D.Gray-man Hallow",
   "ids" : [ 1971, 3629 ]
@@ -3351,7 +3363,19 @@
   "ids" : [ 340, 869, 897, 1237, 2713, 2714, 10474 ]
 }, {
   "name" : "Magi: The Kingdom of Magic",
-  "ids" : [ 214, 400, 558, 722, 952, 1372, 1512, 1850 ]
+  "ids" : [ 214, 722, 952, 1850 ]
+}, {
+  "name" : "1372",
+  "ids" : [ 1372 ]
+}, {
+  "name" : "1512",
+  "ids" : [ 1512 ]
+}, {
+  "name" : "400",
+  "ids" : [ 400 ]
+}, {
+  "name" : "558",
+  "ids" : [ 558 ]
 }, {
   "name" : "Love Live! School Idol Project 2nd Season",
   "ids" : [ 171, 263, 648, 886 ]
@@ -4116,7 +4140,7 @@
   "ids" : [ 1422, 1853 ]
 }, {
   "name" : "One Punch Man",
-  "ids" : [ 1431, 1839, 1863, 2350, 9411, 11382, 13463 ]
+  "ids" : [ 1431, 1839, 1863, 2350, 9411, 11382, 13463, 13864 ]
 }, {
   "name" : "Monster Musume no Iru Nichijou",
   "ids" : [ 1439, 1680, 2033 ]
@@ -5676,7 +5700,7 @@
   "ids" : [ 10015, 10603 ]
 }, {
   "name" : "Wan Sheng Jie",
-  "ids" : [ 9920, 10110, 10741, 12352 ]
+  "ids" : [ 9920, 10110, 10741, 12352, 13872 ]
 }, {
   "name" : "Edens Zero",
   "ids" : [ 10004, 11076 ]
@@ -6368,7 +6392,7 @@
   "name" : "Sentai Daishikkaku",
   "ids" : [ 11714, 12732 ]
 }, {
-  "name" : "Sword Art Online (Original Movie)",
+  "name" : "Sword Art Online Movie: Integral Domain",
   "ids" : [ 11599 ]
 }, {
   "name" : "Saijaku Tamer wa Gomi Hiroi no Tabi wo Hajimemashita.",
@@ -6466,9 +6490,6 @@
 }, {
   "name" : "Wander Burabura Bakkamu",
   "ids" : [ 11846, 11847, 11848, 11849 ]
-}, {
-  "name" : "Naruto (Shinsaku Anime)",
-  "ids" : [ 11850 ]
 }, {
   "name" : "Tentai Kansoku",
   "ids" : [ 11881, 11882, 11883, 11884, 11885 ]
@@ -6854,6 +6875,9 @@
   "name" : "Sai-Kyo-Oh! Zukan: The Ultimate Battles",
   "ids" : [ 12493, 12983 ]
 }, {
+  "name" : "Koori no Jouheki",
+  "ids" : [ 13028, 13712 ]
+}, {
   "name" : "Taiyou yori mo Mabushii Hoshi",
   "ids" : [ 13036, 13429 ]
 }, {
@@ -6889,6 +6913,9 @@
 }, {
   "name" : "Digimon Beatbreak",
   "ids" : [ 13100 ]
+}, {
+  "name" : "Kore Kaite Shine",
+  "ids" : [ 13106, 13825 ]
 }, {
   "name" : "Re:Zero kara Hajimeru Isekai Seikatsu 4th Season",
   "ids" : [ 13115 ]
@@ -6935,7 +6962,7 @@
   "name" : "Milky☆Highway",
   "ids" : [ 13098, 13099, 13325, 13722 ]
 }, {
-  "name" : "Monogatari Series: Off & Monster Season (Shin Episode)",
+  "name" : "Monogatari Series: Off & Monster Season - Wazamonogatari: Karen Ogre",
   "ids" : [ 13221 ]
 }, {
   "name" : "Kizu darake Seijo yori Houfuku wo Komete",
@@ -6965,6 +6992,12 @@
   "name" : "Gintama Movie 3: Yoshiwara Daienjou",
   "ids" : [ 13282 ]
 }, {
+  "name" : "Sekiro: No Defeat",
+  "ids" : [ 13286, 13819 ]
+}, {
+  "name" : "Liar Game",
+  "ids" : [ 13289, 13831 ]
+}, {
   "name" : "Kill Ao",
   "ids" : [ 13301, 13695 ]
 }, {
@@ -6974,6 +7007,9 @@
   "name" : "BanG Dream! Yume∞Mita",
   "ids" : [ 13311 ]
 }, {
+  "name" : "Tefuda ga Oome no Victoria",
+  "ids" : [ 13315, 13787 ]
+}, {
   "name" : "Death Stranding: Mosquito",
   "ids" : [ 13334, 13388 ]
 }, {
@@ -6981,7 +7017,7 @@
   "ids" : [ 13346, 13707 ]
 }, {
   "name" : "THE LENTICULARS",
-  "ids" : [ 13400, 13594 ]
+  "ids" : [ 13400, 13594, 13780 ]
 }, {
   "name" : "Doraemon Movie 45: Shin Nobita no Kaitei Kiganjou",
   "ids" : [ 13308 ]
@@ -7007,6 +7043,9 @@
   "name" : "CHOPPER's",
   "ids" : [ 13444 ]
 }, {
+  "name" : "Hotaru no Yomeiri",
+  "ids" : [ 13476, 13863 ]
+}, {
   "name" : "Yami Shibai 16",
   "ids" : [ 13421 ]
 }, {
@@ -7025,11 +7064,17 @@
   "name" : "Nippon Sangoku",
   "ids" : [ 13499, 13681 ]
 }, {
+  "name" : "Kyouran Reijou Nia Liston: Byoujaku Reijou ni Tensei shita Kamigoroshi no Bujin no Karei Naru Musouroku",
+  "ids" : [ 13504, 13871 ]
+}, {
   "name" : "Yani Neko",
   "ids" : [ 13505, 13529 ]
 }, {
   "name" : "Thunder 3",
   "ids" : [ 13511, 13834 ]
+}, {
+  "name" : "Ushiro no Shoumen Kamui-san",
+  "ids" : [ 13519, 13716 ]
 }, {
   "name" : "Genshin Impact The Animation",
   "ids" : [ 11510, 12678 ]
@@ -7076,12 +7121,6 @@
   "name" : "12508",
   "ids" : [ 12508 ]
 }, {
-  "name" : "Koori no Jouheki 2nd Season",
-  "ids" : [ 13712 ]
-}, {
-  "name" : "13028",
-  "ids" : [ 13028 ]
-}, {
   "name" : "Yami Shibai 17",
   "ids" : [ 13674 ]
 }, {
@@ -7118,25 +7157,13 @@
   "name" : "Meitantei Conan: 30-gou Satsujin Jiken",
   "ids" : [ 13792 ]
 }, {
-  "name" : "Kore Kaite Shine 2nd Season",
-  "ids" : [ 13825 ]
-}, {
-  "name" : "13106",
-  "ids" : [ 13106 ]
-}, {
-  "name" : "Liar Game 2nd Season",
-  "ids" : [ 13831 ]
-}, {
-  "name" : "13289",
-  "ids" : [ 13289 ]
-}, {
   "name" : "Obocchama-kun Reborn",
   "ids" : [ 13835 ]
 }, {
   "name" : "10465",
   "ids" : [ 10465 ]
 }, {
-  "name" : "Dawang Raoming 3",
+  "name" : "Da Wang Rao Ming 3",
   "ids" : [ 13854 ]
 }, {
   "name" : "5-Okunen Button",
@@ -7307,7 +7334,7 @@
   "name" : "Girls und Panzer Mini Anime",
   "ids" : [ 13424 ]
 }, {
-  "name" : "Girls und Panzer Ribbon no Musha (Pilot)",
+  "name" : "Girls und Panzer: Ribbon no Musha",
   "ids" : [ 13553 ]
 }, {
   "name" : "Golden Douga Gekijou",
@@ -7315,6 +7342,9 @@
 }, {
   "name" : "Haikara-san ga Tooru Movie 1: Benio, Hana no 17-sai",
   "ids" : [ 2203, 2610 ]
+}, {
+  "name" : "8735",
+  "ids" : [ 8735 ]
 }, {
   "name" : "Haikyuu!! Bakemono-tachi no Iku Tokoro",
   "ids" : [ 13060 ]
@@ -7664,12 +7694,6 @@
   "name" : "Saint Seiya: Knights of the Zodiac Part 2",
   "ids" : [ 9705 ]
 }, {
-  "name" : "Sekiro: No Defeat (TV)",
-  "ids" : [ 13819 ]
-}, {
-  "name" : "13286",
-  "ids" : [ 13286 ]
-}, {
   "name" : "Sora wo Omoi Soko wo Yumemiru",
   "ids" : [ 11227, 11228 ]
 }, {
@@ -7712,12 +7736,6 @@
   "name" : "Teekyuu 8 Specials",
   "ids" : [ 6105 ]
 }, {
-  "name" : "Tefuda ga Oome no Victoria 2nd Season",
-  "ids" : [ 13787 ]
-}, {
-  "name" : "13315",
-  "ids" : [ 13315 ]
-}, {
   "name" : "Terapagos no Kirakira Tanken-ki",
   "ids" : [ 12425 ]
 }, {
@@ -7739,9 +7757,6 @@
   "name" : "The iDOLM@STER SideM: Wake Atte Mini! - Shoshi Kantetsu Daisouji!",
   "ids" : [ 3565 ]
 }, {
-  "name" : "THE LENTICULARS /b",
-  "ids" : [ 13780 ]
-}, {
   "name" : "The Zero Century: Emeraldas",
   "ids" : [ 2778, 2779, 2780 ]
 }, {
@@ -7757,20 +7772,11 @@
   "name" : "Uchuu Senkan Yamato √2199",
   "ids" : [ 13852 ]
 }, {
-  "name" : "Ushiro no Shoumen Kamui-san Mini Anime",
-  "ids" : [ 13716 ]
-}, {
-  "name" : "13519",
-  "ids" : [ 13519 ]
-}, {
   "name" : "Watashi dake no Okosama Lunch",
   "ids" : [ 11475 ]
 }, {
   "name" : "WAVE!! Surfing Yappe!! Movie 1",
   "ids" : [ 9566, 9906, 9907, 10234 ]
-}, {
-  "name" : "Wild Adapter: ZEN",
-  "ids" : [ 137, 570 ]
 }, {
   "name" : "Yubisaki kara Honki no Netsujou: Osananajimi wa Shouboushi",
   "ids" : [ 9449, 10362 ]

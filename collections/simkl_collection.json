@@ -32,7 +32,7 @@
   "name" : "Full Metal Panic!",
   "ids" : [ 38657, 38916, 39191, 532306, 720695 ]
 }, {
-  "name" : "The Irresponsible Captain Tylor OVA",
+  "name" : "Musekinin Kanchou Tylor (1995)",
   "ids" : [ 36648, 37501, 38805, 38909, 693325 ]
 }, {
   "name" : "Full Moon wo Sagashite",
@@ -227,7 +227,7 @@
   "name" : "Gunnm",
   "ids" : [ 39017, 40077 ]
 }, {
-  "name" : "Shin Chou Kyou Ryo: Condor Hero II",
+  "name" : "Shen Diao Xia Lu II: Xiang Yang Feng Yun",
   "ids" : [ 36064, 38172, 38343 ]
 }, {
   "name" : "Oruchuban Ebichu",
@@ -452,6 +452,9 @@
   "name" : "Nurse Witch Komugi-chan Magikarte",
   "ids" : [ 36307, 40711, 41276, 531452 ]
 }, {
+  "name" : "Shin Samurai-den Yaiba: Kaguya-hen",
+  "ids" : [ 2890692, 3275786 ]
+}, {
   "name" : "Lupin III vs. Meitantei Conan",
   "ids" : [ 37827, 45584 ]
 }, {
@@ -478,9 +481,6 @@
 }, {
   "name" : "Mei to Koneko Bus",
   "ids" : [ 38773, 40889, 41376, 41612 ]
-}, {
-  "name" : "Shin Samurai-den Yaiba: Kaguya-hen",
-  "ids" : [ 2890692 ]
 }, {
   "name" : "Mahoujin Guruguru Movie",
   "ids" : [ 36737, 38435, 38681, 649773 ]
@@ -887,9 +887,6 @@
   "name" : "Tiger Mask Nisei",
   "ids" : [ 40002, 41413, 565274, 1572057, 1572199 ]
 }, {
-  "name" : "Meitantei Conan: 30-gou Satsujin Jiken",
-  "ids" : [ 3275786 ]
-}, {
   "name" : "Motto! Ojamajo Doremi: Kaeru Ishi no Himitsu",
   "ids" : [ 36295, 36430, 37256, 38939, 39493, 41164, 41556, 44590, 1063487, 1063493 ]
 }, {
@@ -1227,7 +1224,7 @@
   "ids" : [ 40060, 40940, 2838606 ]
 }, {
   "name" : "Flanders no Inu",
-  "ids" : [ 36593, 36870, 36901, 38522, 38621, 40549, 41203, 41387, 44664, 52946, 507762, 542770, 625743, 625745, 666263, 667241, 798201, 886863, 1048199, 1384857, 1571639, 1572085, 1572531, 1865528, 2484888 ]
+  "ids" : [ 36593, 36870, 36901, 38522, 38621, 40549, 41203, 41387, 44664, 52946, 507762, 542770, 625743, 625745, 666263, 667241, 798201, 886863, 1048199, 1384857, 1571639, 1572085, 1572531, 1650775, 1865528, 2484888 ]
 }, {
   "name" : "Virtua Fighter",
   "ids" : [ 41543, 733747 ]
@@ -1639,9 +1636,6 @@
 }, {
   "name" : "1573379",
   "ids" : [ 1573379 ]
-}, {
-  "name" : "1650775",
-  "ids" : [ 1650775 ]
 }, {
   "name" : "UFO Senshi Dai Apolon",
   "ids" : [ 39662, 872903 ]
@@ -4358,7 +4352,7 @@
   "name" : "Kai Feng Qitan: Zhege Baogong Bu Taixing",
   "ids" : [ 670721, 670723 ]
 }, {
-  "name" : "Link Planets",
+  "name" : "Xing Ji",
   "ids" : [ 670729, 670731 ]
 }, {
   "name" : "1572557",
@@ -4808,6 +4802,9 @@
   "name" : "Hello World",
   "ids" : [ 987291, 1159285 ]
 }, {
+  "name" : "39899",
+  "ids" : [ 39899 ]
+}, {
   "name" : "Kyochuu Rettou",
   "ids" : [ 1000439, 1159283 ]
 }, {
@@ -5063,7 +5060,7 @@
   "name" : "Fumetsu no Anata e",
   "ids" : [ 1239947, 1721243, 2119032 ]
 }, {
-  "name" : "3050960",
+  "name" : "Battle Spirits [Re] Zekkai no Kuu",
   "ids" : [ 3050960 ]
 }, {
   "name" : "Tian Yu 2nd Season: Cang Gu Zhi Ban",
@@ -5469,7 +5466,7 @@
   "ids" : [ 1733521, 1733523, 1917138 ]
 }, {
   "name" : "Yuan Shi Qi Zhuan Qianzhuan: Gloria",
-  "ids" : [ 1734289, 1734291, 1734293, 1734295, 1734297, 2700142 ]
+  "ids" : [ 1734289, 1734291, 1734293, 1734295, 1734297, 2700142, 3198582 ]
 }, {
   "name" : "Jingling Meng Xie Luo Li",
   "ids" : [ 1735049, 1735051, 1735053, 1735055, 1735057, 1735059, 1735061, 1735063 ]
@@ -5790,10 +5787,7 @@
   "ids" : [ 2275522, 2983996 ]
 }, {
   "name" : "Chibi Godzilla no Gyakushuu",
-  "ids" : [ 2109294, 2465738, 3169194 ]
-}, {
-  "name" : "2827542",
-  "ids" : [ 2827542 ]
+  "ids" : [ 2109294, 2465738, 2827542, 3169194 ]
 }, {
   "name" : "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo",
   "ids" : [ 2120192, 2330428, 2906736 ]
@@ -5898,7 +5892,7 @@
   "ids" : [ 2259800, 2890414 ]
 }, {
   "name" : "Xian Ni",
-  "ids" : [ 2275520, 2801634 ]
+  "ids" : [ 2275520, 2801634, 3271100 ]
 }, {
   "name" : "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
   "ids" : [ 2275518, 3173580 ]
@@ -5968,6 +5962,9 @@
 }, {
   "name" : "Shen Ming Zhi Zhou",
   "ids" : [ 2352396, 2352398 ]
+}, {
+  "name" : "Hitoribocchi no Isekai Kouryaku",
+  "ids" : [ 2354146, 3173578 ]
 }, {
   "name" : "Himitsu no AiPri",
   "ids" : [ 2359372, 2747924, 3072650 ]
@@ -6089,6 +6086,9 @@
   "name" : "Kankin Kuiki Level X",
   "ids" : [ 2589294, 2735414 ]
 }, {
+  "name" : "Dushi Gu Xian Yi",
+  "ids" : [ 2599570, 3289614 ]
+}, {
   "name" : "Wuhang Zhanshen",
   "ids" : [ 2601806, 2602620 ]
 }, {
@@ -6166,9 +6166,6 @@
 }, {
   "name" : "Neko to Ryuu",
   "ids" : [ 2721022, 3256041 ]
-}, {
-  "name" : "Jiyi Guanli Ju (2026)",
-  "ids" : [ 3198582 ]
 }, {
   "name" : "Mayonaka Heart Tune",
   "ids" : [ 2734536, 3060042 ]
@@ -6275,6 +6272,9 @@
   "name" : "Jiaonang Jihua",
   "ids" : [ 2886826, 2886828, 2886830, 3201838 ]
 }, {
+  "name" : "Marriagetoxin",
+  "ids" : [ 2909008, 3169196 ]
+}, {
   "name" : "Kamisarizuki no Kemono",
   "ids" : [ 2904528 ]
 }, {
@@ -6347,7 +6347,7 @@
   "name" : "2924096",
   "ids" : [ 2924096 ]
 }, {
-  "name" : "Cast Out by My Family, I Awakened 900 Million Stat Points",
+  "name" : "Bei Jiazu Paoqi, Wo Juexing Jiu Yi Shuxing Dian",
   "ids" : [ 3046164, 3226066 ]
 }, {
   "name" : "Hanazakari no Kimitachi e 2nd Season",
@@ -6416,18 +6416,6 @@
   "name" : "2869646",
   "ids" : [ 2869646 ]
 }, {
-  "name" : "Marriagetoxin 2nd Season",
-  "ids" : [ 3169196 ]
-}, {
-  "name" : "2909008",
-  "ids" : [ 2909008 ]
-}, {
-  "name" : "Hitoribocchi no Isekai Kouryaku 2nd Season",
-  "ids" : [ 3173578 ]
-}, {
-  "name" : "2354146",
-  "ids" : [ 2354146 ]
-}, {
   "name" : "Fukufuku no Chizu",
   "ids" : [ 3235384 ]
 }, {
@@ -6470,17 +6458,26 @@
   "name" : "Ai Shimai: Futari no Kajitsu",
   "ids" : [ 872889, 872891 ]
 }, {
+  "name" : "Dali Si Rizhi San",
+  "ids" : [ 3289610 ]
+}, {
+  "name" : "1449367",
+  "ids" : [ 1449367 ]
+}, {
   "name" : "Ra/Radio Noise * Planet",
   "ids" : [ 3268352 ]
 }, {
   "name" : "36335",
   "ids" : [ 36335 ]
 }, {
-  "name" : "Renegade Immortal Movie: Slaying the Blood Progenitor",
-  "ids" : [ 3271100 ]
-}, {
   "name" : "Seirei Gensouki 3",
   "ids" : [ 3269448 ]
+}, {
+  "name" : "Tanuki to Kitsune (TV)",
+  "ids" : [ 3273464 ]
+}, {
+  "name" : "748625",
+  "ids" : [ 748625 ]
 }, {
   "name" : "With Vengeance, Sincerely, Your Broken Saintess Season 2",
   "ids" : [ 3269450 ]
