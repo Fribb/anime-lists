@@ -360,7 +360,7 @@
   "ids" : [ 426 ]
 }, {
   "name" : "Meitantei Conan",
-  "ids" : [ 454, 2678, 2679, 2680, 2681, 2682, 2683, 3757, 3758, 4771, 5140, 5141, 5142, 5143, 5144, 6346, 6489, 7487, 8650, 8767, 9028, 10522, 10605, 11207, 11687, 11688, 11689, 11690, 11691, 11692, 11693, 12249, 12912, 13790, 14883, 15284, 15794, 16837, 17873, 19005, 20362, 22122, 22156, 22487, 22901, 23173, 23949, 24818, 24820, 25016, 25409, 26663, 26700, 30898, 30954, 34123, 37854, 38100, 38196 ]
+  "ids" : [ 454, 2678, 2679, 2680, 2681, 2682, 2683, 3757, 3758, 4771, 5140, 5141, 5142, 5143, 5144, 6346, 6489, 7487, 8650, 8767, 9028, 10522, 10605, 11207, 11687, 11688, 11689, 11690, 11691, 11692, 11693, 12249, 12912, 13790, 14883, 15284, 15794, 16837, 17873, 17874, 19005, 20362, 22122, 22156, 22487, 22901, 23173, 23949, 24818, 24820, 25016, 25409, 26663, 26700, 30898, 30954, 34123, 37854, 38100, 38196, 40506 ]
 }, {
   "name" : "Sister Princess",
   "ids" : [ 1114, 1824 ]
@@ -1389,7 +1389,7 @@
   "ids" : [ 3170, 3171 ]
 }, {
   "name" : "The☆Ultraman",
-  "ids" : [ 3900, 3901, 9181, 11076, 11077, 11078 ]
+  "ids" : [ 3900, 3901, 11076, 11077, 11078 ]
 }, {
   "name" : "Ultraman M78 Gekijou: Love and Peace",
   "ids" : [ 14675, 14677 ]
@@ -1402,6 +1402,9 @@
 }, {
   "name" : "30847",
   "ids" : [ 30847 ]
+}, {
+  "name" : "9181",
+  "ids" : [ 9181 ]
 }, {
   "name" : "Taiyou no Kiba Dougram",
   "ids" : [ 873, 7698, 7699 ]
@@ -2559,10 +2562,7 @@
   "ids" : [ 11271, 13942 ]
 }, {
   "name" : "Wolverine",
-  "ids" : [ 12083 ]
-}, {
-  "name" : "12366",
-  "ids" : [ 12366 ]
+  "ids" : [ 12083, 12366 ]
 }, {
   "name" : "Sore Ike! Anpanman: Ruby no Negai",
   "ids" : [ 2658, 20532 ]
@@ -2736,7 +2736,7 @@
   "ids" : [ 13017, 15523 ]
 }, {
   "name" : "Cardfight!! Vanguard",
-  "ids" : [ 11763, 14090, 14949, 15808, 15809, 16314, 17600, 18086, 18773, 20072, 20876, 21284, 21796, 22336, 23028, 23938, 24723, 25416, 25839, 25840, 30379, 32675, 33713, 36281, 37897, 38996, 40469 ]
+  "ids" : [ 11763, 14090, 14949, 15808, 15809, 16314, 17600, 18086, 18773, 20072, 20876, 21284, 21796, 22336, 23028, 23938, 24723, 25416, 25839, 25840, 30379, 32675, 33713, 36281, 37897, 38996, 40469, 40753 ]
 }, {
   "name" : "Mini Van",
   "ids" : [ 22406, 22408, 24500 ]
@@ -2839,6 +2839,9 @@
 }, {
   "name" : "Pretty Rhythm: Aurora Dream",
   "ids" : [ 12432, 13988, 15094, 15887, 15888, 15916, 16617, 16674, 17553, 17699, 18074, 18090, 18731, 19018, 19329, 20580, 20902, 21194, 21793, 22936, 23131, 24049, 31828, 32693, 34032, 34885, 38080, 38338 ]
+}, {
+  "name" : "King of Prism: Tri-Star-Act",
+  "ids" : [ 40202 ]
 }, {
   "name" : "Uta no☆Prince-sama♪ Maji Love 1000%",
   "ids" : [ 12509, 14884, 16143, 18173, 20471, 22916, 24200, 24998, 31111 ]
@@ -3010,9 +3013,6 @@
 }, {
   "name" : "Shirokuma Cafe",
   "ids" : [ 13985, 26503 ]
-}, {
-  "name" : "King of Prism: Tri-Star-Act",
-  "ids" : [ 40202 ]
 }, {
   "name" : "Naruto SD: Rock Lee no Seishun Full-Power Ninden",
   "ids" : [ 13834, 15598 ]
@@ -3364,9 +3364,6 @@
 }, {
   "name" : "Mekakucity Actors",
   "ids" : [ 15797, 18748 ]
-}, {
-  "name" : "Edogawa Conan Shissou Jiken: Shijou Saiaku no Futsukakan",
-  "ids" : [ 17874 ]
 }, {
   "name" : "Shingeki no Bahamut: Genesis",
   "ids" : [ 15791, 17601, 18190 ]
@@ -3843,7 +3840,10 @@
   "ids" : [ 32626 ]
 }, {
   "name" : "BanG Dream!",
-  "ids" : [ 18693, 21289, 21290, 21291, 22045, 22411, 22909, 23027, 23257, 23928, 23929, 24155, 24418, 24590, 25436, 25697, 25749, 27861, 29893, 31352, 35274, 37471, 37829, 38279 ]
+  "ids" : [ 18693, 21289, 21290, 21291, 22045, 22411, 22909, 23027, 23257, 23928, 23929, 24155, 24418, 24590, 25436, 25697, 25749, 27861, 29893, 31352, 35274, 37471, 37829, 38279, 40725 ]
+}, {
+  "name" : "40714",
+  "ids" : [ 40714 ]
 }, {
   "name" : "Soushin Shoujo Matoi",
   "ids" : [ 18588, 23092 ]
@@ -4343,6 +4343,9 @@
   "name" : "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
   "ids" : [ 23174, 24812 ]
 }, {
+  "name" : "Our Last Crusade or the Rise of a New World",
+  "ids" : [ 40715 ]
+}, {
   "name" : "Dokyuu Hentai HxEros",
   "ids" : [ 22606, 23693 ]
 }, {
@@ -4839,7 +4842,7 @@
   "ids" : [ 26311, 26639, 26994 ]
 }, {
   "name" : "Pole Princess!!",
-  "ids" : [ 26652, 27752 ]
+  "ids" : [ 26652, 27752, 40779 ]
 }, {
   "name" : "Hi no Tori: Eden no Sora",
   "ids" : [ 26668, 29881 ]
@@ -4991,6 +4994,9 @@
   "name" : "Re:Monster",
   "ids" : [ 29955, 37872 ]
 }, {
+  "name" : "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life",
+  "ids" : [ 30332, 40273 ]
+}, {
   "name" : "Ore wa Subete wo \"Parry\" suru: Gyaku Kanchigai no Sekai Saikyou wa Boukensha ni Naritai",
   "ids" : [ 30566, 37101 ]
 }, {
@@ -5123,6 +5129,9 @@
   "name" : "Kankin Kuiki Level X",
   "ids" : [ 33161, 33715 ]
 }, {
+  "name" : "Romelia Senki",
+  "ids" : [ 33491, 40786 ]
+}, {
   "name" : "Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi",
   "ids" : [ 33767, 37993 ]
 }, {
@@ -5198,6 +5207,9 @@
   "name" : "Milky☆Highway",
   "ids" : [ 35230, 35231, 38105, 39396 ]
 }, {
+  "name" : "Milky☆Byway Spring Special: Kyoufu no Chelovin Party",
+  "ids" : [ 40339 ]
+}, {
   "name" : "Kizu darake Seijo yori Houfuku wo Komete",
   "ids" : [ 33838, 39479 ]
 }, {
@@ -5254,12 +5266,6 @@
 }, {
   "name" : "Aka no Kioku",
   "ids" : [ 38376, 38377 ]
-}, {
-  "name" : "Lv2 kara Cheat datta Motoyuusha Kouho no Mattari Isekai Life 2nd Season",
-  "ids" : [ 40273 ]
-}, {
-  "name" : "30332",
-  "ids" : [ 30332 ]
 }, {
   "name" : "5-Okunen Button",
   "ids" : [ 25835, 34173 ]
@@ -5350,12 +5356,6 @@
 }, {
   "name" : "Gakuen: Chijoku no Zushiki",
   "ids" : [ 5101, 8235, 12563 ]
-}, {
-  "name" : "Gelpiyo",
-  "ids" : [ 40572 ]
-}, {
-  "name" : "38179",
-  "ids" : [ 38179 ]
 }, {
   "name" : "Genmukan",
   "ids" : [ 4345, 11453 ]
@@ -5468,6 +5468,9 @@
   "name" : "Kumarba",
   "ids" : [ 30491, 32830, 38385 ]
 }, {
+  "name" : "Kuromi the Movie",
+  "ids" : [ 40783 ]
+}, {
   "name" : "Kyouhaku: Owaranai Ashita",
   "ids" : [ 274, 4056, 7518 ]
 }, {
@@ -5491,12 +5494,6 @@
 }, {
   "name" : "Megumi to Taiyou: Kajuu Gummi Tweet Love Story",
   "ids" : [ 23876, 23877, 23878 ]
-}, {
-  "name" : "Milky☆Byway Spring Special: Kyoufu no Chelovin Party",
-  "ids" : [ 40339 ]
-}, {
-  "name" : "Misohitojima no Satsujin",
-  "ids" : [ 40506 ]
 }, {
   "name" : "Mob Psycho 100: 10-shuunen Kinen Tokubetsu Eizou",
   "ids" : [ 40336 ]

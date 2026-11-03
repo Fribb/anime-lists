@@ -198,7 +198,7 @@
   "ids" : [ 36299, 36868, 38288, 38675, 40663, 40959, 46130, 495672, 703757, 1728845 ]
 }, {
   "name" : "Keroro Gunsou Movie 3: Tenkuu Daikessen de Arimasu!",
-  "ids" : [ 36284, 39133, 39694, 39720, 39911, 40141, 41101, 41565, 41718, 45626, 1283889 ]
+  "ids" : [ 36284, 39133, 39694, 39720, 39911, 40141, 41101, 41565, 41718, 45626, 1283889, 3152176 ]
 }, {
   "name" : "Hajime no Ippo: Champion Road",
   "ids" : [ 37301, 39782, 40117, 40177, 44586 ]
@@ -991,9 +991,6 @@
 }, {
   "name" : "Golgo 13 (TV)",
   "ids" : [ 38412, 38609, 41331 ]
-}, {
-  "name" : "Doraemon Movie 46: Nobita no Jouki Jikansha",
-  "ids" : [ 3196706 ]
 }, {
   "name" : "Kaibutsu-kun",
   "ids" : [ 36520, 41088, 41196, 41614 ]
@@ -2492,6 +2489,9 @@
   "name" : "Ga-Rei: Zero",
   "ids" : [ 36317, 43097 ]
 }, {
+  "name" : "The Ghost in the Shell (New Animation)",
+  "ids" : [ 3298688 ]
+}, {
   "name" : "Inazuma Eleven: Saikyou Gundan Ogre Shuurai",
   "ids" : [ 36082, 36251, 37126, 38135, 38264, 39727, 44662, 44908, 459642, 603831, 603833, 611129, 622145, 723639, 894601, 922047, 1572407 ]
 }, {
@@ -2665,6 +2665,9 @@
 }, {
   "name" : "Nihon Manga Eiga Hattatsushi: Manga Eiga Tanjou",
   "ids" : [ 36739, 38023 ]
+}, {
+  "name" : "Battle Spirits [Re] Zekkai no Kuu",
+  "ids" : [ 3050960 ]
 }, {
   "name" : "Kurumiwari Ningyou",
   "ids" : [ 38729, 459244 ]
@@ -4029,7 +4032,7 @@
   "ids" : [ 543938, 694187 ]
 }, {
   "name" : "Yes! BanG_Dream!",
-  "ids" : [ 543940, 623991, 642363, 810067, 820073, 820077, 820079, 1066343, 1202091, 1225281, 1299463, 1329015, 1485455, 1519483, 1625667, 1650777, 1863750, 1923554, 2138098, 2255418, 2735476, 2796460, 2991028 ]
+  "ids" : [ 543940, 623991, 642363, 810067, 820073, 820077, 820079, 1066343, 1202091, 1225281, 1299463, 1329015, 1485455, 1519483, 1625667, 1650777, 1863750, 1923554, 2138098, 2255418, 2735476, 2796460, 2875716, 2991028 ]
 }, {
   "name" : "Saga-ken wo Meguru Animation",
   "ids" : [ 546044, 656395 ]
@@ -4410,7 +4413,7 @@
   "ids" : [ 719909, 807939, 977912, 1411157, 1782478, 2365662, 2365664, 2451968, 2837600, 3189996 ]
 }, {
   "name" : "Oshiri Tantei",
-  "ids" : [ 690189, 1052413, 1162113, 1225823, 1294835, 1568941, 1616445, 1759729, 1766467, 2028050 ]
+  "ids" : [ 690189, 1052413, 1162113, 1225823, 1294835, 1568941, 1616445, 1759729, 1766467, 2028050, 3298692, 3298694 ]
 }, {
   "name" : "1808254",
   "ids" : [ 1808254 ]
@@ -4541,6 +4544,9 @@
   "name" : "Xiao Hua Xian",
   "ids" : [ 751547, 752327, 752329, 1226909, 1226931 ]
 }, {
+  "name" : "Tanuki to Kitsune",
+  "ids" : [ 748625, 3273464 ]
+}, {
   "name" : "Jian Wangchao",
   "ids" : [ 749509, 749511 ]
 }, {
@@ -4666,9 +4672,6 @@
 }, {
   "name" : "Okojo to Yamane",
   "ids" : [ 810689, 1014365 ]
-}, {
-  "name" : "BanG Dream! Yume∞Mita",
-  "ids" : [ 2875716 ]
 }, {
   "name" : "Nakanohito Genome [Jikkyouchuu]",
   "ids" : [ 826729, 1192423 ]
@@ -4973,6 +4976,9 @@
   "name" : "Kkoma Sinseon Tao",
   "ids" : [ 1188779, 1188781 ]
 }, {
+  "name" : "3298690",
+  "ids" : [ 3298690 ]
+}, {
   "name" : "Taeko no Nichijou",
   "ids" : [ 1170283, 1358691 ]
 }, {
@@ -5060,9 +5066,6 @@
   "name" : "Fumetsu no Anata e",
   "ids" : [ 1239947, 1721243, 2119032 ]
 }, {
-  "name" : "Battle Spirits [Re] Zekkai no Kuu",
-  "ids" : [ 3050960 ]
-}, {
   "name" : "Tian Yu 2nd Season: Cang Gu Zhi Ban",
   "ids" : [ 1249207, 1307315 ]
 }, {
@@ -5089,6 +5092,9 @@
 }, {
   "name" : "Fanren Xiu Xian Zhuan",
   "ids" : [ 1402127, 1549811, 1806402, 1806404, 2317052, 2327200, 2695316, 3152178 ]
+}, {
+  "name" : "Mairimashita! Iruma-kun: If Episode of Mafia",
+  "ids" : [ 3012818 ]
 }, {
   "name" : "86",
   "ids" : [ 1298975, 1579155 ]
@@ -5426,6 +5432,9 @@
   "name" : "Chiyu Mahou no Machigatta Tsukaikata",
   "ids" : [ 1709003, 2530912 ]
 }, {
+  "name" : "Zi Chuan",
+  "ids" : [ 1722943, 2848166 ]
+}, {
   "name" : "Long Zu",
   "ids" : [ 2359378 ]
 }, {
@@ -5523,7 +5532,7 @@
   "ids" : [ 1780762, 2665956 ]
 }, {
   "name" : "Mato Seihei no Slave",
-  "ids" : [ 1781532, 2412612 ]
+  "ids" : [ 1781532, 2412612, 3203588 ]
 }, {
   "name" : "Shi Cao Lao Long Bei Guan Yi E Long Zhi Ming",
   "ids" : [ 1782470, 2278844 ]
@@ -6098,6 +6107,9 @@
   "name" : "901525",
   "ids" : [ 901525 ]
 }, {
+  "name" : "Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi",
+  "ids" : [ 2612238, 2932226 ]
+}, {
   "name" : "Zongmen Li Chule Wo Dou Shi Wodi",
   "ids" : [ 2613140, 2947542 ]
 }, {
@@ -6221,6 +6233,9 @@
   "name" : "Ginga Tokkyuu Milky☆Subway",
   "ids" : [ 2832330, 2865478, 2982894 ]
 }, {
+  "name" : "Kizu darake Seijo yori Houfuku wo Komete",
+  "ids" : [ 2832332, 3269450 ]
+}, {
   "name" : "Snowball Earth",
   "ids" : [ 2837598, 3165110 ]
 }, {
@@ -6239,12 +6254,6 @@
   "name" : "1052421",
   "ids" : [ 1052421 ]
 }, {
-  "name" : "Zi Chuan 2nd Season",
-  "ids" : [ 2848166 ]
-}, {
-  "name" : "1722943",
-  "ids" : [ 1722943 ]
-}, {
   "name" : "Akane-banashi",
   "ids" : [ 2851684, 3159078 ]
 }, {
@@ -6256,6 +6265,9 @@
 }, {
   "name" : "Liar Game",
   "ids" : [ 2865480, 3266704 ]
+}, {
+  "name" : "Kill Ao",
+  "ids" : [ 2869646, 3166344 ]
 }, {
   "name" : "Kaijuu Decode: Aidara no Yubiwa",
   "ids" : [ 2884096 ]
@@ -6292,12 +6304,6 @@
 }, {
   "name" : "1960360",
   "ids" : [ 1960360 ]
-}, {
-  "name" : "Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi 2nd Season",
-  "ids" : [ 2932226 ]
-}, {
-  "name" : "2612238",
-  "ids" : [ 2612238 ]
 }, {
   "name" : "Gochuumon wa Usagi desu ka? Movie: We Are Family!",
   "ids" : [ 2728474, 3175952 ]
@@ -6410,12 +6416,6 @@
   "name" : "2531788",
   "ids" : [ 2531788 ]
 }, {
-  "name" : "Kill Ao 2nd Season",
-  "ids" : [ 3166344 ]
-}, {
-  "name" : "2869646",
-  "ids" : [ 2869646 ]
-}, {
   "name" : "Fukufuku no Chizu",
   "ids" : [ 3235384 ]
 }, {
@@ -6427,9 +6427,6 @@
 }, {
   "name" : "2334524",
   "ids" : [ 2334524 ]
-}, {
-  "name" : "Mato Seihei no Slave 3",
-  "ids" : [ 3203588 ]
 }, {
   "name" : "Chitose-kun wa Ramune Bin no Naka Part 2",
   "ids" : [ 3203592 ]
@@ -6461,8 +6458,17 @@
   "name" : "Dali Si Rizhi San",
   "ids" : [ 3289610 ]
 }, {
+  "name" : "Gelpiyo",
+  "ids" : [ 3303678 ]
+}, {
+  "name" : "2975266",
+  "ids" : [ 2975266 ]
+}, {
   "name" : "1449367",
   "ids" : [ 1449367 ]
+}, {
+  "name" : "Our Last Crusade or the Rise of a New World Season 3",
+  "ids" : [ 3300986 ]
 }, {
   "name" : "Ra/Radio Noise * Planet",
   "ids" : [ 3268352 ]
@@ -6472,16 +6478,4 @@
 }, {
   "name" : "Seirei Gensouki 3",
   "ids" : [ 3269448 ]
-}, {
-  "name" : "Tanuki to Kitsune (TV)",
-  "ids" : [ 3273464 ]
-}, {
-  "name" : "748625",
-  "ids" : [ 748625 ]
-}, {
-  "name" : "With Vengeance, Sincerely, Your Broken Saintess Season 2",
-  "ids" : [ 3269450 ]
-}, {
-  "name" : "2832332",
-  "ids" : [ 2832332 ]
 } ]

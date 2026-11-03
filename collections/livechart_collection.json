@@ -728,6 +728,12 @@
   "name" : "Majuu Sensen",
   "ids" : [ 11975, 11976 ]
 }, {
+  "name" : "Ninkuu",
+  "ids" : [ 11297, 13867, 13868 ]
+}, {
+  "name" : "Naruto x Ninkuu",
+  "ids" : [ 11850 ]
+}, {
   "name" : "Crush Gear Nitro",
   "ids" : [ 11033 ]
 }, {
@@ -1142,15 +1148,6 @@
   "name" : "Megazone 23 SIN",
   "ids" : [ 2556, 2557, 6286 ]
 }, {
-  "name" : "Ninkuu (Movie)",
-  "ids" : [ 13867, 13868 ]
-}, {
-  "name" : "11297",
-  "ids" : [ 11297 ]
-}, {
-  "name" : "Naruto x Ninkuu",
-  "ids" : [ 11850 ]
-}, {
   "name" : "Love♥Love?",
   "ids" : [ 7002, 11950 ]
 }, {
@@ -1243,6 +1240,9 @@
 }, {
   "name" : "Kidou Senshi Gundam 0083: Zeon no Zankou",
   "ids" : [ 6061 ]
+}, {
+  "name" : "Haikara-san ga Tooru Movie 1: Benio, Hana no 17-sai",
+  "ids" : [ 2203, 2610, 8735 ]
 }, {
   "name" : "Crusher Joe",
   "ids" : [ 7998, 11401 ]
@@ -4521,7 +4521,7 @@
   "ids" : [ 2128, 3203 ]
 }, {
   "name" : "Kemono Friends",
-  "ids" : [ 2139, 2644, 3423, 4936, 9408, 9891 ]
+  "ids" : [ 2139, 2644, 3423, 4934, 4936, 9408, 9891 ]
 }, {
   "name" : "Planetarian: Chiisana Hoshi no Yume",
   "ids" : [ 2141, 2159, 9686 ]
@@ -4957,6 +4957,9 @@
 }, {
   "name" : "Gaikotsu Shotenin Honda-san",
   "ids" : [ 2869, 8705 ]
+}, {
+  "name" : "Feng Ling Yu Xiu",
+  "ids" : [ 10331, 13847, 13848 ]
 }, {
   "name" : "Ze Tian Ji",
   "ids" : [ 7633, 8190, 8192, 9972, 9973 ]
@@ -5544,7 +5547,7 @@
   "ids" : [ 9643, 13469 ]
 }, {
   "name" : "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
-  "ids" : [ 9651, 10824 ]
+  "ids" : [ 9651, 10824, 13874 ]
 }, {
   "name" : "Healin' Good♡Precure",
   "ids" : [ 9655, 10063 ]
@@ -5748,7 +5751,7 @@
   "ids" : [ 10103, 10616 ]
 }, {
   "name" : "Yi Nian Yong Heng",
-  "ids" : [ 9984, 12303, 12305 ]
+  "ids" : [ 9984, 12303, 12305, 13771 ]
 }, {
   "name" : "Tales of Crestoria: Toga Waga wo Shoite Kare wa Tatsu",
   "ids" : [ 10141 ]
@@ -5991,7 +5994,7 @@
   "ids" : [ 11200, 13694 ]
 }, {
   "name" : "Da Wang Rao Ming",
-  "ids" : [ 11145, 12490 ]
+  "ids" : [ 11145, 12490, 13854 ]
 }, {
   "name" : "Ao Ashi",
   "ids" : [ 10612, 13151 ]
@@ -6596,12 +6599,6 @@
   "name" : "Sengoku Youko: Yonaoshi Kyoudai-hen",
   "ids" : [ 12272, 12615 ]
 }, {
-  "name" : "Feng Ling Yu Xiu 2nd Season",
-  "ids" : [ 13847, 13848 ]
-}, {
-  "name" : "10331",
-  "ids" : [ 10331 ]
-}, {
   "name" : "Loop 7-kaime no Akuyaku Reijou wa, Moto Tekikoku de Jiyuu Kimama na Hanayome Seikatsu wo Mankitsu suru",
   "ids" : [ 12302, 12489 ]
 }, {
@@ -6688,6 +6685,9 @@
 }, {
   "name" : "Monogatari Series: Off & Monster Season",
   "ids" : [ 12502 ]
+}, {
+  "name" : "Hitoribocchi no Isekai Kouryaku",
+  "ids" : [ 12508, 13720 ]
 }, {
   "name" : "Himitsu no AiPri",
   "ids" : [ 12436 ]
@@ -6823,6 +6823,9 @@
 }, {
   "name" : "Kankin Kuiki Level X",
   "ids" : [ 12792, 12881 ]
+}, {
+  "name" : "Romelia Senki",
+  "ids" : [ 13383, 13880 ]
 }, {
   "name" : "Kinnikuman: Kanpeki Choujin Shiso-hen Season 2",
   "ids" : [ 12847 ]
@@ -7088,7 +7091,7 @@
   "name" : "Dark Summoner to Dekiteiru",
   "ids" : [ 13526, 13789 ]
 }, {
-  "name" : "BanG Dream! It's MyGO!!!!! / Ave Mujica",
+  "name" : "BanG Dream! MyGO!!!!! / Ave Mujica",
   "ids" : [ 13117 ]
 }, {
   "name" : "Ranma ½ (2024) 3rd Season",
@@ -7121,17 +7124,8 @@
   "name" : "Hokuto no Ken: Fist of the North Star Part 2",
   "ids" : [ 13691 ]
 }, {
-  "name" : "Hitoribocchi no Isekai Kouryaku 2nd Season",
-  "ids" : [ 13720 ]
-}, {
-  "name" : "12508",
-  "ids" : [ 12508 ]
-}, {
   "name" : "Yami Shibai 17",
   "ids" : [ 13674 ]
-}, {
-  "name" : "Yi Nian Yong Heng: Wanjie Ji",
-  "ids" : [ 13771 ]
 }, {
   "name" : "Kidou Senshi Gundam RG: XARX-ZERO",
   "ids" : [ 13729 ]
@@ -7169,8 +7163,8 @@
   "name" : "10465",
   "ids" : [ 10465 ]
 }, {
-  "name" : "Da Wang Rao Ming 3",
-  "ids" : [ 13854 ]
+  "name" : "Koukaku Kidoutai (Shinsaku Animation)",
+  "ids" : [ 13873 ]
 }, {
   "name" : "Oshiri Tantei 10th Season",
   "ids" : [ 13380 ]
@@ -7193,6 +7187,9 @@
   "name" : "Black Channel (ONA)",
   "ids" : [ 10134, 13601 ]
 }, {
+  "name" : "BOCCHI THE ROCK! Movie: Hoshi no Ashiato",
+  "ids" : [ 13883 ]
+}, {
   "name" : "Boku no Hero Academia the Movie 4: You're Next - A Piece of Cake",
   "ids" : [ 12947 ]
 }, {
@@ -7204,6 +7201,12 @@
 }, {
   "name" : "Candy Caries (TV)",
   "ids" : [ 13474, 13475 ]
+}, {
+  "name" : "CHARISMA Short Anime",
+  "ids" : [ 13882 ]
+}, {
+  "name" : "13409",
+  "ids" : [ 13409 ]
 }, {
   "name" : "Chocomatsu-san: Valentine's Day-hen",
   "ids" : [ 10372 ]
@@ -7301,6 +7304,9 @@
   "name" : "Dragon Ball Kai: Mirai ni Heiwa wo! Goku no Tamashii yo Eien ni",
   "ids" : [ 5079 ]
 }, {
+  "name" : "Dual Shadow ~Precure Villain Heroines~",
+  "ids" : [ 13875 ]
+}, {
   "name" : "Fangkemeng: Bu Yuan Zhi Dao de Fangxing Baokemeng?!",
   "ids" : [ 12112 ]
 }, {
@@ -7345,12 +7351,6 @@
 }, {
   "name" : "Golden Douga Gekijou",
   "ids" : [ 4738 ]
-}, {
-  "name" : "Haikara-san ga Tooru Movie 1: Benio, Hana no 17-sai",
-  "ids" : [ 2203, 2610 ]
-}, {
-  "name" : "8735",
-  "ids" : [ 8735 ]
 }, {
   "name" : "Haikyuu!! Bakemono-tachi no Iku Tokoro",
   "ids" : [ 13060 ]
@@ -7678,6 +7678,9 @@
 }, {
   "name" : "POKÉTOON (2026)",
   "ids" : [ 13769 ]
+}, {
+  "name" : "Pole Princess!!: Croix du Nord",
+  "ids" : [ 13878 ]
 }, {
   "name" : "Pretty Guardian Sailor Moon Cosmos Movie 1",
   "ids" : [ 11198 ]
