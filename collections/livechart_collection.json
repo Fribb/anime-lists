@@ -51,7 +51,7 @@
   "ids" : [ 3613, 9504 ]
 }, {
   "name" : "X",
-  "ids" : [ 4244, 5785 ]
+  "ids" : [ 4244, 5576, 5785 ]
 }, {
   "name" : "Hellsing Ultimate",
   "ids" : [ 3598, 3639, 3954, 5117, 6457 ]
@@ -74,7 +74,7 @@
   "name" : "Fushigi no Umi no Nadia",
   "ids" : [ 4995, 7030, 7062 ]
 }, {
-  "name" : "Blood-C: The Last Dark",
+  "name" : "Blood-C Movie: The Last Dark",
   "ids" : [ 933, 1209, 3713, 4303, 6727, 7354 ]
 }, {
   "name" : "Devilman: Crybaby",
@@ -490,9 +490,6 @@
 }, {
   "name" : "Alps no Shoujo Heidi",
   "ids" : [ 5334, 6718, 6844, 7860, 9138 ]
-}, {
-  "name" : "X/1999",
-  "ids" : [ 5576 ]
 }, {
   "name" : "Chuuka Ichiban!",
   "ids" : [ 5978, 9213, 9747 ]
@@ -1539,7 +1536,7 @@
   "ids" : [ 12167, 12168 ]
 }, {
   "name" : "Onegai My Melody: Yuu & Ai",
-  "ids" : [ 7153, 7654, 8586, 11067, 11068, 11069, 11813, 11997, 12901, 13010 ]
+  "ids" : [ 7153, 7654, 8586, 11067, 11068, 11069, 11813, 11997, 12901, 13010, 13887 ]
 }, {
   "name" : "Jarinko Chie",
   "ids" : [ 7668, 11308, 11309, 11310 ]
@@ -2609,6 +2606,9 @@
   "name" : "Shukufuku no Campanella",
   "ids" : [ 4850, 6120, 6222 ]
 }, {
+  "name" : "Obocchama-kun",
+  "ids" : [ 10465, 13835 ]
+}, {
   "name" : "Lupin III: The Last Job",
   "ids" : [ 6700 ]
 }, {
@@ -2888,7 +2888,7 @@
   "name" : "Astarotte no Omocha!",
   "ids" : [ 1242, 4081 ]
 }, {
-  "name" : "Mahou Shoujo Madoka★Magica Movie 3: Hangyaku no Monogatari",
+  "name" : "Mahou Shoujo Madoka☆Magica Movie 3: Hangyaku no Monogatari",
   "ids" : [ 74, 972, 973, 1947, 3246, 4910 ]
 }, {
   "name" : "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden",
@@ -5913,7 +5913,7 @@
   "ids" : [ 10383, 12346 ]
 }, {
   "name" : "Bocchi the Rock!",
-  "ids" : [ 10424, 12060, 13040 ]
+  "ids" : [ 10424, 12060, 13040, 13883 ]
 }, {
   "name" : "Summer Ghost",
   "ids" : [ 10426, 10759 ]
@@ -5965,6 +5965,9 @@
 }, {
   "name" : "Mahoutsukai Reimeiki",
   "ids" : [ 10558, 11158 ]
+}, {
+  "name" : "2359",
+  "ids" : [ 2359 ]
 }, {
   "name" : "Pretty All Friends Selection",
   "ids" : [ 9004 ]
@@ -6135,7 +6138,7 @@
   "ids" : [ 10860, 13401 ]
 }, {
   "name" : "Spy x Family",
-  "ids" : [ 10456, 10954, 11739, 11740, 12692 ]
+  "ids" : [ 10456, 10954, 11739, 11740, 12692, 13895, 13896 ]
 }, {
   "name" : "Delicious Party♡Precure",
   "ids" : [ 10908, 11063 ]
@@ -6268,6 +6271,9 @@
 }, {
   "name" : "Boku to Roboko",
   "ids" : [ 11235, 12114 ]
+}, {
+  "name" : "Paradox Live the Animation",
+  "ids" : [ 11232, 13648 ]
 }, {
   "name" : "BanG Dream! Morfonication",
   "ids" : [ 11144 ]
@@ -6548,6 +6554,9 @@
   "name" : "Girls Band Cry",
   "ids" : [ 11982, 12831, 13335 ]
 }, {
+  "name" : "Aishang Ta de Liyou",
+  "ids" : [ 11957, 13714 ]
+}, {
   "name" : "Ooi! Tonbo",
   "ids" : [ 11991, 12720 ]
 }, {
@@ -6760,6 +6769,9 @@
 }, {
   "name" : "Maarui Kanojo to Zannen na Kareshi",
   "ids" : [ 12660, 12910 ]
+}, {
+  "name" : "Ninja Skooler",
+  "ids" : [ 12667, 13889 ]
 }, {
   "name" : "Hikaru ga Shinda Natsu",
   "ids" : [ 12675, 13342 ]
@@ -6974,6 +6986,9 @@
   "name" : "Monogatari Series: Off & Monster Season - Wazamonogatari: Karen Ogre",
   "ids" : [ 13221 ]
 }, {
+  "name" : "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.",
+  "ids" : [ 13227, 13893 ]
+}, {
   "name" : "Kizu darake Seijo yori Houfuku wo Komete",
   "ids" : [ 12856, 13631 ]
 }, {
@@ -7037,6 +7052,9 @@
   "name" : "Meitantei Conan: Hanamaru na Answer",
   "ids" : [ 13661 ]
 }, {
+  "name" : "Charisma",
+  "ids" : [ 13409, 13882 ]
+}, {
   "name" : "Himitsu no AiPri Movie: Mankai Buzzlume Live!",
   "ids" : [ 13411 ]
 }, {
@@ -7097,7 +7115,7 @@
   "name" : "Ranma ½ (2024) 3rd Season",
   "ids" : [ 13571 ]
 }, {
-  "name" : "Cardfight!! Vanguard (2027)",
+  "name" : "Cardfight!! Vanguard: Veil Rift",
   "ids" : [ 13600 ]
 }, {
   "name" : "The iDOLM@STER Million Live! Itsuka, Mannaka de",
@@ -7157,12 +7175,6 @@
   "name" : "Meitantei Conan: 30-gou Satsujin Jiken",
   "ids" : [ 13792 ]
 }, {
-  "name" : "Obocchama-kun Reborn",
-  "ids" : [ 13835 ]
-}, {
-  "name" : "10465",
-  "ids" : [ 10465 ]
-}, {
   "name" : "Koukaku Kidoutai (Shinsaku Animation)",
   "ids" : [ 13873 ]
 }, {
@@ -7178,7 +7190,7 @@
   "name" : "BanG Dream! It's MyGO!!!!! Movie",
   "ids" : [ 12486 ]
 }, {
-  "name" : "Benghuai: Xing Qiong Tiedao - Fei Guang",
+  "name" : "Honkai: Star Rail - A Flash",
   "ids" : [ 12020, 12523, 12595 ]
 }, {
   "name" : "Bishoujo Senshi Sailor Moon Eternal Movie 2",
@@ -7186,9 +7198,6 @@
 }, {
   "name" : "Black Channel (ONA)",
   "ids" : [ 10134, 13601 ]
-}, {
-  "name" : "BOCCHI THE ROCK! Movie: Hoshi no Ashiato",
-  "ids" : [ 13883 ]
 }, {
   "name" : "Boku no Hero Academia the Movie 4: You're Next - A Piece of Cake",
   "ids" : [ 12947 ]
@@ -7201,12 +7210,6 @@
 }, {
   "name" : "Candy Caries (TV)",
   "ids" : [ 13474, 13475 ]
-}, {
-  "name" : "CHARISMA Short Anime",
-  "ids" : [ 13882 ]
-}, {
-  "name" : "13409",
-  "ids" : [ 13409 ]
 }, {
   "name" : "Chocomatsu-san: Valentine's Day-hen",
   "ids" : [ 10372 ]
@@ -7493,12 +7496,6 @@
   "name" : "Kämpfer Picture Drama",
   "ids" : [ 4576 ]
 }, {
-  "name" : "Li Shiya",
-  "ids" : [ 13714 ]
-}, {
-  "name" : "11957",
-  "ids" : [ 11957 ]
-}, {
   "name" : "Lupin III (2015) Specials",
   "ids" : [ 6514 ]
 }, {
@@ -7609,6 +7606,9 @@
 }, {
   "name" : "One Piece: Straw Hat Theater",
   "ids" : [ 4906 ]
+}, {
+  "name" : "Oshiri Tantei (2027)",
+  "ids" : [ 13886 ]
 }, {
   "name" : "Osomatsu-san 4th Season: The Matsuno Ten",
   "ids" : [ 13666 ]

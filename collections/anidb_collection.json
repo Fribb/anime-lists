@@ -1640,9 +1640,6 @@
   "name" : "Hakushon Daimaou",
   "ids" : [ 2740, 2861, 4407, 11238, 12284, 12703, 13197, 13486, 13611, 14183, 14370, 14682, 15344, 15470, 15740 ]
 }, {
-  "name" : "Fushigi no Kuni no Alice",
-  "ids" : [ 2744, 19110 ]
-}, {
   "name" : "Bao Lian Deng",
   "ids" : [ 2753, 4087, 4907, 7386, 7927, 9369, 12143, 12146, 12248, 12249, 12250, 13974, 19727 ]
 }, {
@@ -2948,6 +2945,9 @@
   "name" : "Yuru Yuri",
   "ids" : [ 8353, 8844, 10528, 11124, 11276, 14047, 14971, 18146 ]
 }, {
+  "name" : "Nisekoi",
+  "ids" : [ 9903, 10638, 10859, 11551, 16550 ]
+}, {
   "name" : "Hayabusa: Back to the Earth - Kikan",
   "ids" : [ 8358, 8359 ]
 }, {
@@ -3382,9 +3382,6 @@
 }, {
   "name" : "Lulin Da Maoxian",
   "ids" : [ 9894, 14541 ]
-}, {
-  "name" : "Nisekoi",
-  "ids" : [ 9903, 10638, 10859, 11551 ]
 }, {
   "name" : "Aoki Hagane no Arpeggio: Ars Nova",
   "ids" : [ 9905, 10715 ]
@@ -4827,7 +4824,7 @@
   "ids" : [ 14818, 15083 ]
 }, {
   "name" : "Luo Xiaohei Zhanji",
-  "ids" : [ 14829, 15253, 16687, 19721 ]
+  "ids" : [ 14829, 15253, 16687, 19721, 20516 ]
 }, {
   "name" : "Weiqi Shaonian",
   "ids" : [ 14830, 14862 ]
@@ -5265,7 +5262,7 @@
   "ids" : [ 16055, 18207 ]
 }, {
   "name" : "Bocchi the Rock!",
-  "ids" : [ 16063, 18039, 19157 ]
+  "ids" : [ 16063, 18039, 19157, 20513 ]
 }, {
   "name" : "Mazica Party",
   "ids" : [ 16084, 16952 ]
@@ -5313,7 +5310,7 @@
   "ids" : [ 16281, 18005, 18871, 18950, 20005, 20260 ]
 }, {
   "name" : "Shiguang Dailiren",
-  "ids" : [ 16290, 16531, 19078, 19882 ]
+  "ids" : [ 16290, 16531, 19078, 19882, 20272, 20273 ]
 }, {
   "name" : "Liang Bu Yi",
   "ids" : [ 16298, 17988 ]
@@ -5362,9 +5359,6 @@
 }, {
   "name" : "Ji Jia Shou Shen: Baolie Feiche",
   "ids" : [ 16520, 16522, 16523 ]
-}, {
-  "name" : "Shiguang Zhaoxiangguan de Richang",
-  "ids" : [ 20272, 20273 ]
 }, {
   "name" : "Chiyu Mahou no Machigatta Tsukaikata",
   "ids" : [ 16537, 18799 ]
@@ -5460,7 +5454,7 @@
   "ids" : [ 16943, 20111 ]
 }, {
   "name" : "Spy x Family",
-  "ids" : [ 16947, 17061, 17784, 17785, 18677 ]
+  "ids" : [ 16947, 17061, 17784, 17785, 18677, 20535, 20536 ]
 }, {
   "name" : "Everlasting God of Sword",
   "ids" : [ 16957, 18421 ]
@@ -6005,6 +5999,9 @@
   "name" : "Kankin Kuiki Level X",
   "ids" : [ 18857, 19179 ]
 }, {
+  "name" : "Romelia Senki",
+  "ids" : [ 18858, 20511 ]
+}, {
   "name" : "Dushi Gu Xian Yi",
   "ids" : [ 18897, 20487 ]
 }, {
@@ -6034,6 +6031,12 @@
 }, {
   "name" : "Sai-Kyo-Oh! Zukan: The Ultimate Battles",
   "ids" : [ 19102, 19288, 19289 ]
+}, {
+  "name" : "Fushigi no Kuni de Alice to: Dive in Wonderland",
+  "ids" : [ 19110 ]
+}, {
+  "name" : "2744",
+  "ids" : [ 2744 ]
 }, {
   "name" : "Koori no Jouheki",
   "ids" : [ 19139, 20168 ]
@@ -6067,6 +6070,9 @@
 }, {
   "name" : "Milky☆Highway",
   "ids" : [ 19434, 19435, 19807 ]
+}, {
+  "name" : "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.",
+  "ids" : [ 19440, 20533 ]
 }, {
   "name" : "Yun Shen Buzhi Meng",
   "ids" : [ 19446, 20106, 20107 ]
@@ -6132,7 +6138,7 @@
   "ids" : [ 20013, 20015, 20016, 20017, 20058 ]
 }, {
   "name" : "Banjjagbanjjag Catch! Tiniping",
-  "ids" : [ 20129, 20130, 20132, 20133, 20137, 20138, 20265 ]
+  "ids" : [ 20129, 20130, 20132, 20133, 20137, 20138, 20265, 20514 ]
 }, {
   "name" : "19336",
   "ids" : [ 19336 ]
@@ -6163,4 +6169,7 @@
 }, {
   "name" : "19442",
   "ids" : [ 19442 ]
+}, {
+  "name" : "Caihong Huwei Dui",
+  "ids" : [ 20529, 20530, 20531 ]
 } ]

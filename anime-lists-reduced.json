@@ -63621,16 +63621,14 @@
   "anidb_id" : 13657,
   "imdb_id" : [ "tt7961060" ],
   "themoviedb_id" : {
-    "tv" : 62715
+    "movie" : [ 503314 ]
   },
   "tvdb_id" : 295068,
   "season" : {
-    "tvdb" : 0,
-    "tmdb" : 0
+    "tvdb" : 0
   },
   "episode_offset" : {
-    "tvdb" : 4,
-    "tmdb" : 4
+    "tvdb" : 2
   }
 }, {
   "anidb_id" : 13658,
@@ -86526,6 +86524,19 @@
   "episode_offset" : {
     "tvdb" : 24,
     "tmdb" : 24
+  }
+}, {
+  "anidb_id" : 19617,
+  "imdb_id" : [ "tt39927807" ],
+  "themoviedb_id" : {
+    "movie" : [ 1553200 ]
+  },
+  "tvdb_id" : 345596,
+  "season" : {
+    "tvdb" : 0
+  },
+  "episode_offset" : {
+    "tvdb" : 8
   }
 }, {
   "anidb_id" : 19619,

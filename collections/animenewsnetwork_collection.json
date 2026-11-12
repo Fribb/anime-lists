@@ -1389,7 +1389,10 @@
   "ids" : [ 3170, 3171 ]
 }, {
   "name" : "The☆Ultraman",
-  "ids" : [ 3900, 3901, 11076, 11077, 11078 ]
+  "ids" : [ 3900, 3901 ]
+}, {
+  "name" : "Ultraman Kids: M7.8 Sei no Yukai na Nakama",
+  "ids" : [ 11076, 11077, 11078 ]
 }, {
   "name" : "Ultraman M78 Gekijou: Love and Peace",
   "ids" : [ 14675, 14677 ]
@@ -1514,6 +1517,12 @@
   "name" : "UFO Senshi Dai Apolon",
   "ids" : [ 1291, 11501 ]
 }, {
+  "name" : "Anime 80-nichikan Sekai Isshuu",
+  "ids" : [ 1077 ]
+}, {
+  "name" : "40661",
+  "ids" : [ 40661 ]
+}, {
   "name" : "Wanwan Sanjuushi",
   "ids" : [ 1307, 33636 ]
 }, {
@@ -1596,10 +1605,7 @@
   "ids" : [ 2375, 11504 ]
 }, {
   "name" : "Duel Masters",
-  "ids" : [ 3429, 4926, 7964, 7965, 7966, 11488, 11491, 11492, 11493, 11724, 12840, 14227, 15281, 16243, 16732, 17999, 18477, 19095, 20877, 22321, 23162, 23962, 25357, 26081, 28394, 32304, 33744, 35075 ]
-}, {
-  "name" : "Duel Masters LOST ~Danzai no Shōnen~",
-  "ids" : [ 40437 ]
+  "ids" : [ 3429, 4926, 7964, 7965, 7966, 11488, 11491, 11492, 11493, 11724, 12840, 14227, 15281, 16243, 16732, 17999, 18477, 19095, 20877, 22321, 23162, 23962, 25357, 26081, 28394, 32304, 33744, 35075, 40437 ]
 }, {
   "name" : "Ohayou! Spank",
   "ids" : [ 1418, 7854 ]
@@ -2013,7 +2019,7 @@
   "ids" : [ 7519, 9101 ]
 }, {
   "name" : "iDOLM@STER Xenoglossia",
-  "ids" : [ 7442, 11323, 12436, 15129, 16098, 16946, 19884, 22181, 22443, 23169, 23511, 23881, 24786, 24787, 25439, 27521, 32321, 34976 ]
+  "ids" : [ 7442, 11323, 12436, 15129, 16098, 16946, 19884, 22181, 22443, 23169, 23511, 23881, 24786, 24787, 25439, 27521, 32321, 34976, 40534 ]
 }, {
   "name" : "Cinderella Girls Gekijou",
   "ids" : [ 19183, 21986, 21987, 23167 ]
@@ -2023,9 +2029,6 @@
 }, {
   "name" : "The iDOLM@STER Cinderella Girls: U149",
   "ids" : [ 25490, 27803 ]
-}, {
-  "name" : "Gekijouban Idolm@ster SideM F＠ntastic Battle Fes ～Who goes first～",
-  "ids" : [ 40534 ]
 }, {
   "name" : "Devil May Cry",
   "ids" : [ 6905, 35592, 39838 ]
@@ -4002,7 +4005,7 @@
   "ids" : [ 22930, 35668 ]
 }, {
   "name" : "Oshiri Tantei",
-  "ids" : [ 21206, 24320, 24321, 24322, 24323, 24324, 24325, 24915, 25058, 25059, 26537, 27175, 30113, 31079, 31080, 34203, 34886, 38743 ]
+  "ids" : [ 21206, 24320, 24321, 24322, 24323, 24324, 24325, 24915, 25058, 25059, 26537, 27175, 30113, 31079, 31080, 34203, 34886, 38743, 40822 ]
 }, {
   "name" : "34887",
   "ids" : [ 34887 ]
@@ -4874,6 +4877,9 @@
   "name" : "Kamonohashi Ron no Kindan Suiri",
   "ids" : [ 26745, 31168 ]
 }, {
+  "name" : "Spy×Family",
+  "ids" : [ 40906 ]
+}, {
   "name" : "Fate/Grand Order: Fujimaru Ritsuka wa Wakaranai",
   "ids" : [ 26784, 30896, 33098, 40402, 40404, 40405, 40406 ]
 }, {
@@ -4893,7 +4899,7 @@
   "ids" : [ 27125, 32519 ]
 }, {
   "name" : "Kuromi's Pretty Journey",
-  "ids" : [ 27133, 33825 ]
+  "ids" : [ 27133, 33825, 40783 ]
 }, {
   "name" : "Kusuriya no Hitorigoto",
   "ids" : [ 27141, 30445, 32557, 37932 ]
@@ -5171,6 +5177,9 @@
   "name" : "Taiyou yori mo Mabushii Hoshi",
   "ids" : [ 34655, 38141 ]
 }, {
+  "name" : "Neko to Ryuu",
+  "ids" : [ 34782, 40557 ]
+}, {
   "name" : "Mayonaka Heart Tune",
   "ids" : [ 35149, 38803 ]
 }, {
@@ -5205,10 +5214,10 @@
   "ids" : [ 36448, 38861 ]
 }, {
   "name" : "Milky☆Highway",
-  "ids" : [ 35230, 35231, 38105, 39396 ]
+  "ids" : [ 35230, 35231, 38105, 39396, 40339 ]
 }, {
-  "name" : "Milky☆Byway Spring Special: Kyoufu no Chelovin Party",
-  "ids" : [ 40339 ]
+  "name" : "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.",
+  "ids" : [ 36859, 40884 ]
 }, {
   "name" : "Kizu darake Seijo yori Houfuku wo Komete",
   "ids" : [ 33838, 39479 ]
@@ -5246,6 +5255,9 @@
   "name" : "Death Stranding: Mosquito",
   "ids" : [ 37866, 37995 ]
 }, {
+  "name" : "Girls Band Cry the Movie",
+  "ids" : [ 40812 ]
+}, {
   "name" : "Marriagetoxin",
   "ids" : [ 37882, 40238 ]
 }, {
@@ -5266,6 +5278,9 @@
 }, {
   "name" : "Aka no Kioku",
   "ids" : [ 38376, 38377 ]
+}, {
+  "name" : "Eiga Bocchi the Rock! Hoshi no Ashiato",
+  "ids" : [ 40790 ]
 }, {
   "name" : "5-Okunen Button",
   "ids" : [ 25835, 34173 ]
@@ -5369,6 +5384,9 @@
   "name" : "Hatsu Inu The Animation",
   "ids" : [ 8071, 10145 ]
 }, {
+  "name" : "Pikmin Short Movies",
+  "ids" : [ 40794, 40795 ]
+}, {
   "name" : "Hinadori no Saezuri",
   "ids" : [ 4929, 5990 ]
 }, {
@@ -5389,6 +5407,12 @@
 }, {
   "name" : "Houkago Nyannyan",
   "ids" : [ 13998, 14483 ]
+}, {
+  "name" : "I'm Dating a Dark Summoner Omake Shorts",
+  "ids" : [ 40813 ]
+}, {
+  "name" : "38505",
+  "ids" : [ 38505 ]
 }, {
   "name" : "Ikenai Koto The Animation",
   "ids" : [ 33091, 33092, 33093 ]
@@ -5467,9 +5491,6 @@
 }, {
   "name" : "Kumarba",
   "ids" : [ 30491, 32830, 38385 ]
-}, {
-  "name" : "Kuromi the Movie",
-  "ids" : [ 40783 ]
 }, {
   "name" : "Kyouhaku: Owaranai Ashita",
   "ids" : [ 274, 4056, 7518 ]
@@ -5593,12 +5614,6 @@
 }, {
   "name" : "Tezuka Osamu no Buddha: Akai Sabaku yo! Utsukushiku",
   "ids" : [ 11523, 15333 ]
-}, {
-  "name" : "The Cat and the Dragon",
-  "ids" : [ 40557 ]
-}, {
-  "name" : "34782",
-  "ids" : [ 34782 ]
 }, {
   "name" : "Tokubetsu Jugyou",
   "ids" : [ 4186, 5876, 29461 ]

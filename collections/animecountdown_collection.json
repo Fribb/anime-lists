@@ -107,6 +107,9 @@
   "name" : "Kindaichi Shounen no Jikenbo Specials",
   "ids" : [ 36869, 37002, 37585, 37599, 37843, 38245, 38384, 38776, 39160, 39289, 39877, 39948, 39956, 40165, 40677, 41563, 43099, 46338, 47782, 419334, 420634, 457822, 509286, 523998, 613197, 615065, 615067, 615329, 615331, 675427, 751073, 1326115, 1571645, 1681807, 1987672, 2125688, 2474924 ]
 }, {
+  "name" : "The Ghost in the Shell (New Animation)",
+  "ids" : [ 3298688 ]
+}, {
   "name" : "Saber Marionette J",
   "ids" : [ 39170, 40452, 41118, 41519, 547014 ]
 }, {
@@ -451,9 +454,6 @@
 }, {
   "name" : "Nurse Witch Komugi-chan Magikarte",
   "ids" : [ 36307, 40711, 41276, 531452 ]
-}, {
-  "name" : "Shin Samurai-den Yaiba: Kaguya-hen",
-  "ids" : [ 2890692, 3275786 ]
 }, {
   "name" : "Lupin III vs. Meitantei Conan",
   "ids" : [ 37827, 45584 ]
@@ -1655,9 +1655,6 @@
   "name" : "Renshenguo",
   "ids" : [ 36494, 38223, 38553, 40706, 41634, 434474, 786723, 1572941, 1572943, 2985072 ]
 }, {
-  "name" : "Meitantei Precure! Movie: Fushigi na Niwa to 2-ri no Himitsu",
-  "ids" : [ 3196702 ]
-}, {
   "name" : "Daisuki! BuBu ChaCha",
   "ids" : [ 36919, 37823 ]
 }, {
@@ -2488,9 +2485,6 @@
 }, {
   "name" : "Ga-Rei: Zero",
   "ids" : [ 36317, 43097 ]
-}, {
-  "name" : "The Ghost in the Shell (New Animation)",
-  "ids" : [ 3298688 ]
 }, {
   "name" : "Inazuma Eleven: Saikyou Gundan Ogre Shuurai",
   "ids" : [ 36082, 36251, 37126, 38135, 38264, 39727, 44662, 44908, 459642, 603831, 603833, 611129, 622145, 723639, 894601, 922047, 1572407 ]
@@ -3424,6 +3418,12 @@
 }, {
   "name" : "Free!",
   "ids" : [ 43086, 50244, 482644, 609041, 670113, 732613, 919283, 1016103 ]
+}, {
+  "name" : "Noobow: Kieta Medal",
+  "ids" : [ 1572639 ]
+}, {
+  "name" : "1571699",
+  "ids" : [ 1571699 ]
 }, {
   "name" : "Diamond no Ace",
   "ids" : [ 43851, 52580, 477128, 974759, 2782042, 3167240 ]
@@ -4413,10 +4413,13 @@
   "ids" : [ 719909, 807939, 977912, 1411157, 1782478, 2365662, 2365664, 2451968, 2837600, 3189996 ]
 }, {
   "name" : "Oshiri Tantei",
-  "ids" : [ 690189, 1052413, 1162113, 1225823, 1294835, 1568941, 1616445, 1759729, 1766467, 2028050, 3298692, 3298694 ]
+  "ids" : [ 690189, 1052413, 1162113, 1225823, 1294835, 1568941, 1616445, 1759729, 1766467, 3298692, 3298694 ]
 }, {
   "name" : "1808254",
   "ids" : [ 1808254 ]
+}, {
+  "name" : "2028050",
+  "ids" : [ 2028050 ]
 }, {
   "name" : "2664278",
   "ids" : [ 2664278 ]
@@ -4854,7 +4857,7 @@
   "ids" : [ 1687953 ]
 }, {
   "name" : "Mairimashita! Iruma-kun",
-  "ids" : [ 1034469, 1294833, 1728821, 2638832, 3265396 ]
+  "ids" : [ 1034469, 1294833, 1728821, 2638832, 3012818, 3265396 ]
 }, {
   "name" : "Meng Qi Shi Shen",
   "ids" : [ 1060903, 1782474, 1950964 ]
@@ -4911,7 +4914,7 @@
   "ids" : [ 1162109, 1162111 ]
 }, {
   "name" : "Luo Xiaohei Zhanji",
-  "ids" : [ 1199589, 1200823, 1730815, 2958138 ]
+  "ids" : [ 1199589, 1200823, 1730815, 2958138, 3312094 ]
 }, {
   "name" : "Weiqi Shaonian",
   "ids" : [ 1079821, 1079823 ]
@@ -5019,7 +5022,7 @@
   "ids" : [ 1190967, 1819462 ]
 }, {
   "name" : "Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen",
-  "ids" : [ 1192421, 1743927 ]
+  "ids" : [ 1192421, 1743927, 3300986 ]
 }, {
   "name" : "Zhandouban Geji!",
   "ids" : [ 1249673, 1249675, 1251319 ]
@@ -5092,9 +5095,6 @@
 }, {
   "name" : "Fanren Xiu Xian Zhuan",
   "ids" : [ 1402127, 1549811, 1806402, 1806404, 2317052, 2327200, 2695316, 3152178 ]
-}, {
-  "name" : "Mairimashita! Iruma-kun: If Episode of Mafia",
-  "ids" : [ 3012818 ]
 }, {
   "name" : "86",
   "ids" : [ 1298975, 1579155 ]
@@ -5334,7 +5334,7 @@
   "ids" : [ 1546995, 2263620 ]
 }, {
   "name" : "Bocchi the Rock!",
-  "ids" : [ 1548997, 2170470, 2715288 ]
+  "ids" : [ 1548997, 2170470, 2715288, 3310902 ]
 }, {
   "name" : "Mazica Party",
   "ids" : [ 1557627, 1767733 ]
@@ -5765,6 +5765,9 @@
   "name" : "Kamonohashi Ron no Kindan Suiri",
   "ids" : [ 2059998, 2331788 ]
 }, {
+  "name" : "3320818",
+  "ids" : [ 3320818 ]
+}, {
   "name" : "KJ File 2nd Season",
   "ids" : [ 2060680 ]
 }, {
@@ -5836,6 +5839,9 @@
 }, {
   "name" : "1630653",
   "ids" : [ 1630653 ]
+}, {
+  "name" : "Ququ Bucai, Zaixia Yeguai",
+  "ids" : [ 2898758, 2916110 ]
 }, {
   "name" : "Girls Band Cry",
   "ids" : [ 2149166, 2889206, 2889208 ]
@@ -6095,6 +6101,9 @@
   "name" : "Kankin Kuiki Level X",
   "ids" : [ 2589294, 2735414 ]
 }, {
+  "name" : "Romelia Senki",
+  "ids" : [ 2577398, 3308804 ]
+}, {
   "name" : "Dushi Gu Xian Yi",
   "ids" : [ 2599570, 3289614 ]
 }, {
@@ -6212,14 +6221,8 @@
   "name" : "Yu-Gi-Oh! Card Game: The Chronicles",
   "ids" : [ 2761762 ]
 }, {
-  "name" : "Ququ Bucai, Zaixia Yeguai 2nd Season",
-  "ids" : [ 2916110 ]
-}, {
-  "name" : "2898758",
-  "ids" : [ 2898758 ]
-}, {
   "name" : "Catch! Tiniping",
-  "ids" : [ 3131940, 3174702, 3175950, 3176934, 3176936, 3176938, 3214574, 3220040 ]
+  "ids" : [ 3131940, 3174702, 3175950, 3176934, 3176936, 3176938, 3214574, 3220040, 3310904 ]
 }, {
   "name" : "Jun You Yun II",
   "ids" : [ 2799524 ]
@@ -6304,6 +6307,9 @@
 }, {
   "name" : "1960360",
   "ids" : [ 1960360 ]
+}, {
+  "name" : "Gelpiyo",
+  "ids" : [ 2975266, 3303678 ]
 }, {
   "name" : "Gochuumon wa Usagi desu ka? Movie: We Are Family!",
   "ids" : [ 2728474, 3175952 ]
@@ -6452,23 +6458,17 @@
   "name" : "1431269",
   "ids" : [ 1431269 ]
 }, {
+  "name" : "Rainbow Crew",
+  "ids" : [ 3318656, 3318658, 3318660 ]
+}, {
   "name" : "Ai Shimai: Futari no Kajitsu",
   "ids" : [ 872889, 872891 ]
 }, {
-  "name" : "Dali Si Rizhi San",
+  "name" : "Da Li Si Rizhi 3rd Season",
   "ids" : [ 3289610 ]
-}, {
-  "name" : "Gelpiyo",
-  "ids" : [ 3303678 ]
-}, {
-  "name" : "2975266",
-  "ids" : [ 2975266 ]
 }, {
   "name" : "1449367",
   "ids" : [ 1449367 ]
-}, {
-  "name" : "Our Last Crusade or the Rise of a New World Season 3",
-  "ids" : [ 3300986 ]
 }, {
   "name" : "Ra/Radio Noise * Planet",
   "ids" : [ 3268352 ]
