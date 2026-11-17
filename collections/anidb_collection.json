@@ -39,7 +39,7 @@
   "ids" : [ 21, 13478 ]
 }, {
   "name" : "Shinseiki Evangelion",
-  "ids" : [ 22, 202, 326, 4847, 6171, 6184, 7565, 8895, 9200, 10279, 11968, 12423, 19910 ]
+  "ids" : [ 22, 202, 326, 4847, 6171, 6184, 7565, 8895, 9200, 10279, 11968, 12423, 19905, 19910 ]
 }, {
   "name" : "Cowboy Bebop",
   "ids" : [ 23, 219 ]
@@ -106,6 +106,9 @@
 }, {
   "name" : "Koukaku Kidoutai",
   "ids" : [ 61, 181, 247, 642, 890, 1176, 1240, 1585, 2126, 3431, 3542, 4290, 4414, 4691, 5555, 5941, 6122, 6779, 7019, 9248, 9658, 10382, 10442, 10824, 11023, 11367, 12360, 12388, 12389, 12392, 12393, 13098, 13615, 15512, 16427, 17609, 17940, 18652 ]
+}, {
+  "name" : "Koukaku Kidoutai (Shinsaku Animation)",
+  "ids" : [ 20500 ]
 }, {
   "name" : "Saber Marionette J Again",
   "ids" : [ 62, 344, 394, 1247, 11862 ]
@@ -433,9 +436,6 @@
 }, {
   "name" : "Mahou no Stage Fancy Lala",
   "ids" : [ 246, 3530 ]
-}, {
-  "name" : "Koukaku Kidoutai (Shinsaku Animation)",
-  "ids" : [ 20500 ]
 }, {
   "name" : "Kiddy Grade",
   "ids" : [ 251, 4999, 5085, 5086, 5087 ]
@@ -1011,10 +1011,7 @@
   "ids" : [ 1126, 1832 ]
 }, {
   "name" : "Kikou Ryouhei Merowlink",
-  "ids" : [ 1161, 1698, 3998, 4842, 5125, 5126, 5131, 6722, 7279, 7918, 7919, 7920, 9842, 9843, 9844, 9845, 9846, 9847 ]
-}, {
-  "name" : "Soukou Kihei Votoms: Haiiro no Hexe",
-  "ids" : [ 19834 ]
+  "ids" : [ 1161, 1698, 3998, 4842, 5125, 5126, 5131, 6722, 7279, 7918, 7919, 7920, 9842, 9843, 9844, 9845, 9846, 9847, 19834 ]
 }, {
   "name" : "Bakusou Kyoudai Let's & Go",
   "ids" : [ 1171, 1172, 1173, 7203 ]
@@ -1120,9 +1117,6 @@
 }, {
   "name" : "Wonderful Precure! Movie: Dokidoki Game no Sekai de Daibouken!",
   "ids" : [ 18539 ]
-}, {
-  "name" : "Meitantei Precure! Movie: Fushigi na Niwa to 2-ri no Himitsu",
-  "ids" : [ 20218 ]
 }, {
   "name" : "Precure kara Minna e no Ouen Movie",
   "ids" : [ 8751 ]
@@ -1545,7 +1539,7 @@
   "ids" : [ 2368, 4203 ]
 }, {
   "name" : "Bleach",
-  "ids" : [ 2369, 4515, 5352, 6041, 7666, 15448, 15449, 17765, 18196, 18220, 19079 ]
+  "ids" : [ 2369, 4515, 5352, 6041, 7666, 15449, 17765, 18220, 19079 ]
 }, {
   "name" : "Seton Doubutsuki: Risu no Banner",
   "ids" : [ 2383, 3484, 3670 ]
@@ -2060,6 +2054,9 @@
   "name" : "Kiniro no Corda: Primo Passo",
   "ids" : [ 4509, 6311, 10210 ]
 }, {
+  "name" : "Burn the Witch",
+  "ids" : [ 15448, 18196 ]
+}, {
   "name" : "Code Geass: Hangyaku no Lelouch",
   "ids" : [ 4521, 5373, 7126, 7127, 7508, 8914, 12566, 12567, 15910 ]
 }, {
@@ -2286,7 +2283,10 @@
   "ids" : [ 5320, 5321 ]
 }, {
   "name" : "Saru to Kani no Gassen",
-  "ids" : [ 5384, 6945, 10173, 11507, 11508, 11509 ]
+  "ids" : [ 5384, 6945, 10173, 11507, 11508 ]
+}, {
+  "name" : "11509",
+  "ids" : [ 11509 ]
 }, {
   "name" : "12864",
   "ids" : [ 12864 ]
@@ -2651,6 +2651,9 @@
   "name" : "Ukkari Pénélope",
   "ids" : [ 7027, 7035, 7957, 14119, 14120 ]
 }, {
+  "name" : "Animated Self Portraits: A Portrait of Kawamoto",
+  "ids" : [ 7045, 7260 ]
+}, {
   "name" : "Aoi Bungaku Series",
   "ids" : [ 7056, 7189, 14787 ]
 }, {
@@ -2686,12 +2689,6 @@
 }, {
   "name" : "Bakuman.",
   "ids" : [ 7251, 8150, 8836 ]
-}, {
-  "name" : "Jigazou",
-  "ids" : [ 7260 ]
-}, {
-  "name" : "7045",
-  "ids" : [ 7045 ]
 }, {
   "name" : "Fushigi na Kusuri",
   "ids" : [ 7266, 7269, 8988 ]
@@ -5888,6 +5885,9 @@
   "name" : "Shen Ming Zhi Zhou",
   "ids" : [ 18425, 18426 ]
 }, {
+  "name" : "Hitoribocchi no Isekai Kouryaku",
+  "ids" : [ 18432, 20166 ]
+}, {
   "name" : "Himitsu no AiPri",
   "ids" : [ 18452, 19205, 19749, 19850 ]
 }, {
@@ -6068,11 +6068,17 @@
   "name" : "Kanan-sama wa Akumade Choroi",
   "ids" : [ 19293, 20118 ]
 }, {
+  "name" : "Catch! Tiniping",
+  "ids" : [ 19336, 20129, 20130, 20132, 20133, 20137, 20138, 20265, 20514 ]
+}, {
   "name" : "Milky☆Highway",
   "ids" : [ 19434, 19435, 19807 ]
 }, {
   "name" : "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.",
   "ids" : [ 19440, 20533 ]
+}, {
+  "name" : "Kizu darake Seijo yori Houfuku wo Komete",
+  "ids" : [ 19442, 20433 ]
 }, {
   "name" : "Yun Shen Buzhi Meng",
   "ids" : [ 19446, 20106, 20107 ]
@@ -6082,6 +6088,9 @@
 }, {
   "name" : "Snowball Earth",
   "ids" : [ 19477, 20131 ]
+}, {
+  "name" : "Di Ling Ai: Mo Shui Linglong",
+  "ids" : [ 19488, 20257 ]
 }, {
   "name" : "Akane-banashi",
   "ids" : [ 19513, 20117 ]
@@ -6137,26 +6146,8 @@
   "name" : "Yinyue Gongzhu Ai Meili",
   "ids" : [ 20013, 20015, 20016, 20017, 20058 ]
 }, {
-  "name" : "Banjjagbanjjag Catch! Tiniping",
-  "ids" : [ 20129, 20130, 20132, 20133, 20137, 20138, 20265, 20514 ]
-}, {
-  "name" : "19336",
-  "ids" : [ 19336 ]
-}, {
-  "name" : "Hitoribocchi no Isekai Kouryaku 2nd Season",
-  "ids" : [ 20166 ]
-}, {
-  "name" : "18432",
-  "ids" : [ 18432 ]
-}, {
   "name" : "19188",
   "ids" : [ 19188 ]
-}, {
-  "name" : "Di Ling Ai: Shui Xin Chan",
-  "ids" : [ 20257 ]
-}, {
-  "name" : "19488",
-  "ids" : [ 19488 ]
 }, {
   "name" : "Nezumi-kun no Chokki (TV)",
   "ids" : [ 20264, 20440 ]
@@ -6164,12 +6155,9 @@
   "name" : "Bawang Long Lei Qi: Lei Qi Zhi Duoshao",
   "ids" : [ 20268, 20269, 20270 ]
 }, {
-  "name" : "Kizu darake Seijo yori Houfuku wo Komete Season 2",
-  "ids" : [ 20433 ]
-}, {
-  "name" : "19442",
-  "ids" : [ 19442 ]
-}, {
   "name" : "Caihong Huwei Dui",
   "ids" : [ 20529, 20530, 20531 ]
+}, {
+  "name" : "Chiring Chiring Secret Jouju",
+  "ids" : [ 20538, 20539, 20540, 20541, 20542 ]
 } ]

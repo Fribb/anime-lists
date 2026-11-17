@@ -1389,7 +1389,7 @@
   "ids" : [ 3170, 3171 ]
 }, {
   "name" : "The☆Ultraman",
-  "ids" : [ 3900, 3901 ]
+  "ids" : [ 3900 ]
 }, {
   "name" : "Ultraman Kids: M7.8 Sei no Yukai na Nakama",
   "ids" : [ 11076, 11077, 11078 ]
@@ -1398,13 +1398,19 @@
   "ids" : [ 14675, 14677 ]
 }, {
   "name" : "Ultraman",
-  "ids" : [ 21602, 23491, 25567, 28028 ]
+  "ids" : [ 21602, 23491, 25567 ]
 }, {
   "name" : "23326",
   "ids" : [ 23326 ]
 }, {
+  "name" : "28028",
+  "ids" : [ 28028 ]
+}, {
   "name" : "30847",
   "ids" : [ 30847 ]
+}, {
+  "name" : "3901",
+  "ids" : [ 3901 ]
 }, {
   "name" : "9181",
   "ids" : [ 9181 ]
@@ -1722,10 +1728,7 @@
   "ids" : [ 1305, 15236 ]
 }, {
   "name" : "Fate/kaleid liner Prisma☆Illya",
-  "ids" : [ 15245, 15630, 15635, 16275, 17690, 19029, 21867, 23758, 23759, 23760, 23761, 23762, 23768, 23852 ]
-}, {
-  "name" : "Fate/kaleid liner Prisma Illya Finale",
-  "ids" : [ 40356 ]
+  "ids" : [ 15245, 15630, 15635, 16275, 17690, 19029, 21867, 23758, 23759, 23760, 23761, 23762, 23768, 23852, 40356 ]
 }, {
   "name" : "Konchuu Monogatari Minashigo Hutch",
   "ids" : [ 1741, 1742, 1743, 11230 ]
@@ -3510,7 +3513,7 @@
   "ids" : [ 16443, 18922, 19317, 20673, 20674, 22545, 23059, 23854, 24004, 26400, 30574, 38451 ]
 }, {
   "name" : "Nihon Animator Mihonichi",
-  "ids" : [ 16839, 32119 ]
+  "ids" : [ 16839, 32119, 40996 ]
 }, {
   "name" : "Shokugeki no Souma",
   "ids" : [ 16344, 17483, 18112, 18937, 18938, 19807, 20599, 20638, 22395, 23036 ]
@@ -4557,7 +4560,7 @@
   "ids" : [ 24046, 30078 ]
 }, {
   "name" : "Bocchi the Rock!",
-  "ids" : [ 24062, 28305, 34685 ]
+  "ids" : [ 24062, 28305, 34685, 40790 ]
 }, {
   "name" : "Mazica Party",
   "ids" : [ 24099, 24921 ]
@@ -5279,9 +5282,6 @@
   "name" : "Aka no Kioku",
   "ids" : [ 38376, 38377 ]
 }, {
-  "name" : "Eiga Bocchi the Rock! Hoshi no Ashiato",
-  "ids" : [ 40790 ]
-}, {
   "name" : "5-Okunen Button",
   "ids" : [ 25835, 34173 ]
 }, {
@@ -5554,6 +5554,9 @@
 }, {
   "name" : "Rin x Sen: Hakudaku Onna Kyoushi to Yaroudomo",
   "ids" : [ 11393, 12910 ]
+}, {
+  "name" : "Re:ZERO -Starting Life in Another World-",
+  "ids" : [ 41045 ]
 }, {
   "name" : "Tokumu Sousakan Rei & Fuko",
   "ids" : [ 7832, 11611 ]

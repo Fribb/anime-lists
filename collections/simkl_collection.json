@@ -1029,7 +1029,7 @@
   "ids" : [ 37608, 40532 ]
 }, {
   "name" : "Soukou Kihei Votoms: Big Battle",
-  "ids" : [ 36199, 36584, 36827, 37080, 37413, 37713, 37948, 38769, 38978, 39010, 40132, 40137, 52000, 52002, 52004, 52006, 52008, 1572635 ]
+  "ids" : [ 36199, 36584, 36827, 37080, 37413, 37713, 37948, 38769, 38978, 39010, 40132, 40137, 52000, 52002, 52004, 52006, 52008, 1572635, 2993866 ]
 }, {
   "name" : "Bakusou Kyoudai Let's & Go WGP",
   "ids" : [ 37315, 37465, 38344, 39893 ]
@@ -1121,7 +1121,7 @@
   "name" : "Delicious Party♡Precure Movie: Yume Miru Oko-sama Lunch!",
   "ids" : [ 1840426 ]
 }, {
-  "name" : "2109296",
+  "name" : "Precure All Stars Movie F",
   "ids" : [ 2109296 ]
 }, {
   "name" : "Wonderful Precure! Movie: Dokidoki Game no Sekai de Daibouken!",
@@ -3188,6 +3188,9 @@
   "name" : "Blossom",
   "ids" : [ 38816, 487286, 487288 ]
 }, {
+  "name" : "Rakuen Tsuihou",
+  "ids" : [ 47928, 2360178 ]
+}, {
   "name" : "Kankou Taisen Saitama: Sakuya no Tatakai",
   "ids" : [ 36190, 38919 ]
 }, {
@@ -3367,6 +3370,9 @@
 }, {
   "name" : "Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!",
   "ids" : [ 36975, 43418 ]
+}, {
+  "name" : "Kotonoha no Niwa",
+  "ids" : [ 39899, 543146, 988895 ]
 }, {
   "name" : "Yowamushi Pedal: Special Ride",
   "ids" : [ 36556, 43890, 50716, 53042, 482642, 496220, 528186, 585085, 596945, 695797, 700215, 1800892 ]
@@ -4022,9 +4028,6 @@
   "name" : "1782472",
   "ids" : [ 1782472 ]
 }, {
-  "name" : "Kimi no Na wa.",
-  "ids" : [ 543146, 988895 ]
-}, {
   "name" : "Rilu Rilu Fairilu: Yousei no Door",
   "ids" : [ 543370, 661051, 766819 ]
 }, {
@@ -4380,7 +4383,7 @@
   "ids" : [ 1573133, 1573135 ]
 }, {
   "name" : "Godzilla 1: Kaijuu Wakusei",
-  "ids" : [ 605671, 686685 ]
+  "ids" : [ 605671, 686685, 1449367 ]
 }, {
   "name" : "Otoppe",
   "ids" : [ 675441, 1553259 ]
@@ -4808,9 +4811,6 @@
   "name" : "Hello World",
   "ids" : [ 987291, 1159285 ]
 }, {
-  "name" : "39899",
-  "ids" : [ 39899 ]
-}, {
   "name" : "Kyochuu Rettou",
   "ids" : [ 1000439, 1159283 ]
 }, {
@@ -5118,7 +5118,7 @@
   "ids" : [ 1324963, 1613167, 2491326, 2837596 ]
 }, {
   "name" : "Da Li Si Rizhi",
-  "ids" : [ 1351523, 2093844 ]
+  "ids" : [ 1351523, 2093844, 3289610 ]
 }, {
   "name" : "Kyuuketsuki Sugu Shinu",
   "ids" : [ 1334917, 1810590 ]
@@ -5268,7 +5268,7 @@
   "ids" : [ 1492145, 1820140, 2333758, 2333760, 2658252, 3109924 ]
 }, {
   "name" : "Seirei Gensouki",
-  "ids" : [ 1487393, 1771535 ]
+  "ids" : [ 1487393, 1771535, 3269448 ]
 }, {
   "name" : "Chainsaw Man",
   "ids" : [ 1498301, 2325162, 2369072, 2369074, 2369076, 2369078, 2369080, 2875246, 2971662 ]
@@ -5329,6 +5329,9 @@
 }, {
   "name" : "Shanhe Jian Xin",
   "ids" : [ 1568943, 1721833 ]
+}, {
+  "name" : "Chickip Dancers",
+  "ids" : [ 1544873, 1972212, 2226134 ]
 }, {
   "name" : "Sekai Saikou no Ansatsusha, Isekai Kizoku ni Tensei suru",
   "ids" : [ 1546995, 2263620 ]
@@ -5552,6 +5555,9 @@
   "name" : "Shenyi Jiu Xiaojie",
   "ids" : [ 1807160, 2424536 ]
 }, {
+  "name" : "3320818",
+  "ids" : [ 3320818 ]
+}, {
   "name" : "Shu Shan Qi Xian Lu",
   "ids" : [ 1810588, 2700146 ]
 }, {
@@ -5660,6 +5666,9 @@
   "name" : "Shen Lan Qi Yu Wushuang Zhu",
   "ids" : [ 1962200, 2160738, 2373188 ]
 }, {
+  "name" : "Dark Gathering",
+  "ids" : [ 1960360, 2914722 ]
+}, {
   "name" : "Boku no Kokoro no Yabai Yatsu",
   "ids" : [ 1964748, 2190420, 2210452, 2596002, 3050958 ]
 }, {
@@ -5671,12 +5680,6 @@
 }, {
   "name" : "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou",
   "ids" : [ 1968312, 2260548, 2884092 ]
-}, {
-  "name" : "Chickip Dancers 2nd Season",
-  "ids" : [ 1972212, 2226134 ]
-}, {
-  "name" : "1544873",
-  "ids" : [ 1544873 ]
 }, {
   "name" : "Isekai de Cheat Skill wo Te ni Shita Ore wa, Genjitsu Sekai wo mo Musou Suru: Level Up wa Jinsei wo Kaeta",
   "ids" : [ 1977640, 2275410, 3064460 ]
@@ -5716,6 +5719,9 @@
 }, {
   "name" : "Hyakushou Kizoku",
   "ids" : [ 2020844, 2326266, 2665964, 2969870 ]
+}, {
+  "name" : "Boushoku no Berserk",
+  "ids" : [ 2022566, 3098034 ]
 }, {
   "name" : "Higeki no Genkyou to Naru Saikyou Gedou Last Boss Joou wa Tami no Tame ni Tsukushimasu.",
   "ids" : [ 2022568, 2825652 ]
@@ -5764,9 +5770,6 @@
 }, {
   "name" : "Kamonohashi Ron no Kindan Suiri",
   "ids" : [ 2059998, 2331788 ]
-}, {
-  "name" : "3320818",
-  "ids" : [ 3320818 ]
 }, {
   "name" : "KJ File 2nd Season",
   "ids" : [ 2060680 ]
@@ -5984,12 +5987,6 @@
   "name" : "Himitsu no AiPri",
   "ids" : [ 2359372, 2747924, 3072650 ]
 }, {
-  "name" : "Rakuen Tsuihou: Kokoro no Resonance",
-  "ids" : [ 2360178 ]
-}, {
-  "name" : "47928",
-  "ids" : [ 47928 ]
-}, {
   "name" : "Yishi Du Zun",
   "ids" : [ 2367306, 2620532 ]
 }, {
@@ -6037,6 +6034,9 @@
 }, {
   "name" : "Atashin'chi Next",
   "ids" : [ 3021866 ]
+}, {
+  "name" : "Hanazakari no Kimitachi e",
+  "ids" : [ 2468448, 3058024 ]
 }, {
   "name" : "Muzik Tiger In the Forest",
   "ids" : [ 2747932, 2822146 ]
@@ -6302,11 +6302,8 @@
   "name" : "Rainbow Bubblegem",
   "ids" : [ 2926052, 2926060 ]
 }, {
-  "name" : "Dark Gathering 2nd Season",
-  "ids" : [ 2914722 ]
-}, {
-  "name" : "1960360",
-  "ids" : [ 1960360 ]
+  "name" : "Chou Kaguya-hime!",
+  "ids" : [ 2924096, 3016732 ]
 }, {
   "name" : "Gelpiyo",
   "ids" : [ 2975266, 3303678 ]
@@ -6353,20 +6350,8 @@
   "name" : "2516636",
   "ids" : [ 2516636 ]
 }, {
-  "name" : "Ray (Chou Kaguya-hime! Version)",
-  "ids" : [ 3016732 ]
-}, {
-  "name" : "2924096",
-  "ids" : [ 2924096 ]
-}, {
   "name" : "Bei Jiazu Paoqi, Wo Juexing Jiu Yi Shuxing Dian",
   "ids" : [ 3046164, 3226066 ]
-}, {
-  "name" : "Hanazakari no Kimitachi e 2nd Season",
-  "ids" : [ 3058024 ]
-}, {
-  "name" : "2468448",
-  "ids" : [ 2468448 ]
 }, {
   "name" : "Wo Qi Ku Le Baiwan Xiulian Zhe 2nd Season",
   "ids" : [ 3161262 ]
@@ -6397,12 +6382,6 @@
 }, {
   "name" : "Yinyue Gongzhu Ai Meili 4",
   "ids" : [ 3120600, 3124346 ]
-}, {
-  "name" : "Boushoku no Berserk 2nd Season",
-  "ids" : [ 3098034 ]
-}, {
-  "name" : "2022566",
-  "ids" : [ 2022566 ]
 }, {
   "name" : "Gancheopjamneun Ttorijanggun",
   "ids" : [ 3119464 ]
@@ -6461,21 +6440,15 @@
   "name" : "Rainbow Crew",
   "ids" : [ 3318656, 3318658, 3318660 ]
 }, {
+  "name" : "Chiring Chiring Secret Jouju",
+  "ids" : [ 3322370, 3322372 ]
+}, {
   "name" : "Ai Shimai: Futari no Kajitsu",
   "ids" : [ 872889, 872891 ]
-}, {
-  "name" : "Da Li Si Rizhi 3rd Season",
-  "ids" : [ 3289610 ]
-}, {
-  "name" : "1449367",
-  "ids" : [ 1449367 ]
 }, {
   "name" : "Ra/Radio Noise * Planet",
   "ids" : [ 3268352 ]
 }, {
   "name" : "36335",
   "ids" : [ 36335 ]
-}, {
-  "name" : "Seirei Gensouki 3",
-  "ids" : [ 3269448 ]
 } ]

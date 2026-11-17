@@ -4940,7 +4940,7 @@
   "name" : "Hakumei to Mikochi",
   "ids" : [ 2828, 3047 ]
 }, {
-  "name" : "Sirotan: Shirotan ga Ippai!",
+  "name" : "Shirotan: Shirotan ga Ippai!",
   "ids" : [ 8328, 13566 ]
 }, {
   "name" : "Pingu in the City",
@@ -6420,7 +6420,7 @@
   "ids" : [ 11668, 11669, 11798 ]
 }, {
   "name" : "Pole Princess!!",
-  "ids" : [ 11681, 11759, 11924 ]
+  "ids" : [ 11681, 11759, 11924, 13878 ]
 }, {
   "name" : "Hirogaru Sky! Precure",
   "ids" : [ 11687 ]
@@ -6998,6 +6998,9 @@
   "name" : "Yomi no Tsugai",
   "ids" : [ 13233, 13809 ]
 }, {
+  "name" : "Shoushin Time Leap",
+  "ids" : [ 13194, 13195, 13196, 13197 ]
+}, {
   "name" : "Snowball Earth",
   "ids" : [ 13246, 13690 ]
 }, {
@@ -7190,9 +7193,6 @@
   "name" : "BanG Dream! It's MyGO!!!!! Movie",
   "ids" : [ 12486 ]
 }, {
-  "name" : "Honkai: Star Rail - A Flash",
-  "ids" : [ 12020, 12523, 12595 ]
-}, {
   "name" : "Bishoujo Senshi Sailor Moon Eternal Movie 2",
   "ids" : [ 2768 ]
 }, {
@@ -7316,9 +7316,6 @@
   "name" : "Fate/Grand Order: 11th Anniversary Movie -Cosmos in the Lostbelt-",
   "ids" : [ 13753 ]
 }, {
-  "name" : "Shoushin Time Leap",
-  "ids" : [ 13194, 13195, 13196, 13197 ]
-}, {
   "name" : "Fudanshi Shoukan: Isekai de Shinjuu ni Hameraremashita",
   "ids" : [ 10145, 10868, 11325, 12446, 12447, 12448 ]
 }, {
@@ -7346,7 +7343,7 @@
   "name" : "Girls & Panzer: Saishuushou Part 6",
   "ids" : [ 2598 ]
 }, {
-  "name" : "Girls und Panzer Mini Anime",
+  "name" : "Girls und Panzer: Motto Love Love Sakusen desu! Specials",
   "ids" : [ 13424 ]
 }, {
   "name" : "Girls und Panzer: Ribbon no Musha",
@@ -7372,6 +7369,9 @@
 }, {
   "name" : "Hisui Kobanashi",
   "ids" : [ 10946 ]
+}, {
+  "name" : "Honkai: Star Rail - A Flash",
+  "ids" : [ 12020, 12523, 12595 ]
 }, {
   "name" : "Inferno Cop Specials",
   "ids" : [ 1663, 2724, 2725, 5758 ]
@@ -7679,9 +7679,6 @@
   "name" : "POKÉTOON (2026)",
   "ids" : [ 13769 ]
 }, {
-  "name" : "Pole Princess!!: Croix du Nord",
-  "ids" : [ 13878 ]
-}, {
   "name" : "Pretty Guardian Sailor Moon Cosmos Movie 1",
   "ids" : [ 11198 ]
 }, {
@@ -7693,6 +7690,9 @@
 }, {
   "name" : "Re:Zero kara Hajimeru Break Time 4th Season",
   "ids" : [ 13586 ]
+}, {
+  "name" : "Re:Zero kara Hajimeru Isekai Seikatsu 5th Season",
+  "ids" : [ 13901 ]
 }, {
   "name" : "Saint Seiya: Knights of the Zodiac Part 2",
   "ids" : [ 9705 ]
